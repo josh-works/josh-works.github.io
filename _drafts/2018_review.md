@@ -88,7 +88,7 @@ For 2019, I've got a few talks scheduled at local meetups, and some other projec
 
 ## Reading
 
-I read 81 books last year. ([Here's the list]({{ site.baseurl }}{% link  %})). 
+I read 81 books last year. ([Here's the list]({{ site.baseurl }}{% link _drafts/2018_books.md %})). 
 
 They were a mix of fiction and non-fiction, and as usual, delivered great value to me. It could be a bit excessive, the number that I've read, but I don't think it's detracted from other, more important uses of my time. 
 
