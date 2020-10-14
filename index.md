@@ -1,78 +1,58 @@
 ---
 layout: default
 title: Home
+description: ""
 ---
 
-# Currently working on, or thinking about:
+Hi there, I'm Josh. 
 
-AKA projects I have recently shipped, or am in the midst of shipping:
 
-- I am building [intermediateruby.com](https://intermediateruby.com/). It's a work-in-progress, lots to come
-- [A technically-inclined millenial's guide to managing their aging parent's laptop](https://josh.works/upgrade-parents-junky-old-laptop-to-chromebook)
-- Legalizing an authentic and beautiful style of building buildings in Golden, CO. (It's a long story. Punch in your email address below to figure out what I'm talking about.)
+
+
+# Projects 
+
+I'm either working on shipping some of the following projects, or have recently shipped these projects:
+
+1. I am building [intermediateruby.com](https://intermediateruby.com/). It's a work-in-progress, lots to come
+1. [A technically-inclined millenial's guide to managing their aging parent's laptop](https://josh.works/upgrade-parents-junky-old-laptop-to-chromebook)
+1. Legalizing an authentic and beautiful style of building buildings in Golden, CO. 
+
+Item 3 is far and away the most impactful and potentially valuable project I've ever worked on. I've _mostly_ stopped writing new blog posts, and most of my writing is focused on item \#3, and that now goes into this newsletter, which is a bit of an experiment. I'd _love_ for you to sign up and share feedback with me as you go:
 
 {% include newsletter.html %}
 
-I'm interested in:
-- group-decision-making-as-infrastructure
-- authority & enforcement structores
-- [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)
-- Building (and losing!) trust (at an individual or institutional level)
-- Urban forms as platforms for reducing oppression
-- Helping under-paid people negotiatiate for better compensation packages (I'm at ~$150k/yr in improve salaries, spread uneavenly across about 20 people).
+Here's a teaser of what I'm working on. Compare these two images:
 
-And so much more. 
+![subsidized and ugly - fully crop](/images_2020/subsidized-cropped.jpg)
 
--------------------------------------
+![illegal but beautiful](/images_2020/illegal.jpg)
 
-## Start Here
+Now, if you lived across from an empty parking lot that was going to get redeveloped soon, which of these things would you prefer to see go up?
 
-I've written a lot. If you want a good starting point, check out the following topics:
+Most people say the second one. Currently, in Golden, CO, something like this could _never_ be built, because it's illegal, for a few different reasons, like:
+
+1. Mandatory parking minimum laws
+1. Minimum set-back laws
+1. Prohibitions on mixing residential and commercial uses
+
+I'd like to fix all three of these problems, and I'd like your help along the way. Drop your email address in here:
+
+{% include newsletter.html %}
+
+-------------------------------
 
 
-### The Turing School of Software and Design
-
-I like the Turing School of Software and Design. It's how I got my start in software. I work extensively with future/current Turing students, and many alumn on job-hunting, salary negotiation, job success-type topics. 
+I've written a lot, about many different topics. Some of my favorite posts:
 
 - [Turing Prep Chapter 1 of 8: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
-- [Build a Personal Website in Jekyll - A Detailed Guide For Ambitious Backend Mod 1 Students]({{ site.baseurl }}{% link _posts/2020-08-06-setting-up-basic-jekyll-site-for-turing-backend-students.md %})
-
-### Programming (Ruby/Rails focused)
-
+- [How to ask questions of experts and gain more than just an answer]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
+- [Remote Job Hunting Resources for Turing Grads and Anyone Else]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
+- [A little bit of slope makes up for a lot of y-intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
 - [Rails Migrations: When you can't add a uniqueness constraint because you already have duplicates]({{ site.baseurl }}{% link _posts/2018-09-28-rails_migrations_add_unique_constraint_with_existing_duplicates.md %})
 - [Sidekiq and Background Jobs for Beginners]({{ site.baseurl }}{% link _posts/2018-07-30-sidekiq_background_jobs_for_beginners.md %})
-- [Pry-ing into a Stack Trace]({{ site.baseurl }}{% link _posts/2019-02-22-prying_into_a_stack_trace.md %})
-- [Some Lessons Learned While Preparing for Two Technical Talks]({{ site.baseurl }}{% link _posts/2019-03-19-preparing_to_give_technical_talks.md %})
-- [Troubleshooting Chinese Character Sets in MySQL]({{ site.baseurl }}{% link _posts/2019-04-21-chinese_charsets_in_mysql.md %})
-
-_[all posts tagged `programming` ->](https://josh.works/tags#programming)_
-
-### Remote Work
-
-- [Remote Job Hunting Resources for Turing Grads and Anyone Else]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
 - [Whole Messages in Slack]({{ site.baseurl }}{% link _posts/2019-02-20-whole_messages_in_slack.md %})
-- [So you want to work remotely...]({{ site.baseurl }}{% link _posts/2015-09-21-so-you-want-to-work-remotely.md %})
-
-_[all posts tagged `remote_work` ->](https://josh.works/tags#remote_work)_
-
-### Talks
-
-- [Denver.rb: Using `.count` vs `.size` in ActiveRecord query methods (8 min)]({{ site.baseurl }}{% link _pages/denverrb.md %}) 
 - [Boulder Ruby Group: Developers should _embrace_ working with the non-development parts of the business, and the constraints this entails. (30 min)]({{ site.baseurl }}{% link _pages/boulder_ruby_group.md %})
-
-### A Smattering of Guides & Tutorials
-
-- [On Learning Programming]({{ site.baseurl }}{% link _posts/2017-06-04-learning-how-to-learn.md %})
-- [Anki and Memorization with Spaced Repetition Software]({{ site.baseurl }}{% link _posts/2017-06-06-memorizing-programming-with-anki.md %})
 - [How I take notes, AKA 'Add an Index to Your Notebook']({{ site.baseurl }}{% link _posts/2019-09-04-build-an-index-into-your-notebook.md %})
 
-### Miscellaneous Posts I Like
-
-- [How to ask questions of experts and gain more than just an answer]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
-- [A little bit of slope makes up for a lot of y-intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
-- [Overcome (some) barriers in work with this magic phrase]({{ site.baseurl }}{% link _posts/2016-05-10-overcome-some-barriers-in-work-with-this-magic-phrase.md %})
-- [Quitting the shallow for the deep]({{ site.baseurl }}{% link _posts/2016-10-24-i-quit.md %})
-
-------------------
 
 {% include newsletter.html %}
