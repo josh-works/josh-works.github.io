@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cultivate the Skill of Undivided Attention, or 'Deep Work'"
+title:  "Cultivate the Skill of Undivided Attention, or 'Deep Work' (Crosspost from `letterstoanewdeveloper.com`)"
 date:  2020-08-20 06:00:00 -0700
 crosspost_to_medium: true
 published: true
