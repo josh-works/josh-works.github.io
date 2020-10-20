@@ -6,9 +6,6 @@ description: ""
 
 Hi there, I'm Josh. 
 
-
-
-
 # Projects 
 
 I'm either working on shipping some of the following projects, or have recently shipped these projects:
@@ -19,17 +16,28 @@ I'm either working on shipping some of the following projects, or have recently 
 
 Item 3 is far and away the most impactful and potentially valuable project I've ever worked on. I've _mostly_ stopped writing new blog posts, and most of my writing is focused on item \#3, and that now goes into this newsletter, which is a bit of an experiment. I'd _love_ for you to sign up and share feedback with me as you go:
 
-{% include newsletter.html %}
+<aside class="ck-form">
+  <h4>Did you enjoy what you've read? You'll probably like my ✉️ newsletter.</h4>
+  <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
+  <p><i>If you don't see the subscribe form above, <a href="https://josh-thompson.ck.page/b69af6ca8e">click here</a>.</i></p>
+  <p><i>Here's a <a href="https://ckarchive.com/b/27u2hohnplq6">sample of what I send</a>. I will treat your email address with </i>❤️</p>
+</aside>
 
-Here's a teaser of what I'm working on. Compare these two images:
+### What the newsletter is about
+
+Here's a teaser of what we discuss in the newsletter: Compare these two images:
 
 ![subsidized and ugly - fully crop](/images_2020/subsidized-cropped.jpg)
 
 ![illegal but beautiful](/images_2020/illegal.jpg)
 
-Now, if you lived across from an empty parking lot that was going to get redeveloped soon, which of these things would you prefer to see go up?
+I live in Golden, CO, and what's true in Charleston, South Carolina is true in Golden, Colorado. 
 
-Most people say the second one. Currently, in Golden, CO, something like this could _never_ be built, because it's illegal, for a few different reasons, like:
+> Josh, why is this "local and authentic" building style _illegal_?
+
+Great question!. It's a bit of a winding story, which is why it takes a few emails to unpack.
+
+There's three classes of laws that make the beautiful urbanism illegal:
 
 1. Mandatory parking minimum laws
 1. Minimum set-back laws
@@ -37,10 +45,15 @@ Most people say the second one. Currently, in Golden, CO, something like this co
 
 I'd like to fix all three of these problems, and I'd like your help along the way. Drop your email address in here:
 
-{% include newsletter.html %}
-
+<aside class="ck-form">
+  <h4>Did you enjoy what you've read? You'll probably like my ✉️ newsletter.</h4>
+  <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
+  <p><i>If you don't see the subscribe form above, <a href="https://josh-thompson.ck.page/b69af6ca8e">click here</a>.</i></p>
+  <p><i>Here's a <a href="https://ckarchive.com/b/27u2hohnplq6">sample of what I send</a>. I will treat your email address with </i>❤️</p>
+</aside>
 -------------------------------
 
+### Other topics
 
 I've written a lot, about many different topics. Some of my favorite posts:
 
