@@ -9,31 +9,36 @@ image: ""
 
 👋 Hi there, Dutchie. 
 
-You've got a bunch of [open roles](https://dutchie.com/careers). Seventeen, as of October 13th. Most are in Engineering, but you've got a few Sales and Success roles. I _think_ I could be a good fit for one of the engineering roles, _or_ a role that doesn't exist yet.
+_TL;DR:[^tldr] I might be able to deliver substantial value to Dutchie. The added value is in the six-to-seven figures a year, and is a function of me working closely with your core business units (Sales, Marketing, Support, Success) to make engineering-led incremental improvements to each of those functions. I am also interested in the "core" engineering work at Dutchie._
 
-I'm reaching out because I spoke recently with Chris Hough, an engineer at Dutchie who works remotely from Boulder. He and I spoke mostly about his experience helping early-career software developers grow their skills and ability to deliver business value. 
+Dutchie has a bunch of [open roles](https://dutchie.com/careers). 
 
-Building skills and deliving business value is very near-and-dear to my heart. I run https://intermediateruby.com/, and continue to add resources to help early-career software developers more quickly become solid "mid-level" developers[^intermediate-ruby-resources]. 
+Seventeen, as of October 13th. Most open roles are in Engineering, but you've got a few Sales and Success roles. I could be a good fit for one of the engineering roles, _or_ a role that does not yet exist, but reflects the growth you're seeing across all functions of the business.
 
-**TL;DR:[^tldr] I _might_ be able to deliver an incredible amount of value to Dutchie. The possible value is denominated in six-to-seven figures a year, and is a function of me working closely with your core business units (Sales, Marketing, Support, Success, and Engineering) to make incremental improvements to each of those functions.**
+A few days ago, I met (via Zoom) with Chris Hough, an engineer at Dutchie who works remotely from Boulder. He and I spoke about his experience helping software developers grow their skills and ability to deliver business value.
 
-Dutchie is a B2B SaaS, product-based company with a well-defined target customer, and adds subs; this is where I work best.
+I love to build up my team's skills while building my own (all the while deliving business value). I am starting to scale these efforts at https://intermediateruby.com/, and continue to add resources to help early-career software developers become solid "mid-level" developers[^intermediate-ruby-resources]. 
+
+At the end of the conversation I had with Chris, he recommended me reaching out to Dutchie, to explore working together. This page is the most natural way for me to 
+
+Dutchie is a B2B SaaS, product-based company with a well-defined target user-base; this space is where I work best.
 
 My strengths span sales, support, marketing, and engineering. I want to capitalize on opportunities to solve problems for Dutchie's customers _and_ employees, building trust all the while.
+
+
 
 ## Reasons I like Dutchie, which relate to reasons I can bring value to Dutchie
 
 Here're some of the reasons to believe I could bring value to Dutchie.
 
-- In the past, I've worked on or with sales, success, and support teams. I am as comfortable building/debugging features as I am discussing funnel conversion rate metrics with sales and marketing teams. 
-- I've got extensive experience in the small-to-medium-size product-led B2B SaaS space.
-- I've worked remotely in companies that are remote-first, _and_ I've worked remotely for companies that have hardly any remote employees.[^remote-work-covid].
-- I'm an enthusiastic supporter of the Marijuana legalization/decriminalization movement across the nation. (I live in Golden, CO, and benefit from it's legal status.)
-- I am obsessed with team and organizational health. For Dutchie to keep solving big problems at scale, it needs to have healthy teams and high employee retention, so those with institutional knowledge stick around to keep shaping the institution. 
+1. Dutchie's success relies on each portion of the business, including: engineering, sales, support, and marketing. I have extensive with these teams, and understand their respective goals, constraints, etc. I am as comfortable building out new features as I am discussing how to improve conversion rates across the funnel with sales and marketing teams.
+1. Dutchie is a product-led B2B SaaS company. I've been in this space for 10+ years.
+1. Because of Covide, Dutchie just became a remote-first organization. I've worked remotely in companies that are both `remote-first`, and `hardly-remote-at-all`.[^remote-work-covid]
+1. Dutchie works in a rapidly-growing industry that has a mixed legal status. I live in Golden, Colorado, and am an enthusiastic supporter of the marijuana legalization movement across the nation. This mixed legal status contributes to some of the many unique regulatory hurdles Dutchie must overcome.
+1. For Dutchie to solve customer's problems (and to scale those solutions to current and future customers), it needs to have healthy teams and high employee retention, so those with institutional knowledge stick around to keep shaping the institution. Healthy teams communicate better and improved communication leads directly to improved product. As an engineer, I'm unusually interested in communication habits and structures.[^conways-law]
 
-In growing companies, once they reach about 60-70 employees, "coworker discoverability" becomes a challenge. When I was at a company of 150, I built bridges between groups who normally wouldn't talk to each other. When I was at a company of 2000, I did the exact same thing. 
 
-## My Dream Role at Dutchie
+## My dream role at Dutchie
 
 Dutchie has open roles like `senior backend software developer` or `senior full-stack software developer`. If I got to build my own role at Dutchie, it would be titled something like `Team Capacity Engineer` or `Cross-Team Software Developer`. Of course, I might still get hired into a role titled `full stack software developer`, and work across teams in the day-to-day. 
 
@@ -43,15 +48,23 @@ Software development is about solving problems at scale. Converting human proces
 
 I enable teams and help groups build capacity to solve more problems faster with less effort. The teams I work with are permanently improved, even long after I'm gone. 
 
-My dream role would be one where I get to spend time understanding the day-to-day operations of non-engineering functions of the business. In past roles, I spent days with the support team, watching them use the product my team builds and maintains, to find ways to make it better for them. Since I've worked on a support team in the past, I can empathize with their day-to-day.
+My dream role would be one where I get to spend time understanding the day-to-day operations of non-engineering functions of the business, and then applying engineering-led solutions to their biggest problems and opportunities.
 
-I've worked on sales teams in the past; I know how challenging it can be. I can make engineering contributions that deliver time savings and better conversion rates for the sales teams, which percolates down to making each teamm member more effective and satisfied, while adding more value to each Dutchie customer. 
+In past jobs, I've done just this kind of work. Sometimes I'd get to spend two days with the support team, watching them use the product my team built and maintined, to find ways to make it better for them. Since I've worked on a support team in the past, I could empathize with their work. The entire fifteen-person support team was thrilled, and we rolled out a number of small changes that improved their day-to-day. 
 
-The teams I worked with became enthusiastic collaborators with me. When I left my last company, the director of support said he despaired of ever having such an effective and understanding software developer work with him again. 
+I've worked on sales teams in the past; I know how challenging it can be. I've sat with Sales teams (line-level employees and managers) to understand their lives, and built out some small product roadmaps that got worked into our team's sprints, which led to increased sales for those teams. 
 
-I want to bring these kinds of cross-team collaborations to Dutchie. 
+The teams I worked with became enthusiastic collaborators with me. When I announced my departure at a prior job, the Director of Support said he despaired of ever having such an effective and understanding software developer such as myself to work with him again. Little did he know, I'd been training another engineer on the team to replace me, and it was a smooth handoff.
 
+--------------------------
 
+I'd like to explore working with Dutchie. What do you think?
+
+If you're interested, email me at `joshthompson@hey.com` or [book a time for us to talk](https://calendly.com/joshthompson/coffee).
+
+Thanks for reading!
+
+\- Josh
 
 [^tldr]: An abbreviation for "Too Long; Didn't Read". Also known as "Executive Summary" [TLDR on Urban Dictionary](https://www.urbandictionary.com/define.php?term=TLDR). 
 
@@ -62,6 +75,11 @@ I want to bring these kinds of cross-team collaborations to Dutchie.
     
     A team that is _thrilled_ to be working remotely will function differently than one where they all loved being in an office and now they're _forced_ to be remote. Or, where they all get to be in an office, and one or two of them is remote. 
     
+    I've got experience working on both kinds of teams, and more importantly, _I've got experience helping these diverse teams work together better_. 
+
+[^conways-law]: 
     [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law) says (paraphrasing): "_Organizations that design systems are constrainted to duplicate their own communication structures into that system_". 
-  
+
     Conway's Law demonstrates why "bridge building" across departments is so important, _especially when Covid has so significantly disrupted normal communication habits_.
+    
+    I've got some horror stories about companies being crushed by Conway's Law, as well as amazing stories of companies leaning into Conway's Law and seeing a huge ROI. 
