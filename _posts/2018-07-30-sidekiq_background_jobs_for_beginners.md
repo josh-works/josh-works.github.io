@@ -20,7 +20,7 @@ Most of the interesting stuff is way down at the bottom, on [watching Redis do i
 
 <!--more-->
 
-In this case, I went back to Turing! I found the [background jobs lesson](http://backend.turing.io/module3/lessons/intro_to_background_workers) from Mod 3, and worked through it. 
+In this case, I went back to Turing! I found the [background jobs lesson](https://backend.turing.io/module3/lessons/background_workers) from Mod 3, and worked through it. 
 
 I very much enjoy seeing evidence of things working "under the hood", rather than just accepting that `BackgroundWorker.perform_later(foo.id)` works differently than `BackgroundWorker.new.perform(foo.id)`, etc. So, this post will focus not as much on _using_ Sidekiq, but _seeing that it's working_. 
 
@@ -370,7 +370,7 @@ Anyway, I'm content that I understand the basic difference between `Worker.perfo
 
 ## Resources 
 
- - [Turing Sidekiq lesson](http://backend.turing.io/module3/lessons/intro_to_background_workers)
+ - [Turing Sidekiq lesson](https://backend.turing.io/module3/lessons/background_workers)
  - [Testing async emails, the Rails 4.2+ way](https://www.engineyard.com/blog/testing-async-emails-rails-42)
 - [Quickly booting `rails s` into production](https://stackoverflow.com/questions/30119144/rails-how-to-switch-between-dev-and-production-mode)
 - [No route matches [GET] /assets](https://stackoverflow.com/questions/7829480/no-route-matches-get-assets)
