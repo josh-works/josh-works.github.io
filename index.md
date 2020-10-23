@@ -51,7 +51,7 @@ I'd _love_ for you join. It'll make sense soon.
   <p><i>Here's a <a href="https://ckarchive.com/b/27u2hohnplq6">sample of what I send</a>. I will treat your email address with </i>❤️</p>
 </aside>
 
-### What the newsletter is about
+### What this newsletter is about [#](#what-this-newsletter-is-about)
 
 Here's a teaser of what we will discuss in the newsletter.
 
