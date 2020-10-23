@@ -12,13 +12,23 @@ I've got way more projects than I have time and energy, but here's the threads t
 - Teaching
 - Writing
 
-# Projects 
+## Projects 
 
-1. I run [intermediateruby.com](https://intermediateruby.com/), where I help early-career Ruby/Rails software developers more quickly grow their skills and ability to deliver value.
-1. I do "software consulting/implementation". I operate at both the strategic/consulting level _and_ the tactical/implementation level. The ratio between "words for people" and "words for machines" depends on which level I'm working at.
-1. I'm trying to help my hometown of Golden, CO legalize an authentic and beautiful architectural style. 
+### 1. Software development coaching and training at [intermediateruby.com](https://intermediateruby.com/)
 
-Item 3, `help my hometown of Golden, CO legalize an authentic and beautiful architectural style.` is far and away the most impactful and potentially valuable project I've ever worked on. 
+I help early-career Ruby/Rails software developers more quickly grow their skills and ability to deliver value. 
+
+I do 1:1 coaching and small-group training. Intrigued? [Let's talk about it]({{ site.baseurl }}{% link _pages/work-together.md %})
+
+### software consulting/implementation 
+
+I operate at both the strategic/consulting level _and_ the tactical/implementation level. Depending on the level, I write words for either people or machines.
+
+[Learn a bit more about working together]({{ site.baseurl }}{% link _pages/work-together.md %})
+
+### Helping my hometown of Golden, CO legalize an authentic and beautiful architectural style
+
+This project is far and away the most impactful and potentially valuable project I've ever worked on. 
 
 Most of my writing is focused on this issue, and I'm experimenting with an interesting medium for telling a story.
 
@@ -43,7 +53,7 @@ I'd _love_ for you join. It'll make sense soon.
 
 ### What the newsletter is about
 
-Here's a teaser of what we eventually start to discuss in the newsletter: 
+Here's a teaser of what we will discuss in the newsletter.
 
 Compare these two images:
 

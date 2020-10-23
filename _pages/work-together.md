@@ -2,19 +2,18 @@
 layout: page
 title: Lets Explore Working Together
 published: true
-description: "There are so many ways we might work together. Let me explain the options!"
+description: "Coaching for software developers, or anyone looking to grow (in) their career and/or job. With my help, people make more money, or save a lot of time, or both."
 permalink: /work-together
 image: ""
 ---
 
 ## Lets Explore Working Together
 
-You have meaningful problems. I enjoy hearing about them and brain-storming on them. 
-
 You and I have possibly already swapped emails, phone calls, possibly had coffee/drinks together, Zoom calls, etc. As a result of our prior conversations:
 
 - You or I have a suspicion that we should talk a bit more directly about the problem at hand (For example: Maybe we discussed something that would help bump your conversion rate from prospect to paying customer by 5%.)
 - We might have discussed something that could help you negotate your salary up by $5000, or a way you can land a dream software development job. 
+- Maybe we talked about career next steps, or how to handle a sensitive work situation. 
 
 Either way, _you_ know the scope of the impact I might have. If that figure might be just a few hundred or few thousand dollars, [book some time on my calendar for $50](https://calendly.com/joshthompson/roadmapping-50). 
 
@@ -24,12 +23,28 @@ _If you're paying with a company credit card, and/or you've said the words "quar
 
 I'll deliver you 10x in value as you spend on the session, and if we end up working together in an ongoing fashion, I'll continue to deliver 10x what you pay me. 
 
-## Persons that might be a good fit:
+## Persons that might be a good fit and what we might talk about:
 
-- **Early-career Employees:** Career-related growth, or how to dovetail career and "non-career" growth goals side by side. How to most quickly level up your skills, understand how you deliver business value, etc. [Schedule something for free](https://calendly.com/joshthompson/coffee)
-- **Early-career Managers/Team Leads:** (IC's or Managers) How to discuss/make visible the business value you deliver. How to protect yourself and your team from the organization. How to improve the organization _by_ protecting yourself/your team. How to retain your current team, grow their organizational capacity, and make sure everyone is better off all the while. [Schedule something for $50](https://calendly.com/joshthompson/roadmapping-50)
-- **Early-stage Founders/Executives:** Targeted problem-solving that sits at the intersection of sales, marketing, and software development, when you don't have the resources or the network to quickly and responsibly make a full-time hire at a cost of $200,000/yr and 25% of your not-currently-filled-with-meetings work-hours. I sit at the intersection of marketing, sales, customer success, and software development. You know the math of what a 5-15% bump in customer LTV or a 5-15% decrease in CAC means to your ARR and runway. Lets talk. I love email, and it's nearly guaranteed we'll talk about it. [Book something for $250](https://calendly.com/joshthompson/roadmapping)
-- **Anyone who works (or wants to work) directly with other companies:** Are you interested in transitioning away from exclusively full-time employment? We'll talk about how to position your value to prospective companies, deliver more value, get paid more and ultimately get more power to exert influence in the world. This process can can be intimidating and overwhelming - let me help you out a little.
+- **Early-career Developers:** Career-related growth, or how to dovetail career and "non-career" growth goals side by side. How to most effectively level up your skills, understand how you deliver business value, etc. 
+
+  If you've got discretionary learning budget, [book a "consultation" for $50](https://calendly.com/joshthompson/roadmapping-50), otherwise, [book it for free](https://calendly.com/joshthompson/coffee).
+- **Early-career Managers/Team Leads:** (either individual contributors or managers) 
+  How to discuss/make visible the business value you deliver. How to protect yourself and your team from the organization. How to improve the organization _by_ protecting yourself/your team. 
+  
+  Team retention, team efficacy, team-impact on overall business. 
+  
+  [Schedule something for $50](https://calendly.com/joshthompson/roadmapping-50) or [$250](https://calendly.com/joshthompson/roadmapping)
+- **Early-stage Founders/Executives:** I do targeted problem-solving, and enjoy the intersection of sales, marketing, and software development. 
+
+  Maybe you don't have the resources or risk profile to quickly make a full-time hire, and you know the cost of a bad hire[^bad-hires-are-expensive]. Alternatively, maybe you don't have the resources/capacity to do some bit of work in-house. 
+
+  I enjoy the intersection of marketing, sales, customer success, and software development. 
+  
+  You know the math of what a 5-15% bump in customer LTV or a 5-15% decrease in CAC means to your ARR and runway. 
+  
+  [Book a consult for $250](https://calendly.com/joshthompson/roadmapping)
+  
+
 
 -------------------------------
 
@@ -39,7 +54,9 @@ _Much of my value-add comes from the fact that I understand key motivations for 
 
 ## Help on software products
 
-<span>Matt Lane, Product Manager</span>
+<div class="testamonial" markdown='1'>
+
+<span>Former coworker, Product Manager</span>
 
 > Josh, you're a software developer with an interesting mix of skills. Your background in sales and support lend you rare and valuable insights. 
 
@@ -82,7 +99,11 @@ _Much of my value-add comes from the fact that I understand key motivations for 
 
 ## FAQs
 
-### What happens when you book a session:
+If you've got a question, shoot DM me on [twitter](https://twitter.com/josh_works) or email me at `joshthompson@hey.com`
+
+### What happens when I book a session?
+
+Great question - here's the approximate flow:
 
 1. You click the appropriate booking link. (They're all listed below, for your convenience).
 1. You answer some questions.
@@ -92,16 +113,19 @@ _Much of my value-add comes from the fact that I understand key motivations for 
 1. I ask questions to understand the topic at hand, share insights and resources
 1. You go on with your life, being slightly or significantly improved for our time together.
 
-##### 👉 [$250 Roadmapping Session](https://calendly.com/joshthompson/roadmapping) _Please select this option only if you're using a company credit card._
-##### 👉 [$50 Roadmapping Session](https://calendly.com/joshthompson/roadmapping-50) 
-##### 👉 [$0 ☕️🍺 chat](https://calendly.com/joshthompson/coffee)
+- [$250 Roadmapping Session](https://calendly.com/joshthompson/roadmapping) _Please select this option only if you're using a company credit card._
+- [$50 Roadmapping Session](https://calendly.com/joshthompson/roadmapping-50) 
+- [$0 ☕️🍺 chat](https://calendly.com/joshthompson/coffee)
 
-### Why do I offer free, cheap, and expensive booking options side-by-side?
+### Why do you offer free and not-free options side-by-side?
 
 If you're wondering, pick book a session (probably the free one!) and ask me to explain.
 
-### Am I open to full-time employment? Can someone hire me as a full-time employee?
+### Are you open to full-time employment? Could I convince you to join my team?
 
-I'm not interested in full-time employment at the moment, though there are companies/roles/opportunities that could make me change my mind. ¯\\\_(ツ)\_/¯ 
+Maybe? It never hurts to ask! 
+
+I'm not particularly interested in full-time employment at the moment, though there are companies/roles/opportunities that could make me change my mind. ¯\\\_(ツ)\_/¯ 
 
 
+[^bad-hires-are-expensive]: I conservatively esimate that [a bad hire costs $100,000 and nine months of your life](https://josh.works/how-to-write-a-letter-of-recommendation-for-yourself#how-much-does-a-bad-hire-cost)
