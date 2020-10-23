@@ -1,11 +1,14 @@
 ---
 layout: post
 title:  "Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be"
+description: "This guide will help you be successful at Turing and in your future new career as a software developer. It's often a difficult path, and you'll be regularly pushed well beyond your comfort zone. If you follow my instructions, you'll have a much easier and more successful time at Turing. (Part 1 of 8)"
 date:  2019-05-09 06:00:00 -0700
 crosspost_to_medium: true
 categories: [turing]
 tags: [programming, turing]
 permalink: turing-backend-prep-01-intro
+image: /images_2020/turing-prep-series-cover.jpg
+
 ---
 {% include turing_prework_index.md %}
 
