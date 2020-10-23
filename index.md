@@ -1,32 +1,36 @@
 ---
-layout: default
+layout: page
 title: Home
-description: ""
+description: "Josh Thompson's corner of the internet. Software, urbanism, teaching, and a continuous study of the usage of power in the world."
 ---
 
 Hi there, I'm Josh. 
 
-I've got way more projects than I have time and energy, but here's the threads that tie much of my work together:
+I've got _way_ more projects than I have time and energy for, but here's the threads that tie much of my work together:
 
 - Software
 - Teaching
 - Writing
 
-## Projects 
+As of late 2020, I've got three primary projects:
 
-### 1. Software development coaching and training at [intermediateruby.com](https://intermediateruby.com/)
+### 1. Software development coaching and training
 
-I help early-career Ruby/Rails software developers more quickly grow their skills and ability to deliver value. 
+I love to help software developers level up their skills. All this happens at [intermediateruby.com](https://intermediateruby.com/).
 
-I do 1:1 coaching and small-group training. Intrigued? [Let's talk about it]({{ site.baseurl }}{% link _pages/work-together.md %})
+This takes place via 1:1 coaching/conversations, small-group training, and detailed, bepoke resources to level up very specific skills, like: `effective Nokogiri usage`, `becoming effective with background jobs`, `Rubocop usage`, and much more.
 
-### software consulting/implementation 
+I once gave a 40 minute talk on how software developers should embrace working with other non-development teams at their company: [Combining "the Business" and Improving the Performance of a Rails App]({{ site.baseurl }}{% link _pages/boulder_ruby_group.md %})
+
+Intrigued? [Let's talk about it]({{ site.baseurl }}{% link _pages/work-together.md %})
+
+### 2. Software consulting/implementation 
 
 I operate at both the strategic/consulting level _and_ the tactical/implementation level. Depending on the level, I write words for either people or machines.
 
 [Learn a bit more about working together]({{ site.baseurl }}{% link _pages/work-together.md %})
 
-### Helping my hometown of Golden, CO legalize an authentic and beautiful architectural style
+### 3. Helping my hometown of Golden, CO legalize an authentic and beautiful architectural style
 
 This project is far and away the most impactful and potentially valuable project I've ever worked on. 
 
@@ -51,13 +55,13 @@ I'd _love_ for you join. It'll make sense soon.
   <p><i>Here's a <a href="https://ckarchive.com/b/27u2hohnplq6">sample of what I send</a>. I will treat your email address with </i>❤️</p>
 </aside>
 
-### What this newsletter is about[#](#what-this-newsletter-is-about)
+### What this newsletter is about
 
 Here's a teaser of what we will discuss in the newsletter.
 
 Compare these two images:
 
-![subsidized and ugly - fully crop](/images_2020/subsidized-cropped.jpg)
+![subsidized and ugly](/images_2020/subsidized.jpeg)
 
 ![illegal but beautiful](/images_2020/illegal.jpg)
 
@@ -87,19 +91,14 @@ And if you are skeptical of what I'm trying to do? Or you'd rather read about so
 
 ### Other topics
 
-I've written a lot, about many different topics. Some of my favorite posts:
+I've written over 250 posts on my own website, and others around the internet. Here's a good place to start:
 
 - [Turing Prep Chapter 1 of 8: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 - [How to ask questions of experts and gain more than just an answer]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
 - [Remote Job Hunting Resources for Turing Grads and Anyone Else]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
 - [A little bit of slope makes up for a lot of y-intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
 - [Rails Migrations: When you can't add a uniqueness constraint because you already have duplicates]({{ site.baseurl }}{% link _posts/2018-09-28-rails_migrations_add_unique_constraint_with_existing_duplicates.md %})
-- [Sidekiq and Background Jobs for Beginners]({{ site.baseurl }}{% link _posts/2018-07-30-sidekiq_background_jobs_for_beginners.md %})
-- [Whole Messages in Slack]({{ site.baseurl }}{% link _posts/2019-02-20-whole_messages_in_slack.md %})
 - [Boulder Ruby Group: Developers should _embrace_ working with the non-development parts of the business, and the constraints this entails. (30 min)]({{ site.baseurl }}{% link _pages/boulder_ruby_group.md %})
-- [How I take notes, AKA 'Add an Index to Your Notebook']({{ site.baseurl }}{% link _posts/2019-09-04-build-an-index-into-your-notebook.md %})
 
 
 {% include newsletter.html %}
-
-[^literally-not-figuratively]: I mean _literally_ in the original sense, not the modern figurative sense. I have goals, all of them relate to other people. You're part of those people.
