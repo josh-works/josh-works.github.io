@@ -13,7 +13,7 @@ image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 
 ## A Warning and a Request
 
-In a moment, you will read the full text of a 1922 marketing pamphlet. First, I need to provide some context. 
+In a moment, you will read the full text of a 1922 marketing pamphlet. This document is an important thread to understanding some very large political problems facing the world today, specifically housing, affordability, the growing wealth gap, and more.
 
 This document tells a story. This story is about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
 
@@ -21,11 +21,9 @@ These ludicrously powerful people hide their power under layers of misdirection 
 
 This 100 year old marketing brochure influences your daily experiences _today_. Powerful people wrote that document. 
 
-
-
 ## Context for the Atlanta Zone Plan of 1922
 
-Two days ago [Racial Zoning: Segregation and the U.S. Federal Government](https://www.blackfeminisms.com/zoning/).
+I recently read [Racial Zoning: Segregation and the U.S. Federal Government](https://www.blackfeminisms.com/zoning/).
 
 I'll share a quote from the article:
 
@@ -55,7 +53,11 @@ I share some high points and screenshots of the zoning plan in the following thr
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I missed a piece in this &quot;R-1 White District&quot; and &quot;R-2 Colored District&quot; narrative outlined in Atlanta&#39;s 1922 zoning plan.<br><br>The central piece of Witten&#39;s racist zoning plan was &quot;the encroachment of the colored&quot; in white neighborhoods. <a href="https://t.co/2gWMdsaEb8">https://t.co/2gWMdsaEb8</a> <a href="https://t.co/mej9ILqNOK">pic.twitter.com/mej9ILqNOK</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1295034724658737152?ref_src=twsrc%5Etfw">August 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-I wanted to make the text more readable/discoverable, instead of it living "inside" of this PDF, so I used a tool to extract text from the images. I've sprinkled some of my notes below:
+I wanted to make the text more readable/discoverable, instead of it living "inside" of this PDF, so I used a tool to extract text from the images. I've sprinkled some of my notes below.
+
+Oh, and if you find this kind of thing interesting, I'm working on an interesting related project, and I'd love your help:
+
+{% include newsletter_no_preamble.html %}
 
 -------------------------------------------
 
@@ -365,7 +367,7 @@ The zone plan does not attempt to provide a complete code for the lighting and v
 
 ![A Public Garage Located Among Apartments](/images_2020/2020-08-17-a-public-garage.jpg "A Public Garage Located Among Apartments")
 
-### Ffront Yards: Building Lines
+### Front Yards: Building Lines
 
 Atlanta has been generally developed with residences setting well back from the street line, affording adequate room for lawn and trees. This makes a healthful and convenient city as well as beautiful city. Grass and trees make an attractive home environment and are almost essential to a normal, healthful development of the child.
 
