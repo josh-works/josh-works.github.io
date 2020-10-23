@@ -6,26 +6,46 @@ description: ""
 
 Hi there, I'm Josh. 
 
+I've got way more projects than I have time and energy, but here's the threads that tie much of my work together:
+
+- Software
+- Teaching
+- Writing
+
 # Projects 
 
-I'm either working on shipping some of the following projects, or have recently shipped these projects:
+1. I run [intermediateruby.com](https://intermediateruby.com/), where I help early-career Ruby/Rails software developers more quickly grow their skills and ability to deliver value.
+1. I do "software consulting/implementation". I operate at both the strategic/consulting level _and_ the tactical/implementation level. The ratio between "words for people" and "words for machines" depends on which level I'm working at.
+1. I'm trying to help my hometown of Golden, CO legalize an authentic and beautiful architectural style. 
 
-1. I am building [intermediateruby.com](https://intermediateruby.com/). It's a work-in-progress, lots to come
-1. [A technically-inclined millenial's guide to managing their aging parent's laptop](https://josh.works/upgrade-parents-junky-old-laptop-to-chromebook)
-1. Legalizing an authentic and beautiful style of building buildings in Golden, CO. 
+Item 3, `help my hometown of Golden, CO legalize an authentic and beautiful architectural style.` is far and away the most impactful and potentially valuable project I've ever worked on. 
 
-Item 3 is far and away the most impactful and potentially valuable project I've ever worked on. I've _mostly_ stopped writing new blog posts, and most of my writing is focused on item \#3, and that now goes into this newsletter, which is a bit of an experiment. I'd _love_ for you to sign up and share feedback with me as you go:
+Most of my writing is focused on this issue, and I'm experimenting with an interesting medium for telling a story.
+
+I use an email campaign as my experimental medium. 
+
+> Email isn't original at all, Josh. 🙄 
+
+I know, I know! It's not email _per se_, it's how I've structured the information within the email.
+
+If you sign up today, you'll get about 15 emails before "catching up" with what I'm writing to the list right now.
+
+It's an interesting format, but I've had an absolute blast, and lots of thoughtful people from the internet have written me interesting and helpful responses.
+
+I'd _love_ for you join. It'll make sense soon.
 
 <aside class="ck-form">
-  <h4>Did you enjoy what you've read? You'll probably like my ✉️ newsletter.</h4>
+  <h4>Are you intrigued? Are you willing to join this little project?</h4>
   <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
-  <p><i>If you don't see the subscribe form above, <a href="https://josh-thompson.ck.page/b69af6ca8e">click here</a>.</i></p>
+  <p><i>If you don't see the form above, <a href="https://josh-thompson.ck.page/b69af6ca8e">click here</a>.</i></p>
   <p><i>Here's a <a href="https://ckarchive.com/b/27u2hohnplq6">sample of what I send</a>. I will treat your email address with </i>❤️</p>
 </aside>
 
 ### What the newsletter is about
 
-Here's a teaser of what we discuss in the newsletter: Compare these two images:
+Here's a teaser of what we eventually start to discuss in the newsletter: 
+
+Compare these two images:
 
 ![subsidized and ugly - fully crop](/images_2020/subsidized-cropped.jpg)
 
@@ -39,14 +59,16 @@ Great question!. It's a bit of a winding story, which is why it takes a few emai
 
 There's three classes of laws that make the beautiful urbanism illegal:
 
-1. Mandatory parking minimum laws
-1. Minimum set-back laws
-1. Prohibitions on mixing residential and commercial uses
+1. Mandatory minimum parking laws
+1. Minimum setback laws
+1. Minimum lot size laws
 
-I'd like to fix all three of these problems, and I'd like your help along the way. Drop your email address in here:
+I'd like to help fix all three of these barriers, and I literally[^literally-not-figuratively] cannot do it without you. 
+
+And if you are skeptical of what I'm trying to do? Or you'd rather read about software and not urban design? I'd recommend experimenting with the newsletter despite these reservations:
 
 <aside class="ck-form">
-  <h4>Did you enjoy what you've read? You'll probably like my ✉️ newsletter.</h4>
+  <h4>So, are you interested? Then punch your email in below 👇</h4>
   <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
   <p><i>If you don't see the subscribe form above, <a href="https://josh-thompson.ck.page/b69af6ca8e">click here</a>.</i></p>
   <p><i>Here's a <a href="https://ckarchive.com/b/27u2hohnplq6">sample of what I send</a>. I will treat your email address with </i>❤️</p>
@@ -69,3 +91,5 @@ I've written a lot, about many different topics. Some of my favorite posts:
 
 
 {% include newsletter.html %}
+
+[^literally-not-figuratively]: I mean _literally_ in the original sense, not the modern figurative sense. I have goals, all of them relate to other people. You're part of those people.
