@@ -395,7 +395,7 @@ While, therefore, an existing non-conforming use may be continued the limitation
 
 ### Enforcement: Board of Zoning Appeals
 
-The zoning ordinance will be enforced by the inspector of buildings. No building permit will be issued unless the building and its proposed use conform to the zoning regulations.
+The zoning ordinance will be enforced by the inspector of buildings[^or-anyone-else]. No building permit will be issued unless the building and its proposed use conform to the zoning regulations.
 
 In the application of the zoning many cases will arise, especially near the dividing line be tween two use districts, where the strict letter of the zoning regulations may properly be modified. This can be done in specific cases with out injury to general public purposes of the ordinance, while at the same time avoiding unnecessary injury to the individual owner.
 
@@ -415,6 +415,15 @@ Under the zoning ordinance any amendment proposed must secure a three-fourths vo
 
 Zoning is a first essential to the securing of a measure of orderliness in the building of the city. The common sense of the average citizen leads to a degree of order in the home, the store and the factory that is all but lacking in the life and work of the community as a whole. For want of a well-considered plan of building development each man builds without reference to his neighbor. The result is chaotic. Haphazard growth is inefficient, wasteful and ugly. Why not use the same forethought and care in the building of our community home that each sane man uses in the building of his individual home or factory? Zoning is the direction of building development along orderly and well-considered lines of city growth. On the economic side, zoning means increased industrial efficiency and the prevention of enormous waste. On the human side, zoning means better homes and an increase of health, comfort and happiness for all the people.
 
+---------------------------
+
+And that is the end of the 1922 Zoning Plan!
+
+Like I've mentioned before, I'm working on projects in this space. I'd love to have your help:
+
+{% include newsletter_no_preamble.html %}
+
+
 ## Footnotes
 
 [^this-plan-is-written-by-racists]: Remember, the mayor signed his name on this racist document. No way will 3/4ths of the city council sign off on anything that diminishes institutionalized white supremacy.
@@ -430,30 +439,18 @@ Zoning is a first essential to the securing of a measure of orderliness in the b
 [^these-footnotes-will-be-important]: Things are often not what they seem. This document is a marketing pamphlet, and much of the interest I have in it comes from how the authors carefully cultivated a certain perception of what they wanted to do, for a variety of reasons. _It is intended to be bland and acceptible to the sensibilities of the politically dominant group of the time_
 
 
-# Zoning and Policing
-
-The US is currently talking about the proper role of police in the nation. 
-
-In [this article](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/), the theme is that police are harrassing residents. You don't have to read the whole article, just notice how they use code violations to harrass residents, _including issuing mandatory court appearences, and if the person failed to show up or pay the fine, the police would arrest them_:
-
-> If the targets, their family members or associates wouldn’t speak to deputies or answer questions, STAR team deputies were told to look for code enforcement violations like faded mailbox numbers, a forgotten bag of trash or overgrown grass, Rodgers said.
-> The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing. Pasco Sheriff’s Office
-> 
-> “We would literally go out there and take a tape measure and measure the grass if somebody didn’t want to cooperate with us,” he said.
-> 
-> Rodgers said people sometimes would fail to pay the fine, which would result in a warrant being issued for their arrest.
-> 
-> “We’d get them one way or another,” he said.
-> 
-> Rodgers said the tactics made him and many of his colleagues uneasy. He thought the strategy was both ineffective and unethical, he said. But when he raised concerns, he said, a supervisor threatened to strip him of his rank and send him back to patrol.
-
-![What a disaster](/images_2020/citation1-2x.jpg "The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing.")
-_The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing._
-
-I'm trying to find the specific regulation referenced in `Lack of Posted Address, C.O. 82-29`. I found the references to `C.O. 530`, like this:
-
-![wow that's a lot of rules to follow](/images_2020/2020-09-03-9.42.01 AM.png)
-
-Source: [Pasco County, Florida Chapter 500 Zoning Standards](https://www.pascocountyfl.net/1331/Chapter-500-Zoning-Standards). Click the link. There are 31 separate PDFs you'd have to download and examine to understand JUST THIS SECTION of the zoning codes. 
-
-I cannot find section `82-29` of the zoning code, that this particular person violated. Closest I've gotten is [82: Roads and Bridges](https://library.municode.com/fl/pasco_county/codes/code_of_ordinances?nodeId=PTICOOR_CH82ROBR_ARTIINGE)
+[^or-anyone-else]: Local law enforcement is often an arm for zoning enforcement. [This article](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/) is an amazing investigation into long-term abuse of policeing powers in Florida. One of the themes is "police harrass residents". You don't have to read the whole article, just notice how they use zoning code to harrass residents, _including issuing mandatory court appearences, and if the person failed to show up or pay the fine, the police would arrest them_:
+    > If the targets, their family members or associates wouldn’t speak to deputies or answer questions, **STAR team deputies were told to look for code enforcement violations like faded mailbox numbers, a forgotten bag of trash or overgrown grass, Rodgers said.**
+    > **The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing.** Pasco Sheriff’s Office
+    > 
+    > “We would literally go out there and take a tape measure and measure the grass if somebody didn’t want to cooperate with us,” he said.
+    > 
+    > Rodgers said people sometimes would fail to pay the fine, which would result in a warrant being issued for their arrest.
+    > 
+    > “We’d get them one way or another,” he said.
+    > 
+    > Rodgers said the tactics made him and many of his colleagues uneasy. He thought the strategy was both ineffective and unethical, he said. But when he raised concerns, he said, a supervisor threatened to strip him of his rank and send him back to patrol.
+    
+    ![What a disaster](/images_2020/citation1-2x.jpg "The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing.")
+  _The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing._
+  
