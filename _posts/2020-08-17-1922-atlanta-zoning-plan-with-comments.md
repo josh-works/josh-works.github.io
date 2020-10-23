@@ -15,61 +15,51 @@ image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 
 In a moment, you will read the full text of a 1922 marketing pamphlet. First, I need to provide some context. 
 
-Along the way, I link to two Twitter threads I wrote. 
-
-These threads set the context for this pamphlet I've converted from PDF to something that you can read. Please read the threads. 
-
-This story is about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
+This document tells a story. This story is about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
 
 These ludicrously powerful people hide their power under layers of misdirection and distraction, and they make it look like they're less powerful than they actually are. 
 
 This 100 year old marketing brochure influences your daily experiences _today_. Powerful people wrote that document. 
 
-This entire post is about 9000 words. If you expect to skim this document on your phone, instead save this tab for when you've got a larger screen to work with. 
-
-If you're in a position to exercises influence over laws and public opinion (internet-person-with-some-influence, reporter, politician), and your skin crawls as you read this document, please get in touch with me: [@josh_works](https://twitter.com/josh_works). 
-
-The fact that you're reading this document is evidence that there is a lot we can do about this.
 
 
 ## Context for the Atlanta Zone Plan of 1922
 
-Two days ago, I read a blog post, titled `Racial Zoning: Segregation and the U.S. Federal Government`, posted on  (blackfeminisms.com)](https://www.blackfeminisms.com/zoning/).
+Two days ago [Racial Zoning: Segregation and the U.S. Federal Government](https://www.blackfeminisms.com/zoning/).
 
 I'll share a quote from the article:
 
-> President Warren G. Harding instructed [future president but then] Secretary of Commerce Herbert Hoover to form an advisorty committee on zoning in 1921. He then tasked the committee with the job of creating a model zoning law. 
+> Whitten then went ahead and designed a zoning ordinance for Atlanta, advising city officials that "home neighborhoods had to be protected from any further damage to values resulting from inappropriate uses, including the encroachment of the colored." 
+> 
+> The zone plan drafted by Whitten and unpublished by the Atlanta City Planning Commission in 1922 explained that "race zoning is essential in the interest of the public peace, order and security and will promote the welfare and prosperity of both the white and colored race." 
+>
+> The zoning law divided the city into an "R-I white district" and "R-2 colored district" with additional neighborhoods undetermined (Rothstein 2017)
 
-It is this model zoning law, and a marketing document associated with it, that I am linking to below.
+This quote referenced a zone plan: [The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870)
 
-I'd like to make a document accessible. It's a dangerous, foul, powerful document. It's exceptional. It's an example of what it looks like for a dominant socio-economic group to use carefululy-sculpted political power to increase it's own dominance. 
+I read every word of that document. It's pictures of the original pamphelt, converted to PDF. Here's the full document:
 
-It's titled:
+![15 pages of text](/images_2020/1922-zoning-plan.jpg)
 
-[The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870)
+There's only 15 pages with much text on them, and it is all so riveting.
 
-It also is a critically shaping document. I'm adding footnotes to the article, to draw connections between these words from 1922, and law that is in effect _today_, that drives decisions millions of people make every day.
+I share some high points and screenshots of the zoning plan in the following thread. I'd encourage you to peruse the threads before continuing:
 
-Read the document. 
-
-I mentioned two important twitter threads, which provide context for what you're about to read. Here they are:
-
-### Context Twitter Thread \#1
+### Thoughts on Denver's zoning and systemic racism (Twitter thread \#1)
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">1/20 Thoughts on Denver&#39;s zoning and systemic racism. <br><br>Here&#39;s a screenshot from <a href="https://twitter.com/CityofDenver?ref_src=twsrc%5Etfw">@CityofDenver</a>&#39;s zoning map on <a href="https://t.co/Tzx271JS8u">https://t.co/Tzx271JS8u</a>.<br><br>This is textbook Euclidean Zoning, AKA &quot;Single-Use Zoning&quot;.<br><br>The problems of this form of zoning are well-known:<a href="https://t.co/WqiklxjB4h">https://t.co/WqiklxjB4h</a> <a href="https://t.co/7RDaFJlttS">pic.twitter.com/7RDaFJlttS</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1294726871574179840?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-### Context Twitter Thread \#2
+### Deeper dive into connections between 1922 zoning plan and modern Denver (Twitter thread \#2)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I missed a piece in this &quot;R-1 White District&quot; and &quot;R-2 Colored District&quot; narrative outlined in Atlanta&#39;s 1922 zoning plan.<br><br>The central piece of Witten&#39;s racist zoning plan was &quot;the encroachment of the colored&quot; in white neighborhoods. <a href="https://t.co/2gWMdsaEb8">https://t.co/2gWMdsaEb8</a> <a href="https://t.co/mej9ILqNOK">pic.twitter.com/mej9ILqNOK</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1295034724658737152?ref_src=twsrc%5Etfw">August 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-It's critical to point out that _most_ of the document "seems OK"[^these-footnotes-will-be-important]. You'll hear similar language as what's in this document in city meetings around the nation every day. 
+
+I wanted to make the text more readable/discoverable, instead of it living "inside" of this PDF, so I used a tool to extract text from the images. I've sprinkled some of my notes below:
 
 -------------------------------------------
 
 ## The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta
-
-_by Richard H. Whitten, Consultant to City Planning Commission (1922)_
 
 _copied from [this online resource](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870)_
 
@@ -99,7 +89,7 @@ Zoning will prevent the destruction of the comfort and value of your home throug
 - Robert H. Whitten, _Consultant_
 - H. D. Cutter, Jr, _Engineer and Secretary_
 
-## FIVE ILLUSTRATIONS OF THE NEED FOR ZONING
+## Five Illustrations of the Need for Zoning
 
 _Note from Josh: Each of these illustrations are complex. They interleave facts and misdirection, I have a lot I could say about each sentance, but I'll restrain myself until later in the document, as much as possile._
 
@@ -173,7 +163,7 @@ Unless office building heights are strictly limited the result is bound to be di
 
 [^office-buildings]: I laughed a little as I read this. I'm sure in 1922 a 20-story building was rather large and uncommon. I think we've all grown up with enough tall buildings that we can reject this assessment as categorically false, based on our lived experience. Every urban area has tall buildings (50 stories, 100 stories tall!) and the adjacent buildings go **up** in value, not down.
 
-## WHAT ZONING IS AND DOES
+## What Zoning is and does
 
 _Josh: We're getting closer to the author's revealing their true colors. Just keep in mind the authors have a strong preference to keep black people out of white neighborhoods._
 
@@ -243,8 +233,7 @@ The New York Zoning Commission said:
 
 [^such-tricky-wording]: Of course we should not injure others. This sentance is tricky because what it's really saying is `Without zoning the White owner is powerless to prevent a black person from modifying their property as they see fit.`
 
-
-## OUTLINE OF TENTATIVE ZONE PLAN
+## Outline of Tentative Zone Plan
 
 The zoning amendment of the city charter provides that zoning plans may be prepared by the City Planning Commission and that such plans if adopted by the General Council after public hearing have been held shall have the force of law. It is fully realized that plans of this kind, before being adopted, should have the benefit resulting from their study and criticism by property owners and civic and business organizations throughout the city. The plan herewith presented is not a final plan, but merely a tentative draft to secure public suggestions and criticism.
 
@@ -255,9 +244,8 @@ It is proposed that this tentative plan shall be taken up in detail with the mem
 The city of Atlanta is divided into six classes of use districts. Two of these are residence districts and four are business and industrial districts. In addition to the use districts there are four classes of height districts and five classes of area districts. The height and area districts are superimposed over the use districts.
 
 Consequently, each portion of the city is in some one of the six classes of use districts, in some one of the four classes of height districts and also in some one of the five classes of area districts. The boundaries of the various use, height and area districts are shown on the zone map.
-
-
-### RESIDENCE DISTRICTS 
+ 
+### Residence Districts
 
 THE two classes of residence districts are:
 
@@ -273,7 +261,7 @@ Trade and industry are excluded from the residence districts[^trade-is-banned]. 
 [^apartments-are-banned]: Translation: This zoning plan bans apartment buildings from most of the city.
 [^trade-is-banned]: Translation: This zoning plan bans _all_ commercial activity from most of the city.
 
-### RACE ZONING
+### Race Zoning
 
 The residence districts are further subdivided into three race districts:
 
@@ -290,8 +278,8 @@ Certain limited limited residence areas are placed in neither the white district
 [^black-people-cannot-buy]: Translation: In an R1 district, it will become illegal for a black person to buy or rent property from a white property owner.
 [^black-people-cannot-sell]: Translation: In an R2 district, it will become illegal for a black property owner to sell or rent their property to a white person.
 [^blanket-exclusion-for-slaveholding-white-people]: Translation: White people who own slaves or have servents get a blanket exclusion from all this zoning limits we're about to place on R1 (white single-family home) districts. 
-
-### BUSINESS AND INDUSTRIAL DISTRICTS 
+ 
+### Business and Industrial Districts
 
 There are four classes of business and industrial districts: 
 - Class U3 or local retail store district.
@@ -321,7 +309,7 @@ It is only by carefully grading the various trade and industrial uses according 
 
 The zoning regulations also provide that such special uses as a cemetery, crematory, aviation field, sewage disposal plant or refuse dump may be located only on application to and with the approval of the board of zoning appeals.
 
-### HEIGHT DISTRICTS
+### Height Districts
 
 The entire city is divided into four classes of height districts. The maximum limits are 35 feet, 50 feet, 100 feet and 150 feet, and the height districts are termed respectively class H1, H2, H3 and H4.
 
@@ -343,7 +331,7 @@ day. By restricting all buildings to a reason ble height, so that when the busin
 
 ![Which is the Common Sense Plan?](/images_2020/2020-08-16-which-is-the-common-sense-plan.jpg)
 
-### AREA DISTRICTS
+### Area Districts
 
 The entire city is divided into five classes of area districts:
 - Class A1 requiring 5000 sq. ft. of lot area per family
@@ -369,7 +357,7 @@ While the zone plan does not prohibit the erection of residences even in the sem
 - first, with definite areas set aside for residences and factories, the financial hazard incident to the placing of residences in a factory zone will, in most cases, serve as a suf ficient deterrent; 
 - second, the semi-nuisance in industrial districts will be placed in the A1 area districts which will require 5000 sq. ft. of lot area per family. This will further tend to make the erection of a residence in one of these districts uneconomic.
 
-### SIDE AND REAR YARDS
+### Side and Rear Yards
 
 Side and rear yards are required in all residence districts. In business and industrial districts, side yards are not required, but rear yards are required where such districts adjoin residence districts.
 
@@ -377,7 +365,7 @@ The zone plan does not attempt to provide a complete code for the lighting and v
 
 ![A Public Garage Located Among Apartments](/images_2020/2020-08-17-a-public-garage.jpg "A Public Garage Located Among Apartments")
 
-### FRONT YARDS: BUILDING LINES 
+### Ffront Yards: Building Lines
 
 Atlanta has been generally developed with residences setting well back from the street line, affording adequate room for lawn and trees. This makes a healthful and convenient city as well as beautiful city. Grass and trees make an attractive home environment and are almost essential to a normal, healthful development of the child.
 
@@ -385,13 +373,13 @@ Occasionally, in a detached residence section, an apartment house disregards the
 
 ![An Apartment Projecting Beyond Single Family Residences](/images_2020/2020-08-17-an-apartment-projecting-beyond-single-family-residences.jpg "An Apartment PRojecting Beyond Single Family Residences")
 
-### CLASSIFICATION OF USES
+### Classification of Uses
 
 The classification of uses which is a part of the zoning ordinance divides the various uses of property into groups, classes and subdivisions. The use classes correspond to the use districts. Each use class lists the uses for which the corresponding use district class is specially designed to provide. Starting with the private dwelling, the classification enumerates the various kinds of residential use and then the business and industrial uses graded and arranged according to their comparative freedom from nuisance characteristics. In the hierarchy of uses the dwelling comes first and garbage reduction and fertilizer plants last.
 
 !["Shall the mass of the population of the great city of the future be housed like this or that?"](/images_2020/2020-08-17-house-the-masses.jpg "Zoning is the only safeguard against excessive congestion")
 
-### NON-CONFORMING USES
+### Non-conforming Uses
 
 The zoning ordinance does not affect existing uses of property. A use or building existing at the time of the passage of the zoning ordinance which does not comply with the regulations of the use district in which it is located is called a non-conforming use. Such use or building may be continued though not conforming to the use district regulations. The zoning ordinance is not retroactive. If, for example, there is a store in an area that under the zoning ordinance is included in a residence district the store may nevertheless be continued. A non-conforming use may also be changed subject to the general rule that, if changed, it must be to a higher use as listed in the classification of uses. If, however, the non-conforming use is a class U6 (semi-nuisance) use or class U7 (nuisance) use it may not be changed unless to a conforming use. A change to another use listed in the same subdivision of the classification is not deemed a change of use under the ordinance. Thus a change from a grocery store to any other kind of a retail store or shop would technically be deemed a continuance of the existing use. 
 
@@ -403,7 +391,7 @@ While, therefore, an existing non-conforming use may be continued the limitation
 
 [^remember-the-goal]: Remember the goal of this "non-conforming use" section. It's _to force compliance with zoning laws over time_, and it's dammned effective. [40 percent of the buildings in Manhatten could not be built today](https://www.nytimes.com/interactive/2016/05/19/upshot/forty-percent-of-manhattans-buildings-could-not-be-built-today.html)
 
-### ENFORCEMENT: BOARD OF ZONING APPEALS
+### Enforcement: Board of Zoning Appeals
 
 The zoning ordinance will be enforced by the inspector of buildings. No building permit will be issued unless the building and its proposed use conform to the zoning regulations.
 
@@ -411,7 +399,7 @@ In the application of the zoning many cases will arise, especially near the divi
 
 Strictly limited discretion is therefore lodged in a board of zoning appeals created by the ordinance to make minor modifications and exceptions to the general rules and regulations established by the ordinance.
 
-### AMENDMENT OF ZONE PLAN
+### Amendment of Zone Plan
 
 The Council will have full power to amend or supplement the zoning plan. Minor changes will be necessary to correct imperfections in the plan. Other amendments will be required to meet changing conditions of city growth. It is to be expected that the plan will be supplemented and changed when certain fundamental factors affecting the physical structure of the city have been fully worked out.
 
@@ -421,7 +409,7 @@ Under the zoning ordinance any amendment proposed must secure a three-fourths vo
 
 ![Waste in City Building!](/images_2020/2020-08-17-waste-in-city-building.jpg "Waste in City Building")
 
-### BUILDING THE FUTURE CITY
+### Building the Future City
 
 Zoning is a first essential to the securing of a measure of orderliness in the building of the city. The common sense of the average citizen leads to a degree of order in the home, the store and the factory that is all but lacking in the life and work of the community as a whole. For want of a well-considered plan of building development each man builds without reference to his neighbor. The result is chaotic. Haphazard growth is inefficient, wasteful and ugly. Why not use the same forethought and care in the building of our community home that each sane man uses in the building of his individual home or factory? Zoning is the direction of building development along orderly and well-considered lines of city growth. On the economic side, zoning means increased industrial efficiency and the prevention of enormous waste. On the human side, zoning means better homes and an increase of health, comfort and happiness for all the people.
 
