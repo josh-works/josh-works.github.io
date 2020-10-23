@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Turing Prep appendix: Troubleshooting Errors"
+description: "As a software developer, you see error messages all the time. Here's a head start on some you may see at the beginning of your journey."
 date:  2019-05-19 07:00:00 -0700
 crosspost_to_medium: false
 categories: [turing]
 tags: [programming, turing]
 permalink: turing-backend-prep-troubleshooting-guide
+image: /images_2020/turing-prep-series-cover.jpg
 ---
 
 Pretty much any time I hear the same question twice, I will try to add a section here for it, and make it as findable by future students as possible.

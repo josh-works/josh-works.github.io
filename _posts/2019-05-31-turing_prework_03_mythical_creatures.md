@@ -6,6 +6,7 @@ crosspost_to_medium: false
 categories: [turing]
 tags: [programming, turing]
 permalink: turing-backend-prep-mythical-creatures
+image: /images_2020/turing-prep-series-cover.jpg
 ---
 
 {% include turing_prework_index.md %}

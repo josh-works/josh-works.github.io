@@ -7,6 +7,7 @@ crosspost_to_medium: false
 categories: [programming]
 tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-wizard
+image: /images_2020/turing-prep-series-cover.jpg
 ---
 
 {% include turing_prework_index.md %}

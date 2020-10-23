@@ -25,11 +25,11 @@ We'll do this by working on, (and completing) small Ruby exercises.
 You might be thinking: 
 > Josh. This already sounds like a lot of work. I finished my prework, and I know Turing's gonna be brutal. Why should I do this _optional_ work, instead of enjoying my last days of freedom?
 
-Good question, reader. If you spend 10 hours on this material, between now and when Turing starts, you'll be a standard deviation improved from your baseline. 
+Good question, reader. If you spend 10 hours on this material, between now and when Turing starts, you'll be much improved from your baseline. 
 
-A standard deviation would move someone from 50th percentile to 84th percentile, or it would move someone from 25th percentile to 50th percentile. 
+If you think you can spend _more_ than ten hours on this work (perhaps you've stumbled across this resource weeks/months before Turing's starting) you'll see more than a standard deviation improvement. If you put 20+ hours into this, you'll be in the top 20% of the cohort. 
 
-If you think you can spend _more_ than ten hours on this work (perhaps you've stumbled across this resource weeks/months before Turing's starting) you'll see more than a standard deviation improvement. If you put 20+ hours into this, you'll be in the top 20% of the cohort. 1/4th of students who enter Turing will have to repeat mod 1 or mod 2, so if you think it's even remotely possible you could be in that group, the 20+ hours you invest in these resources will save you at least 250 hours of study, $5000, and you'll graduate six weeks earlier than you otherwise would. 
+1/4th of students who enter Turing will have to repeat mod 1 or mod 2, so if you think it's even remotely possible you could be in that group, the 20+ hours you invest in these resources will save you at least 250 hours of study, $5000, and you'll graduate six weeks earlier than you otherwise would. 
 
 > Josh, this isn't convincing to me. I don't want to do this extra work.
 

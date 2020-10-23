@@ -6,13 +6,14 @@ crosspost_to_medium: false
 categories: [turing]
 tags: [programming, turing]
 permalink: turing-backend-prep-arrays-hashes-nested-collections
+image: /images_2020/turing-prep-series-cover.jpg
 ---
 
 {% include turing_prework_index.md %}
 
 So far, we've covered some [string manipulation]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) and did a few [mythical creatures]({{ site.baseurl }}{% link _posts/2019-05-31-turing_prework_03_mythical_creatures.md %}). 
 
-You totally don't have to look through the screencasts in order. I just wanted to call out array/hash manipulation on its own page. 
+You totally don't have to look through the screencasts in the order I've listed below. I just wanted to call out array/hash manipulation on its own page.
 
 [You can also look through the whole playlist](https://www.youtube.com/playlist?list=PLziI1EoC2-jdfrIdeqUNHYVTnq99uVm6I).
 

@@ -5,6 +5,7 @@ date:  2019-05-19 06:00:00 -0700
 crosspost_to_medium: false
 categories: [turing]
 tags: [programming, turing]
+image: /images_2020/turing-prep-series-cover.jpg
 permalink: turing-backend-prep-02-first-tests-and-making-them-pass
 ---
 

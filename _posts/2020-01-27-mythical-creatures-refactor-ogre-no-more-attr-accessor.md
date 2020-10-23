@@ -7,6 +7,7 @@ date:  2020-01-27 06:00:00 -0700
 categories: [programming]
 tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-ogre
+image: /images_2020/turing-prep-series-cover.jpg
 ---
 
 {% include turing_prework_index.md %}
