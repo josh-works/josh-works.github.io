@@ -18,7 +18,7 @@ As of late 2020, I've got three primary projects:
 
 I love to help software developers level up their skills. All this happens at [intermediateruby.com](https://intermediateruby.com/).
 
-This takes place via 1:1 coaching/conversations, small-group training, and detailed, bepoke resources to level up very specific skills, like: `effective Nokogiri usage`, `becoming effective with background jobs`, `Rubocop usage`, and much more.
+This training takes place via 1:1 coaching/conversations, small-group training, and detailed, bespoke resources to level up very specific skills, like: `effective Nokogiri usage`, `becoming effective with background jobs`, `Rubocop usage`, and much more.
 
 I once gave a 40 minute talk on how software developers should embrace working with other non-development teams at their company: [Combining "the Business" and Improving the Performance of a Rails App]({{ site.baseurl }}{% link _pages/boulder_ruby_group.md %})
 
@@ -32,21 +32,19 @@ I operate at both the strategic/consulting level _and_ the tactical/implementati
 
 ### 3. Helping my hometown of Golden, CO legalize an authentic and beautiful architectural style
 
-This project is far and away the most impactful and potentially valuable project I've ever worked on. 
-
-Most of my writing is focused on this issue, and I'm experimenting with an interesting medium for telling a story.
+This last project is far and away the most impactful, potentially valuable, and experimental project I'm working on.
 
 I use an email campaign as my experimental medium. 
 
 > Email isn't original at all, Josh. 🙄 
 
-I know, I know! It's not email _per se_, it's how I've structured the information within the email.
+I know, I know! It's not experimental because I send emails, it's experimental because of how I've structured the information within the email.
 
 If you sign up today, you'll get about 15 emails before "catching up" with what I'm writing to the list right now.
 
-It's an interesting format, but I've had an absolute blast, and lots of thoughtful people from the internet have written me interesting and helpful responses.
+It's an interesting format; I've had an absolute blast, and lots of thoughtful people from the internet have written me interesting and helpful responses.
 
-I'd _love_ for you join. It'll make sense soon.
+I'd _love_ for you join:
 
 <aside class="ck-form">
   <h4>Are you intrigued? Are you willing to join this little project?</h4>
