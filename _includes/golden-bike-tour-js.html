@@ -1,0 +1,46 @@
+<script src="https://js.stripe.com/v3"></script>
+<script>
+  console.log("hi");
+
+// function for bike tour (premium)
+(function() {
+  var stripe = Stripe('pk_live_sPYviTcMAWXUxiZKnVtA1zW300d6I1ltcW');
+
+  var checkoutButton = document.getElementById('checkout-button-sku_IGMDluUS1LM4Ok');
+  checkoutButton.addEventListener('click', function () {
+    stripe.redirectToCheckout({
+      lineItems: [{price: 'sku_IGMDluUS1LM4Ok', quantity: 1}],
+      mode: 'payment',
+      successUrl: window.location.protocol + '//josh.works/bike-tour-booked',
+      cancelUrl: window.location.protocol + '//josh.works/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+// function for bike tour, basic
+(function() {
+var stripe = Stripe('pk_live_sPYviTcMAWXUxiZKnVtA1zW300d6I1ltcW');
+
+var checkoutButton = document.getElementById('checkout-button-sku_IGM8Pq01QMHGdP');
+checkoutButton.addEventListener('click', function () {
+  stripe.redirectToCheckout({
+    lineItems: [{price: 'sku_IGM8Pq01QMHGdP', quantity: 1}],
+    mode: 'payment',
+    successUrl: window.location.protocol + '//josh.works/bike-tour-booked',
+    cancelUrl: window.location.protocol + '//josh.works/canceled',
+  })
+  .then(function (result) {
+    if (result.error) {
+      var displayError = document.getElementById('error-message');
+      displayError.textContent = result.error.message;
+    }
+  });
+});
+})();
+</script>
+
