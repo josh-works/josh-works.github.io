@@ -5,6 +5,8 @@ status: publish
 type: page
 published: true
 meta: {}
+categories: [talks]
+tags: [rails_performance, rails, programming]
 permalink: boulder_ruby_group
 image: "images_2020/2020-08-21 at 9.08 AM.jpg"
 ---
