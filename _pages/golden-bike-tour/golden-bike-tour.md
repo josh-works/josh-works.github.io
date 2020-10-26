@@ -19,6 +19,8 @@ And thus this page was born!
 
 Here's a few sample rides of what the bike tour might look like. Going forward, I'll make sure to record the actual bike tours, and I'll include pictures _from_ the tour.
 
+[![a golden bikeride](/_pages/golden-bike-tour/strava-trip-03.jpg)](https://www.strava.com/activities/4055046912)
+
 [![biking around Golden](/_pages/golden-bike-tour/strava-map-01.jpg)](https://www.strava.com/activities/4234838580)
 
 Here's another bike ride:
