@@ -76,7 +76,7 @@ _update: whoa! The group laughs 8 times in the first 2.5 minutes! I just counted
 
 I'd love to chat about anything loosely related to what's covered in that talk.
 
-- [Move Slow And Improve Things (Boulder Ruby Group)]({{ site.baseurl }}{% link _pages/boulder_ruby_group.md %})
+- [Move Slow And Improve Things (Boulder Ruby Group)]({{ site.baseurl }}{% link _posts/boulder_ruby_group.md %})
 
 
 Lets get coffee! 
