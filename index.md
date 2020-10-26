@@ -67,7 +67,7 @@ I live in Golden, CO, and what's true in Charleston, South Carolina is true in G
 
 > Josh, why is this "local and authentic" building style _illegal_?
 
-Great question!. It's a bit of a winding story, which is why it takes a few emails to unpack.
+Great question! It's a bit of a winding story, which is why it takes a series of emails to unpack.
 
 There's three classes of laws that make the beautiful urbanism illegal:
 
@@ -100,3 +100,5 @@ I've written over 250 posts on my own website, and others around the internet. H
 
 
 {% include newsletter.html %}
+
+[^literally-not-figuratively]: I mean _literally_ in the original sense, not the modern "figurative" sense. I have goals, all of them relate to other people. You're part of those people.
