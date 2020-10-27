@@ -9,11 +9,36 @@ image: ""
 
 I've been doing bike tours of Golden with friends. I do the "tours" because I enjoy biking around Golden, and I like to share that joy with others. 
 
+### What we'll see and discuss
+
+Every bike tour is different, but will cover topics like:
+
+- Local restaurants and bars
+- Historic neighborhoods
+- Particularly beautiful homes
+- My neighborhood
+- Golden's largest and smallest buildings
+- Coors Buildings
+- Every single parking garage in Golden
+- My favorite allys in the city, and why
+
+We'll ride our bikes across a range of surfaces:
+
+- Sidewalks
+- Walk/bike paths
+- Streets
+- Parking lots
+- Dirt & Gravel
+
 I was exchanging emails about a bike tour with someone, and he was the third person to say:
 
 > You should start charging for your tours.
 
 And thus this page was born!
+
+### What participants have said:
+
+Testamonials/quotes coming soon! 
 
 ### Go on a bike tour of Golden with Josh
 
