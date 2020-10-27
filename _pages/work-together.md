@@ -56,9 +56,9 @@ _Much of my value-add comes from the fact that I understand key motivations for 
 
 <div class="testamonial" markdown='1'>
 
-<span>Former coworker, Product Manager</span>
+<span>Former coworker/Senior Product Manager</span>
 
-> Josh, you're a software developer with an interesting mix of skills. Your background in sales and support lend you rare and valuable insights. 
+> [Josh] is bound to be successful wherever he goes. His background in sales and support gives [Josh] an edge I have never seen from a developer before.
 
 </div>
 
