@@ -20,7 +20,7 @@ I love to help software developers level up their skills. All this happens at [i
 
 This training takes place via 1:1 coaching/conversations, small-group training, and detailed, bespoke resources to level up very specific skills, like: `effective Nokogiri usage`, `becoming effective with background jobs`, `Rubocop usage`, and much more.
 
-I once gave a 40 minute talk on how software developers should embrace working with other non-development teams at their company: [Combining "the Business" and Improving the Performance of a Rails App]({{ site.baseurl }}{% link _posts/boulder_ruby_group.md %})
+I once gave a 40 minute talk on how software developers should embrace working with other non-development teams at their company: [Combining "the Business" and Improving the Performance of a Rails App]({{ site.baseurl }}{% link _posts/2018-02-10-boulder_ruby_group.md %})
 
 Intrigued? [Let's talk about it]({{ site.baseurl }}{% link _pages/work-together.md %})
 
@@ -96,7 +96,7 @@ I've written over 250 posts on my own website, and others around the internet. H
 - [Remote Job Hunting Resources for Turing Grads and Anyone Else]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
 - [A little bit of slope makes up for a lot of y-intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
 - [Rails Migrations: When you can't add a uniqueness constraint because you already have duplicates]({{ site.baseurl }}{% link _posts/2018-09-28-rails_migrations_add_unique_constraint_with_existing_duplicates.md %})
-- [Boulder Ruby Group: Developers should _embrace_ working with the non-development parts of the business, and the constraints this entails. (30 min)]({{ site.baseurl }}{% link _posts/boulder_ruby_group.md %})
+- [Boulder Ruby Group: Developers should _embrace_ working with the non-development parts of the business, and the constraints this entails. (30 min)]({{ site.baseurl }}{% link _posts/2018-02-10-boulder_ruby_group.md %})
 
 
 {% include newsletter.html %}
