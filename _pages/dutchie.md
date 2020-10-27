@@ -15,17 +15,15 @@ Dutchie has a bunch of [open roles](https://dutchie.com/careers).
 
 Seventeen, as of October 13th. Most open roles are in Engineering, but you've got a few Sales and Success roles. I could be a good fit for one of the engineering roles, _or_ a role that does not yet exist, but reflects the growth you're seeing across all functions of the business.
 
-A few days ago, I met (via Zoom) with Chris Hough, an engineer at Dutchie who works remotely from Boulder. He and I spoke about his experience helping software developers grow their skills and ability to deliver business value.
+A few days ago, I met (via Zoom) with Chris Hough, a very experienced engineer at Dutchie, who works remotely from Boulder. He and I spoke about his experience helping software developers simultaneously grow their skills and their ability to deliver business value.
 
-I love to build up my team's skills while building my own (all the while deliving business value). I am starting to scale these efforts at https://intermediateruby.com/, and continue to add resources to help early-career software developers become solid "mid-level" developers[^intermediate-ruby-resources]. 
+I love to build up my team's skills while building up my own skills, all the while deliving business value. I am starting to scale these efforts beyond 1:1 pairing at [https://intermediateruby.com/](https://intermediateruby.com/), and continue to add resources to help early-career software developers become solid "mid-level" developers[^intermediate-ruby-resources]. 
 
-At the end of the conversation I had with Chris, he recommended me reaching out to Dutchie, to explore working together. This page is the most natural way for me to 
+At the end of the conversation I had with Chris, he recommended me reaching out to Dutchie, to explore working together. This page is the most natural way for me to do just that.
 
 Dutchie is a B2B SaaS, product-based company with a well-defined target user-base; this space is where I work best.
 
 My strengths span sales, support, marketing, and engineering. I want to capitalize on opportunities to solve problems for Dutchie's customers _and_ employees, building trust all the while.
-
-
 
 ## Reasons I like Dutchie, which relate to reasons I can bring value to Dutchie
 
