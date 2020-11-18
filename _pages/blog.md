@@ -3,12 +3,11 @@ layout: page-no-anchor
 title: Blog
 permalink: /blog
 ---
+I've got >250 blog posts, so here's a bit of a best-of section.
 
-## Featured Articles
+[Click here to jump to the full list](#all-blog-posts-order-by-date_published-desc)
 
-Below this curated list is a full list of the ~240 posts available on my website. 
-
-### Programming-related
+### Best-of: Programming-related
 
 I learn by writing things down, and refer to my own writing regularly to refresh my memory on how to do something. 
 
@@ -23,7 +22,7 @@ _note: I also run [https://intermediateruby.com/](https://intermediateruby.com/)
 - [Workflow for developers (AKA My current tools)]({{ site.baseurl }}{% link _posts/2017-05-27-developer-workflow.md %})
 - [Playing with the HTTP send/response cycle in Ruby, without Faraday ("HTTP Yeah You Know Me" project)]({{ site.baseurl }}{% link _posts/2017-04-07-playing-with-the-http-sendresponse-cycle-in-ruby.md %})
 
-### Non-programming Miscelaneous 
+### Best-of: Non-programming Miscelaneous 
 
 "Programming" is a narrow domain. I vastly prefer to think of myself as a problem solver who sometimes uses code. Here's a collection of writings from the last ~10 years I've been writing. Most of it is from before I became a software developer.
 
@@ -38,7 +37,7 @@ _note: I also run [https://intermediateruby.com/](https://intermediateruby.com/)
 - [Build a Personal Website in Jekyll - A Detailed Guide For First-Timers]({{ site.baseurl }}{% link _posts/2020-08-06-setting-up-basic-jekyll-site-for-turing-backend-students.md %})
 - [Talent is Overrated]({{ site.baseurl }}{% link _posts/2014-01-09-if-you-can-learn-anything-should-you.md %})
 
-### Annual Reviews
+### Best-of: Annual Reviews
 
 I've done annual reviews for the last few years. I enjoy reading _other_ people's annual reviews, so I'll make it easy for others to find mine, if this is their cup of 🍵.
 
@@ -48,7 +47,7 @@ I've done annual reviews for the last few years. I enjoy reading _other_ people'
 - [2016 Annual Review]({{ site.baseurl }}{% link _posts/2017-01-11-2016-biggest-lesson-most-dangerous-books.md %})
 - [2015 Annual Review]({{ site.baseurl }}{% link _posts/2016-01-23-2015-the-year-i-didnt-think-much.md %})
 
-### On Books
+### Best-of: Books
 
 I read. A lot. 
 
