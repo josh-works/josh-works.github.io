@@ -10,7 +10,17 @@ permalink: was-jesus-ethics-normative
 image: /images/title_image.jpg
 ---
 
-I want to discuss the central claims of a book I've read recently. 
+I want to discuss the central claims of a book I've read recently, but it relates to some other threads that I need to weave together.
+
+The book's title is: [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus) by John Yoder. 
+
+I'd not heard of this book, or this author, until quite recently. I heard of the book, decided I wanted to read it shortly after hearing of it, ordered it from Amazon, and started reading it. 
+
+I've been recommending this book, or discussing the ideas contained within it, for a while. I wanted to make some of the key pieces easier to share, and here we are. 
+
+This page is a draft. So far, the precipitating cause for all of this is the section of text [I've copied for you to read below](#copy-of-text-from-p11-to-p13)
+
+------------------------------------------
 
 The book is written for persons interested in the topics of:
 
@@ -140,30 +150,50 @@ The author of this book makes two claims, both of which are devestating to the c
 He claims that christians _hide from jesus' relevence_
 
 
+-------------------
 
+## Copy of text from p11 to p13
 
-I'll be writing about this book more soon, but here's a critical piece of it:
+_I, Josh, add some line breaks and comments along the way, to improve my own understanding of the author's points._
 
-_the politics of jesus title, url_
+[...] What I propose here is rather that, once we are sensitized by those questions, we might begin at the front again by seeking to read one portion of the New Testament without making the usual prior negative assumptions about its relevance. 
 
-6 claims of irrelevancy.
+Or let me say it more sharply: 
+**I propose to read the Gospel narrative with the constantly present question, "Is there here a social ethic?"** 
 
-rather that, once we are sensitized by those questions, we might begin at the front again by seeking to read one portion of the New Testament without making the usual prior negative assumptions about its relevance. ortet me say it more sharply: 1 propose to read the Gospel narrative with the constantly present question, "Is there here a social ethic?" I shall, in other words, be testing the hypothesis that runs counter to the prevalent assumptions: the hypothesis that the ministry and the claims of Jesus are best understood as presenting to hearers and readers not the avoidance of political options, but one particular social-political-ethical option..
+I shall, in other words, be testing the hypothesis that runs counter to the prevalent assumptions: 
 
-This study is then addressed to two quite discrete tasks. In sub stance and procedure the two will be distinct, calling for different kinds of methods and demonstration,
+The hypothesis that the ministry and the claims of Jesus are best understood as presenting to hearers and readers not the avoidance of political options, but _one particular social-political-ethical option_.
 
-1. I will attempt to sketch an understanding of Jesus and his ministry of which it might be said that such a Jesus would be of direct Significance for social ethics. This is a task of New Testament research immediately within the concerns of biblical scholarship. 2. I will secondly state the case for considering Jesus, when thus
+This study is then addressed to two quite discrete tasks. In substance and procedure the two will be distinct, calling for different kinds of methods and demonstration.
 
-understood, to be not only relevant but also normative for a contem
+1. I will attempt to sketch an understanding of Jesus and his ministry of which it might be said that such a Jesus would be of direct significance for social ethics. (This is a task of New Testament research immediately within the concerns of biblical scholarship.)
 
-porary Christian social ethic. Let us be fully aware that the endeavor will have any meaning at all only if both of the answers turn out to be affirmative. If for general reasons of systematic and philosophical theology such as have been widely dominant in theological ethics for a long time, Jesus, whoever he was, is no model for ethics, it then becomes immaterial just who he was and what he did.
+2. I will secondly state the case for considering Jesus, when thus understood, to be not only relevant _but also [normative](https://en.wikipedia.org/wiki/Normative)_ for a contemporary Christian social ethic. 
 
-If, on the other hand, Jesus was not like everyone else a political being, or if he demonstrated no originality or no interest in responding to the questions which his sociopolitical environment put to him, it would be pointless to ask about the meaning of his stance for today. To simplify the question and bring it within workable dimensions,
+Let us be fully aware that the endeavor will have any meaning at all only if both of the answers turn out to be affirmative. 
 
-I propose to concentrate largely on one document, on the canonical text of the Gospel according to Luke. Luke's story line provides us with a simple outline, and his editorial stance is often taken to have been a concern to deny that the Christian movement was any threat to Med iterranean society or Roman rule. This centering upon Luke for our scattered soundings is not meant to slant the reading any other Gospel
+If (for general reasons of systematic and philosophical theology such as have been widely dominant in theological ethics for a long time) Jesus, whoever he was, is no model for ethics, it then becomes immaterial just who he was and what he did.[^rephrased-jesus-model]
 
-<!--more-->
-and so forth.
+If, on the other hand, Jesus was not like everyone else a political being, or if he demonstrated no originality or no interest in responding to the questions which his sociopolitical environment put to him, it would be pointless to ask about the meaning of his stance for today. 
 
+To simplify the question and bring it within workable dimensions, I propose to concentrate largely on one document, on the canonical text of the Gospel according to Luke. Luke's story line provides us with a simple outline, and his editorial stance is often taken to have been a concern to deny that the Christian movement was any threat to Mediterranean society or Roman rule. 
 
+This centering upon Luke for our scattered soundings is not meant to slant the reading any other Gospel that the only way to get from the gospel story to ethics, from Bethlehem Rome or to Washington or Saigon, was to leave the story behind. 
+
+I shall be looking more at the events than at the teachings, more at the outlines than at the substance. 
+
+The next pages present soundings rather than a thorough survey.
+
+Nor is it the intention of this book to be exegetically original. 
+
+At no point do I mean to be hazarding unheard-of textual explanations. All that I add is the focusing effect of a consistent, persistent question. 
+
+It is because I claim no originality at this point that I may dispense with some of the pedantic paraphernalia which would be helpful or needful if I were making claims never heard before.
+
+--------------------------------
+
+The book is worth reading. It's complicated, heavily footnoted, and quite academic. 
 [^josh-harris-quote]: [Joshua Harris falling away from faith: 'I am not a Christian'](https://www.christianpost.com/news/joshua-harris-falling-away-from-faith-i-am-not-a-christian.html)
+
+[^rephrased-jesus-model]: Said more directly: "If Jesus is no model for ethics, it is irrelevant just who he was and what he did."
