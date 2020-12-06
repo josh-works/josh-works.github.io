@@ -218,7 +218,17 @@ Here's the text, uneditied by me, except some line breaks and occasional comment
 
 --------------------------------
 
-The book is worth reading. It's complicated, heavily footnoted, and quite academic. 
+The book is worth reading. It's complicated, heavily footnoted, and quite academic.
+
+### Further reading
+
+- [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
+- [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism)
+- [What's up with the Anabaptists? (Josh.works)](https://josh.works/whats-up-with-anabaptists)
+- [Full Copy of 'The Atlanta Zone Plan' from 1922 (josh.works)]({{ site.baseurl }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %})
+
+### Footnotes 
+
 [^josh-harris-quote]: [Joshua Harris falling away from faith: 'I am not a Christian'](https://www.christianpost.com/news/joshua-harris-falling-away-from-faith-i-am-not-a-christian.html)
 
 [^rephrased-jesus-model]: Said more directly: "If Jesus is no model for ethics, it is irrelevant just who he was and what he did."
