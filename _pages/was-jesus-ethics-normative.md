@@ -114,21 +114,35 @@ The nature of things is heald to be adequately perceived in their bare givenness
 
 It is by studying the realities around us, _not by hearing a proclamation from God_, that we discern what is right. 
 
+--------------------------------
 
+I... have the feels, when I read the chapter. I summarized part 1 of chapter 1 above, and included the entire text of part 2 below. But before you read the entire text, let me explain why this particular chapter of this book is stickign with me.
 
-It's language is opaque, highly technical, and precise. My language is intentionally a little looser. 
+If I explain myself properly, I think this book will stick in your head, too.
 
-The author is arguing that _most Christian thinkers today_ would actually think that Jesus is _not_ directly relevant to social ethics, and that his life and ministry bears no relevence to their lives!
+----------------------------------
 
-I was raised in the church (Baptists/non-denom), went to a reformed presbyterian church in college, and have attended presbyterian churches ever since. Calivinism, TULIP, and more. In high school, I attended a church pastored by Joshua Harris. He has since undergone a massive shift in his regard to his faith in Jesus. He used the term "deconstruction"[:josh-harris-quote]. 
+The below quote, and all of the text that I summarized above, is opaque, highly technical, and precise. My language is intentionally a little looser. 
 
-Look up [Deconstruction on Wikipedia](https://en.wikipedia.org/wiki/Deconstruction). Seems to focus a lot on the relationship between text and meaning, concepts of truth and justice, and rapidly touches on other... complicated... topics. law, anthropology, historiography, linguistics, sociolinguistics, psychoanalysis, LGBT studies, and feminism. 
+The author is arguing that _most Christian thinkers today_ would actually think that Jesus is _not_ directly relevant to social ethics, and that his life and ministry bears no relevence to their lives! He's arguing that they have errors in their perception of Jesus' story that prevents them from drawing correct conclusions. 
 
-Anyway, I have a somewhat weary knowledge of several very specific kinds of church and church organizations inside of America today. You, the reader, might be equally familiar with this certain breed of church organization today.  
+_He argues this thesis persuasively._
 
-I think I have been hearing these organizations preaching, my entire life, a message that distills down to `Jesus is irrelevant` . 
+I was raised in the church (Baptists/non-denom), went to a reformed presbyterian church in college, and have attended presbyterian churches ever since. Calivinism, TULIP, and more. In high school, I attended a church pastored by Joshua Harris. He has since undergone a massive shift in his regard to his faith in Jesus. He used the term "deconstruction"[^josh-harris-quote]. 
 
+Look up [`deconstruction` on Wikipedia](https://en.wikipedia.org/wiki/Deconstruction). Seems to focus a lot on the relationship between text and meaning, concepts of truth and justice, and rapidly touches on other... complicated... topics: 
+- Law
+- Anthropology
+- historiography
+- linguistics
+- sociolinguistics
+- psychoanalysis
+- LGBT studies
+- feminism
 
+Anyway, I have a somewhat weary knowledge of several very specific kinds of church and para-church organizations inside of the USA today. You, the reader, might be equally familiar with this certain breed of church organization today.  
+
+I think I have been hearing these organizations preaching, my entire life, a message that distills down to `Jesus is irrelevant`. 
 
 > Since Jesus isn't actually relevant in the modern world, we have to "bridge" from his life in the Bible to any kind of *real* ethical standard. Sure, he's helpful for things like "absolute love" or "humility" or "faith", but the stuff of right and wrong? ethics? We've got to come up with that ourselves!
 
@@ -146,12 +160,17 @@ Most of you would already be horrified. Jaws on the floor. That whole record-scr
 
 I think that this above statement is broadly true for many churches and institutions in America today. 
 
+I maintain that churches are actively proclaiming that _Jesus is irrelevant_ and the world around them is correctly inferring the implications of this message. 
 
+This proclamation explains most concisely the precipitous "decline of the power of the church in America", and explains most of the moral hand-wringing that the "Christians" in America engage in. 
 
-The author of this book makes two claims, both of which are devestating to the church if they're true. 
+Furthermore, this error _is correctable_, and I would vastly prefer that as many people in the _Jesus is irrelevant_ camp (even the most defensive and angry members) join me on the _Jesus' social ethic is relevant and [normative](https://en.wikipedia.org/wiki/Normative) in #{current_year}_ camp. 
 
-He claims that christians _hide from jesus' relevence_
+I plan on soon sharing this page with individuals who I have substantial respect for, and who most empatically do _not_ share my views of Jesus' social ethic and it's implications therein. They range from Athiest, to agnostic, to non-participatory, to one of many eastern religions, which I desperately want to understand more about, to many other options.
 
+As each of you read this page, consider it's target audience, and what _you_ think the implications are.
+
+Questions? want to follow along? let me know as such, however we usually communicate. I've said far more, and have lots more to think about. 
 
 -------------------
 
