@@ -164,7 +164,7 @@ I maintain that churches are actively proclaiming that _Jesus is irrelevant_ and
 
 This proclamation explains most concisely the precipitous "decline of the power of the church in America", and explains most of the moral hand-wringing that the "Christians" in America engage in. 
 
-Furthermore, this error _is correctable_, and I would vastly prefer that as many people in the _Jesus is irrelevant_ camp (even the most defensive and angry members) join me on the _Jesus' social ethic is relevant and [normative](https://en.wikipedia.org/wiki/Normative) in #{current_year}_ camp. 
+Furthermore, this error _is correctable_, and I would vastly prefer that as many people in the _Jesus is irrelevant_ camp (even the most defensive and angry members) join me in the _Jesus' social ethic is relevant and [normative](https://en.wikipedia.org/wiki/Normative) in #{current_year}_ camp. 
 
 I plan on soon sharing this page with individuals who I have substantial respect for, and who most empatically do _not_ share my views of Jesus' social ethic and it's implications therein. They range from Athiest, to agnostic, to non-participatory, to one of many eastern religions, which I desperately want to understand more about, to many other options.
 
