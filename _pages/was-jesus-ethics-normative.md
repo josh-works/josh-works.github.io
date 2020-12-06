@@ -188,9 +188,7 @@ Here's the text, uneditied by me, except some line breaks and occasional comment
 > Or let me say it more sharply: 
 > **I propose to read the Gospel narrative with the constantly present question, "Is there here a social ethic?"** 
 > 
-> I shall, in other words, be testing the hypothesis that runs counter to the prevalent assumptions: 
-> 
-> _That the ministry and the claims of Jesus are best understood as presenting to hearers and readers not the avoidance of political options, but **one particular social-political-ethical option**_.
+> I shall, in other words, be testing the hypothesis that runs counter to the prevalent assumptions, and I will be exploring the possibility that the ministry and the claims of Jesus are best understood as presenting to hearers and readers not the avoidance of political options, but **one particular social-political-ethical option**_.
 > 
 > This study is then addressed to two quite discrete tasks. In substance and procedure the two will be distinct, calling for different kinds of methods and demonstration.
 > 
