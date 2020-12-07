@@ -128,7 +128,16 @@ The author is arguing that _most Christian thinkers today_ would actually think 
 
 _He argues this thesis persuasively._
 
-I was raised in the church (Baptists/non-denom), went to a reformed presbyterian church in college, and have attended presbyterian churches ever since. Calivinism, TULIP, and more. In high school, I attended a church pastored by Joshua Harris. He has since undergone a massive shift in his regard to his faith in Jesus. He used the term "deconstruction"[^josh-harris-quote]. 
+I was raised in the church (Baptists/non-denom), went to a reformed presbyterian church in college, and have attended presbyterian churches ever since. 
+
+I can and have talked about Calivinism, TULIP, various theological topics, etc. 
+
+In high school, I attended a church pastored by Joshua Harris, who has has since repudiated nearly everything he stood for. 
+
+He has undergone a massive shift in his regard to his faith in Jesus. He used the term "deconstruction"[^josh-harris-quote], or "falling away from the faith".
+
+I think the thesis of this book effortlessly explains the reasons for his initial success, the turmoil of the Covenant Life Church and the rest of those associated Christian organizations, and the generel sense of disgust many diverse groups have for this collection of organizations.
+
 
 Look up [`deconstruction` on Wikipedia](https://en.wikipedia.org/wiki/Deconstruction). Seems to focus a lot on the relationship between text and meaning, concepts of truth and justice, and rapidly touches on other... complicated... topics: 
 - Law
