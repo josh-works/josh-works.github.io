@@ -5,7 +5,7 @@ description: "Ethan Magnass from Grace Anglican Church in Grove City PA has give
 date: 2020-12-14 06:00:00 -0700
 crosspost_to_medium: false
 categories: [sermons]
-tags: [sermons, jesus_christ]
+tags: [sermons, jesus_christ, podcast]
 permalink: sermons
 image: /images/title_image.jpg
 ---
@@ -18,7 +18,7 @@ Ethan Magness is the rector at [Grace Anglican Church](http://graceanglicanonlin
 
 
 
-# Sermon Series on Joseph
+## Sermon Series on Joseph
 
 Grace Anglican Church podcast feed ([PocketCasts](https://play.pocketcasts.com/podcasts/6de56a60-e04e-0134-ebdd-4114446340cb), [Apple Podcasts](https://podcasts.apple.com/us/podcast/grace-anglican-church/id1209329002))
 
@@ -35,7 +35,7 @@ Grace Anglican Church podcast feed ([PocketCasts](https://play.pocketcasts.com/p
 1. [St Joe (Part XI) – Mummies – Genesis 50](http://graceanglicanonline.com/podcast/st-joe-part-xi-mummies-genesis-50/)
 
 
-# Sermon on Matthew 5:43-48
+## Sermon on Matthew 5:43-48
 
 From November 4, 2018: [Gollum & the Outstretched Hand - Matthew 5](http://graceanglicanonline.com/podcast/gollum-the-outstretched-hand-matthew-5/)
 
@@ -55,8 +55,12 @@ I have far more thoughts on the topic, but for now, this should help you, the re
 
 ## Todo
 
-I'd like to get high-quality transcripts of these sermons. There are services that do this, I'll pay for it sometime soon.
+- I'd like to get high-quality transcripts of these sermons. There are services that do this (Like [Rev](https://www.rev.com/)), I'll pay for it sometime soon. I want _good_ transcripts, not just AI-generated transcripts. It took me like two hours to clean up a few minutes of AI-generated text for [My Thoughts on Eric Weinstein's Thoughts on Pia Kalani's Thoughts]({{ site.baseurl }}{% link _posts/2020-08-08-eric-weinstein-quote.md %})
 
 At some point I'll weave together other threads I've got sketched out, but are not ready for public consumption. 
 
+## Additional Reading
+
+- [What's up with the Anabaptists? (josh.works)]({{ site.baseurl }}{% link _pages/whats-up-with-anabaptists.md %})
+- [Was Jesus' behavior normative? (josh.works)]({{ site.baseurl }}{% link _pages/was-jesus-ethics-normative.md %})
 

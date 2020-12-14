@@ -4,8 +4,8 @@ title:  "My Thoughts on Eric Weinstein's Thoughts on Pia Kalani's Thoughts"
 description: ""
 date:  2020-08-06 06:00:00 -0700
 crosspost_to_medium: false
-categories: []
-tags: []
+categories: [misc]
+tags: [covid, eric-weinstein, podcast]
 permalink: my-thoughts-on-erics-thoughts-on-pias-thoughts
 image: /images/title_image.jpg
 ---
