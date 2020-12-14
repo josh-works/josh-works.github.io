@@ -24,6 +24,9 @@ Here's the paper abstract, lightly reformatted by me for readability:
 >
 > It motivates exploratory infants, mathematicians, composers, artists, dancers, comedians, yourself, and (since 1990) artificial intelligence.
 
+
+<!--more-->
+
 Yeah, I know, it was hard for me to read the first time too. I had to re-read bits of the abstract a few times, and it makes reference to obscure things, like when he said:
 
 > data that is novel and surprising but not in the traditional sense of Boltzmann and Shannon...
@@ -33,20 +36,17 @@ Do you know that reference? I have no idea who Boltzmann is, but I happen to kno
 I know what's being implied because I happened to have read [A Mind At Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/book/show/32919530-a-mind-at-play) and far more on topics related to information theory. 
 
 
-Text[^fn1]. 
+Anyway, I think of this paper _all the time_, as I find unexpected moments of delight, surprise, expected outcomes, and far more.
 
-<!--more-->
+
+
+
+
 
 
 ### Further reading
 
-- []()
-- []()
-- []()
-- [Full Copy of 'The Atlanta Zone Plan' from 1922 (josh.works)]({{ site.baseurl }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %})
+- [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes (arXiv.org)](https://arxiv.org/abs/0812.4360)
 
 ### Footnotes 
 
-[^fn1]: [Joshua Harris falling away from faith: 'I am not a Christian'](https://www.christianpost.com/news/joshua-harris-falling-away-from-faith-i-am-not-a-christian.html)
-
-[^fn2]: Said more directly: "If Jesus is no model for ethics, it is irrelevant just who he was and what he did."
