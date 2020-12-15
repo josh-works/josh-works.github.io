@@ -6,8 +6,11 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
 
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: '%B %Y' }}</time>
-
-  <p class="entry-tags">tag(s): {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags#{{ tag | cgi_escape | downcase }}" title="Posts tagged {{ tag }}" rel="tag">{{ tag | downcase }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
+  <section class="post-metadata">
+    <div class="entry-tags">tag(s): {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags#{{ tag | cgi_escape | downcase }}" title="Posts tagged {{ tag }}" rel="tag">{{ tag | downcase }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</div>
+    {% include reading_time.html %}
+  </section>
+  
   
   {% include toc.html html=content %}
   {% include anchor_headings.html html=content anchorBody="#" anchorClass="anchor"%}
