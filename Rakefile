@@ -16,7 +16,7 @@ task :new_draft, [:options] do |task, args|
   today = Date.today.to_s
   
   content.gsub!('DATE', today)
-  content.gsub!('Title', args[:options])
+  content.gsub!('Title', args[:options].capitalize)
   content.gsub!('this-post-url', args[:options])
   File.open("_drafts/#{today}-#{args[:options]}.md", "a") do |file|
     file.write(content)
