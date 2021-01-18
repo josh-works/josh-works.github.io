@@ -1,3 +1,4 @@
+require './scripts/new_draft_builder.rb'
 require 'html-proofer'
 
 task :test do
