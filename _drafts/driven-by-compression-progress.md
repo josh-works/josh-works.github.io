@@ -24,6 +24,9 @@ Here's the paper abstract, lightly reformatted by me for readability:
 >
 > It motivates exploratory infants, mathematicians, composers, artists, dancers, comedians, yourself, and (since 1990) artificial intelligence.
 
+I read this mid-2019:
+
+![read in 2019](/images_2020/compression-progress.jpg)
 
 <!--more-->
 
