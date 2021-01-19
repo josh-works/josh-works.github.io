@@ -11,14 +11,10 @@ task :test do
   HTMLProofer.check_directory("./_site", options).run
 end
 
+desc "create new draft with `rake \"new_draft['2020-wrapup']\"`"
 task :new_draft, [:options] do |task, args|
-  desc "create a new draft"
-  content = File.open("_drafts/_post_template.md", "r").read
+  content = NewDraftBuilder.new(args[:options]).content
   today = Date.today.to_s
-  
-  content.gsub!('DATE', today)
-  content.gsub!('Title', args[:options].capitalize)
-  content.gsub!('this-post-url', args[:options])
   File.open("_drafts/#{today}-#{args[:options]}.md", "a") do |file|
     file.write(content)
   end
