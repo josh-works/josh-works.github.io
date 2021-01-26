@@ -284,11 +284,12 @@ espectable salary to
 I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](https://somuchtoread.wordpress.com/the-power-broker/). That website doesn't have deep-linking to the page, so it's easier to stash notes here:
 
 > **Chapter 36: The Meat Ax**
+
 > Caro is firing on all cylinders now, and it turns out that “The Meat Ax” is how he describes Moses’ approach to building roads.  In a way, this chapter is an introduction to the following two brilliant chapters, “One Mile” and “One Mile: Afterward.” The title of the chapter is referring to how  Moses once described the challenge of building in “an overbuilt metropolis,” noting the only way to achieve success is to “hack your way with a meat ax.” This is horrifying language to Caro and he intends to show how Moses’ meat ax destroyed homes and families and neighborhoods.
 > 
 > Caro writes that “it is no accident that most of the world’s great roads–ancient and modern alike–had been associated with totalitarian regimes.” The reference is obvious to anyone who has read 846 pages of this book. Moses, “had a dictator’s powers”, and was able to cut and carve up communities to work his will on the people because of his power. He, like others in command of a totalitarian regime, was able to make a decision because his mind, and his mind alone, had been persuaded.
 > 
-> The title of this section of the book is “The Lust for Power,” and this chapter fits nicely into that theme. Caro points out that Moses enjoyed working his will on a neighborhood–“he loved to swing [the meat ax].” It’s a damning charge: Moses isn’t someone who wants to build a project because the project itself is good, he wants to build the project because it strengthens his own power and feeds his own ego.
+> The title of this section of the book is “The Lust for Power,” and this chapter fits nicely into that theme. Caro points out that Moses enjoyed working his will on a neighborhood–“he loved to swing [the meat ax].” It’s a damning charge: Moses isn’t someone who wants to build a project because the project itself is good, **he wants to build the project because it strengthens his own power and feeds his own ego.**
 > 
 > At times, I’m still in awe of Moses. Believe me, Caro makes it tough to like the guy. But he is pressing forward and paying attention to infrastructure. Neighborhood groups be damned. In the Cincinnati bridge example we’ve already considered, a true Moses-like figure would run roughshod over the buildings and houses in Covington that are adding money and time and opposition to the project. Our inability to be like Moses is delaying by years a bridge that is imperative. Moses always claimed that “succeeding generations would be grateful.” What are we going to say generations from now if we never build that bridge because we’re worried about a few houses? Wouldn’t we be grateful if we had our Moses once in a while?
 > 
@@ -306,3 +307,5 @@ I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](http
 - [Beware of the Robert Moses Revisionists](https://web.archive.org/web/20080510203822/http://www.robertmosesnyc.com/beware.html)
 - [The City-Shaper (by Robert Caro!)](https://web.archive.org/web/20130116164002/http://www.robertmosesnyc.com/NYer.html)
 - [Robert Moses and the Cross-Bronx Expressway](https://blogs.baruch.cuny.edu/his3460fall2013/?p=217)
+- [The Power Broker by Robert Caro: Summary & Notes](https://willemharmsen.com/notes/the-power-broker/)
+- [The Power Broker notes (nateliason.com)](https://www.nateliason.com/notes/the-power-broker)
