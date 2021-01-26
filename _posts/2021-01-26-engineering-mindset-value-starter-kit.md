@@ -2,7 +2,7 @@
 layout: post
 title:  "Two Critical Books and Two Critical Articles"
 description: ""
-date: 2020-12-14 06:00:00 -0700
+date: 2021-01-26 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
 tags: [software]
