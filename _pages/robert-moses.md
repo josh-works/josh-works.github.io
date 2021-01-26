@@ -104,7 +104,39 @@ Here's the audible summary:
 ----
 
 
+### Introduction (part 5): A Sense of Scale - The Cross-Bronx Expressway
 
+What do you think of when someone says "The Bronx"?
+
+_Everything you think about The Bronx, and indeed New York City, and the weight NYC has had on global culture_ is shaped by Robert Moses.
+
+From [Robert Moses and the Cross-Bronx Expressway](https://blogs.baruch.cuny.edu/his3460fall2013/?p=217)
+
+Here's the Cross-Bronx Expressway:
+
+![what-he-did](/images_2021/cross-bronx-expw.jpg)
+
+Another view of it: It crosses that elevated bridge on the right, and continues to the bottom left of the picture:
+![what-he-did](/images_2021/Aerial_view_of_the_Bronx_Harlem_River_Harlem_Hudson_River_George_Washington_Bridge_2008-05-101.jpg)
+
+What do you think it looked like to cleave such a deep cut through a heavily built-up area?
+![what-he-did](/images_2021/home_southbronx.jpg)
+
+> Robert Moses was considered the most “powerful modern builder of all time”. He was know especially for the building of the Cross-Bronx Expressway. 
+> 
+> This highway connected New Jersey, North Manhattan, South Bronx and ended up in in Long Island through wither either the Throgs-Neck Bridge or the Whitestone Bridge. **The building of this new highway system meant that over 60,000 residents would have to be uprooted and relocated to new areas**. Most of these people lived in South Bronx. **Moses led the white exodus out of the Bronx. Most of the white residents moved to either Westchester or Northern Bronx areas** and others moved to small suburban houses being built around the Cross Bronx Expressway in New Jersey. 
+>
+> **The poorer residents who where given a meager $200 per room compensation were forced to move out and settle in new high-rise apartment buildings that were being built. These new behemoths had could include up to 1700 apartments per building.**
+> 
+> As a result of this mass relocation the economy of the Bronx suffered immensely. The South Bronx area (mostly Black and Puerto Rican) lost over 600,000 manufacturing jobs. Youth unemployment rose to 40 percent and in some areas as high as 80 percent. 
+>
+> The most devastating affect of the Cross Bronx Expressway took place when the newly built apartment buildings passed into the hands of slumlords. **These people used many different tactics such as demanding more money when they shut off heat and water supply to the tenants.** 
+>
+> Another tactic that the slumlords used proved to be the most effective and profitable for them. **They would find junkies and rent-a-thugs to set fire to abandoned apartments and then they would collect the insurance polices from the city. The slumlords profited greatly from this enterprise as they collected as much as 150,000 dollars per fire.** The insurance companies didn’t really mind in the begging as they were leasing out many new insurance policies, but after a time even they realized that their costs were beginning to get to high. 
+>
+> In the end as insurance companies refused to provide insurance policies to cover certain buildings in South Bronx and the fires continued to spread, whole city blocks became completely abandoned and opened up a place for crime and gangs to fill the void.
+
+![he ruined lives](/images_2021/snippet-of-xpw.jpg)
 
 
 ### Chapter 34: Moses and The Mayors
@@ -114,10 +146,11 @@ _Note from Josh: The following is an excerpt of chapter 34 of the Power Broker, 
 _This excerpt covers just one of the mayors' overlap with Moses' rule, but the way Moses wields his power over the mayor is absolute, and defies summarization._
 
 _The following is an 11-page excerpt from **The Power Broker**, pages 787-798._
+
 --------------------
 
 
-# IMPY
+#### IMPY
 
 All during August, Moses had been in South America, drawing up a Rockefeller-financed plan of improvements for São Paulo, utterly unaware of the events crushing in on O'Dwyer. But O'Dwyer's resignation was to place the city in his power more completely than ever before.
 
@@ -272,3 +305,4 @@ I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](http
 - [somuchtoread.com section-by-section read-through](https://somuchtoread.wordpress.com/the-power-broker/)
 - [Beware of the Robert Moses Revisionists](https://web.archive.org/web/20080510203822/http://www.robertmosesnyc.com/beware.html)
 - [The City-Shaper (by Robert Caro!)](https://web.archive.org/web/20130116164002/http://www.robertmosesnyc.com/NYer.html)
+- [Robert Moses and the Cross-Bronx Expressway](https://blogs.baruch.cuny.edu/his3460fall2013/?p=217)
