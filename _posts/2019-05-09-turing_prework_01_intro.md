@@ -26,7 +26,7 @@ We'll accomplish these admittedly grand goals by by working on, (and completing)
 
 These exercises _generally_ try to build from "very small step, with lots of support along the way" to "much larger steps, much less help, you will absolutely have to dig around more on your own, but this is a 'happy little accident'."
 
-_**Warning: Footnote tutorial ahead** Click/tap the little numbers, and the page will "jump" to the bottom, and at the end of the footnote, you can click another button that brings you back to the that same number. Practice it at least once!_[^thank-you]
+_**Warning: Footnote tutorial ahead 👉** Click/tap the little numbers, and the page will "jump" to the bottom, and at the end of the footnote, you can click another button that brings you back to the that same number. Practice it at least once!_[^thank-you]
 
 [^thank-you]: Thank you! I made a very earnest request, you clicked the footnote, and now you're reading it. _OR_ you're reading this footnote because you read one of the _later_ footnotes, and noticed this one near it. _That counts too!_
 
