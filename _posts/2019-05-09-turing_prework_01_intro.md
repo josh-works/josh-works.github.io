@@ -30,7 +30,7 @@ _Warning: Footnote tutorial ahead. Click/tap the little numbers, and the page wi
 
 [^thank-you]: Thank you! I made a very earnest request, you clicked the footnote, and now you're reading it. _OR_ you're reading this footnote because you read one of the _later_ footnotes, and noticed this one near it. _That counts too!_
 
-There's many objections or questions that you could raise, right now, as you are reading these words. Possibly on your phone[^i-would-never], but I'd ask that you give it a shot.[^did-you-read-the-footnote] Read the rest of this article (or at least skim it!) _and_ get the first ruby exercise completed (`/data-types/strings.rb`), which is the topic of Chapter 2, and _very much possible and I bet you'll feel proud of yourself in the next ten minutes of fiddling at your terminal._[^now-you-know]
+There's many objections or questions that you could raise, right now, as you are reading these words. You're possibly on your phone[^i-would-never], but I'd ask that you give it a shot, next time you're sitting at your laptop.[^did-you-read-the-footnote] Read the rest of this article (or at least skim it!) _and_ get the first ruby exercise completed (`/data-types/strings.rb`), which is the topic of Chapter 2, and _I bet you'll feel proud of yourself in the next ten minutes of fiddling at your terminal._[^now-you-know]
 
 [^i-would-never]: We must all admit that we all are on our phones in the bathrooms. Somewhere between "50% of the time" and "100%". No shame. High-quality reading time, sometimes!
 [^did-you-read-the-footnote]: Did you read that previous footnote? I sometimes annotate my writing with footnotes. They're not always worth reading, but it's worth recognizing them.
@@ -242,6 +242,8 @@ Well, just click on over to chapter 2:
 
 ### Footnotes 
 
-[^cant-stop]: I know you exist, because I, the author, compulsively read every footnote I encounter in nearly any piece of text, and I know simultaneously how damn useful they can be, but how useless they can be, and I wish an author would just be consistent. Don't drop mind-bending parenthetical footnotes that I have to flip pages to read, _and_ a random book citation in the same text! I want the former, not the latter.
-
-  just know, if that's you, I've got you, and the UI for jumping between footnotes and texts _isn't the worst thing that has ever existed_.
+[^cant-stop]: And some of you take it so seriously you read _every_ footnote. I know you exist, because I, the author, compulsively read every footnote I encounter in nearly any piece of text. 
+    
+    I know how damn useful they can be, but _also_ how useless they can be, and I wish an author would just be consistent. Don't drop mind-bending parenthetical footnotes that I have to flip pages/click things to read, _and_ a note that says "ibid"! I want the former, not the latter.
+    
+    Just know, if this describes you, I've got you, and the UI for jumping between footnotes and text in this document _isn't the worst thing that has ever existed_.

@@ -12,9 +12,6 @@ image: /images/title_image.jpg
 
 
 Text[^fn1]. 
-
-[^fn1]: demo this is a footnote
-  and this is a multi-line footnote
   
 You can do other ones, too.[^like-this]
 <!--more-->
@@ -32,13 +29,27 @@ If you spend 10 hours on this material, between now and when Turing starts, you'
 
 
 
-### Further reading
+### Useful Resources
 
 - []()
 
-### Footnotes 
+--------------------
 
-[^fn1]: demo this is a footnote
-  and this is a multi-line footnote
+#### Footnotes 
+
+[^fn1]: demo this is a footnote. It's long, contains a few sentences, but even long footnotes sometimes need a second paragraph as part of it. 
+    So this is a multi-paragraph footnote.
+    It's possible  (maybe?) to even include code:
+    ```
+    { this: that }
+    ```
+    
+    It can include all sorts of formatting!
+    
+    And images!
+    
+    ![an image](/images_2020/1922-zoning-plan.jpg)
+    
+    > feel free to end it with a quote!
 
 [^like-this]: can be at the bottom. 
