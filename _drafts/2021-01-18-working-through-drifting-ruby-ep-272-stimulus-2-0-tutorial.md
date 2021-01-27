@@ -6,7 +6,7 @@ date:  2021-01-18 06:00:00 -0700
 crosspost_to_medium: false
 categories: [category]
 tags: [tag1, tag2]
-permalink: this-post-url
+permalink: haselman-stimulus
 image: /images/title_image.jpg
 ---
 

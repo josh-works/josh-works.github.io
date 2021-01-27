@@ -6,7 +6,7 @@ date:  2017-12-26 06:00:00 -0700
 crosspost_to_medium: false
 categories: [category]
 tags: [tag1, tag2]
-permalink: this-post-url
+permalink: driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity
 image: /images/title_image.jpg
 ---
 

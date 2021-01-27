@@ -12,39 +12,69 @@ image: /images_2020/turing-prep-series-cover.jpg
 ---
 {% include turing_prework_index.md %}
 
-## Why this series exists
+## Why this "ruby/backend-software-engineering prep series" exists
 
-I intend for this series to be _after_ finishing Turing's [Mod 0 program](https://mod0.turing.io/) and [Mod 0 capstone](https://github.com/turingschool-examples/module_0_capstone)
+_This entire series has been a constant work-in-progress. I say that as I offer an explanation, and ask for your patience for the confusing and unclear bits ahead._
 
-If you don't have enough time to work through these resources, no problem. This is a guide to make Turing _a little easier than it otherwise will be_. Most Turing students have done fine without these resources. 
+The information will be the best fit for someone who's finished Turing's [Mod 0 program](https://mod0.turing.io/) and the [Mod 0 capstone](https://github.com/turingschool-examples/module_0_capstone).
 
-This collection of articles is a guide that will make Turing's mod 1 _much_ easier than it otherwise would be.
+That said, if you get here before finishing (or even starting) the Mod 0 program, you can _probably_ self-serve your way to readiness for this guide, and the upcoming 8+ chapters, if you've got the right mix of available time and eagerness to finish this entire thing.  
 
-We'll do this by working on, (and completing) small Ruby exercises. 
+As you spend time working through the resources you'll soon encounter, you will absolutely learn some tips and tricks and useful ideas, perspectives, mental models, that you wouldn't otherwise have learned at this point in your journey.
 
-You might be thinking: 
-> Josh. This already sounds like a lot of work. I finished my prework, and I know Turing's gonna be brutal. Why should I do this _optional_ work, instead of enjoying my last days of freedom?
+We'll accomplish these admittedly grand goals by by working on, (and completing) a collection of exercises, written in Ruby, which will require you to exercise quite a few skills to finish _even the first exercise_. 
 
-Good question, reader. If you spend 10 hours on this material, between now and when Turing starts, you'll be much improved from your baseline. 
+These exercises _generally_ try to build from "very small step, with lots of support along the way" to "much larger steps, much less help, you will absolutely have to dig around more on your own, but this is a 'happy little accident'."
 
-If you think you can spend _more_ than ten hours on this work (perhaps you've stumbled across this resource weeks/months before Turing's starting) you'll see more than a standard deviation improvement. If you put 20+ hours into this, you'll be in the top 20% of the cohort. 
+_Warning: Footnote tutorial ahead. Click/tap the little numbers, and the page will "jump" to the bottom, and at the end of the footnote, you can click another button that brings you back to the that same number. Practice it at least once!_[^thank-you]
 
-1/4th of students who enter Turing will have to repeat mod 1 or mod 2, so if you think it's even remotely possible you could be in that group, the 20+ hours you invest in these resources will save you at least 250 hours of study, $5000, and you'll graduate six weeks earlier than you otherwise would. 
+[^thank-you]: Thank you! I made a very earnest request, you clicked the footnote, and now you're reading it. _OR_ you're reading this footnote because you read one of the _later_ footnotes, and noticed this one near it. _That counts too!_
 
-> Josh, this isn't convincing to me. I don't want to do this extra work.
+There's many objections or questions that you could raise, right now, as you are reading these words. Possibly on your phone[^i-would-never], but I'd ask that you give it a shot.[^did-you-read-the-footnote] Read the rest of this article (or at least skim it!) _and_ get the first ruby exercise completed (`/data-types/strings.rb`), which is the topic of Chapter 2, and _very much possible and I bet you'll feel proud of yourself in the next ten minutes of fiddling at your terminal._[^now-you-know]
 
-OK. That's on you. I have no idea how to make my case stronger than I already have. If you can think of points that would make my suggestions more compelling, please let me know. 
+[^i-would-never]: We must all admit that we all are on our phones in the bathrooms. Somewhere between "50% of the time" and "100%". No shame. High-quality reading time, sometimes!
+[^did-you-read-the-footnote]: Did you read that previous footnote? I sometimes annotate my writing with footnotes. They're not always worth reading, but it's worth recognizing them.
+[^now-you-know]: I bet you read _one_ of these footnotes. Got it! Now you know how they work! Click the number in the text above, and the page "jumps" down to this line of text. Click the funky arrow at the end of the footnote to return to where you started. Try it! Click the arrow: 
 
-## Time Commitment
+Some of you are already sold and are charging ahead, some of you are still hesitant, or don't take it seriously enough.[^cant-stop] 
+
+If you spend 10 hours on this material, between now and when Turing starts, you'll be much improved from your baseline, and if you're doing Turing you're already committing _a lot_. Time, money, emotional energy, re-arranging your life for a while, _certainly_ thinking more about your financial situation and how much you can/want to spend on baby-sitting. 
+
+If you think you can spend _more_ than ten hours on this work (perhaps you've stumbled across this resource weeks/months before Turing's starting!), you'll be pleased. 
+
+To the more income/expense type persons[^thats-me]:
+
+[^thats-me]: I absolutely bring a a "strong lens." to the world, but I'm not talking about bias, I'm talking about _webcomics_. Don't know what they are? Oh boy, you're in for a treat!
+
+> The energy and focus you spend/invest in/on these resources, and working in your own terminal, editor, etc. will, over time, deliver incrementally more learning or less time, stress, and/or anxiety. 
+
+## How much time should I put into this?
+
+This can take as much or as little as you have to put into it. Start with a little, consider upping it to more. 
+
+As little as a few short _but focused_ sessions spread over a few days could be great. If you can do more than that, and you've got weeks? Great! Try to finish this entire prep series, in detail, and watch all the walk-through videos, pausing them all a bunch of times as you go to play with code in your editor. You'll have a blast! 
+
+However much time you allocate to this, please don't squish out _all_ of the stuff that gives life meaning. If you're able/willing/inclined:
+- Go for walks
+- talk with friends and family
+- do the grocery shopping or take care of your kids for your partner who will be doing a lot more of it once Turing _actually_ starts
+- Relax with a book (Maybe one of the books I'm about to recommend!)
+- Do something physical
+
 
 I'm not sure how much time this will all take. Like I said, 10 hours will make a big difference, 20 hours will permanently change your Turing experience. Budget 20 hours ± 5 hrs. You could do this in a long weekend, or a few evenings in a week, but you'll get the most time if you spread your efforts across at least two weeks, to give the material time to stew and soak in.
 
-## OK, I'm sold. I'll spend the time you suggest. Where do I get started?
+## If that's a reasonable amount of time, where do I get started?
 
 Good question. The answer involves a long digression and tortured analogy on the topics of:
+
 - screwdrivers
 - how to learn hard things
-- why you should do drills 
+- why you should "do drills" 
+
+Yes, drills, like this:
+
+<iframe src="https://giphy.com/embed/cOQBUfE46cdKP3lFNt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nba-cOQBUfE46cdKP3lFNt">via GIPHY</a></p>
 
 By the end of this particular post, I have a few objectives for you:
 
@@ -209,3 +239,9 @@ Be swayed by other students who have worked through this guide and have felt ver
 Well, just click on over to chapter 2:
 
 {% include turing_prework_index.md %}
+
+### Footnotes 
+
+[^cant-stop]: I know you exist, because I, the author, compulsively read every footnote I encounter in nearly any piece of text, and I know simultaneously how damn useful they can be, but how useless they can be, and I wish an author would just be consistent. Don't drop mind-bending parenthetical footnotes that I have to flip pages to read, _and_ a random book citation in the same text! I want the former, not the latter.
+
+  just know, if that's you, I've got you, and the UI for jumping between footnotes and texts _isn't the worst thing that has ever existed_.
