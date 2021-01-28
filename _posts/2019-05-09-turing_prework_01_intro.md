@@ -155,7 +155,17 @@ Everything in that book is relevant to the rest of your career in software. Plea
 
 -------------------------------
 
-I know most of you will not read the book, despite my strong suggestion and humble request that you do so. 
+I know most of you will not read the book, despite my strong suggestion and humble request that you do so. That's because _you don't yet trust me_. It's OK that you don't trust me, I'm just a random person on the internet, but I humbly ask that you _start trying to trust me_.[^trust-me]
+
+[^trust-me]: It's not unreasonable to think:
+
+    > Josh, you’re doing a lot of talking and making some bold claims. Why should I devote my scarce time and resources to doing what you suggest instead of all the other things I could be doing?
+
+    Great question. Here's my answer:
+
+    I’ve been helping Turing students prep for the backend program since I graduated Turing in August of 2017. I’ve worked with dozens-to-hundreds of Turing students.
+    For the last few months, I’ve had phone conversations with every single student who’s had to repeat mod 1 of the backend program. Literally. 30 minutes, at least, during intermission week before they started mod 1 the second time, and once again, week six, after they found out they were moving on to mod 2. (so far, all have graduated the mod their second time around.)
+
 
 If you're not going to read the book, you don't get to question my methodology for the rest of this guide. Accept the following truth:
 

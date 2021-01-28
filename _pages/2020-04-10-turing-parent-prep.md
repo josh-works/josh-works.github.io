@@ -2,7 +2,7 @@
 layout: page
 title: Josh's recommendations to be particularly well prepared for Turing's Back-end mod 1
 type: page
-published: false
+published: true
 permalink: particularly-well-prepared-for-turing-backend-program
 ---
 
