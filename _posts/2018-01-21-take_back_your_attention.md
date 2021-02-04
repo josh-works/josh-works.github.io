@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Take Back Your Attention"
+title:  "How To Take Back Your Attention On The Internet with uBlock"
 date:  2018-01-21 01:00:00 -0700
 crosspost_to_medium: false
 categories: [habits, goals, tools]

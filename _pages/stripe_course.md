@@ -241,3 +241,6 @@ Great question. I go [into more detail here]({{ site.baseurl }}{% link _posts/20
 - When someone does something for free, they are telegraphing to the recipient that it's not worth any money
 
 {% include stripe_button_js.html %}
+
+# Testamonials
+

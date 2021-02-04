@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to never accidentally click Twitter's "Moments" again (and to block anything
-  else on the internet you don't want to deal with)
+  else on the internet you don't want to deal with) - with uBlock
 categories:
 - misc
 tags:

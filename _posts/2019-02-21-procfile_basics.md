@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Procfile: Run Just a Single Process"
+title:  "How To Procfile: Run Just a Single Process"
 date:  2019-02-21 01:00:00 -0700
 crosspost_to_medium: true
 categories: [programming]
