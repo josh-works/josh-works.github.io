@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Integrate Stripe and a static site
+title: How to Integrate Stripe Checkout and a Jekyll Static Site
 status: published
 type: page
 published: true
@@ -9,19 +9,20 @@ permalink: /add-stripe-to-static-site-course
 image: "/images/2019-09-20-stripe-01.jpg"
 ---
 
-Do you use a static site generator like Jekyll, or Hugo, or Hexo, or Gasby? 
+Keep reading if:
 
-Do you ever want to sell some small digital product, that could be delivered via email, through that static site, but without using a service that charges a monthly fee or hosts the sales landing page for you?
+👉 You use a static site generator like Jekyll, or Hugo, or Hexo, or Gasby
+👉 You want to sell some small digital product, that could be delivered via email, without using a service that charges a monthly fee or hosts the sales landing page for you?
+👉 Part of the reason you use a static site generator is because you're leery of using a third-party tool like Gumroad or WooCommerce, and you want to roll-your-own
+👉 You want it to "just work" - be able to take credit cards, Apple Pay, or Google Pay, to minimize any friction your potential customers might experience
 
-Does the same drive that makes you use a static site generator make you leery of using a third-party tool like Gumroad or WooCommerce? 
-
-# You're running a static site because you don't like "magic" or overly-complex tools
+## You're running a static site because you don't like "magic" or overly-complex tools
 
 I like Jekyll because it's fast and lightweight. Pingdom says this very page you're reading is [about 380Kb and loads in 470ms](https://tools.pingdom.com/#5b53cbf885c00000). That's pretty light and pretty quick. 
 
 I didn't want to jump to a database-backed platform just to sell some some simple digital products. 
 
-# You want to be able to take payments on your site for simple info products
+## You want to be able to take payments on your site for simple info products
 
 You don't want to re-invent the wheel and jump into a Gumroad-like situation, just to distribute some files after someone pays you some money. 
 
@@ -29,7 +30,7 @@ Maybe the idea of vendor lock-in sends you running for the hills. Horror stories
 
 Or you happen to like Stripe, the company, and want to see what the deal is with using their tools. 😁
 
-# You value your time
+## You value your time
 
 When I started this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_ for API docs, and Zapier and Gmail are super simple. How hard could it be to get everything up and running?
 
@@ -47,7 +48,7 @@ If you value your free time no higher than your work time, five hours if worth a
 
 I didn't know any of the gotchas and issues that popped up as I made this course. I document them all carefully, for your benefit. You'll save many hours of time and whatever monthly fees Gumroad or another provider would charge you. 
 
-# You use a static site generator, and are comfortable with the free tiers of various tools
+## You use a static site generator, and are comfortable with the free tiers of various tools
 
 If you have the means to get HTML and JavaScript on the internet, and want to be able to take payment for some digital product, you'll get a ton of value from this course.
 
@@ -67,7 +68,7 @@ Here's a gif of what the course looks like, as I scroll down the document.
 
 _[If you would like to download a free sample, keep scrolling or click this link](#can-i-have-a-sample)_
 
-# 10 things you'll learn in this course
+## 10 things you'll learn in this course
 
 1. The default HTML/Javascript from Stripe has a formatting error. The button won't work until you fix it. I'll show you the error.
 2. The default button formatting (from Stripe) makes it hard to tell that it's a button. I'll show you how to fix this with a little HTML and CSS. 

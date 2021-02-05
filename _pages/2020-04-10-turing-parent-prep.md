@@ -200,13 +200,13 @@ The shorter the feedback loop, the better.
 
 Here's the stuff that some folks will be uncomfortable, knowing I've shared it.
 
-1. My solutions to the `ruby-exercises`
+#### My solutions to the `ruby-exercises`
 
 I've got answers to most of the ruby-exercises that you're working through, and you can view them [here](https://github.com/josh-works/ruby-exercises/tree/josh_solutions). 
 
 That link takes you to a forked version of the ruby-exercises repository, and I've pushed up a branch of my solutions. So, navigate the repo, find the exercise in question, and you can see my solution.
 
-2. Advanced video walk-throughs of the `ruby-exercises`
+#### Advanced video walk-throughs of the `ruby-exercises`
 
 I've got a lot of video walk-throughs to the `ruby-exercises` directores. You've likely crossed paths to some of them, but here are some not in the Turing curriculum:
 

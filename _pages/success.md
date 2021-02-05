@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Thank You!
+title: Your Purchase Was Successful!
 status: publish
 type: page
 published: true
-description: "Thank you for purchasing my course. I hope it's super helpful to you!"
+description: "What you purchased is heading your way ASAP! I hope it's super helpful to you!"
 permalink: /success
 ---
+
+# Your Purchase Was Successful!
 
 ![highest of fives](http://giphygifs.s3.amazonaws.com/media/QN6NnhbgfOpoI/giphy.gif)
 
