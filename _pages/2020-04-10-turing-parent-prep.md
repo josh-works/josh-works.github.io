@@ -6,7 +6,9 @@ published: true
 permalink: particularly-well-prepared-for-turing-backend-program
 ---
 
-_this guide has resources that you won't find anywhere else, including **answers to the ruby exercises questions** and video walk-throughs that are not easily discoverable elsewhere. These things will all support your learning goals!_
+_This page started as [this gist](https://gist.github.com/josh-works/cd8fa78c21dcc6e40339fa73b39d0d69), and has now been updated a bit since that gist. Could still be worth inspecting._
+
+_This guide has resources that you won't find anywhere else, including **answers to the ruby exercises questions** and video walk-throughs that are not easily discoverable elsewhere. These things will all support your learning goals!_
 
 
 👋 and hello! 
