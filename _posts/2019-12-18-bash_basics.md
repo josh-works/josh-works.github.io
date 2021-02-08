@@ -137,7 +137,7 @@ echo "The new value is: $new_mac"
 echo "go ahead and re-connect to the wifi. You should be able to join the network."
 ```
 
-Believe it or not, this script in was far from perfect. 
+Believe it or not, this script was far from perfect. 
 
 First off, not all randomly-generated mac addresses are valid, even though they were passing an online mac address validator I was testing against. [AskUbuntu](https://askubuntu.com/a/536221) nicely shared what was going on.
 
@@ -192,6 +192,7 @@ I hope that in the near future, I'll look at this bash script and have many ways
 
 ### Related Reading
 
+- [Hacker News comments from 2021 on this post](https://news.ycombinator.com/item?id=26060152#26060229)
 - [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
 - [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/)
 - [Resolution to `[: too many arguments` error](https://stackoverflow.com/questions/13781216/meaning-of-too-many-arguments-error-from-if-square-brackets)
