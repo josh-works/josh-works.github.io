@@ -10,7 +10,7 @@ permalink: shell-script-basics-change-mac-address
 image: /images/2019-12-17-bash-basics-twitter-card.jpg
 ---
 
-For a while, I've had notes from [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/) saved, so if I am using a wifi connection that limites me to thirty minutes or an hour or whatever, I can "spoof" a new MAC address, and when I re-connect to the wifi, the access point things I'm on a new, unique device. 
+For a while, I've had notes from [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/) saved, so if I am using a wifi connection that limits me to thirty minutes or an hour, I can "spoof" a new MAC address, and when I re-connect to the wifi, the Access Point thinks I'm on a new, unique device. 
 
 For the record - when I'm posted up at a coffee shop for an extended period of time, I make sure to _buy products regularly_ in payment for my time. So, if you're spoofing your MAC address to use wifi for a longer period of time, maybe make sure to spend $5 or $10 when you run the script. 
 
