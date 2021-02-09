@@ -147,6 +147,8 @@ So, my next version of this script pulls the `generate mac address` and `set cur
 
 Why be elegant and precise when you can brute force a crappy solution?
 
+Here's my finished "solution":
+
 ```shell
 #!/bin/bash
 # skipping some lines
@@ -160,7 +162,7 @@ fi
 export ether_adapter=$ether_adapter
 
 generate_and_set_new_mac_address() {
-  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/.$//" )
+  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/./0/2; s/.$//")
   export mac=$mac
   echo "OK, we will change the mac address associated with: $ether_adapter"
 
@@ -189,6 +191,23 @@ and this seems to work pretty well:
 ![success](/images/2019-12-17-bash_script_success.jpg)
 
 I hope that in the near future, I'll look at this bash script and have many ways to improve it. For now, it'll do the trick. 
+
+### Feb 9, 2021 update
+
+Following [this tweet](https://twitter.com/serent/status/1359208380435361792) by `@serent`, I updated the script a little. To generate a valid MAC address:
+
+```diff
+@@ -160,7 +162,7 @@ fi
+ export ether_adapter=$ether_adapter
+
+ generate_and_set_new_mac_address() {
+-  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/.$//" )
++  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/./0/2; s/.$//")
+   export mac=$mac
+   echo "OK, we will change the mac address associated with: $ether_adapter"
+```
+
+There's other pain points in the script. I'll fix them at some point.
 
 ### Related Reading
 
