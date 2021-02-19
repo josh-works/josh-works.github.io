@@ -1,20 +1,28 @@
 ---
 layout: post
 title:  "Driven by Compression Progress"
-description: "description about this post"
-date:  2017-12-26 06:00:00 -0700
-crosspost_to_medium: false
-categories: [category]
-tags: [tag1, tag2]
+description: "Why This Paper Is Important"
+date:  2021-02-18 06:00:00 -0700
+crosspost_to_medium: true
+categories: [information-infrastructure]
+tags: [shannon, information-infrastructure, compression]
 permalink: driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity
 image: /images/title_image.jpg
 ---
 
-_Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes_
+_Note from author: This is part of an experimental series, more-or-less based on "white papers" and academic literature, as applied to somewhat practical-ish domains._
 
-[link, arxiv.org](https://arxiv.org/abs/0812.4360)
+_These pages serve as a brief overview of a paper, and I'll be able to link to this paper down the road when I what to be able to do so, without having to repeat all of this information_
 
-Here's the paper abstract, lightly reformatted by me for readability:
+----------------------
+
+## Title: `Driven by Compression Progress: A Principle that explains <many interesting phenomina>`
+
+Official title: _Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes_
+
+[Paper on arxiv.org, PDF available for free therein](https://arxiv.org/abs/0812.4360)
+
+Here's the paper abstract, lightly reformatted for readability:
 
 > I argue that data becomes temporarily interesting by itself to some self-improving, but computationally limited, subjective observer once he learns to predict or compress the data in a better way, thus making it subjectively simpler and more beautiful. 
 > 
@@ -38,11 +46,11 @@ Do you know that reference? I have no idea who Boltzmann is, but I happen to kno
 
 I know what's being implied because I happened to have read [A Mind At Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/book/show/32919530-a-mind-at-play) and far more on topics related to information theory. 
 
+### Related to Claud Shannon
 
-Anyway, I think of this paper _all the time_, as I find unexpected moments of delight, surprise, expected outcomes, and far more.
+An understanding of how Claude Shannon understood "information compression" sheds light on other forms of compression, as they compare/contrast, like:
 
-
-
+- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://news.ycombinator.com/item?id=26186685)
 
 
 
@@ -50,6 +58,7 @@ Anyway, I think of this paper _all the time_, as I find unexpected moments of de
 ### Further reading
 
 - [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes (arXiv.org)](https://arxiv.org/abs/0812.4360)
+- [Jane Austen's concept of information (Not Claude Shannon's) (2013)](https://news.ycombinator.com/item?id=26186685)
 
 ### Footnotes 
 
