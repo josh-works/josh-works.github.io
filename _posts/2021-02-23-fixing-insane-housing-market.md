@@ -32,7 +32,7 @@ Read [The Color of Law], [The Power Broker], [The High Cost of Free Parking], [O
 
 When you look at your monthly income, and look at the cost of housing, and imagine trying to buy _and pay off_ a house in any sort of desirable area in America, and you see how _fundamentally impossible it is_ for you to ever own a house free-and-clear, within a few years, you know there's a problem.
 
-## The Fixes
+## Introduction/Overview
 
 We need to do a few things:
 1. Understand how pleasant cities have historically developed. (AKA "Is there any place-or-time when this seemed like a solved problem")
@@ -41,18 +41,26 @@ We need to do a few things:
 4. Work backwards from actual changes to the current world we live in
 
 
-### Euclidean design, zoning laws
+## Get rid of things that harm us
+
+### Euclidean design
 
 Fixes come from a range of directions. There are supply-side problems in housing, there are demand-side problems in housing. The entire financial infrastructure around homeownership is bananas.
 
 Most of the modern legal regime governing housing, it's acquisition, it's payment, what you can do with it, _is the regime created by racists with the explicit goal of keeping black people from being able to live in 'nice neighborhoods'_.
 
+### Zoning laws
 
-### Supply-side fixes
+Most zoning laws (I say "most" because I'm SURE someone can find a single counterfactual) cause extreme harm.
 
-I touch on interesting things here: [https://twitter.com/josh_works/status/1294726871574179840](https://twitter.com/josh_works/status/1294726871574179840)
+They slow down the speed of experimentation/change, the raise the costs of change, and they lock out large groups of people from _ever_ participating in the evolution/creation of their own cities
 
-#### Eliminate Euclidean zoning
+I touch on this here: 
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">1/20 Thoughts on Denver&#39;s zoning and systemic racism. <br><br>Here&#39;s a screenshot from <a href="https://twitter.com/CityofDenver?ref_src=twsrc%5Etfw">@CityofDenver</a>&#39;s zoning map on <a href="https://t.co/Tzx271JS8u">https://t.co/Tzx271JS8u</a>.<br><br>This is textbook Euclidean Zoning, AKA &quot;Single-Use Zoning&quot;.<br><br>The problems of this form of zoning are well-known:<a href="https://t.co/WqiklxjB4h">https://t.co/WqiklxjB4h</a> <a href="https://t.co/7RDaFJlttS">pic.twitter.com/7RDaFJlttS</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1294726871574179840?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+### Euclidean zoning
 
 Euclidean Zoning is cancerous. [http://sites.bu.edu/dome/2018/07/19/the-problems-with-euclidean-zoning/](http://sites.bu.edu/dome/2018/07/19/the-problems-with-euclidean-zoning/)
 
@@ -63,13 +71,15 @@ Euclidean zoning has also:
 - limited housing supply
 - encouraged urban sprawl
 
-#### Eliminate minimum-everything
+### Eliminate minimum-everything
 
 No more minimum lot sizes. No more minimum parking requirements. 
 
 > Restrictions on minimum lot sizes, strict building codes, and other elements of Euclidean zoning have increased housing costs, limited new housing construction, worsened affordability issues, and increased the inequality divide in urban areas.
 
-#### Eliminate _most_ building codes
+I'll expand on this later. In general, minimum lot size laws were written to raise the cost of housing (and keep black people out of white neighborhoods). Do you need more evidence that the laws should be removed? If you'd like evidence of that assertion, I'm happy to provide it, assuming you're acting in good faith. 
+
+### Eliminate _most_ building codes
 
 I want to live in a safe house. I also want to live in a place with shelter. If I have two options, which should I choose?
 
@@ -78,11 +88,21 @@ I want to live in a safe house. I also want to live in a place with shelter. If 
 
 Which would you have me choose? If you _well actually..._ your way into option 1, you're part of the problem. But that's OK, I don't actually need you to agree with me to fix the problem. 
 
-#### Eliminate zoning laws
+People _start_ with "inadequate" housing, when they're resource-constrained, and then they upgrade their environment as they can.
 
-They were written by racists to keep black people out of neighorhoods. I feel dirty even having to explain this. The racists wrote that this was their goal when rolling out the institution of zoning. If you're even partially honest in saying "that cannot be!!! _I_ am not a racist!" just go [read the original zoning plan]({{ site.baseurl }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %})
+Please see the book: [How Buildings Learn: What Happens After They're Built](https://www.amazon.com/How-Buildings-Learn-Happens-Theyre/dp/0140139966)
 
-We could replace it with [japanese zoning laws](https://urbankchoze.blogspot.com/2014/04/japanese-zoning.html) which, while they still have problems, are dramatically less harmful than American racially-biased zoning laws.
+### Eliminate zoning laws
+
+They were written by racists to keep black people out of neighborhoods. I feel dirty even having to explain this. The racists wrote that this was their goal when rolling out the institution of zoning. If you're even partially honest in saying "that cannot be!!! _I_ am not a racist!" just go [read the original zoning plan]({{ site.baseurl }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %})
+
+Zoning laws, in America, are horrific and cannot be "modified" to be anything but horrific. Eliminate them.
+
+We could replace it with [Japanese zoning laws](https://urbankchoze.blogspot.com/2014/04/japanese-zoning.html) which, while they still have problems, are dramatically less harmful than American racially-biased zoning laws.
+
+## Do things that help us
+
+So, after getting rid of bad stuff, we need to actually do lots of _good_ things. reduce, reuse, recycle, better use of space, better use of money, provide more important things like jobs, shelter, food, transportation to the people who live in the city.
 
 ### Hire people that actually understand how cities work, and let them provide expert guidance on how _your_ city should work
 
@@ -110,14 +130,14 @@ Oh, and stop funding your police department. They're a terrible solution to most
 Obviously, group 1 is small and powerful. Group 2 is huge. Group 3 is rapidly growing. 
 
 
-#### Eliminate restrictions on commercial and residential activity in the same lot
+### Eliminate restrictions on commercial and residential activity in the same lot
 
 If I want to work and live in the same place, who the hell are you to tell me I cannot? This is how human societies have managed themselves for all of time.
 
 -----------------------
 
 
-# Valid problems with these fixes
+## Valid problems with these fixes
 
 There's some problems with these fixes. I'm suggesting throwing away about a century of legislation that seems beyond the pale to many people.
 
@@ -178,7 +198,7 @@ Want to open a restaurant, but you're from Spain, and you grew up drinking wine 
 Too bad. In America, you're a criminal and will be treated as such.
 
 
-# The Positive
+## The Positive
 
 OK, so, I've ranted and railed about "bad things that need to go away", but that doesn't help with how to promote more good things?
 
