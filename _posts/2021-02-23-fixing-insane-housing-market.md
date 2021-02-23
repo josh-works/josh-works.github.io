@@ -12,7 +12,7 @@ image: /images/title_image.jpg
 
 I had a brief exchange with a good friend recently:
 
-![how to fix](/images_2021/insane-housing-market.png)
+![how to fix](/images_2021/insane-housing-market.jpg)
 
 
 The housing market is indeed insane. This problem that we're both discussing is:
