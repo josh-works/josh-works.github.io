@@ -16,7 +16,7 @@ _These pages serve as a brief overview of a paper, and I'll be able to link to t
 
 ----------------------
 
-## `Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes`
+## Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes
 
 [Paper on arxiv.org, PDF available for free therein](https://arxiv.org/abs/0812.4360)
 
@@ -46,7 +46,7 @@ The abstract was hard for me to read the first time. I had to re-read it a few d
 
 A self-improving, computationally limited, subjective observer is a fancy way of saying "a normal person". I'm a self-improving, computationally limited, subjective observer. 
 
-I feel a little dose of dopamine in my brain when I encounter novel information, and I have learned to predicted it or anticipate it better than I think I would have. A sign of "better prediction" or "compression" is when I can _name the author or phenomena that is a likely motivating force for the unfolding of the story/event. 
+I feel a little dose of dopamine in my brain when I encounter novel information, and I have learned to predicted it or anticipate it better than I think I would have. A sign of "better prediction" or "compression" is when I can _name a principle elucidated by an author or a known phenomena_ that is a likely precipitating cause for the unfolding of the story/event. 
 
 > Curiosity is the desire to create or discover more non-random, non-arbitrary, regular data that is novel and surprising not in the traditional sense of Boltzmann and Shannon but in the sense that it allows for compression progress because its regularity was not yet known. 
 
@@ -83,5 +83,5 @@ Incidentally, for examples of persons driven by compression progress, we can all
 I'll probably pull out quotes from the paper at some point. Download the paper and skim the table of contents. 
 
 
-### Footnotes 
+## Footnotes 
 
