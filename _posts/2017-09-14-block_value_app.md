@@ -9,6 +9,15 @@ published: true
 crosspost_to_medium: true
 ---
 
+I wrote the following post, and built the application in question, in 2017, in my "end of Turing" project, before I'd ever been hired as a software developer. 
+
+I really enjoyed the app that I built, and I keep wanting to get around to cleaning it up and making it work again. Maybe sometime soon!
+
+------------------------
+
+- 👉 [View the github repo](https://github.com/josh-works/block_value) 
+- 👉 [view the app on Heroku (currently broken)](https://block-value.herokuapp.com/)
+
 I've been sketching out an app that "crowdsources" GIS data.
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system),
