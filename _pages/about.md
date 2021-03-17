@@ -1,57 +1,56 @@
 ---
-layout: page
+layout: page-no-anchor
 title: About Me
 published: true
 description: "I'm interested in many things. Here's a bit more about them. "
 permalink: /about
 ---
 
-## What I do for work
+## Hi, I'm Josh
 
-When people pay me, at some point they're usually paying me for "software development", but the reason they paid me anything is only partially related to code. 
+I write, a lot. 
 
-(They also sometimes pay me for [a bike tour of Golden]({{ site.baseurl }}{% link _pages/golden-bike-tour/golden-bike-tour.md %}), too!)
+I try _really hard_ to make it worth reading what I write, which means I want to "deliver value", which has a few different potential definitions. 
 
-I spend most of my time doing research and building understanding, and _then_ I'll drop into "tactical implementation" mode. I try to avoid doing tactical implementations without fully understanding the project at the strategic level. 
+I write words for people (like what you're reading right now) and I write words for computers. Learn more about the latter at [Intermediate Ruby](https://intermediateruby.com/). 
 
-It's possible we've swapped emails, phone calls, or real-life conversations about a problem you face. You might lead a team of software developers, or you've founded your company in the last few years, and you're intrigued by some potential that could come from us working together. 
+Incidentally, as much as I seem to spend a lot of my day behind a computer, _I'd much rather spend almost zero time behind a computer_. I love to ride my bike around my hometown of Golden, Colorado.
 
-If that's the case, read more about this at [josh.works/work-together]({{ site.baseurl }}{% link _pages/work-together.md %}) and book a session to discuss the opportunity.
+I've worked for software companies since 2012, across divisions like customer support, inbound sales, customer success, product management, and, since 2017 Ruby/Rails software development.
 
-_A quick note on "business value": If you're reading this, thinking I'm talking only to people who run businesses, and not individuals or "bottom-of-the-organizational-chart employees", you misunderstand me._ 
+### Things I've said
 
-_If you consider yourself to not have power or agency in your job, you might have an incorrect mental model of your work. This incorrect mental model will cost you tens of thousands of dollars over the course of the next few years of your life. Please give me a chance to change your mind: [josh.works/coffee]({{ site.baseurl }}{% link _pages/coffee-and-zoom-with-josh.md %})_
-
-I've helped persons across industries increase revenue, cut costs, win raises, and/or substantially improve their employment situation. I do this all by helping the person understand the business value their work delivers to their potential employer, and optimizing for `deliver more legible value`. I've done this with lawyers, doctors, public school teachers, customer support employees, software developers, first-time managers, college students, legal secretaries, sales people, stay-at-home-parents and more.
-
-I have an open standing invite to meet up with anyone, for any conversation. It could be via Zoom (like chatting with Siddharth from Chennai! 👋 Siddharth!) or it could be in-person in Golden, or anything in between. Don't believe me? Go ahead, test if I'm serious: [josh.works/coffee]({{ site.baseurl }}{% link _pages/coffee-and-zoom-with-josh.md %})
-
---------------------------
-
-## Golden, Colorado
-
-I live in Golden, Colorado, and really love the town. So much so that I've convinced quite a few people to take bike tours with me around the city. 
+I've been on one podcast, and given one talk at a meetup.
 
 
-## Urban design in Golden, CO
+##### Greater Than Code Podcast: Safety Science and Failure as An Opportunity for Growth
 
-![subsidized](/images_2020/subsidized.jpeg)
-
-![Illegal](images_2020/illegal.jpg)
+👉 [Greater Than Code ep 220: Safety Science and Failure As An Opportunity For Growth](https://www.greaterthancode.com/safety-science-and-failure-as-an-opportunity)
 
 
-Oh, and I do tours of Golden by bicyle.
+##### Boulder Ruby Meetup: Move Slow and Improve Things
 
-👉 [Learn more about the bike tour, and book one if you want](({{ site.baseurl }}{% link _pages/golden-bike-tour/golden-bike-tour.md %})). 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/992Uyrheo24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-It's virtually guaranteed that you'll see Golden in a new way. I love biking around Golden, and I'd love to take you on a tour. High points include:
+👉 [Move Slow And Improve Things (Boulder Ruby Group)]({{ site.baseurl }}{% link _posts/2018-02-10-boulder_ruby_group.md %})
 
-- Nerding out about infrastructure
-- Seeing things I promise you've not seen before
-- You'll never be able to un-see what you'll see on this bike tour. 
 
-I'll gladly grab a coffee or a beer with you before, during, or after the bike tour. (But probably not before, during, _and_ after. 😂)
+## Services
 
-Want to learn more about any of this? I talk about it in my newsletter, which is also a bit of an ongoing experiment:
+When I do paid work, it's often for something related to software. Sometimes it's been _selling_ software, sometimes it's been _developing_ software, and sometimes it's been to _teach things about software_.
+
+I also do work unrelated to software development, like [bike tours of Golden]({{ site.baseurl }}{% link _pages/golden-bike-tour/golden-bike-tour.md %})!
+
+It's possible we've swapped emails, phone calls, or IRL[^irl] conversations about a problem you face. You might lead a team of software developers, or you've founded your company in the last few years, and you're intrigued by some potential that could come from us working together. 
+
+[^irl]: [I]n [R]eal [L]ife
+
+Stick a time on my calendar, and we'll chat via Zoom or, if you live in Golden, and it's warm enough to be outside, I'd gladly meet up in person: [josh.works/coffee]({{ site.baseurl }}{% link _pages/coffee-and-zoom-with-josh.md %})
+
+I have an open standing invite to meet up with anyone, for any conversation. It could be via Zoom or it could be in-person in Golden
+
+Don't believe me? Go ahead, test if I'm serious: [josh.works/coffee]({{ site.baseurl }}{% link _pages/coffee-and-zoom-with-josh.md %})
+
+------------------------
 
 {% include newsletter.html %}

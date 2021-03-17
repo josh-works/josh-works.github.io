@@ -10,7 +10,7 @@ permalink: shell-script-basics-change-mac-address
 image: /images/2019-12-17-bash-basics-twitter-card.jpg
 ---
 
-For a while, I've had notes from [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/) saved, so if I am using a wifi connection that limites me to thirty minutes or an hour or whatever, I can "spoof" a new MAC address, and when I re-connect to the wifi, the access point thinks I'm on a new, unique device. 
+For a while, I've had notes from [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/) saved, so if I am using a wifi connection that limits me to thirty minutes or an hour or whatever, I can "spoof" a new MAC address, and when I re-connect to the wifi, the access point thinks I'm on a new, unique device. 
 
 For the record - when I'm posted up at a coffee shop for an extended period of time, I make sure to _buy products regularly_ in payment for my time. So, if you're spoofing your MAC address to use wifi for a longer period of time, maybe make sure to spend $5 or $10 when you run the script. 
 
@@ -137,7 +137,7 @@ echo "The new value is: $new_mac"
 echo "go ahead and re-connect to the wifi. You should be able to join the network."
 ```
 
-Believe it or not, this script in was far from perfect. 
+Believe it or not, this script was far from perfect. 
 
 First off, not all randomly-generated mac addresses are valid, even though they were passing an online mac address validator I was testing against. [AskUbuntu](https://askubuntu.com/a/536221) nicely shared what was going on.
 
@@ -146,6 +146,8 @@ I didn't want to deal with manually building a valid MAC address; I just noticed
 So, my next version of this script pulls the `generate mac address` and `set current mac address to generated mac address` steps into a function, and keeps calling the function until the mac address has changed.
 
 Why be elegant and precise when you can brute force a crappy solution?
+
+Here's my finished "solution":
 
 ```shell
 #!/bin/bash
@@ -160,7 +162,7 @@ fi
 export ether_adapter=$ether_adapter
 
 generate_and_set_new_mac_address() {
-  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/.$//" )
+  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/./0/2; s/.$//")
   export mac=$mac
   echo "OK, we will change the mac address associated with: $ether_adapter"
 
@@ -190,8 +192,26 @@ and this seems to work pretty well:
 
 I hope that in the near future, I'll look at this bash script and have many ways to improve it. For now, it'll do the trick. 
 
+### Feb 9, 2021 update
+
+Following [this tweet](https://twitter.com/serent/status/1359208380435361792) by `@serent`, I updated the script a little. To generate a valid MAC address:
+
+```diff
+@@ -160,7 +162,7 @@ fi
+ export ether_adapter=$ether_adapter
+
+ generate_and_set_new_mac_address() {
+-  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/.$//" )
++  mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/./0/2; s/.$//")
+   export mac=$mac
+   echo "OK, we will change the mac address associated with: $ether_adapter"
+```
+
+There's other pain points in the script. I'll fix them at some point.
+
 ### Related Reading
 
+- [Hacker News comments from 2021 on this post](https://news.ycombinator.com/item?id=26060152#26060229)
 - [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
 - [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/)
 - [Resolution to `[: too many arguments` error](https://stackoverflow.com/questions/13781216/meaning-of-too-many-arguments-error-from-if-square-brackets)

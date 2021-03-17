@@ -1,4 +1,4 @@
-curl 'http://graceanglicanonline.com/wp-content/uploads/2020/09/Joe-Joe-Joe.mp3' \
+curl 'http://graceanglicanonline.com/wp-content/uploads/2020/08/St-Joe.-Privilege-Genesis-37.mp3' \
 -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:85.0) Gecko/20100101 Firefox/85.0' \
 -H 'Accept: audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5' \
 -H 'Accept-Language: en-US,en;q=0.5' \
