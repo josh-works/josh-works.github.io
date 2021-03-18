@@ -14,6 +14,8 @@ _Note from author: This is part of an experimental series, more-or-less based on
 
 _These pages serve as a brief overview of a paper, and I'll be able to link to this paper down the road when I what to be able to do so, without having to repeat all of this information_
 
+_status: draft_
+
 ----------------------
 
 ## Structural Holes and Good Ideas
@@ -23,17 +25,17 @@ _These pages serve as a brief overview of a paper, and I'll be able to link to t
 
 Here's the paper abstract, lightly reformatted for readability:
 
-This article outlines the mechanism by which brokerage provides social capital. 
-
-Opinion and behavior are more homogeneous within than between groups, so people connected across groups are more familiar with alternative ways of thinking and behaving. 
-
-Brokerage across the structural holes between groups provides a vision of options otherwise unseen, which is the mechanism by which brokerage becomes social capital. 
-
-I review evidence consistent with the hypothesis, then look at the networks around managers in a large American electronics company. 
-
-The organization is rife with structural holes, and brokerage has its expected correlates. 
-
-**Compensation, positive performance evaluations, promotions, and good ideas are disproportionately in the hands of people whose networks span structural holes.** The between-group brokers are more likely to express ideas, less likely to have ideas dismissed, and more likely to have ideas evaluated as valuable. I close with implications for creativity and structural change.
+> This article outlines the mechanism by which brokerage provides social capital. 
+> 
+> Opinion and behavior are more homogeneous within than between groups, so people connected across groups are more familiar with alternative ways of thinking and behaving. 
+> 
+> Brokerage across the structural holes between groups provides a vision of options otherwise unseen, which is the mechanism by which brokerage becomes social capital. 
+> 
+> I review evidence consistent with the hypothesis, then look at the networks around managers in a large American electronics company. 
+> 
+> The organization is rife with structural holes, and brokerage has its expected correlates. 
+> 
+> **Compensation, positive performance evaluations, promotions, and good ideas are disproportionately in the hands of people whose networks span structural holes.** The between-group brokers are more likely to express ideas, less likely to have ideas dismissed, and more likely to have ideas evaluated as valuable. I close with implications for creativity and structural change.
 
 ----------------------
 
