@@ -8,6 +8,7 @@ categories: [category]
 tags: [tag1, tag2]
 permalink: this-post-url
 image: /images/title_image.jpg
+comments_id: 5
 ---
 
 Here's the talk abstract: [RailsConf CFP Draft Notes]( {{ site.baseurl }}{% link _posts/2021-03-27-rails-conf-cfp.md %})
