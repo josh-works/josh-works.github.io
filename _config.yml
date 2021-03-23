@@ -22,11 +22,13 @@ tagline:             "Solving Problems"
 title_image:         "/images/site_base_image.jpg"
 url:                 https://josh.works
 baseurl:             ""
+issues_repo:         josh-works/josh-works.github.io
 
 # paginate:            5
 excerpt_separator:   <!--more-->
 future: true
 twitter_username:   "josh_works"
+github_username: 'josh-works'
 
 # pages in nav bar
 include: ['_pages', '.well-known']

@@ -8,6 +8,7 @@ categories: [category]
 tags: [tag1, tag2]
 permalink: this-post-url
 image: /images/title_image.jpg
+comments_id: 5
 ---
 
 
