@@ -10,6 +10,8 @@ description: A bit about the Turing School of Software and Design, my experience
 permalink: /turing
 ---
 
+_2021 Update: I endorse Turing less strongly than I once did. It's still best of breed, and I'll do what I can to help you be successful, but the confidence which which I can endorse it has gone down dramatically. I don't have a recommendation for what else you "ought" to do. Sorry._
+
 You might be curious about [the Turing School of Software and Design](https://www.turing.io/), or software development in general. 
 
 Over the years, I've answered a lot of questions via email about Turing. In an effort to save you (and me!) some time, I'm going to start porting over broad chunks of email correspondence here.
