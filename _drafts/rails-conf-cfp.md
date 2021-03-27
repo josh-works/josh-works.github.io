@@ -31,7 +31,6 @@ This content will be visible only to the review committee.
 
 #### Details (Include any pertinent details such as outlines, outcomes or intended audience.)
 
-```
 I tried to get the important stuff in the abstract, like:
 
 ## Audience:

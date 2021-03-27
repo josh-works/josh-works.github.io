@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Post Title"
+title:  "RailsConf Presentation: Junior Developers are a Solution to Many of your Problems"
 description: "description about this post"
 date:  DATE 06:00:00 -0700
 crosspost_to_medium: false
-categories: [category]
+categories: [public_speaking]
 tags: [tag1, tag2]
-permalink: this-post-url
+permalink: railsconf
 image: /images/title_image.jpg
 ---
 
