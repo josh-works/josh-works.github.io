@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RailsConf Presentation: Junior Developers are a Solution to Many of your Problems"
+title:  "RailsConf Presentation: 'Junior' Developers are a Solution to Many of your Problems"
 description: "description about this post"
 date:  DATE 06:00:00 -0700
 crosspost_to_medium: false
@@ -10,44 +10,36 @@ permalink: railsconf
 image: /images/title_image.jpg
 ---
 
-Text[^fn1]. 
-  
-You can do other ones, too.[^like-this]
-<!--more-->
+Did this talk resonate and you want to implement some of the ideas at your company? I might be able to help. Shoot me an email at `joshthompson@hey.com` or book some time to talk at https://calendly.com/joshthompson/coffee.
 
-Multiline, like so. [^multi-line]
+# Slides
 
-[^multi-line]: demo this is a footnote. 
-    So this is a multi-paragraph footnote.
-    It's possible  (maybe?) to even include code:
-    ```ruby
-    { pizza_status: :not_enough }
-    ```
-    It can include all sorts of formatting!
-    And images!
-    ![an image](/images_2020/1922-zoning-plan.jpg)
-    > feel free to end it with a quote!
 
-There's many objections or questions that you could raise, right now, as you are reading these words. Possibly on your phone[^i-would-never], but I'd ask that you give it a shot[^did-you-read-the-footnote]. Read the rest of this article (or at least skim it!) _and_ get the first ruby exercise completed (`/data-types/strings.rb`), which is the topic of Chapter 2, and _very much possible and I bet you'll feel proud of yourself in the next ten minutes of fiddling at your terminal._[^now-you-know]
+[] Add Dropbox Deck
 
-[^i-would-never]: I would never, ever, admit to using the bathroom and browsing my phone, saying "yeah, I'll come back to that" and never do.
-[^did-you-read-the-footnote]: Did you read that previous footnote? I sometimes annotate my writing with footnotes. They're not always worth reading, but it's worth recognizing them.
-[^now-you-know]: I bet you read _one_ of these footnotes. Got it! Now you know how they work! Click the number in the text above, and the page "jumps" down to this line of text. Click the funky arrow at the end of the footnote to return to where you started. Try it! Click the arrow: 
 
-Some of you are already sold and are charging ahead, some of you are still hesitant, or don't take it seriously enough.[^cant-stop]. 
-
-If you spend 10 hours on this material, between now and when Turing starts, you'll be much improved from your baseline, and if you're doing Turing you're already committing _a lot_. Time, money, emotional energy, re-arranging your life for a while, _certainly_ thinking more about your financial situation and how much you can/want to spend on baby-sitting. 
+Here's the talk abstract: [RailsConf CFP Draft Notes]( {{ site.baseurl }}{% link _posts/2021-03-27-rails-conf-cfp.md %})
 
 
 
 ### Useful Resources
 
-- []()
+I'll be relying upon scientific and non-scientific literature like:
+
+- [William Khan: Psychological Conditions of Personal Engagement and Disengagement at Work](https://www.semanticscholar.org/paper/Psychological-Conditions-of-Personal-Engagement-and-Kahn/cbb3887590de9e5dc702b5d2655fbe804669fea0)
+- [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
+- [Structural Holes and Good Ideas, American Journal of Sociology, 2004](https://www.journals.uchicago.edu/doi/abs/10.1086/421787)
+- [Hiring is Broken: What Do Developers Say About Technical Interviews](https://www.researchgate.net/publication/334448588_Hiring_is_Broken_What_Do_Developers_Say_About_Technical_Interviews)
+- [The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring (Benjamin Bloom, 1984)](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+- [Conditions for Intuitive Expertise: A Failure to Disagree, Kahneman & Klein, Princeton, 2009](https://pubmed.ncbi.nlm.nih.gov/19739881/)
+- [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691166854)
+- [How Complex Systems Fail](https://how.complexsystems.fail/)
+
+### Other Talks I've given (related or non)
+
+- [Boulder Ruby: Move Slow and Improve Things: Performance Improvement in a Rails App](https://josh.works/boulder_ruby_group)
 
 --------------------
 
 #### Footnotes 
 
-
-
-[^like-this]: can be at the bottom. 
