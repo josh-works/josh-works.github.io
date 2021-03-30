@@ -56,13 +56,16 @@ Here's the [proposed statement (pdf)](https://www.gasb.org/cs/Satellite?c=Docume
 
 On page 10, you see the following: 
 
-> *Short-Term Financial Resources Measurement Focus and Accrual Basis of Accounting*
+## Short-Term Financial Resources Measurement Focus and Accrual Basis of Accounting*
+
+Definition (Josh Thompson's light summarization/reformatting)
+
+> The short-term financial resources measurement focus incorporates outflows of short- term financial resources and inflows of short-term financial resources and all short-term financial assets, deferred outflows of resources, liabilities, and deferred inflows of resources. 
 >
+> Under an accrual basis of accounting, elements of financial statements arising from **short-term transactions and other events are recognized as they occur**, and elements of financial statements arising from **long-term transactions and other events are recognized when payments are due**. 
 > 
+> Financial assets in this measurement focus include cash, assets that are available to be converted to cash, and assets that are consumable in lieu of cash. All liabilities in this measurement focus are financial liabilities.
 
-A former GASB board member has said:
-
-> 
 
 Sheila Weinberg, Founder & CEO in [Truth in Accounting](https://www.truthinaccounting.org/):
 
