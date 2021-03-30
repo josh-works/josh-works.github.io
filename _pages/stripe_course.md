@@ -13,7 +13,7 @@ image: "/images/2019-09-20-stripe-01.jpg"
 
 Keep reading if:
 
-👉 You use a static site generator like Jekyll, or Hugo, or Hexo, or Gasby
+👉 You use a static site generator like Jekyll, or Hugo, or Hexo, or Gatsby
 
 👉 You want to sell some small digital product, that could be delivered via email, without using a service that charges a monthly fee or hosts the sales landing page for you
 
