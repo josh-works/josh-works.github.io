@@ -14,7 +14,11 @@ Here's a *very* important one-hour video that is highly relevant to GASB.
 
 If my testimony accomplishes nothing but encouraging members of the GASB board ([Joel Black](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176174809353), [Jeffrey Previdi](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176168267878), [James Brown](https://gasb.org/cs/ContentServer?c=Page&cid=1351027743303&d=&pagename=GASB%2FPage%2FGASBSectionPage), [Brian Caputo](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176166159071), [Kristopher Knight](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176169158822), [Dianna Ray](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176174810508), and [Carolyn Smith](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176172907886)) to spend 15 minutes watching the following video, I will have considered my time to have been well-spent.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MeYHHIAkjus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe class="video" src="https://www.youtube.com/embed/MeYHHIAkjus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+It's worth watching the video to the 15 minute mark, when Chuck draws the parallel between the letter of the law and the spirit of the law. When Enron became famous for fraudulent reporting, it was because they _obfuscated_ their long-term liabilities, in the same way that state/local governments sometimes like to obfuscate their own financial position.
 
 If you were to watch the first ten minutes, you'd have data to chew on for a few hours.
 
@@ -29,6 +33,10 @@ I submitted a letter (per the above presentation, which I watched live and took 
 I'll be sharing updates on twitter: 
 
 👉 [twitter.com/josh_works](https://twitter.com/josh_works)
+
+[Here's my slides](https://www.dropbox.com/s/dzm9iuhwq6flqof/gasb_presentation.key?dl=0)
+
+Get in touch! I'd love to talk about any of these things more: `joshthompson@hey.com`
 
 ## Finance-related things
 
@@ -72,3 +80,5 @@ Sheila Weinberg, Founder & CEO in [Truth in Accounting](https://www.truthinaccou
 > It is confusing and bewildering to have a balance sheet of governmental funds that does not include the pension and OPEB liabilities even though those funds will be used to pay them. States report positive fund balances while collectively they have accumulated more than $855 billion in unfunded pension liabilities and $617 billion of retiree health care liabilities. Most of the 75 most populated cities also report positive fund balances while they have collectively accumulated more than $179 billion in unfunded pension liabilities and $160 billion of retiree health care liabilities.
 
 You can download the entire _detailed_ letter [here (pdf)](/_data/sheila_weinberg_gasb_letter.pdf)
+
+
