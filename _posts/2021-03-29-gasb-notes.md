@@ -82,3 +82,9 @@ Sheila Weinberg, Founder & CEO in [Truth in Accounting](https://www.truthinaccou
 You can download the entire _detailed_ letter [here (pdf)](/_data/sheila_weinberg_gasb_letter.pdf)
 
 
+## Related Reading
+
+These books are not _technically_ about accounting and finance, but they're about accounting and finance:
+
+- [The Power Broker: Robert Moses and the Fall of New York](https://www.goodreads.com/book/show/1111.The_Power_Broker?ac=1&from_search=true&qid=SLFu7n1pUx&rank=1) [here's my own very work-in-progress notes](https://josh.works/robert-moses)
+- [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook?ac=1&from_search=true&qid=dMrX2U8KHV&rank=1)
