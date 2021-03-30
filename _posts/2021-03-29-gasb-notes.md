@@ -22,15 +22,9 @@ If you watched the first twenty minutes (at 2x speed, of course) you'll be more 
 
 ## Josh Thompson's Testimony
 
-I submitted a letter (per the above presentation, which I watched live and took a lot of notes from).
+I submitted a letter (per the above presentation, which I watched live and took a lot of notes from). I ended up being given an opportunity to present to the board. Me, someone who's a _total outsider_ to the industry. I "manage" my household finances, and that's the most financial management I've ever done. 
 
-Want to watch? It's surprisingly tricky, not just a public zoom room. You'll have to sign up in advance here:
-
-https://www.gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176176122985
-
-If you want to get access to the presentation itself, head to https://www.surveymonkey.com/r/CNJ3JD7 and check all boxes related to March 30th.
-
-Watch the live testimony here. You might even see my funny-looking face at 12:45p: https://www.gasb.org/cs/ContentServer?c=Page&cid=1176163491510&d=&pagename=GASB%2FPage%2FGASB%2FSectionPage
+[Watch the live testimony here](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176163491510). You might even see my funny-looking face at 12:45p Mountain time, I'll be presenting for a few minutes, with a time for the GASB board to ask me questions afterwards.
 
 I'll be sharing updates on twitter: 
 
