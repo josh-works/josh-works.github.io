@@ -10,11 +10,13 @@ permalink: gasb
 image: /images/title_image.jpg
 ---
 
-Here's a *very* important one-hour video that is highly relevant to GASB:
+Here's a *very* important one-hour video that is highly relevant to GASB. 
+
+If my testimony accomplishes nothing but encouraging members of the GASB board ([Joel Black](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176174809353), [Jeffrey Previdi](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176168267878), [James Brown](https://gasb.org/cs/ContentServer?c=Page&cid=1351027743303&d=&pagename=GASB%2FPage%2FGASBSectionPage), [Brian Caputo](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176166159071), [Kristopher Knight](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176169158822), [Dianna Ray](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176174810508), and [Carolyn Smith](https://gasb.org/jsp/GASB/Page/GASBSectionPage&cid=1176172907886)) to spend 15 minutes watching the following video, I will have considered my time to have been well-spent.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MeYHHIAkjus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you were to watch the first ten minutes, you'd have most of the knowledge.
+If you were to watch the first ten minutes, you'd have data to chew on for a few hours.
 
 If you watched the first twenty minutes (at 2x speed, of course) you'll be more knowledgeable about arcane government finance machinations than 99% of the lay population of the USA. 
 
