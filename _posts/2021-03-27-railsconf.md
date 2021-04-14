@@ -4,21 +4,33 @@ title:  "RailsConf Presentation: 'Junior' Developers are a Solution to Many of y
 description: "description about this post"
 date:  DATE 06:00:00 -0700
 crosspost_to_medium: false
-categories: [public_speaking]
-tags: [tag1, tag2]
+categories: [software_development]
+tags: [public_speaking, rails, software_development]
 permalink: railsconf
 image: /images/title_image.jpg
 ---
 
 Did this talk resonate and you want to implement some of the ideas at your company? I might be able to help. Shoot me an email at `joshthompson@hey.com` or book some time to talk at https://calendly.com/joshthompson/coffee.
 
-# Slides
+This talk is available on `railsconf.org`, here: [https://railsconf.org/watch/bettering-our-industry/junior-devs-are-the-solution-to-many-of-your-problems](https://railsconf.org/watch/bettering-our-industry/junior-devs-are-the-solution-to-many-of-your-problems)
 
+I've only just started systematizing resources around this. I'd love to talk with _you_ about your thoughts on these resources. Use the `coffee` link above, or if there's no availability _and_ this is an issue you're willing to throw money at, book time on a much more flexible calendar here: [https://calendly.com/joshthompson/flexible](https://calendly.com/joshthompson/flexible)
 
-[] Add Dropbox Deck
+I'm a month in to creating public resources to change this 
 
+## Misc Resources
 
-Here's the talk abstract: [RailsConf CFP Draft Notes]( {{ site.baseurl }}{% link _posts/2021-03-27-rails-conf-cfp.md %})
+There are lots of ways teams can better utilize the resources of their ECSDs. 
+
+Q&A on March 14th, at 4:40p.
+
+### Slides
+
+[Available on Dropbox](https://www.dropbox.com/s/d98chrnpm8gn4uq/Junior%20Developers%20are%20the%20Solution%20to%20Many%20of%20Your%20Problems.key?dl=0)
+
+### RailsConf CFP Draft Notes
+
+Here's the abstract for this talk: [RailsConf CFP Draft Notes]( {{ site.baseurl }}{% link _posts/2021-03-27-rails-conf-cfp.md %})
 
 
 
@@ -35,11 +47,11 @@ I'll be relying upon scientific and non-scientific literature like:
 - [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691166854)
 - [How Complex Systems Fail](https://how.complexsystems.fail/)
 
-### Other Talks I've given (related or non)
+### Other Talks I've given
 
-- [Boulder Ruby: Move Slow and Improve Things: Performance Improvement in a Rails App](https://josh.works/boulder_ruby_group)
+👉 [Boulder Ruby: Move Slow and Improve Things: Performance Improvement in a Rails App](https://josh.works/boulder_ruby_group)
+👉 [Greater Than Code ep 220: Safety Science and Failure As An Opportunity For Growth](https://www.greaterthancode.com/safety-science-and-failure-as-an-opportunity)
 
---------------------
 
 #### Footnotes 
 
