@@ -17,7 +17,7 @@ GEM
     figaro (1.2.0)
       thor (>= 0.14.0, < 2)
     forwardable-extended (2.6.0)
-    html-proofer (3.19.0)
+    html-proofer (3.19.1)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogumbo (~> 2.0)
