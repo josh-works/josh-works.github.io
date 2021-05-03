@@ -10,7 +10,15 @@ description: A bit about the Turing School of Software and Design, my experience
 permalink: /turing
 ---
 
-_2021 Update: I endorse Turing less strongly than I once did. It's still best of breed, and I'll do what I can to help you be successful, but the confidence which which I can endorse it has gone down dramatically. I don't have a recommendation for what else you "ought" to do. Sorry._
+_2021 Update: I endorse Turing a bit less strongly than I once did. It's still best-of-breed, and I'll do what I can to help you be successful. From a pedagogical perspective, there are some portions of the daily/weekly cadence that are very high-value, and some that are less so. Time and energy is a critical resource, and in some ways the program doesn't protect the student's reserves of these components as I might wish it did._
+
+_I attended in 2017. It's a great fit for many people._
+
+_The program has evolved since 2017, so the experience I'm writing about below might not be the experience you'd have over the next year, especially because I attended pre-Covid, and thus was in-person._
+
+_I don't speak for Turing, and have no formal association with the program, besides being an alum who wants to see Turing and all Turing students/alumni be as successful as possible._
+
+Hi there! 👋
 
 You might be curious about [the Turing School of Software and Design](https://www.turing.io/), or software development in general. 
 
