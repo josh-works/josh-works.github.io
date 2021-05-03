@@ -1,0 +1,7 @@
+~/me/josh-works.github.io/images/2018-07-25_redis.jpg
+~/me/josh-works.github.io/images/2018-07-27_sidekiq_rails_console.gif
+cp ~/me/josh-works.github.io/images/2018-07-28_redis_01.jpg ./_drafts/sidekiq_background_jobs_for_beginners/images
+cp ~/me/josh-works.github.io/images/2018-07-28_redis_02.gif ./_drafts/sidekiq_background_jobs_for_beginners/images
+cp ~/me/josh-works.github.io/images/2018-07-28_redis_03.gif ./_drafts/sidekiq_background_jobs_for_beginners/images
+cp ~/me/josh-works.github.io/images/2018-07-30_sidekiq_02.gif ./_drafts/sidekiq_background_jobs_for_beginners/images
+cp ~/me/josh-works.github.io/images/2018-07-30_sidekiq_01.gif ./_drafts/sidekiq_background_jobs_for_beginners/images
