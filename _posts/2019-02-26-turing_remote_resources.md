@@ -76,7 +76,7 @@ No. I just type things on the internet, and make those easy to find. My email si
 - [https://josh.works/first-pass-elixir-phoenix](https://josh.works/first-pass-elixir-phoenix)
 - [https://josh.works/elixir-phoenix-part-deux](https://josh.works/elixir-phoenix-part-deux)
 
-My "about" page is fairly friendly and comprehensive: [https://josh.works/about/](https://josh.works/about/)
+My "about" page is fairly friendly and comprehensive: [https://josh.works/about](https://josh.works/about)
 
 None of these posts are earth shattering <strike>(actually, they are *all* very basic)</strike>[^1] but it telegraphs:
 
