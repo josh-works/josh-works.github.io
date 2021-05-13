@@ -92,7 +92,7 @@ Book this option, and I'll make sure the tour includes a stop by at least one of
 
 #### How long will the tour be?
 
-Depends on your preferences. At least three miles, less than ten. Budget an hour, or an hour-and-a-half. 
+Depends on your preferences. At least three miles, less than ten. Budget an hour if we're _just_ biking, or two hours if biking + drinks. Golden has great options for drinks and food, and I'd love to show you some of them!
 
 #### When will the tour be?
 
