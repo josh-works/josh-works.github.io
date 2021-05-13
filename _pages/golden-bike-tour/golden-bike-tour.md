@@ -7,28 +7,55 @@ permalink: /golden-bike-tour-with-josh
 image: ""
 ---
 
-I've been doing bike tours of Golden with friends. I do the "tours" because I enjoy biking around Golden, and I like to share that joy with others. 
+# Bike Tours of Golden with Josh!
 
-Here's the kind of routes we'll travel:
+I've been doing bike tours of Golden with friends. I do the "tours" because I enjoy biking around Golden, and I like to highlight some aspects of Golden that most people miss. It brings me great joy, and I like to share that joy with others. 
+
+Here's a heatmap of my biking around Golden:
+
+![Strava Heat Map](/_pages/golden-bike-tour/2021-05-13 at 10.03 AM.jpg)
+
+Here's my recent rides. I apologize for the 🥔quality. I'll get an actual Strava API integration set up soon, so I can display the activity in a reasonable and pleasent way. 
+
+<div class="center">
+<iframe height='554' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/38072598/latest-rides/926d17a554fde61aa9eeeeac984e11f035fb07e6'></iframe>
+</div>
 
 ### What participants have said:
 
-Here's a few sample rides of what the bike tour might look like. Going forward, I'll make sure to record the actual bike tours, and I'll include pictures _from_ the tour.
+> Wow. I would never have noticed all of this.
 
-[![a long bike ride](/_pages/golden-bike-tour/strava-map-0.jpg)](https://www.strava.com/activities/4344289594)
+> Also would great fun to do another bike tour. You should start charging for your tours. 
 
-[![a golden bikeride](/_pages/golden-bike-tour/strava-trip-03.jpg)](https://www.strava.com/activities/4055046912)
+> I'm ruined, Josh. After wandering around Golden with you, I've started to see it (and other cities) with a whole new perspective, and I cannot un-see it.
 
-[![biking around Golden](/_pages/golden-bike-tour/strava-map-01.jpg)](https://www.strava.com/activities/4234838580)
+Here's a few sample rides of what the bike tour might look like: 
 
-Here's another bike ride:
+Going forward, I'll make sure to record the actual bike tours, and I'll include pictures _from_ the tour.
 
-[![Another bike around Golden](/_pages/golden-bike-tour/strava-map-02.jpg)](https://www.strava.com/activities/4060325423)
+[![a long bike ride](/_pages/golden-bike-tour/2021-05-13 at 10.12 AM.jpg)](https://www.strava.com/activities/4999715648)
+_[View this ride](https://www.strava.com/activities/4999715648)_
+
+[![a golden bikeride](/_pages/golden-bike-tour/2021-05-13 at 10.13 AM.jpg)](https://www.strava.com/activities/4897238294)
+
+_[View this ride](https://www.strava.com/activities/4897238294)_
+
+[![biking around Golden](_pages/golden-bike-tour/2021-05-13 at 10.14 AM.jpg)](https://www.strava.com/activities/5071299247)
+
+_[View this ride](https://www.strava.com/activities/5071299247)_
+
+
+[![Another bike around Golden](/_pages/golden-bike-tour/2021-05-13 at 10.17 AM.jpg)](https://www.strava.com/activities/5064775910)
+
+_[View this ride](https://www.strava.com/activities/5064775910)_
+
+I'll get actual photos from the rides added at some point. I tend to not have my phone out too much when biking around, as you might imagine. 
+
 
 
 ### Schedule A Private Bike Tour of Golden
 
-I do "Private" tours, in that it'll just be me and you, and anyone else you want to invite along. Maybe some day I'll do scheduled larger-group tours, but not yet.
+I do "Private" tours, in that it'll just be me and you, and anyone else you want to invite along. (The more the merrier!) Maybe some day I'll do scheduled larger-group tours, but not yet.
 
 Make a payment, and I'll email you to coordinate a good time, working around our respective schedules and weather and such. (It's 6 degrees with 6" of snow outside as I type these words. 🥶)
 
@@ -65,17 +92,21 @@ Book this option, and I'll make sure the tour includes a stop by at least one of
 
 #### How long will the tour be?
 
-Depends on your preferences. At least three miles, less than ten. Budget an hour, or an hour-and-a-half.
+Depends on your preferences. At least three miles, less than ten. Budget an hour, or an hour-and-a-half. 
+
+#### When will the tour be?
+
+This _also_ depends on your preferences. There's something magical about biking around Golden at night, and I've done it many times, so we're not even constrained by normal daylight hours. Could be a weekend afternoon, or a week-day afternoon, or a weekday evening. Or a morning. 
 
 #### Do I need my own bike
 
-Yes! Bring a bike, a helmet, and ideally a front and rear light for your bike. We'll be riding on streets, and it's as fun to bike around at night as it is during the day.
+If you have one, bring it! (and a helmet, and ideally a light or two for your bike, especially if we're riding around at night.) 
 
-If we're out at night, the front white light and rear red light are mandatory. Lets not get hit by cars!
+I have two extra bikes, both rescues from a dumpster, and I'm getting them into good repair. I will gladly let you ride the bike I usually ride around, which is the nicest bike I've ever owned, but it was a $150 find on Craigslist, so if you're a "bike person", you won't be impressed. 
 
 #### Where will we meet?
 
-Somewhere in Golden. We'll finish somewhere in Golden, too. 
+Somewhere in Golden. We'll finish somewhere in Golden, too. Maybe we'll meet at my house, or we'll meet downtown, or at the Creek.
 
 #### What if I have to reschedule?
 
