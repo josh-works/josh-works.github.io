@@ -72,9 +72,11 @@ I'll get actual photos from the rides added at some point. I tend to not have my
 
 ### Schedule A Private Bike Tour of Golden
 
-I do "Private" tours, in that it'll just be me and you, and anyone else you want to invite along. (The more the merrier!) Maybe some day I'll do scheduled larger-group tours, but not yet.
+Book a tour, and I'll give you information about the next few bike tours I'm planning! 
 
-Make a payment, and I'll email you to coordinate a good time, working around our respective schedules and weather and such. (It's 6 degrees with 6" of snow outside as I type these words. 🥶)
+You'll either join an existing scheduled tour and a group (and probably meet some interesting people) or it might be just the two of us. (Want to go on a 10p bike tour of Golden when it's 22 degrees? There's not too many people into that kind of thing.)
+
+Make a payment, and I'll email you to coordinate a good time, working around our respective schedules and weather and such. (It's 6 degrees with 6" of snow outside as I type these words. 🥶). On the flip side, sometimes the weather's really nice, and there's a big group about to go on a bike ride. Come join!
 
 <button
   id="checkout-button-sku_IGM8Pq01QMHGdP"
@@ -90,9 +92,9 @@ Make a payment, and I'll email you to coordinate a good time, working around our
 
 ### The Private Tour + Drinks
 
-The first principle of selling _anything_ is to give people options. I love to grab a ☕️, 🍻, or 🍷 before, during, or after a bike around Golden. 
+The first principle of selling _anything_ is to give people options. I love to grab a ☕️, 🍻, or 🍷 before, during, or after a bike around Golden. But if I buy coffee for 30 people, that adds up.
 
-Book this option, and I'll make sure the tour includes a stop by at least one of Golden's many coffee shops and breweries. First drink is on me!
+Book this option, and I'll make sure the tour includes a stop by _at least_ one of Golden's many coffee shops and breweries. The drinks are on me. 😉
 
 <button
   class="stripe_button"
