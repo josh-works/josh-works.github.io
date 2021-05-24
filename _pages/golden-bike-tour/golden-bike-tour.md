@@ -9,13 +9,30 @@ image: ""
 
 # Bike Tours of Golden with Josh!
 
-I've been doing bike tours of Golden with friends. I do the "tours" because I enjoy biking around Golden, and I like to highlight some aspects of Golden that most people miss. It brings me great joy, and I like to share that joy with others. 
+I nerd out hard about urban mobility infrastructure, and the built urban form. I can see it most clearly from a bike, and it's easiest to explain from a bike as well.
+
+So, I'm conducting "academic infrastructure-related bike tours of Golden". 
+
+It mostly likes like "riding around Golden with friends". 
+
+I've been doing bike tours of Golden with friends. These are not "normal" bike tours, however you define them. 
+
+- We don't need mountain bikes
+- we'll probably drink a beer or coffee at some point
+- You'll hear about some obscure books
+- I'll point out a lot of stuff that is beautiful and interesting
+
+I do the "tours" because I enjoy biking around Golden, and this page is to help me have an excuse to do more of them.
+
+I like to highlight some aspects of Golden that most people miss. It brings me great joy, and I like to share that joy with others. 
 
 Here's a heatmap of my biking around Golden:
 
-![Strava Heat Map](/_pages/golden-bike-tour/2021-05-13 at 10.03 AM.jpg)
+![Strava Heat Map](/_pages/golden-bike-tour/2021-05-24 at 12.50 PM.jpg)
 
-Here's my recent rides. I apologize for the 🥔quality. I'll get an actual Strava API integration set up soon, so I can display the activity in a reasonable and pleasent way. 
+Here's my recent rides.[^strava]
+
+[^strava]: I apologize for the 🥔quality. I'll get an [_actual_ Strava API integration set up soon](https://github.com/josh-works/strava_run_polylines_osm), so I can display the activity in a reasonable way. 
 
 <div class="center">
 <iframe height='554' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/38072598/latest-rides/926d17a554fde61aa9eeeeac984e11f035fb07e6'></iframe>
