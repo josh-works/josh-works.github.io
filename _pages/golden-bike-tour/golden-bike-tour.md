@@ -78,15 +78,9 @@ You'll either join an existing scheduled tour and a group (and probably meet som
 
 Make a payment, and I'll email you to coordinate a good time, working around our respective schedules and weather and such. (It's 6 degrees with 6" of snow outside as I type these words. 🥶). On the flip side, sometimes the weather's really nice, and there's a big group about to go on a bike ride. Come join!
 
-<button
-  id="checkout-button-sku_IGM8Pq01QMHGdP"
-  class="stripe_button"
-  role="link"
-  type="button">
-  Book a private bike tour ($15)
-</button>
+<a href="https://calendly.com/joshthompson/bike-tour-of-golden-with-josh-functionally-free" class="stripe_button">Book a private bike tour ($10)</a>
 
-<div id="error-message"></div>
+
 
 
 
@@ -96,15 +90,7 @@ The first principle of selling _anything_ is to give people options. I love to g
 
 Book this option, and I'll make sure the tour includes a stop by _at least_ one of Golden's many coffee shops and breweries. The drinks are on me. 😉
 
-<button
-  class="stripe_button"
-  id="checkout-button-sku_IGMDluUS1LM4Ok"
-  role="link"
-  type="button">
-  Book a private bike tour + drinks ($30)
-</button>
-
-<div id="error-message"></div>
+<a href="https://calendly.com/joshthompson/bike-tour-of-golden-with-josh" class="stripe_button">Book a private bike tour with drinks and/or snacks!($30)</a>
 
 
 ### Frequently Asked Questions

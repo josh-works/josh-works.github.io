@@ -20,8 +20,7 @@ class BicycleTest < Minitest::Test
   end
   
   def test_mountain_bike_attributes
-    bike = Bicycle.new(
-      style: :mountain,
+    bike = MountainBike.new(
       size: 'S',
       front_shock: 'Manitou',
       rear_shock: 'Fox'
@@ -32,7 +31,6 @@ class BicycleTest < Minitest::Test
       chain: "10-speed",
       rear_shock: 'Fox'
     }
-    assert_equal :mountain, bike.style
     assert_equal 'Manitou', bike.front_shock
     assert_equal 'Fox', bike.rear_shock
     assert_equal spares, bike.spares
