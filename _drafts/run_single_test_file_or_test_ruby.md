@@ -12,4 +12,4 @@ permalink: run-tests-quickly
 
 `shft + ctrl + c` - copy file path
 
-`ruby -Itest ctrl-v -n=/xx/`
+`ruby -Itest <ctrl-v> -n=/xx/`

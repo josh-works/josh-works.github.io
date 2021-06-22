@@ -85,7 +85,7 @@ It's easy, and requires three steps:
 
 # Determine your current phone usage
 
-If you're serious about this process, you might have just given yourself some books to read. (Remember? [12 ways your phone is changing you] or [deep work]?)
+If you're serious about this process, you might have just given yourself some books to read. (Remember? [12 ways your phone is changing you]() or [Deep Work]() or [Digital Minimalism]())
 
 So, don't rush into silver-bullet solutions. If you're intent about reducing your phone usage, you should be willing to ease into it.
 

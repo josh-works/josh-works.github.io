@@ -14,7 +14,7 @@ image: /images/title_image.jpg
 
 The modern American system of zoning is racist and violent.
 
-Kind, liberal people who don't want their neighbors to build adjacent to their property line do not feel personal animosity towards black people, but in their actions are supporting a racist, deeply immoral system.
+Kind, liberal people who don't want their neighbors to build adjacent to their property line do not feel personal animosity towards black people, but in their actions are supporting a deeply racist,  immoral system.
 
 Here's what most people say about the pro-social value of zoning:
 
@@ -80,15 +80,15 @@ So, zoning violations can lead to jail time. If I object to going to jail, men w
 
 Lets take a look at [LegalMatch](https://www.legalmatch.com/law-library/article/zoning-code-violations.html), an article titled: `What are Zoning Code Violations?`
 
->> What are Some Examples of Zoning Code Violaionts?
-
+> **What are Some Examples of Zoning Code Violations?**
+>
 > For instance, if business activity such as product manufacturing is being held in a residential area, this will likely be considered a zoning code violation. Other common examples of zoning code disputes may include:
 
-    - Constructing a building that is not allowed in that particular zone
-    - Building a structure (or an addition to a structure) that is too tall or that obstructs another person’s view or access to light/air space
-    - Conducting various operations in non-designated areas, including: manufacturing, packaging, selling, growing, labeling, and other business/industrial activities
-    - Living in spaces that are not designated as residential areas
-    - Creating amounts of pollution or noise that exceed local limits
+  - Constructing a building that is not allowed in that particular zone
+  - Building a structure (or an addition to a structure) that is too tall or that obstructs another person’s view or access to light/air space
+  - Conducting various operations in non-designated areas, including: manufacturing, packaging, selling, growing, labeling, and other business/industrial activities
+  - Living in spaces that are not designated as residential areas
+  - Creating amounts of pollution or noise that exceed local limits
     
 How about [FreeAdvice Legal](https://real-estate-law.freeadvice.com/real-estate-law/zoning/violating_zoning_laws.htm), titled `Consequences of Violating Zoning Laws`:
 

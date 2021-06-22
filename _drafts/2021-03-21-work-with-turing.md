@@ -20,7 +20,7 @@ I believe that there's _so many good things_ that we could both have, across a b
 
 I'm also want to have a chance to understand any mis-steps I've made along the way, and apologize for some of the _very_ "low-quality" bits of "help" I've provided over the years[^shell-mistakes]. For a bunch of reasons I tend to be about as subtle as this person:
 
-[^shell-mistakes]: I know for a fact I had a gist and youtube video floating around that recommended students modify their `PS1` in a way that sometimes sorta broke their terminal, back when `bash` was the default shell instead of `zsh`. That's a different can of worms. 🙄
+[^shell-mistakes]: I know for a fact I had a gist and youtube video floating around that recommended students modify their `PS1` in a way that sometimes sorta broke their terminal, back when `bash` was the default shell instead of `zsh`. That's a different can of worms, but I know it added to the instructor workload when students inevitably brought their laptops to the staff, asking why strange things were happening in their terminal. 🙄
 
 <iframe src="https://giphy.com/embed/k3fTc8vOmbZRU8BCXW" width="427" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZurichInsurance-gifz-zgif-zgifs-k3fTc8vOmbZRU8BCXW">not very subtle via GIPHY</a></p>
 

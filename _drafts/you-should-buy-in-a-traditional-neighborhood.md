@@ -2,7 +2,7 @@
 
 ---
 
-## 4. Walkability is good for affordability in one crucial way, despite the premium you pay.
+## Walkability is good for affordability in one crucial way, despite the premium you pay.
 
 According to the study authors, the price (and thus tax-base) premium for walkable areas does not have to mean that such areas are exclusive or inaccessible to the majority of people, because living in such a place comes with its own benefit to the household bottom line: low transportation costs. This is reflected in the study’s “Social Equity Index”:
 
