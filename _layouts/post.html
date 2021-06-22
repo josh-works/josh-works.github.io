@@ -15,8 +15,8 @@ layout: default
   {% include toc.html html=content %}
   {% include anchor_headings.html html=content anchorBody="#" anchorClass="anchor"%}
   
-  {% if page.comments_id %}
-    {% include comments.html issue_id=page.comments_id %}
+  {% if page.issue_id %}
+    {% include comments.html issue_id=page.issue_id %}
   {% endif %}
 
   
