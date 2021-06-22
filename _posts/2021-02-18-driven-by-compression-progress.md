@@ -8,7 +8,7 @@ categories: [information-infrastructure]
 tags: [shannon, information-infrastructure, compression]
 permalink: driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity
 image: /images/title_image.jpg
-comments_id: 21
+issue_id: 21
 ---
 
 _Note from author: This is part of an experimental series, more-or-less based on "white papers" and academic literature, as applied to somewhat practical-ish domains._
