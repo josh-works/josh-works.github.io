@@ -7,6 +7,7 @@ categories: [turing]
 tags: [programming, turing]
 image: /images_2020/turing-prep-series-cover.jpg
 permalink: turing-backend-prep-02-first-tests-and-making-them-pass
+issue_id: 32
 ---
 
 {% include turing_prework_index.md %}

@@ -8,7 +8,7 @@ categories: [turing]
 tags: [programming, turing]
 permalink: turing-backend-prep-01-intro
 image: /images_2020/turing-prep-series-cover.jpg
-issue_id: 4
+issue_id: 31
 
 ---
 {% include turing_prework_index.md %}
