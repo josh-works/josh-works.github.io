@@ -4,7 +4,7 @@ class NewDraftBuilder
               :content
               
   def initialize(slug)
-    @base_content = File.open("_drafts/_post_template.md", "r").read
+    @base_content = File.open("_drafts/aa-post_template.md", "r").read
     @content = build_output
     # content = File.open("_drafts/_post_template.md", "r").read
     # content.gsub!('DATE', today)
