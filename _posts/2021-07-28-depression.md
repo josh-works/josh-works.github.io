@@ -51,11 +51,19 @@ I write these words primarily for myself, right now, while knowing that because 
 
 I've read a few posts on the topic, where people have expressed some degree of surprise, or they'll have an "ahah" moment, when they realize they've been depressed (or exhibiting signs of depression) for an extended period of time. 
 
-https://zellwk.com/, https://twitter.com/patio11/, and many others. Most of the articles, talks, conversations I've read on the topic of experiencing depression, I don't even remember many specific details. Just a sense of "Hm, this resonates". 
+I've felt a sense of kinship to how others have talked about their own experiences with depression. For example: [https://zellwk.com/](https://zellwk.com/), [https://twitter.com/patio11/](https://twitter.com/patio11/), and many others. Most of the articles, talks, conversations I've read on the topic of experiencing depression, I don't even remember many specific details. Just a sense of "Hm, this resonates". 
 
-Their words have been of benefit to me. Also, there is a "right time" to capture certain thoughts:
+Their words have been of benefit to me. In recent conversations with dear friends about depression, I've been finding the benefit and power of establishing a clear narrative, or a correlatory/causal chain. 
+
+For example:
+
+> {circumstances} primed the pump for me experiencing depression. That depression was a reasonable response to those circumstances. It also has caused other changes in my life. Some of those changes are benign, some changes are self-sabotaging. 
+
+Also, there is a "right time" to capture certain thoughts:
 
 ![write it now](/images/2020-07-21-write-it-now.jpg)
+
+Anyway, all this said, I'm spending some time writing this all out. I've now started/edited this post a half-dozen or dozen times, and am finding my own thoughts around this topic to be getting clarified and improved as I try to make them legible and coherent. I'm already reaping benefit!
 
 -----------------------
 
@@ -192,9 +200,42 @@ Kristi and I had scheduled a week-long "counseling intensive", which brought us 
 
 [^restoring-the-soul]: We went to [Restoring The Soul](https://restoringthesoul.com/), and indeed, our souls were restored.
 
-## January 2020 
 
-After four years of trying to conceive, two miscarriages, and a surprising amount of pain and suffering in many different ways, Kristi got pregnant. 
+------------
+
+There's much more that could be said. I usually do end-of-year "review" posts, and I didn't do one for 2019, because I got curb-stomped by 2020, and couldn't write anything. Ditto 2020, and I'd like to get a 2021 review done, so I've got some catchup to do.
+
+The stories we tell ourselves are important. 
+
+I heard someone say something recently:
+
+> Narrative is the only difference between pain and suffering. 
+
+This was a true statement in the context in which it was said, and while it likely cannot be generalized to every situation, it's a broadly helpful sentiment. 
+
+I'm spending some time making sure I get my narrative right. Lots of the errors I make in this domain are to have errors that tend in the direction of despair and hopelessness. 
+
+## What has helped
+
+Asterisks and qualifications abound. Some threads through what seems to have helped has been things like: 
+
+> Understand that when depressed, my reasoning exhibits different tendencies than when not depressed. Externalize my reasoning and emotions, let trusted friends weigh in on it. Trust them, and generally do what they suggest.
+
+
+- Being comfortable labelling myself as depressed, based on easy external metrics (DSM V, the many resources available to diagnose oneself)
+- Treating my depression as an illness instead of feeling shame (from myself or from others) for being depressed. 
+- Talking about it with dear and trusted friends. (I'll expand on this substantially soon.)
+- Making a concerted effort to trust my brain and emotions less when feeling sad, and let "feeling sad" trigger that intentional downgrading of trust in myself.
+- Imagine I had a friend who said: 
+
+> Josh, I'm feeling rather depressed today. I'd like to spend an hour doing something that promotes wellness, because I know I should, but because I'm depressed, I'm struggling to identify or do that thing. What would you recommend?
+
+How would that conversation unfold? What would I be trying to accomplish for that friend? What would I recommend? How would I follow up? OK, can I do that for myself? 
+
+If not, I should go ask a friend that question.
+
+
+
 
 
 
