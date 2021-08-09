@@ -186,7 +186,7 @@ I ended up pulling the plug half-way through the trial. External sources of stre
 
 This was a tumultuous time for me, and a tumultuous experience. Kristi and I were experiencing profound relationship difficulties, I was extremely depressed, and I feel like I was operating at like 20% of my normal capacity. 
 
-## December 2020
+### December 2020
 
 This was the first Christmas in the 13 years I've known Kristi that we _didn't_ spend the week leading up to Christmas doing difficult and exhausting work to prepare for the busiest season in the bakery.
 
@@ -217,7 +217,9 @@ I'm spending some time making sure I get my narrative right. Lots of the errors 
 
 ## What has helped
 
-Asterisks and qualifications abound. Some threads through what seems to have helped has been things like: 
+This topic will eventually get more discussion. I'm doing things that are helping. _I have friends that are enormously helpful_, with and without awareness of what they're helping with. In this section, asterisks and qualifications abound. 
+
+A thread through what seems to have helped has been things like: 
 
 > Understand that when depressed, my reasoning exhibits different tendencies than when not depressed. Externalize my reasoning and emotions, let trusted friends weigh in on it. Trust them, and generally do what they suggest.
 
