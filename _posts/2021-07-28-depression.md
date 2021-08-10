@@ -126,21 +126,7 @@ I'd _casually_ done hard-for-me boulder problems that spring[^hard-for-me-boulde
 
 And then in July, I got home, and just... stopped. I've been climbing for over 15 years now, and never have I ever taken and unforced break from climbing, other than a few weeks here and there, with some "active rest" to keep the tendons from thinking they're not needed anymore, usually worked in between some training/performance cycles. 
 
-I stopped climbing cold turkey, late July. Hardly touched the wall through November, when my wife and I bought a house, and then I managed to absolutely eff up my back in a horrible way. 
-
-I could barely walk. I spent weeks being unable to do anything. I wasn't healthy or strong enough to move furniture around or hang things on walls, so I also didn't have an ergonomic workspace set up. 
-
-I'd done some interviewing; I got an offer at $130k/yr (!!!) at a local software company, but declined, because I had another opportunity (at the same equivalent pay) for contract technical writing for a teeny tiny startup that will, I think, be extremely successful, and you will absolutely hear about the company some day. 
-
 My depression was particularly bad then, _but I didn't even realize I was depressed_; I just felt extremely anxious and sad most of my waking hours. 
-
-After 10 days with the startup, I told the founder that it wasn't working for me. We had a 12 time difference, and the work was managed in a bit of a haphazard way. I wasn't able to draw a good line between working and not working. I'd worked straight through Thanksgiving weekend, and was just in a terrible place, emotionally. 
-
-The company was based on the other side of the globe, and didn't have a lot of async communication practices in place, and too much of my time was spent regaining/sharing context, and feeling like my time wasn't being well spent when the team was asleep, and then feeling bad about that. 
-
-The founder was bummed I was leaving, and I still am too. I think if I'd been even half-way emotionally well, that role would have been a ton of fun, and I could have made impacts above and beyond what we'd both hoped for. 
-
-My capacity for work was greatly diminished by physical injuries, the year of depression, covid lockdowns, and having my traditional sources of stability (climbing, my marriage) were instead sources of difficulty. 
 
 ### August-October 2020
 
@@ -160,9 +146,8 @@ Why do I talk about all this in a post about depression?
 
 Because Denver is hideously unaffordable, has zero good public transit, and most of the urban infrastructure is extremely hostile to individuals. All of this is a result of following racist laws. 
 
-It's demoralizing to have ones life and wellbeing so affected by such immoral and evil laws. Kristi and I eventually ended up paying almost $600k for a house in terrible condition in downtown Golden. 
+It's demoralizing to have ones life and wellbeing so affected by such immoral and evil laws. Kristi and I eventually ended up paying almost $600k for a house in terrible condition in downtown Golden. I'll be spending much time and money getting it to a tolerable condition.
 
-Kristi and I struggled to find anything tolerable to us, and didn't find anything affordable. We don't plan on ever moving again, so what's an extra $150k across 60 or 70 years? 
 
 ### November 2020
 
