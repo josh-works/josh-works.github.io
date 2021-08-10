@@ -221,8 +221,7 @@ How would that conversation unfold? What would I be trying to accomplish for tha
 
 If not, I should go ask a friend that question.
 
-
-
+#### Footnotes
 
 
 
