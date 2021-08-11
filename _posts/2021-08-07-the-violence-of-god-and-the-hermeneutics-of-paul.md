@@ -18,7 +18,7 @@ _What follows is an excerpt from [The Work of Jesus Christ in Anabaptist Perspec
 
 _By Christopher D. Marshall_
 
-The jarring dissonance between the God of vengeance and violence in certain parts of the Old Testament and the God of indiscriminate love and mercy proclaimed by Jesus in the Gospels has long perplexed Christian interpreters. Echoing the verdict of many, Paul Anderson maintains that reconciling these contrasting portraits of God constitutes "the greatest theological and hermeneutical problem in the Bible." It is a theological problem because it challenges the notion of a unitary and self-consistent divine will. It is a hermeneutical problem because it forces the question of how apparently contradictory views of God can exercise authority as equally part of sacred Scripture. It is also a moral problem, for the way believers resolve this ten sion will have implications for how they live their lives as servants of God, even if the common assertion today that violent religious texts lead directly to violent behavior must be dismissed as simplistic.²
+The jarring dissonance between the God of vengeance and violence in certain parts of the Old Testament and the God of indiscriminate love and mercy proclaimed by Jesus in the Gospels has long perplexed Christian interpreters. Echoing the verdict of many, Paul Anderson maintains that reconciling these contrasting portraits of God constitutes "the greatest theological and hermeneutical problem in the Bible." [^1] It is a theological problem because it challenges the notion of a unitary and self-consistent divine will. It is a hermeneutical problem because it forces the question of how apparently contradictory views of God can exercise authority as equally part of sacred Scripture. It is also a moral problem, for the way believers resolve this ten sion will have implications for how they live their lives as servants of God, even if the common assertion today that violent religious texts lead directly to violent behavior must be dismissed as simplistic.[^2]
 
 These difficulties are not unique to Christians, of course. Jewish interpreters, too, have long wrestled with how the compassionate God of, say, Ezekiel 33 is to be reconciled with the punitive God of, for example, Numbers 16.3 But these problems of interpretation confront Christian readers in a particularly acute way in light of the theological, moral, and hermeneutical privilege which Christianity accords, at least in theory, to the Jesus tradition. 
 
@@ -204,204 +204,204 @@ Paul may never have consciously reflected on how best to reconcile this present 
 
 ## ENDNOTES
 
-1. Paul N. Anderson, "Genocide or Jesus: A God of Conquest or Pacifism," in _The Destructive Power of Religion: Violence in Judaism, Christianity, and Islam_, ed. J. H. Ellens (Westport, Connecticut & London, Praeger 2004), 4:31-52 (at 31).
+[^1]: Paul N. Anderson, "Genocide or Jesus: A God of Conquest or Pacifism," in _The Destructive Power of Religion: Violence in Judaism, Christianity, and Islam_, ed. J. H. Ellens (Westport, Connecticut & London, Praeger 2004), 4:31-52 (at 31).
 
-2. See D. Andrew Kille, "The Bible Made Me Do It': Text, Interpretation, and Violence," in _Destructive Power of Religion_, ed. Ellens, 1:55-73. See also Charles Mabee, "Reflections on Monotheism and Violence," in _Destructive Power of Religion_, ed. Ellens, 4:111-18. Cf. also Karen Armstrong, "Unholy Strictures," _Guardian Weekly_ (Aug. 19-25, 2005): 13.
+[^2]: See D. Andrew Kille, "The Bible Made Me Do It': Text, Interpretation, and Violence," in _Destructive Power of Religion_, ed. Ellens, 1:55-73. See also Charles Mabee, "Reflections on Monotheism and Violence," in _Destructive Power of Religion_, ed. Ellens, 4:111-18. Cf. also Karen Armstrong, "Unholy Strictures," _Guardian Weekly_ (Aug. 19-25, 2005): 13.
 
-3. As Dale C. Allison Jr. notes,"... the problem of conflicting theologies was not born with Christianity. The problem was already internal to Judaism .... If, after Marcion, the issue for Christians became which God to a edge, this was only a later variant of the earlier question, Which texts should we sanction?" "Rejecting Violent Judgment: Luke 9:52-56 and its _Journal of Biblical Literature_ 121/3 (2002): 459-78 (at 478).
+**3.** As Dale C. Allison Jr. notes,"... the problem of conflicting theologies was not born with Christianity. The problem was already internal to Judaism .... If, after Marcion, the issue for Christians became which God to a edge, this was only a later variant of the earlier question, Which texts should we sanction?" "Rejecting Violent Judgment: Luke 9:52-56 and its _Journal of Biblical Literature_ 121/3 (2002): 459-78 (at 478).
 
-4. See J. Denny Weaver, _The Nonviolent Atonement_ (Grand Rapids, Mich: Wm B. Eerdmans, 2001). I am in general sympathy with the direction of Weaver's argument, though I depart substantially from his reading of the New Testament evidence. See my "Atonement, Violence, and the Will of God," Mennonite Quarterly Review 76/1 (2003):67-90.
+**4.** See J. Denny Weaver, _The Nonviolent Atonement_ (Grand Rapids, Mich: Wm B. Eerdmans, 2001). I am in general sympathy with the direction of Weaver's argument, though I depart substantially from his reading of the New Testament evidence. See my "Atonement, Violence, and the Will of God," Mennonite Quarterly Review 76/1 (2003):67-90.
 
-5. See for instance. Miroslav Volf, _Exclusion and Embrace: A Theological Ex planation of Identity, Otherness, and Reconciliation_ (Nashville: Abingdon Press, 1996), esp. 275-306. Cf. also Kenneth R. Chase, "Christian Discourse and the Humility of Peace," in _Must Christianity Be Violent? Reflections on History, Practice, and Theology_, ed. Kenneth R. Chase and Alan Jacobs (Grand Rapids, Mich.: Brazos Press, 2003), 119-34 (esp. 128-31); Dan McKanan, "Is God Violent? Theological Options in the Antislavery Movement," in _Must Christianity Be Violent?_, 50-68
+**5.** See for instance. Miroslav Volf, _Exclusion and Embrace: A Theological Ex planation of Identity, Otherness, and Reconciliation_ (Nashville: Abingdon Press, 1996), esp. 275-306. Cf. also Kenneth R. Chase, "Christian Discourse and the Humility of Peace," in _Must Christianity Be Violent? Reflections on History, Practice, and Theology_, ed. Kenneth R. Chase and Alan Jacobs (Grand Rapids, Mich.: Brazos Press, 2003), 119-34 (esp. 128-31); Dan McKanan, "Is God Violent? Theological Options in the Antislavery Movement," in _Must Christianity Be Violent?_, 50-68
 
-6. Walter Wink, _Engaging the Powers: Discernment and Resistance in a World of Domination_ (Minneapolis: Fortress Press, 1992), 1-31; idem, The Powers That Be Theology for a New Millennium (New York: Doubleday, 1998), 63-81. 7. Heb 10:31
+**6.** Walter Wink, _Engaging the Powers: Discernment and Resistance in a World of Domination_ (Minneapolis: Fortress Press, 1992), 1-31; idem, The Powers That Be Theology for a New Millennium (New York: Doubleday, 1998), 63-81. 7. Heb 10:31
 
-7. Heb 10:31
+**7.** Heb 10:31
 
-8. I attempt to construct a non-retributive view of final judgment in my _Beyond Retribution: A New Testament Vision for Justice, Crime and Punishment_ (Grand Rapids, Mich: Wm B. Eerdmans, 2001).
+**8.** I attempt to construct a non-retributive view of final judgment in my _Beyond Retribution: A New Testament Vision for Justice, Crime and Punishment_ (Grand Rapids, Mich: Wm B. Eerdmans, 2001).
 
-9. John H. Yoder, _The Politics of Jesus: Vicit Agnus Noster_ (Grand Rapids, Mich: Wm B. Eerdmans, 1994), 228-47. 
+**9.** John H. Yoder, _The Politics of Jesus: Vicit Agnus Noster_ (Grand Rapids, Mich: Wm B. Eerdmans, 1994), 228-47. 
 
-10. J. Harold Ellens, "Revenge, Justice and Hope: Laura Blumenfeld's Journey," in idem, _Destructive Power of Religion_ 4:227-235 (at 235). 
+**10.** J. Harold Ellens, "Revenge, Justice and Hope: Laura Blumenfeld's Journey," in idem, _Destructive Power of Religion_ 4:227-235 (at 235). 
 
-11. Col. 1:15, 19, cf. 2 Cor. 4:4
+**11.** Col. 1:15, 19, cf. 2 Cor. 4:4
 
-12. Heb. 1:2-3
+**12.** Heb. 1:2-3
 
-13. John 1:3-4
+**13.** John 1:3-4
 
-14. Col. 1:16
+**14.** Col. 1:16
 
-15. N.T. Wright offers a powerful presentation of Jesus' nonviolent opposition to Rome in _Jesus and the Victory of God_ (London: SPCK, 1996). But he stops short of grounding it in any distinctive apprehension of God's character by Jesus.
+**15.** N.T. Wright offers a powerful presentation of Jesus' nonviolent opposition to Rome in _Jesus and the Victory of God_ (London: SPCK, 1996). But he stops short of grounding it in any distinctive apprehension of God's character by Jesus.
 
-16. Matt. 5:44-48
+**16.** Matt. 5:44-48
 
-17. Luke 6:35-36 
+**17.** Luke 6:35-36 
 
-18. Raymund Schwager, _Must There Be Scapegoats? Violence and Redemption in the Bible_ (New York: Harper & Row, Gracewing & Crossroad Publishing Company, 1987), 207. So too Wink, _Powers that Be_, 89. Jack Nelson-Pallmeyer observes that "Jesus was not the first Jew to promote or use nonviolence when resisting injustice.... Jesus may have been the first, however, to specifically reject the violence of God as the foundation for nonviolent resistance. Rather than rooting nonviolence in the assurance of God's ultimate and re deeming violence, Jesus saw nonviolent action as a faithful embodiment of a nonviolent God, that is, as reflective of the very Spirit that is God." -- _Jesus against Christianity: Reclaiming the Missing Jesus_ (Harrisburg, Penn.: Trinity Press International, 2001), 320. 
+**18.** Raymund Schwager, _Must There Be Scapegoats? Violence and Redemption in the Bible_ (New York: Harper & Row, Gracewing & Crossroad Publishing Company, 1987), 207. So too Wink, _Powers that Be_, 89. Jack Nelson-Pallmeyer observes that "Jesus was not the first Jew to promote or use nonviolence when resisting injustice.... Jesus may have been the first, however, to specifically reject the violence of God as the foundation for nonviolent resistance. Rather than rooting nonviolence in the assurance of God's ultimate and re deeming violence, Jesus saw nonviolent action as a faithful embodiment of a nonviolent God, that is, as reflective of the very Spirit that is God." -- _Jesus against Christianity: Reclaiming the Missing Jesus_ (Harrisburg, Penn.: Trinity Press International, 2001), 320. 
 
-19. Cf. Ulrich Mauser, _The Gospel of Peace: A Scriptural Message for Today's World_ (Louisville: Westminster John Knox, 1992), 183-84.
+**19.** Cf. Ulrich Mauser, _The Gospel of Peace: A Scriptural Message for Today's World_ (Louisville: Westminster John Knox, 1992), 183-84.
 
-20. Col. 1:15, 20
+**20.** Col. 1:15, 20
 
-21. Rom. 1:16-17;3:20 
+**21.** Rom. 1:16-17;3:20 
 
-22. Rom. 5:1
+**22.** Rom. 5:1
 
-23. John C. Haughey, "Jesus as the Justice of God," in _The Faith that Does Justice: Examining the Christian Sources for Social Change_, ed. J.C. Haughey (New York: Paulist Press, 1922), 279. See also Marshall, _Beyond Retribution_, 259-63.
+**23.** John C. Haughey, "Jesus as the Justice of God," in _The Faith that Does Justice: Examining the Christian Sources for Social Change_, ed. J.C. Haughey (New York: Paulist Press, 1922), 279. See also Marshall, _Beyond Retribution_, 259-63.
 
-24. Col. 1:16-17
+**24.** Col. 1:16-17
 
-25. Eph. 1:10
+**25.** Eph. 1:10
 
-26. Gen. 4:8; Rev. 21:3-4,24; 22:2
+**26.** Gen. 4:8; Rev. 21:3-4,24; 22:2
 
-27. Wink, _The Powers That Be_, 44-48, at 46. Also Patricia M. McDonald, _God and Violence: Biblical Resources for Living in a Small World_ (Scottdale, Pa. and Waterloo, Ont.: Herald Press, 2004), 35-49.
+**27.** Wink, _The Powers That Be_, 44-48, at 46. Also Patricia M. McDonald, _God and Violence: Biblical Resources for Living in a Small World_ (Scottdale, Pa. and Waterloo, Ont.: Herald Press, 2004), 35-49.
 
-28. Gen. 4:1-16 
+**28.** Gen. 4:1-16 
 
-29. Gen. 4:23-24;65-7, 11-13
+**29.** Gen. 4:23-24;65-7, 11-13
 
-30. Gen. 7:1-24;8:21-22:9:11-17
+**30.** Gen. 7:1-24;8:21-22:9:11-17
 
-31. This is not to deny that the canonical tradition is full of tensions, disagreements, contradictions, and revisions. Later biblical authors and tradents felt free to disagree with the perspective of their predecessors on certain theological positions even while accepting the authority of the tradition they bequeathed. Indeed, the authority of the tradition is shown precisely in the commitment of later recipients to engage in radical rethinking of its meaning and implications. See further Ellen F. Davis, "Critical Traditioning: Seeking an Inner Biblical Hermeneutic," _Anglican Theological Review_ 82/4 (2000): 733 51.
+**31.** This is not to deny that the canonical tradition is full of tensions, disagreements, contradictions, and revisions. Later biblical authors and tradents felt free to disagree with the perspective of their predecessors on certain theological positions even while accepting the authority of the tradition they bequeathed. Indeed, the authority of the tradition is shown precisely in the commitment of later recipients to engage in radical rethinking of its meaning and implications. See further Ellen F. Davis, "Critical Traditioning: Seeking an Inner Biblical Hermeneutic," _Anglican Theological Review_ 82/4 (2000): 733 51.
 
-32. Of course, legendary elements may well exist in the tradition. As Simon De Vries notes, "Battle and war passages in the Old Testament range from the legendary to the mythical, to the realistic and immediate, from the schematic and ideological, to the bizarre and apocalyptic." -- "Human Sacrifice in the Old Testament: in Ritual and Warfare," in _Destructive Power of Religion_, ed. Ellens, 1:99-121 (at 120). 
+**32.** Of course, legendary elements may well exist in the tradition. As Simon De Vries notes, "Battle and war passages in the Old Testament range from the legendary to the mythical, to the realistic and immediate, from the schematic and ideological, to the bizarre and apocalyptic." -- "Human Sacrifice in the Old Testament: in Ritual and Warfare," in _Destructive Power of Religion_, ed. Ellens, 1:99-121 (at 120). 
 
-33. Exod. 15:1-3
+**33.** Exod. 15:1-3
 
-34. Schwager, _Must There be Scapegoats?_, 47-71.
+**34.** Schwager, _Must There be Scapegoats?_, 47-71.
 
-35. Jack Miles, "The Disarmament of God," in _Destructive Power of Religion_ ed Elkins, 1:123-167 (at 147). 
+**35.** Jack Miles, "The Disarmament of God," in _Destructive Power of Religion_ ed Elkins, 1:123-167 (at 147). 
 
-36. Num. 11:1-6; 14:10-12; Deut. 1:34-40
+**36.** Num. 11:1-6; 14:10-12; Deut. 1:34-40
 
-37. Num. 12:1-16; 14:10-12; 16:41-50, 25:6-9, cf. Exod. 11:4-5; 12:12,13, 23, 37 
+**37.** Num. 12:1-16; 14:10-12; 16:41-50, 25:6-9, cf. Exod. 11:4-5; 12:12,13, 23, 37 
 
-38. Mark McEntire, _The Blood of Abel: The Violent Plot of the Hebrew Bible_ (Macon, Georgia: Mercer University Press, 1999), 61-62.
+**38.** Mark McEntire, _The Blood of Abel: The Violent Plot of the Hebrew Bible_ (Macon, Georgia: Mercer University Press, 1999), 61-62.
 
-39. Relevant texts include Exod. 17:8-13; Num. 21:1-3, 23-24; Deut. 2:30-35; 7:2-6; Josh. 6: 1-16,7:1, 24-26a; Judg. 3:16-25; 4:6-7,9-10, 13-15, 17, 21-22; 15:4 8,1 Sam. 17:12-18:2; 31:1-13; 2 Sam. 18-6-9, 14-15; 1 Kings 22:31-38; 2 Kings 9:30-35; Isa. 2:4; Mic. 4:3; Ezek. 38:14-23; Joel 3:9-10; 2 Chron. 149-15 
+**39.** Relevant texts include Exod. 17:8-13; Num. 21:1-3, 23-24; Deut. 2:30-35; 7:2-6; Josh. 6: 1-16,7:1, 24-26a; Judg. 3:16-25; 4:6-7,9-10, 13-15, 17, 21-22; 15:4 8,1 Sam. 17:12-18:2; 31:1-13; 2 Sam. 18-6-9, 14-15; 1 Kings 22:31-38; 2 Kings 9:30-35; Isa. 2:4; Mic. 4:3; Ezek. 38:14-23; Joel 3:9-10; 2 Chron. 149-15 
 
-40. For example, Deut. 7:2: Josh. 11:20.
+**40.** For example, Deut. 7:2: Josh. 11:20.
 
-41. Susan Niditch, _War in the Hebrew Bible: A Study in the Ethics of Violence_ (New York & Oxford: Oxford University Press, 1993), 28-89. See also John J. Collins, "The Zeal of Phineas, the Bible and the Legitimation of Violence," in _Destructive Power of Religion_ 1: 12-33, ed. Ellens (at 13-17). 
+**41.** Susan Niditch, _War in the Hebrew Bible: A Study in the Ethics of Violence_ (New York & Oxford: Oxford University Press, 1993), 28-89. See also John J. Collins, "The Zeal of Phineas, the Bible and the Legitimation of Violence," in _Destructive Power of Religion_ 1: 12-33, ed. Ellens (at 13-17). 
 
-42. McDonald, _God and Violence_, 123, 126, cf. 127, 128, 131.
+**42.** McDonald, _God and Violence_, 123, 126, cf. 127, 128, 131.
 
-43. Niditch, _War in the Hebrew Bible_, 50. Collins is unconvinced. "Rather than respect for human life, the practice bespeaks a totalistic attitude, which is common to armies and warfare, where the individual is completely subordinated to the interests of the group." -- "Zeal of Phineas," 
+**43.** Niditch, _War in the Hebrew Bible_, 50. Collins is unconvinced. "Rather than respect for human life, the practice bespeaks a totalistic attitude, which is common to armies and warfare, where the individual is completely subordinated to the interests of the group." -- "Zeal of Phineas," 
 
-44. Nelson-Pallmeyer, _Jesus Against Christianity_, 37, 
+**44.** Nelson-Pallmeyer, _Jesus Against Christianity_, 37, 
 
-45. McEntire, _Blood of Abel_, 90.
+**45.** McEntire, _Blood of Abel_, 90.
 
-46. Ps. 68:20-23, cf. Habakkuk 3:13-16, 
+**46.** Ps. 68:20-23, cf. Habakkuk 3:13-16, 
 
-47. Amos 2:4-16; 5:127; Isa. 43:28. See Niditch, _War in the Hebrew Bible_, 78.
+**47.** Amos 2:4-16; 5:127; Isa. 43:28. See Niditch, _War in the Hebrew Bible_, 78.
 
-48. McEntire, Blood of Abel, 114. 
+**48.** McEntire, Blood of Abel, 114. 
 
-49. See my _Crowned with Glory and Honor: Human Rights in the Biblical Tradition_ (Telford/Scottdale, Pa.: Pandora Press U.S./Herald Press, 2001).
+**49.** See my _Crowned with Glory and Honor: Human Rights in the Biblical Tradition_ (Telford/Scottdale, Pa.: Pandora Press U.S./Herald Press, 2001).
 
-50. McEntire, _Blood of Abel_, 44. 
+**50.** McEntire, _Blood of Abel_, 44. 
 
-51. Gen. 18:16-33
+**51.** Gen. 18:16-33
 
-52. In _Violence, Hospitality, and the Cross: Reappropriating the Atonement Tradition_ (Grand Rapids Mich.: Baker Academic, 2004), Hans Boersma argues that in a sinful world violence is necessary to defend the boundaries which enable hospitality to function. In such a world, God employs "redemptive" violence, which is a "good violence" because it serves to uphold monotheism, to punish immorality, and to protect the poor and underprivileged. But Boersma makes little attempt to measure this sweeping defense of divine violence against the concrete suffering endured by its victims. See my critical review in _Stimulus_ 13/3 (2005), 51-52, which includes my own attempt to spell out the semantic parameters of the term _violence_.
+**52.** In _Violence, Hospitality, and the Cross: Reappropriating the Atonement Tradition_ (Grand Rapids Mich.: Baker Academic, 2004), Hans Boersma argues that in a sinful world violence is necessary to defend the boundaries which enable hospitality to function. In such a world, God employs "redemptive" violence, which is a "good violence" because it serves to uphold monotheism, to punish immorality, and to protect the poor and underprivileged. But Boersma makes little attempt to measure this sweeping defense of divine violence against the concrete suffering endured by its victims. See my critical review in _Stimulus_ 13/3 (2005), 51-52, which includes my own attempt to spell out the semantic parameters of the term _violence_.
 
-53. For example, Gen. 13:13; 15:16; Deut. 9:5; 20:17-18. The general perfidy of the Canaanites is pervasive in the biblical tradition, although the purported wickedness of the Canaanites is never actually substantiated within the conquest accounts. 
+**53.** For example, Gen. 13:13; 15:16; Deut. 9:5; 20:17-18. The general perfidy of the Canaanites is pervasive in the biblical tradition, although the purported wickedness of the Canaanites is never actually substantiated within the conquest accounts. 
 
-54. McEntire, _Blood of Abel_, 118
+**54.** McEntire, _Blood of Abel_, 118
 
-55. Matt. 2:16-18
+**55.** Matt. 2:16-18
 
-56. 1 Sam. 15:2-3, cf. Exod. 17:14,16; Num. 24:20; Deut. 25:17-19 
+**56.** 1 Sam. 15:2-3, cf. Exod. 17:14,16; Num. 24:20; Deut. 25:17-19 
 
-57. So Collins, "Zeal of Phineas," 24-25.
+**57.** So Collins, "Zeal of Phineas," 24-25.
 
-58. So Anderson, "Genocide or Jesus," 51.
+**58.** So Anderson, "Genocide or Jesus," 51.
 
-59. Nelson-Pallmeyer, _Jesus Against Christianity_, 16.
+**59.** Nelson-Pallmeyer, _Jesus Against Christianity_, 16.
 
-60. Collins, "Zeal of Phineas," 25. 
+**60.** Collins, "Zeal of Phineas," 25. 
 
-61. Exod. 34:6-7; Num. 14:18-19, Deut. 5:9-10
+**61.** Exod. 34:6-7; Num. 14:18-19, Deut. 5:9-10
 
-62. 2 Kings 1:11-12, cf. Gen. 19:24; Lev. 10:1-2; Job 1:16; Ps. 97:3
+**62.** 2 Kings 1:11-12, cf. Gen. 19:24; Lev. 10:1-2; Job 1:16; Ps. 97:3
 
-63. Luke 9:54-55
+**63.** Luke 9:54-55
 
-64. So rightly Allison, "Rejecting Violent Judgment," 476. 
+**64.** So rightly Allison, "Rejecting Violent Judgment," 476. 
 
-65. McDonald, God and Violence, 54, cf. 57.
+**65.** McDonald, God and Violence, 54, cf. 57.
 
-66. Gen. 12:3, 17; 14:20; 15:14-16; 18:20; 19:15-29; 22:1-19; 
+**66.** Gen. 12:3, 17; 14:20; 15:14-16; 18:20; 19:15-29; 22:1-19; 
 
-67. Gen. 12:7; 13:14-17; 15:16; 17:8; 22:17; 28:3-4, 13-15; 35:12; 48:4;50:24 
+**67.** Gen. 12:7; 13:14-17; 15:16; 17:8; 22:17; 28:3-4, 13-15; 35:12; 48:4;50:24 
 
-68. For example, Exod. 4:24-26; 2 Sam. 6:6-7. Ezek. 38:10
+**68.** For example, Exod. 4:24-26; 2 Sam. 6:6-7. Ezek. 38:10
 
-69. See Lev. 26: 14-39; Exod. 12:29; Ezek, 21:3-4, 9-15; Jer. 25:32-33. 
+**69.** See Lev. 26: 14-39; Exod. 12:29; Ezek, 21:3-4, 9-15; Jer. 25:32-33. 
 
-70. For example, Deut. 20:16-17; 1 Sam. 15:2-3; Isa. 19:2; Jer. 51:20-24; 21:31; Ps. 44:11-12; Zech. 8:10. 
+**70.** For example, Deut. 20:16-17; 1 Sam. 15:2-3; Isa. 19:2; Jer. 51:20-24; 21:31; Ps. 44:11-12; Zech. 8:10. 
 
-71. For example, Isa. 50:11; Jer. 44:8; Ps. 7:13-17; Prov. 8:36; 26:27 
+**71.** For example, Isa. 50:11; Jer. 44:8; Ps. 7:13-17; Prov. 8:36; 26:27 
 
-72. See, 22:25-26; Isa. 19:2; 13:17 for example, Ezek. 21:31; Jer. 
+**72.** See, 22:25-26; Isa. 19:2; 13:17 for example, Ezek. 21:31; Jer. 
 
-73. Schwager, _Must There Be Scapegoats?_, 63. 
+**73.** Schwager, _Must There Be Scapegoats?_, 63. 
 
-74. For example, Gen. 19:24; Num. 16:29-32.
+**74.** For example, Gen. 19:24; Num. 16:29-32.
 
-75. See, for example, Isa. 64:6-7; Ps. 81:11-12. 
+**75.** See, for example, Isa. 64:6-7; Ps. 81:11-12. 
 
-76. Schwager, _Must There Be Scapegoats?_, 63 (emphasis mine).
+**76.** Schwager, _Must There Be Scapegoats?_, 63 (emphasis mine).
 
-77. Whether some actual primeval act of violence by God is the reason for God's subsequent identification with violence, or whether the flood story it self is the product of prior projection of violence onto heaven, is open to discussion.
+**77.** Whether some actual primeval act of violence by God is the reason for God's subsequent identification with violence, or whether the flood story it self is the product of prior projection of violence onto heaven, is open to discussion.
 
-78. This is one of the major findings in McEntire's study _Blood of Abel_ 
+**78.** This is one of the major findings in McEntire's study _Blood of Abel_ 
 
-79. Cf. Wink, Engaging the Powers, 146-47.
+**79.** Cf. Wink, Engaging the Powers, 146-47.
 
-80. God's sovereign self-disclosure is the necessary presupposition for all and any knowledge of God. But divine revelation is also necessarily filtered through fallible human language and categories, which can distort as well as report God's truth, and often both at the same time. For a helpful discussion of the relationship between revelation and Scripture, see William C. Placher _The Domestication of Transcendence_ (Louisville, Ky: Westminster John Knox, 1996), 181-200.
+**80.** God's sovereign self-disclosure is the necessary presupposition for all and any knowledge of God. But divine revelation is also necessarily filtered through fallible human language and categories, which can distort as well as report God's truth, and often both at the same time. For a helpful discussion of the relationship between revelation and Scripture, see William C. Placher _The Domestication of Transcendence_ (Louisville, Ky: Westminster John Knox, 1996), 181-200.
 
-81. Jesus is condemned to death on the charge of blasphemy (Mark 14-55 64), a capital crime in Mosaic law (Lev. 24:15-16). 
+**81.** Jesus is condemned to death on the charge of blasphemy (Mark 14-55 64), a capital crime in Mosaic law (Lev. 24:15-16). 
 
-82. Schwager, _Must There Be Scapegoats?_, 67.
+**82.** Schwager, _Must There Be Scapegoats?_, 67.
 
-83. Collins is clear that what makes violent religious texts dangerous is not their violent content but the certitude with which they are received by readers as divine revelation, "Zeal of Phineas," 23-26. So too Nelson-Pallmeyer, _Jesus Against Christianity_, 277,
+**83.** Collins is clear that what makes violent religious texts dangerous is not their violent content but the certitude with which they are received by readers as divine revelation, "Zeal of Phineas," 23-26. So too Nelson-Pallmeyer, _Jesus Against Christianity_, 277,
 
-84. 1 borrow this term from Ellen Davis, "Critical Traditioning." 
+**84.** 1 borrow this term from Ellen Davis, "Critical Traditioning." 
 
-85. Exod. 34:6-7; Num. 14:18-19; Deut. 5:9-10
+**85.** Exod. 34:6-7; Num. 14:18-19; Deut. 5:9-10
 
-86. Jer. 31:29-30
+**86.** Jer. 31:29-30
 
-87. Ezek. 18:1-4
+**87.** Ezek. 18:1-4
 
-88. Rom. 3:21; 8:1-4
+**88.** Rom. 3:21; 8:1-4
 
-89. Gal. 1:13; Phil. 3:6; 1 Cor. 15:9; cf. Acts 9:1-2; 22:4; 26:9-11. On the violent implications of "zeal," see Terence L. Donaldson, "Zealot and Convert: The Origins of Paul's Christ-Torah Antithesis," _Catholic Biblical Quarterly_ 51/4 (1989): 655-82; Vincent M. Smiles, "The Concept of 'Zeal' in Second-Temple Judaism and Paul's Critique of It in Romans 10:2," _Catholic Biblical Quarterly_ 64/2 (2002): 282-99; Mark R. Fairchild, "Paul's Pre-Christian Zealot Associations: A Re-Examination of Gal 1:14 and Acts 22:3," _New Testament Studies_ 45/4 (1999): 514-32. For a thematizing of the place of zeal in the biblical tradition and American self-understanding, see Robert Jewett and John Shelton Lawrence, _Captain America and the Crusade Against Evil: The Dilemma of Zealous Nationalism_ (Grand Rapids, Mich: Wm B. Eerdmans, 2003). 
+**89.** Gal. 1:13; Phil. 3:6; 1 Cor. 15:9; cf. Acts 9:1-2; 22:4; 26:9-11. On the violent implications of "zeal," see Terence L. Donaldson, "Zealot and Convert: The Origins of Paul's Christ-Torah Antithesis," _Catholic Biblical Quarterly_ 51/4 (1989): 655-82; Vincent M. Smiles, "The Concept of 'Zeal' in Second-Temple Judaism and Paul's Critique of It in Romans 10:2," _Catholic Biblical Quarterly_ 64/2 (2002): 282-99; Mark R. Fairchild, "Paul's Pre-Christian Zealot Associations: A Re-Examination of Gal 1:14 and Acts 22:3," _New Testament Studies_ 45/4 (1999): 514-32. For a thematizing of the place of zeal in the biblical tradition and American self-understanding, see Robert Jewett and John Shelton Lawrence, _Captain America and the Crusade Against Evil: The Dilemma of Zealous Nationalism_ (Grand Rapids, Mich: Wm B. Eerdmans, 2003). 
 
-90. See 2 Cor. 3:12-18; Rom. 10:2-4.
+**90.** See 2 Cor. 3:12-18; Rom. 10:2-4.
 
-91. Rom. 7:5,9-10; 10:5; Gal. 2:19, cf. 3:12, 21; 1 Cor. 15:56; 2 Cor. 3:6-7 
+**91.** Rom. 7:5,9-10; 10:5; Gal. 2:19, cf. 3:12, 21; 1 Cor. 15:56; 2 Cor. 3:6-7 
 
-92. Rom. 3:20, 27-28; Gal. 2:16; 32,5,10, 12, cf. Rom. 3:27:4:2,6;9:12, 32; 11:6; Eph. 29 
+**92.** Rom. 3:20, 27-28; Gal. 2:16; 32,5,10, 12, cf. Rom. 3:27:4:2,6;9:12, 32; 11:6; Eph. 29 
 
-93. Rom. 1:18-32; 3:9-20; 5:12-21; 612-14, 20-21;7:7-25; etc.
+**93.** Rom. 1:18-32; 3:9-20; 5:12-21; 612-14, 20-21;7:7-25; etc.
 
-94. Rom. 4:16; 5:20-21; 6:1,14; 11:5; 1 Cor. 15:10; Gal. 1:6; 2:21; 5:4; cf. Eph. 2.5-6. 
+**94.** Rom. 4:16; 5:20-21; 6:1,14; 11:5; 1 Cor. 15:10; Gal. 1:6; 2:21; 5:4; cf. Eph. 2.5-6. 
 
-95. Rom. 5:6-21; 1 Cor. 15:42-49; Col. 1:10; 3:10 
+**95.** Rom. 5:6-21; 1 Cor. 15:42-49; Col. 1:10; 3:10 
 
-96. Rom. 5:5; 13:8-10; 14:15; Gal. 5:6, 13-14, 22-23; Phil. 1:9; 1 Cor. 8:1; 13:1-8; 16:14; Col. 3:14, cf. Eph. 4:32-35.
+**96.** Rom. 5:5; 13:8-10; 14:15; Gal. 5:6, 13-14, 22-23; Phil. 1:9; 1 Cor. 8:1; 13:1-8; 16:14; Col. 3:14, cf. Eph. 4:32-35.
 
-97. Gal. 1:13; Phil. 3:5-6; 1 Cor. 15:9; cf. Acts 9:1-2; 22:4; 26:5, 9-11.
+**97.** Gal. 1:13; Phil. 3:5-6; 1 Cor. 15:9; cf. Acts 9:1-2; 22:4; 26:5, 9-11.
 
-98. See Rom. 11:28-36.
+**98.** See Rom. 11:28-36.
 
-99. Cf. Rom. 4:23-24; 15:4; 1 Cor. 10:11; 9:10.
+**99.** Cf. Rom. 4:23-24; 15:4; 1 Cor. 10:11; 9:10.
 
-100. The phrase _God of peace_ is a favorite of Paul's (Rom. 15:33; 16:20; 2 Cor. 13:11; Phil. 4:9; 1 Thess. 5:23; 2 Thess. 3:16, cf. Eph. 2:14), though he did not in vent it (Heb. 13:20). In early Jewish literature the phrase occurs only once (_Test. Daniel 5:2_).
+**100.** The phrase _God of peace_ is a favorite of Paul's (Rom. 15:33; 16:20; 2 Cor. 13:11; Phil. 4:9; 1 Thess. 5:23; 2 Thess. 3:16, cf. Eph. 2:14), though he did not in vent it (Heb. 13:20). In early Jewish literature the phrase occurs only once (_Test. Daniel 5:2_).
 
 ## Footnotes
