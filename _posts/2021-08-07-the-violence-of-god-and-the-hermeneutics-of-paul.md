@@ -172,6 +172,236 @@ From this hermeneutical vantage point, Paul is able to see the Torah in a comple
 
 The reason for this sorry state of affairs is that the law, for all its divine qualities, is unable to overcome the indwelling and all-pervasive power of sin (3:9-18; 7:14-25; Gal. 3:22). The law is fatally "weakened by the flesh" (Rom. 8:3; 7:14, 25); it is stymied by that fallen human condition that "does not submit to God's law, indeed it cannot" (8:7). The law has even become a weapon in the hands of sin (7:7-13), so much so that Paul can boldly declare that "the power of sin is the law" (1 Cor. 15:56, cf. Rom. 7:22-23). What God intended for life has become a vehicle of death. The source of the problem is not the law itself, which Paul considers to be "holy, just and good" (Rom. 7:12, 14, 16). The problem is the deep-rootedness of sin, which lies beyond the reach of any external legal code, even one given by God. 
 
-The second problem Paul finds with the law is that it is limited to one ethnic community. Notwithstanding the ironical tone of his comments, Paul accepts the premise that the law was given uniquely to Israel to enable her to be "a guide to the blind, a light to those who are in
+The second problem Paul finds with the law is that it is limited to one ethnic community. Notwithstanding the ironical tone of his comments, Paul accepts the premise that the law was given uniquely to Israel to enable her to be "a guide to the blind, a light to those who are in darkness, a corrector of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth" (Rom 2:19-20). But this mission has been subverted by Israel's failure to practice what she preaches, so much so that Paul can even charge the covenant people with causing God's name to be blasphemed among the Gentiles (2:24). What Israel's track record proves, Paul argues, is that sin is no respecter of ethnic boundaries. Nor, conversely, is the capacity to perceive and obey God's will. Paul believes that it is quite possible for uncircumcised Gentiles, who do not possess the Torah, "instinctively to do what the law requires" since "what the law requires is written on their hearts, to which their own conscience bears witness" (2:14-15, 27).
 
-#### Footnotes
+So law and righteousness are not co-extensive realities; there is no necessary overlap. If there were, justification could legitimately come through the law and Gentiles would need to become observant Jews to appropriate it. But Israel's own servitude to sin proves that this is not the case. In any event, even if it were the case, an additional problem would arise, for God would then be reduced to the status of a tribal deity rather than universal lord, and God's promise to bless all the nations of the world through Abraham would be null and void (4:9-16; Gal. 3:15-22). If the unity, sovereignty, and justice of God -- to which the law itself bears witness -- are to be vouchsafed, justification must come by some means other than the law. It must potentially be open to every member of the human family.
+
+> For we hold that a person is justified by faith apart from works prescribed by the law. Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also, since God is one; and he will justify the circumcised on the ground of faith and the uncircumcised through that same faith. Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law. (Rom. 3:28-31, cf. 10:11-13)
+
+The third problem Paul has with the law is that an overriding emphasis on law-keeping shifts the spotlight from God's empowering grace to autonomous human achievement, Paul is adamant that justification cannot come from reliance on the works of the law. Now it is true that by this phrase Paul most likely has in mind ceremonial practices such as circumcision, food laws, purity regulations, and Sabbath observance which served visibly to demarcate the boundary between the law-keeping covenant community and the Gentile world. He is not thinking of legalism in a moral sense but of proud reliance on badges of ethnic distinction. He is not accusing Judaism of advocating an individualistic works-righteousness whereby people can earn their own salvation by merit. He is more likely targeting some conception of national-righteousness, whereby adoption of certain Jewish distinctives was thought essential to securing final vindication. Even so, Paul still recognizes the potential for a law-centered spirituality to over-emphasize human capability and to underestimate the insidiousness of sin and the necessity of grace.
+
+Viewed from the perspective of law-keeping, sin tends to get equated with a set of external behaviors that can be avoided with sufficient vigilance, rather than being recognized for what it really is -- a deadly poison that permeates the entire life-system of humanity, a cosmic power that enslaves all humanity by habituating everyone to self-centeredness and idolatry.93 A certain kind of complacency can therefore emerge that is so assured of its own sincerity that it underrates the unmerited nature of grace (cf. Phil. 3:4-16). This is partly why Paul sets law and grace in such stark opposition.
+
+The only solution to this predicament, Paul argues, is the rupturing of sin's lordship and the radical renewal of human nature from the inside out so that God's law is written on the human heart by means of the indwelling of the Spirit. This is exactly what Christ achieves through his death and resurrection on behalf of all humanity, as a kind of second Adam.95 Those who participate through baptism in Christ's victory (Rom. 6:1-14) are empowered by the eschatological Spirit to fulfil the true intention of God's law (8:1-4). That intention is a life of freedom wholly devoted to the love of God and the love of neighbor, including even the love of enemies (12:9-21). Paul saw his own life experience as proof of this. Once supremely zealous for God's law, he perpetrated violence on God's behalf. Now graciously freed from the grip of sin through faith in Christ, he proclaims the peace of God, even taking up the cause of his former opponents in the interests of universal reconciliation.
+
+In light of this analysis, Paul concludes that the regime of law was only ever intended by God as a temporary holding measure, until Christ should come (Gal. 3:19-26). It served negatively to imprison all under sin (Gal. 3:22; Rom. 10:32) in preparation for the great liberation which Christ would win through his vicarious death and resurrection. Those united with Christ in this way are no longer "under law but under grace" (6:15). They have "died to the law" (7:4; Gal. 2:19), they are "discharged from the law" (7:6), they are "freed" and "redeemed" from the law (Gal. 3:13; 4:5;5:1), they are "no longer subject" to the law's rule (Gal. 3:25) or its condemnation (Rom. 8:1). "For Christ is the end-goal [_telos_] of the law" (10:5). Things have changed!
+
+In none of this, of course, is Paul wrestling with the problem of divine violence (he is actually struggling to make sense of the prodigiousness of God's mercy!) But there are several features of Paul's approach to the law that constitute a kind of hermeneutical template for the type of approach to divine violence I have advocated above. To begin with, in both cases, the presenting problem is a substantial shift in God's _modus operandi_ from what was apparent in previous tradition. Paul openly acknowledges that God's methods have changed. This is implicit in the ringing adversative declaration "But now, apart from law..." that commences his account of the revelation of saving justice in Christ in Romans 3:21-26. It is also evident in the way he divides Israel's story into sequential phases (Adam to Abraham, Abraham to Moses, Moses to Christ), with the law entering 430 years after the promise to Abraham and serving as a disciplinarian "until Christ came," after which time "we are no longer subject to a disciplinarian" (Gal. 3:15-26). Paul thus allows for real change in God's ways.
+
+The sheer radicalism of this change ought not to be underestimated. It required for Paul a thoroughgoing revision of understanding of what had hitherto been the most fundamental ingredients of covenantal faithfulness-circumcision, Sabbath observance, food laws, and separation from all sources of impurity, including Gentiles. That the apostle can boldly declare that "I know and am persuaded in the Lord Jesus that nothing is unclean in itself" (Rom. 14:14) and that "neither circumcision nor uncircumcision is anything but a new creation is everything" (Gal. 6:15), is a measure of the extent to which he reckoned on a major revolution having occurred in God's way of working.
+
+Second, in problematizing the law Paul seeks an explanation that both accords with the plot of the canonical story and explains why God appears to act differently than previously thought, which is exactly what I have said is needed to deal with the issue of divine violence. Paul accepts that radical changes have taken place in God's priorities, but he is equally emphatic that there is a profound consistency between the realities of the present and the revelation of the past. The "new creation" afforded in Christ is not arbitrary or capricious; it accords with the deepest themes of the previous story. It is both "at tested by the law and the prophets" (Rom. 3:21, 31) and compatible with God's own being (3:29). That authentic righteousness can come "apart from the law," Paul argues, is already evident in the story of Abraham as a foreshadowing of what was to come (4:1-25), and it is only by transcending the limitations of Mosaic law that the promise of universal blessing to Abraham can possibly be realized (Gal. 3:6-17).
+
+The negative role of the law is thus balanced by its positive role in anticipating and illuminating eschatological events." Even Moses can now be heard to speak of "the word of faith that we proclaim" (Rom 10:8): It is the fulfillment of eschatological hope in Christ and the Spirit that accounts for why God's activity now seems so different. It is also what impels Paul to read the canonical story afresh to discern in it a meaning and dynamic once hidden from view. A similar strategy is needed, I have suggested, with respect to the narratives of divine violence.
+
+Finally, and most tellingly, Paul does not shrink from depicting God's law as having been captured by the power of sin and becoming a source of enslavement and death. The law itself, Paul is clear, is imbued with the very attributes of God; it is "holy, just, and good," it is even "spiritual" (Rom. 7:12, 14, 16). But regardless of its divine credentials the law has been bamboozled by sin. Seizing the opportunity created by the revelation of God's will, sin commandeered the law to deceive and kill its adherents (7:11). Consequently, despite its intrinsic goodness, and despite its promise of life to those who observe its commandments, the law has in effect functioned to lock in, as it were, Israel's servitude to sin and death.
+
+This is an incredibly daring claim for Paul to make! He asserts that not only has Gentile humanity's knowledge of God been corrupted by the tyranny of sin (1:18-23, cf. 1 Cor 1:20-25), even Israel's apprehension of God's intentions in the law has fallen victim to sin's death-dealing deception. It is only by taking this insight with full seriousness that we can begin to make sense of the attribution of violence to God in the biblical record. Arguably part of sin's deception is the identification of human violence with the will of God. Jesus Christ explodes this deception, and in him a new humanity emerges that is now in the process of "being renewed in knowledge according to the image of its Creator" (Col. 3:10).
+
+In these ways, then, Paul's grappling with the ambiguities of the law in salvation history furnishes something of a hermeneutical analogy for the approach to divine violence sketched out in this chapter. To be absolutely clear: I am not suggesting that Paul's ruminations on the law in themselves relate to the issue of God's recorded violence, only that he models a style of hermeneutical engagement with Scripture that can be usefully reapplied to this question. Whether the biblical stories of violence caused any discomfort for the apostle is hard to say. Certainly he never explicitly disavows a violent God. If anything, the real scandal for Paul was not the violent exclusivity of God's past actions but the gratuitous inclusiveness of God's saving activity in the present. When Paul takes refuge in the inscrutability of God's ways it is not to justify divine violence but to underscore the mystery of God's indefatigable mercy, a mercy displayed equally toward disobedient Israel and toward wider Gentile humanity (Rom. 11:28-36).
+
+Paul may never have consciously reflected on how best to reconcile this present experience of God's mercy with past episodes of grotesque violence. But it was his apprehension of the crucified and risen Christ as the "image of the invisible God" (Col. 1:15) that trans formed Paul from a violent religious zealot into a peacemaker extraordinaire. It was this that led him to speak distinctively of God as "the God of peace, "100 the God who has reconciled the entire world to God's self not by violent conquest but by self-giving sacrifice. This crucified God is the same God who made the world and everything in it, the same God who called Abraham and chose Israel, the same God that Jesus called Father, and the same God to whom Jesus pointed his followers as the supreme paradigm for the way of nonviolent discipleship.
+
+## ENDNOTES
+
+1. Paul N. Anderson, "Genocide or Jesus: A God of Conquest or Pacifism," in _The Destructive Power of Religion: Violence in Judaism, Christianity, and Islam_, ed. J. H. Ellens (Westport, Connecticut & London, Praeger 2004), 4:31-52 (at 31).
+
+2. See D. Andrew Kille, "The Bible Made Me Do It': Text, Interpretation, and Violence," in _Destructive Power of Religion_, ed. Ellens, 1:55-73. See also Charles Mabee, "Reflections on Monotheism and Violence," in _Destructive Power of Religion_, ed. Ellens, 4:111-18. Cf. also Karen Armstrong, "Unholy Strictures," _Guardian Weekly_ (Aug. 19-25, 2005): 13.
+
+3. As Dale C. Allison Jr. notes,"... the problem of conflicting theologies was not born with Christianity. The problem was already internal to Judaism .... If, after Marcion, the issue for Christians became which God to a edge, this was only a later variant of the earlier question, Which texts should we sanction?" "Rejecting Violent Judgment: Luke 9:52-56 and its _Journal of Biblical Literature_ 121/3 (2002): 459-78 (at 478).
+
+4. See J. Denny Weaver, _The Nonviolent Atonement_ (Grand Rapids, Mich: Wm B. Eerdmans, 2001). I am in general sympathy with the direction of Weaver's argument, though I depart substantially from his reading of the New Testament evidence. See my "Atonement, Violence, and the Will of God," Mennonite Quarterly Review 76/1 (2003):67-90.
+
+5. See for instance. Miroslav Volf, _Exclusion and Embrace: A Theological Ex planation of Identity, Otherness, and Reconciliation_ (Nashville: Abingdon Press, 1996), esp. 275-306. Cf. also Kenneth R. Chase, "Christian Discourse and the Humility of Peace," in _Must Christianity Be Violent? Reflections on History, Practice, and Theology_, ed. Kenneth R. Chase and Alan Jacobs (Grand Rapids, Mich.: Brazos Press, 2003), 119-34 (esp. 128-31); Dan McKanan, "Is God Violent? Theological Options in the Antislavery Movement," in _Must Christianity Be Violent?_, 50-68
+
+6. Walter Wink, _Engaging the Powers: Discernment and Resistance in a World of Domination_ (Minneapolis: Fortress Press, 1992), 1-31; idem, The Powers That Be Theology for a New Millennium (New York: Doubleday, 1998), 63-81. 7. Heb 10:31
+
+7. Heb 10:31
+
+8. I attempt to construct a non-retributive view of final judgment in my _Beyond Retribution: A New Testament Vision for Justice, Crime and Punishment_ (Grand Rapids, Mich: Wm B. Eerdmans, 2001).
+
+9. John H. Yoder, _The Politics of Jesus: Vicit Agnus Noster_ (Grand Rapids, Mich: Wm B. Eerdmans, 1994), 228-47. 
+
+10. J. Harold Ellens, "Revenge, Justice and Hope: Laura Blumenfeld's Journey," in idem, _Destructive Power of Religion_ 4:227-235 (at 235). 
+
+11. Col. 1:15, 19, cf. 2 Cor. 4:4
+
+12. Heb. 1:2-3
+
+13. John 1:3-4
+
+14. Col. 1:16
+
+15. N.T. Wright offers a powerful presentation of Jesus' nonviolent opposition to Rome in _Jesus and the Victory of God_ (London: SPCK, 1996). But he stops short of grounding it in any distinctive apprehension of God's character by Jesus.
+
+16. Matt. 5:44-48
+
+17. Luke 6:35-36 
+
+18. Raymund Schwager, _Must There Be Scapegoats? Violence and Redemption in the Bible_ (New York: Harper & Row, Gracewing & Crossroad Publishing Company, 1987), 207. So too Wink, _Powers that Be_, 89. Jack Nelson-Pallmeyer observes that "Jesus was not the first Jew to promote or use nonviolence when resisting injustice.... Jesus may have been the first, however, to specifically reject the violence of God as the foundation for nonviolent resistance. Rather than rooting nonviolence in the assurance of God's ultimate and re deeming violence, Jesus saw nonviolent action as a faithful embodiment of a nonviolent God, that is, as reflective of the very Spirit that is God." -- _Jesus against Christianity: Reclaiming the Missing Jesus_ (Harrisburg, Penn.: Trinity Press International, 2001), 320. 
+
+19. Cf. Ulrich Mauser, _The Gospel of Peace: A Scriptural Message for Today's World_ (Louisville: Westminster John Knox, 1992), 183-84.
+
+20. Col. 1:15, 20
+
+21. Rom. 1:16-17;3:20 
+
+22. Rom. 5:1
+
+23. John C. Haughey, "Jesus as the Justice of God," in _The Faith that Does Justice: Examining the Christian Sources for Social Change_, ed. J.C. Haughey (New York: Paulist Press, 1922), 279. See also Marshall, _Beyond Retribution_, 259-63.
+
+24. Col. 1:16-17
+
+25. Eph. 1:10
+
+26. Gen. 4:8; Rev. 21:3-4,24; 22:2
+
+27. Wink, _The Powers That Be_, 44-48, at 46. Also Patricia M. McDonald, _God and Violence: Biblical Resources for Living in a Small World_ (Scottdale, Pa. and Waterloo, Ont.: Herald Press, 2004), 35-49.
+
+28. Gen. 4:1-16 
+
+29. Gen. 4:23-24;65-7, 11-13
+
+30. Gen. 7:1-24;8:21-22:9:11-17
+
+31. This is not to deny that the canonical tradition is full of tensions, disagreements, contradictions, and revisions. Later biblical authors and tradents felt free to disagree with the perspective of their predecessors on certain theological positions even while accepting the authority of the tradition they bequeathed. Indeed, the authority of the tradition is shown precisely in the commitment of later recipients to engage in radical rethinking of its meaning and implications. See further Ellen F. Davis, "Critical Traditioning: Seeking an Inner Biblical Hermeneutic," _Anglican Theological Review_ 82/4 (2000): 733 51.
+
+32. Of course, legendary elements may well exist in the tradition. As Simon De Vries notes, "Battle and war passages in the Old Testament range from the legendary to the mythical, to the realistic and immediate, from the schematic and ideological, to the bizarre and apocalyptic." -- "Human Sacrifice in the Old Testament: in Ritual and Warfare," in _Destructive Power of Religion_, ed. Ellens, 1:99-121 (at 120). 
+
+33. Exod. 15:1-3
+
+34. Schwager, _Must There be Scapegoats?_, 47-71.
+
+35. Jack Miles, "The Disarmament of God," in _Destructive Power of Religion_ ed Elkins, 1:123-167 (at 147). 
+
+36. Num. 11:1-6; 14:10-12; Deut. 1:34-40
+
+37. Num. 12:1-16; 14:10-12; 16:41-50, 25:6-9, cf. Exod. 11:4-5; 12:12,13, 23, 37 
+
+38. Mark McEntire, _The Blood of Abel: The Violent Plot of the Hebrew Bible_ (Macon, Georgia: Mercer University Press, 1999), 61-62.
+
+39. Relevant texts include Exod. 17:8-13; Num. 21:1-3, 23-24; Deut. 2:30-35; 7:2-6; Josh. 6: 1-16,7:1, 24-26a; Judg. 3:16-25; 4:6-7,9-10, 13-15, 17, 21-22; 15:4 8,1 Sam. 17:12-18:2; 31:1-13; 2 Sam. 18-6-9, 14-15; 1 Kings 22:31-38; 2 Kings 9:30-35; Isa. 2:4; Mic. 4:3; Ezek. 38:14-23; Joel 3:9-10; 2 Chron. 149-15 
+
+40. For example, Deut. 7:2: Josh. 11:20.
+
+41. Susan Niditch, _War in the Hebrew Bible: A Study in the Ethics of Violence_ (New York & Oxford: Oxford University Press, 1993), 28-89. See also John J. Collins, "The Zeal of Phineas, the Bible and the Legitimation of Violence," in _Destructive Power of Religion_ 1: 12-33, ed. Ellens (at 13-17). 
+
+42. McDonald, _God and Violence_, 123, 126, cf. 127, 128, 131.
+
+43. Niditch, _War in the Hebrew Bible_, 50. Collins is unconvinced. "Rather than respect for human life, the practice bespeaks a totalistic attitude, which is common to armies and warfare, where the individual is completely subordinated to the interests of the group." -- "Zeal of Phineas," 
+
+44. Nelson-Pallmeyer, _Jesus Against Christianity_, 37, 
+
+45. McEntire, _Blood of Abel_, 90.
+
+46. Ps. 68:20-23, cf. Habakkuk 3:13-16, 
+
+47. Amos 2:4-16; 5:127; Isa. 43:28. See Niditch, _War in the Hebrew Bible_, 78.
+
+48. McEntire, Blood of Abel, 114. 
+
+49. See my _Crowned with Glory and Honor: Human Rights in the Biblical Tradition_ (Telford/Scottdale, Pa.: Pandora Press U.S./Herald Press, 2001).
+
+50. McEntire, _Blood of Abel_, 44. 
+
+51. Gen. 18:16-33
+
+52. In _Violence, Hospitality, and the Cross: Reappropriating the Atonement Tradition_ (Grand Rapids Mich.: Baker Academic, 2004), Hans Boersma argues that in a sinful world violence is necessary to defend the boundaries which enable hospitality to function. In such a world, God employs "redemptive" violence, which is a "good violence" because it serves to uphold monotheism, to punish immorality, and to protect the poor and underprivileged. But Boersma makes little attempt to measure this sweeping defense of divine violence against the concrete suffering endured by its victims. See my critical review in _Stimulus_ 13/3 (2005), 51-52, which includes my own attempt to spell out the semantic parameters of the term _violence_.
+
+53. For example, Gen. 13:13; 15:16; Deut. 9:5; 20:17-18. The general perfidy of the Canaanites is pervasive in the biblical tradition, although the purported wickedness of the Canaanites is never actually substantiated within the conquest accounts. 
+
+54. McEntire, _Blood of Abel_, 118
+
+55. Matt. 2:16-18
+
+56. 1 Sam. 15:2-3, cf. Exod. 17:14,16; Num. 24:20; Deut. 25:17-19 
+
+57. So Collins, "Zeal of Phineas," 24-25.
+
+58. So Anderson, "Genocide or Jesus," 51.
+
+59. Nelson-Pallmeyer, _Jesus Against Christianity_, 16.
+
+60. Collins, "Zeal of Phineas," 25. 
+
+61. Exod. 34:6-7; Num. 14:18-19, Deut. 5:9-10
+
+62. 2 Kings 1:11-12, cf. Gen. 19:24; Lev. 10:1-2; Job 1:16; Ps. 97:3
+
+63. Luke 9:54-55
+
+64. So rightly Allison, "Rejecting Violent Judgment," 476. 
+
+65. McDonald, God and Violence, 54, cf. 57.
+
+66. Gen. 12:3, 17; 14:20; 15:14-16; 18:20; 19:15-29; 22:1-19; 
+
+67. Gen. 12:7; 13:14-17; 15:16; 17:8; 22:17; 28:3-4, 13-15; 35:12; 48:4;50:24 
+
+68. For example, Exod. 4:24-26; 2 Sam. 6:6-7. Ezek. 38:10
+
+69. See Lev. 26: 14-39; Exod. 12:29; Ezek, 21:3-4, 9-15; Jer. 25:32-33. 
+
+70. For example, Deut. 20:16-17; 1 Sam. 15:2-3; Isa. 19:2; Jer. 51:20-24; 21:31; Ps. 44:11-12; Zech. 8:10. 
+
+71. For example, Isa. 50:11; Jer. 44:8; Ps. 7:13-17; Prov. 8:36; 26:27 
+
+72. See, 22:25-26; Isa. 19:2; 13:17 for example, Ezek. 21:31; Jer. 
+
+73. Schwager, _Must There Be Scapegoats?_, 63. 
+
+74. For example, Gen. 19:24; Num. 16:29-32.
+
+75. See, for example, Isa. 64:6-7; Ps. 81:11-12. 
+
+76. Schwager, _Must There Be Scapegoats?_, 63 (emphasis mine).
+
+77. Whether some actual primeval act of violence by God is the reason for God's subsequent identification with violence, or whether the flood story it self is the product of prior projection of violence onto heaven, is open to discussion.
+
+78. This is one of the major findings in McEntire's study _Blood of Abel_ 
+
+79. Cf. Wink, Engaging the Powers, 146-47.
+
+80. God's sovereign self-disclosure is the necessary presupposition for all and any knowledge of God. But divine revelation is also necessarily filtered through fallible human language and categories, which can distort as well as report God's truth, and often both at the same time. For a helpful discussion of the relationship between revelation and Scripture, see William C. Placher _The Domestication of Transcendence_ (Louisville, Ky: Westminster John Knox, 1996), 181-200.
+
+81. Jesus is condemned to death on the charge of blasphemy (Mark 14-55 64), a capital crime in Mosaic law (Lev. 24:15-16). 
+
+82. Schwager, _Must There Be Scapegoats?_, 67.
+
+83. Collins is clear that what makes violent religious texts dangerous is not their violent content but the certitude with which they are received by readers as divine revelation, "Zeal of Phineas," 23-26. So too Nelson-Pallmeyer, _Jesus Against Christianity_, 277,
+
+84. 1 borrow this term from Ellen Davis, "Critical Traditioning." 
+
+85. Exod. 34:6-7; Num. 14:18-19; Deut. 5:9-10
+
+86. Jer. 31:29-30
+
+87. Ezek. 18:1-4
+
+88. Rom. 3:21; 8:1-4
+
+89. Gal. 1:13; Phil. 3:6; 1 Cor. 15:9; cf. Acts 9:1-2; 22:4; 26:9-11. On the violent implications of "zeal," see Terence L. Donaldson, "Zealot and Convert: The Origins of Paul's Christ-Torah Antithesis," _Catholic Biblical Quarterly_ 51/4 (1989): 655-82; Vincent M. Smiles, "The Concept of 'Zeal' in Second-Temple Judaism and Paul's Critique of It in Romans 10:2," _Catholic Biblical Quarterly_ 64/2 (2002): 282-99; Mark R. Fairchild, "Paul's Pre-Christian Zealot Associations: A Re-Examination of Gal 1:14 and Acts 22:3," _New Testament Studies_ 45/4 (1999): 514-32. For a thematizing of the place of zeal in the biblical tradition and American self-understanding, see Robert Jewett and John Shelton Lawrence, _Captain America and the Crusade Against Evil: The Dilemma of Zealous Nationalism_ (Grand Rapids, Mich: Wm B. Eerdmans, 2003). 
+
+90. See 2 Cor. 3:12-18; Rom. 10:2-4.
+
+91. Rom. 7:5,9-10; 10:5; Gal. 2:19, cf. 3:12, 21; 1 Cor. 15:56; 2 Cor. 3:6-7 
+
+92. Rom. 3:20, 27-28; Gal. 2:16; 32,5,10, 12, cf. Rom. 3:27:4:2,6;9:12, 32; 11:6; Eph. 29 
+
+93. Rom. 1:18-32; 3:9-20; 5:12-21; 612-14, 20-21;7:7-25; etc.
+
+94. Rom. 4:16; 5:20-21; 6:1,14; 11:5; 1 Cor. 15:10; Gal. 1:6; 2:21; 5:4; cf. Eph. 2.5-6. 
+
+95. Rom. 5:6-21; 1 Cor. 15:42-49; Col. 1:10; 3:10 
+
+96. Rom. 5:5; 13:8-10; 14:15; Gal. 5:6, 13-14, 22-23; Phil. 1:9; 1 Cor. 8:1; 13:1-8; 16:14; Col. 3:14, cf. Eph. 4:32-35.
+
+97. Gal. 1:13; Phil. 3:5-6; 1 Cor. 15:9; cf. Acts 9:1-2; 22:4; 26:5, 9-11.
+
+98. See Rom. 11:28-36.
+
+99. Cf. Rom. 4:23-24; 15:4; 1 Cor. 10:11; 9:10.
+
+100. The phrase _God of peace_ is a favorite of Paul's (Rom. 15:33; 16:20; 2 Cor. 13:11; Phil. 4:9; 1 Thess. 5:23; 2 Thess. 3:16, cf. Eph. 2:14), though he did not in vent it (Heb. 13:20). In early Jewish literature the phrase occurs only once (_Test. Daniel 5:2_).
+
+## Footnotes
