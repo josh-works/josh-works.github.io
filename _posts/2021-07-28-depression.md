@@ -5,7 +5,7 @@ description: "Thoughts on depression and the last two years"
 date:  2021-07-28 06:00:00 -0700
 crosspost_to_medium: false
 categories: [mental_health]
-tags: [depression]
+tags: [depression, mental_health]
 permalink: depression
 image: /images/2020-07-21-write-it-now.jpg
 ---
@@ -188,7 +188,7 @@ Kristi and I had scheduled a week-long "counseling intensive", which brought us 
 
 ------------
 
-There's much more that could be said. I usually do end-of-year "review" posts, and I didn't do one for 2019, because I got curb-stomped by 2020, and couldn't write anything. Ditto 2020, and I'd like to get a 2021 review done, so I've got some catchup to do.
+There's much more that could be said. I usually do end-of-year "review" posts, and I didn't do one for 2019, because I got curb-stomped by 2020, and struggled to write anything public. Ditto 2020, and I'd like to get to much more important topics to write about than this sort of naval-gazing, but this feels like it helps unblock me, and here I am. 
 
 The stories we tell ourselves are important. 
 
