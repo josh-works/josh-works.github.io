@@ -4,6 +4,7 @@ title: Robert Moses - The Most Important Person You've Never Heard Of
 published: true
 description: "Robert Moses has shaped your life, today, in dozens of way. You've never heard of him, either. Lets make an introduction, shall we?"
 permalink: /robert-moses
+image: images/mugshot.jpeg
 ---
 
 Hi there! We're going to be talking about Robert Moses. This page is very much a work-in-progress, I'm starting to aggregate all my _many_ notes on the man in one place, and hopefully in a coherent way.
