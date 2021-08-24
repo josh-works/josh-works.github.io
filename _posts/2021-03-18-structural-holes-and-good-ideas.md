@@ -41,6 +41,8 @@ Here's the paper abstract, lightly reformatted for readability:
 
 On page 387, the section under `Creativity`, is worth reading.
 
+Basically, people who bring ideas from one domain/network along with them into another domain/network can create substantial value.
+
 
 ## Conclusion
 
