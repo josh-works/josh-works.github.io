@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog
 ---
 
-### Miscellaneous Best-of
+### Start Here
 
 I've got >250 blog posts, so here's a bit of a best-of section:
 

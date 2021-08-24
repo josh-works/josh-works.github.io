@@ -7,35 +7,22 @@ permalink: /robert-moses
 image: images/mugshot.jpeg
 ---
 
-Hi there! We're going to be talking about Robert Moses. This page is very much a work-in-progress, I'm starting to aggregate all my _many_ notes on the man in one place, and hopefully in a coherent way.
 
-I'm going to start with a few things _others_ have said about the defining biography of Robert Moses. Please _be made curious_ by how little you know about Robert Moses, contrasted with the provocative language used by people speaking about him.
+### Josh's introduction to Robert Moses
 
+Robert Moses is massively important. You'll understand ways that the world works, if you read _The Power Broker_, and you'll understand why sometimes things seem so broken.
 
-### How Done Is This Page?
-
-Not very done. Things I create go through a 5-step process, and some things never get out of the first three steps:
-
-1. Capture fragments of ideas as quickly as I can. Phrases, pictures, lists of links, error messages or quotes that sparked thoughts **<-- you are here**
-2. Reorganize the document into something that has some visible structure or progression.
-3. Share the document with a small group (maybe just 1 person!) along with context, relying on their trust in me to help them "see past" some of the more glaring errors and holes in what I've created
-4. Take a few days away from the document while the person(s) are reviewing it. 
-5. Return to the document, make edits/updates based on feedback and my own "flushing" it from my mind.
-6. Re-share with a wider group, test for efficacy
-7. If all seems good, the document is done! It does what I wanted it to do.
-
-----
-
-### Introduction (part 1)
-
-Start here, an email I sent out long ago about Robert Moses:
+If you're new here, read this other thing I wrote about Robert Moses first:
 
 [Robert Moses and the Fall of New York](https://ckarchive.com/b/27u2hohnplq6)
 
-### Introduction (part 2)
-Next, please read the \#1 GoodReads review of [_The Power Broker_](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1).
+### A review of _The Power Broker_
 
-I will never be able to write as well as this reviewer, and I believe this is a criminally under-appreciated block of text, so I'm quoting it in full (with a few added line-breaks, and I've emphasized bits and pieces of the text) below:
+Next, please read the \#1 GoodReads review of [_The Power Broker: Robert Moses and the Fall of New York_](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1).
+
+I will never be able to write as well as this reviewer, and I believe this is a criminally under-appreciated block of text, so I'm quoting it in full below: [^with-annotations]
+
+[^with-annotations]: With a few added line-breaks, and I've emphasized bits and pieces of the text
 
 > [_The Power Broker: Robert Moses and the Fall of New York_ by Robert Caro] is definitely the greatest book that I have ever read.
 > 
@@ -47,7 +34,7 @@ I will never be able to write as well as this reviewer, and I believe this is a 
 > 
 > **For the past few years I’ve had the sense of wearing an oversized grownup life that wasn’t actually mine, while that magical rite of passage into adulthood continued to elude me**. Maybe when I have children things will click into place, I’ve mused, listening to Talking Heads with one ear and sort of doubting it.... Part of this might be generational; if thirty is the new twenty, it’s no wonder that I get that Lost Boys feeling, and shrug confusedly when overnight company makes fun of my teddy bear.
 > 
-> **I’m pleased to announce that thanks to the glory of Robert Caro, this stage is basically behind me. Having finally finished The Power Broker, I feel much more like a grownup, and believe it or not, I’m pretty into that.**
+> **I’m pleased to announce that thanks to the glory of Robert Caro, this stage is basically behind me. Having finally finished _The Power Broker_, I feel much more like a grownup, and believe it or not, I’m pretty into that.**
 > 
 > When I was a little kid, I felt that the adults around me had a thick, rich, complicated understanding of the way the world worked. They knew things – facts, history – and they understood processes and people and the way something like a bond measure or a public authority worked. It was this understanding – which they had, and I didn’t – that made me a child, and them adults. Grownups had an infrastructure of information, truth, and insight that I lacked. 
 > 
@@ -57,13 +44,13 @@ I will never be able to write as well as this reviewer, and I believe this is a 
 >
 > **This book is about power.** It is about politics. It is a history of New York City and New York State. It is an explanation of how public works projects are built. It is about money: public money, private money, and the vast and nasty grey areas where they overlap. This book is about democracy, and the lack thereof. It is about social policy, and economics, and our government, and the press. This book is about urban planning, housing, transportation, and about how a few individuals’ decisions can affect the lives of the masses. It helped explain traffic in the park, and the projects in Brownsville, and a billion other mysteries of New York City life that I'd wondered about. 
 >
-> The Power Broker is about ideals, talent, and institutional racism. It is about inequality. **It is about genius. It is about hubris. It is the best goddamn book I have ever read in my entire life, hands down, seriously.**
+> _The Power Broker_ is about ideals, talent, and institutional racism. It is about inequality. **It is about genius. It is about hubris. It is the best goddamn book I have ever read in my entire life, hands down, seriously.**
 > 
 > Please do not think that it took me five months to read this book because it was dense or slow! This was a savoring, rather than a trudging, situation. Robert Caro is an incredibly engaging writer. **One thing that happened to me early on from reading this was that I lost my taste for trashy celebrity gossip. Who CARES about Britney’s breakdown or, for that matter, Spitzer’s prostitute peccadilloes when I could be reading about the shocking intricacies of Robert Moses’ 1925 legislative consolidation and reorganization of New York State’s administrative structure?** 
 >
 > **This book gave me chills – CHILLS! – on nearly every page with descriptions of arcane political maneuvering and fiscal policy so riveting that I lost my previous interest in reading about sex and drugs. Let’s face it: sex and drugs are pretty boring. Political graft, mechanics of influence, the workings of government: now that’s the hot stuff, when it’s presented in an accessible and digestible form.** Nothing in the world is more fascinating than power, and Robert Caro writes about power better than anyone I’ve come across. **There are no dry chapters in this book; there’s barely a dull page. It is infinitely more readable than _Us Magazine_, and not much more difficult.**
 > 
-> Of course The Power Broker is many things, among them a biography. While any one portrait of New York power icons from Al Smith to Nelson Rockefeller is more than worth the price of admission, this book is primarily about Robert Moses. Caro understands and explains the relationship between individual personalities and systems. **One of his main theses is that Moses achieved the unchecked and unparalleled levels of power he did because he figured out how to reshape or create systems around himself.** The Triborough Bridge and Tunnel Authority would not have existed without Robert Moses, and Robert Moses would not have been what he was, or accomplished what he did, without the brilliance he had for shaping the very structure of government into conduits for his own purposes. To explain this, Caro needs to convey a profound understanding not only of how these systems worked, but of who this man was. He does so, and the result goes beyond Shakespearean: it is Epic. The Power Broker is the story George Lucas was trying to tell about Anakin Skywalker’s transformation to Darth Vader, only George Lucas is no Robert Caro, and The Power Broker succeeds wildly in the places where Star Wars was just a hack job (of course, Caro wasn’t handicapped by Hadyn Christensen, which does indirectly raise the burning question: WHO’S OPTIONED THIS???).
+> Of course _The Power Broker_ is many things, among them a biography. While any one portrait of New York power icons from Al Smith to Nelson Rockefeller is more than worth the price of admission, this book is primarily about Robert Moses. Caro understands and explains the relationship between individual personalities and systems. **One of his main theses is that Moses achieved the unchecked and unparalleled levels of power he did because he figured out how to reshape or create systems around himself.** The Triborough Bridge and Tunnel Authority would not have existed without Robert Moses, and Robert Moses would not have been what he was, or accomplished what he did, without the brilliance he had for shaping the very structure of government into conduits for his own purposes. To explain this, Caro needs to convey a profound understanding not only of how these systems worked, but of who this man was. He does so, and the result goes beyond Shakespearean: it is Epic. _The Power Broker_ is the story George Lucas was trying to tell about Anakin Skywalker’s transformation to Darth Vader, only George Lucas is no Robert Caro, and _The Power Broker_ succeeds wildly in the places where Star Wars was just a hack job (of course, Caro wasn’t handicapped by Hadyn Christensen, which does indirectly raise the burning question: WHO’S OPTIONED THIS???).
 > 
 > Robert Moses was an incredible genius. He was also an incredible asshole. **Robert Moses was probably one of the biggest assholes who ever lived, or at least, who ever got free reign to redesign a major modern American city to his fancy.** One of the innumerable triumphs of this book is that while it certainly does demonize Moses to a great extent, it doesn't seem to do so unjustifiably, and it never strips him of his humanity. **Caro conveys a deep respect and empathy for his brilliant subject, even as he also expresses horror, disgust, and rage as he describes Moses’ forty-four-year unelected reign of power.**
 > 
@@ -75,12 +62,10 @@ I will never be able to write as well as this reviewer, and I believe this is a 
 > 
 > It occurs to me that I’ve babbled on forever but still haven’t explained at all what this book is about. If you think you might want to read it but you’re not sure, check out this article by Robert Caro:
 > [](https://web.archive.org/web/20080510135630/http://www.robertmosesnyc.com/cityshaper.html)
-> It has those stupid New Yorker dots, which the book thankfully does not, but otherwise is kind of like a miniaturized version of The Power Broker and gives a much better sense than I just did of what it’s all about.
+> It has those stupid New Yorker dots, which the book thankfully does not, but otherwise is kind of like a miniaturized version of _The Power Broker_ and gives a much better sense than I just did of what it’s all about.
 
 
-### Introduction (part 4)
-
-Still reading? 
+### An Interview with Robert Caro
 
 Here's a 1h45m Audible "short" with Robert Caro, the man who wrote _The Power Broker_
 
@@ -88,24 +73,24 @@ Here's a 1h45m Audible "short" with Robert Caro, the man who wrote _The Power Br
 
 Here's the audible summary:
 
-
-
 > **From two-time Pulitzer Prize winner and two-time National Book Award winner Robert A. Caro: a short, penetrating reflection on the evolution and workings of political power - for good and for ill.**
 > 
-> In On Power, an Audible exclusive, the legendary historian Robert A. Caro reflects on what drew him as a young journalist to study political power and what his half century of reporting on New York City urban planner Robert Moses and President Lyndon Johnson has taught him about the inner workings of government and democracy.
+> In _On Power_, an Audible exclusive, the legendary historian Robert A. Caro reflects on what drew him as a young journalist to study political power and what his half century of reporting on New York City urban planner Robert Moses and President Lyndon Johnson has taught him about the inner workings of government and democracy.
 > 
-> Adapted by the author from two recent speeches and filled with thoughtful lessons and personal moments, On Power goes behind the scenes in the author's decades-long quest to understand how power works, often in ways he could have never imagined.
+> Adapted by the author from two recent speeches and filled with thoughtful lessons and personal moments, _On Power_ goes behind the scenes in the author's decades-long quest to understand how power works, often in ways he could have never imagined.
 > 
-> Listening to On Power, narrated with emotion and humor by Caro in his unmistakable New York accent, is like having a private audience with the author often hailed as our greatest living historian. Longtime fans of Caro's books, as well as those seeking a more personal introduction to his life and work, will be treated to his trademark wit and revelatory insight.
+> Listening to _On Power_, narrated with emotion and humor by Caro in his unmistakable New York accent, is like having a private audience with the author often hailed as our greatest living historian. Longtime fans of Caro's books, as well as those seeking a more personal introduction to his life and work, will be treated to his trademark wit and revelatory insight.
 > 
-> But more than anything, On Power is a timely reminder for those who want to better understand how power and government work.
+> But more than anything, _On Power_ is a timely reminder for those who want to better understand how power and government work.
 > 
-> In Caro's words: "Why political power? Because it shapes all of our lives. It shapes your life in ways that you might never think about. Every time a young man goes to college on a federal education bill passed by Lyndon Johnson, that's political power. And so is a young man dying in Vietnam. Every time an elderly person is able to afford an MRI, that's Medicare. That's political power. It affects your life in all sorts of ways. My books are an attempt to explain this power.... Because the more America understands about political power, the better informed our votes will be, and then, hopefully, the better our democracy should be."
+> In Caro's words: 
+>
+>> Why political power? Because it shapes all of our lives. It shapes your life in ways that you might never think about. Every time a young man goes to college on a federal education bill passed by Lyndon Johnson, that's political power. And so is a young man dying in Vietnam. Every time an elderly person is able to afford an MRI, that's Medicare. That's political power. It affects your life in all sorts of ways. My books are an attempt to explain this power.... Because the more America understands about political power, the better informed our votes will be, and then, hopefully, the better our democracy should be.
 
 ----
 
 
-### Introduction (part 5): A Sense of Scale - The Cross-Bronx Expressway
+### A Sense of Scale - The Cross-Bronx Expressway
 
 What do you think of when someone says "The Bronx"?
 
@@ -139,6 +124,9 @@ What do you think it looked like to cleave such a deep cut through a heavily bui
 
 ![he ruined lives](/images_2021/snippet-of-xpw.jpg)
 
+-----------------
+
+## Excerpts from _The Power Broker_
 
 ### Chapter 34: Moses and The Mayors
 
@@ -174,111 +162,16 @@ Impellitteri had to run in a special election in November if he wanted to hold t
 - first, take advantage of the fact that no one knew him, that he was therefore not identified with any political bosses, that his opponent, Ferdinand Pecora, was backed by Tammany boss DeSapio and that unable to get Impellitteri the Democratic nomination, the clique in Tammany that pulled his strings had him running as an independent, and portray him as the "anti-boss," "anti-politician," "anti-corrupttion" candidate (one of Baron's better lines: "If Pecora is elected, Frank Costello will be your mayor. But the voice will be that of Pecora"); 
 - second, identify him with Robert Moses. 
 
-The price of that identification came high, both in specifics - Moses made Impellitteri pledge publicly that if he was elected, he would not re-
-appoint Finkelstein - and in generalities: Impellitteri privately promised
-Moses even more of a free hand than he had enjoyed under O'Dwyer in
-setting all city construction policies. But Impellitteri paid it. He got full
-value in return. Refusing an offer of the Republican nomination (time had
-dimmed at least some GOP leaders' memories of 1934), Moses gave him his
-endorsement. "Even I, who thought that by this time I knew Bob and the
-lengths to which he would go, never thought he would go that far," says
-Lazarus. Remonstrating, he said, "But, Bob, he hasn't any capacity for the
-job at all!"
+The price of that identification came high, both in specifics - Moses made Impellitteri pledge publicly that if he was elected, he would not re-appoint Finkelstein - and in generalities: Impellitteri privately promised Moses even more of a free hand than he had enjoyed under O'Dwyer in setting all city construction policies. But Impellitteri paid it. He got full value in return. Refusing an offer of the Republican nomination (time had dimmed at least some GOP leaders' memories of 1934), Moses gave him his endorsement. "Even I, who thought that by this time I knew Bob and the lengths to which he would go, never thought he would go that far," says Lazarus. Remonstrating, he said, "But, Bob, he hasn't any capacity for the job at all!"
 
 Moses' response? "He laughed at that." 
 
-Publicly, the Coordinator
-declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almost
-
+Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almost
 -------------
 
-_I'm still fixing the formatting for the rest_
+[...]
 
-in town. (The Herald Tribune article stated: "It was not a political endorse-
-umbest voter WOud
-front
-every
-page
-pellitteri. "No o
-I, but, looking
-ed in Manhatta
-Moses basing his support on his opinion that the [Impellitteri]
-inistration was carrying out the city construction program as planned.")
-adn led Impellitteri around to officiate at openings of-and share in the
-edit and front-page pictures for-highways and housing projects with which
-to had had nothing to do except to affix his signature as Council President
-n't have to wom
-to documents his aides say he often had not even bothered to read. Most
-chservers, noting that the campaign consisted mainly of charges and counter-
-terges of bossism and corruption, felt that the endorsement from an official
-characterized as "independent" and believed above corruption was an im-
-nortant factor-almost as important as the decision by newspaper headline
-writers to call him "Impy" and thus give him a lovable public image-in Im-
-pellitteri's victory, the first in the city's history by a candidate running on an
-independent line without the support of either major party. And after his
-election, Impellitteri continued to pay the price-eagerly.
-Thanks to his PR men and his physical appearance-his addiction to
-the blue suit and the boutonniere, combined with his iron-gray hair, deeply
-many's hierarch
-king session-
-that hierarchy
-et Impelliter
-gth of his name
-dden during his
-19) as Council
-. "He voted as
-nderstand, and
-nners, politial
-it the mayr's
-earnest mien and stolidity that during the campaign was mistaken for
-dignity, made him the very model of a modern mayor; at the approach of a
-camera his brow would furrow, his lips would purse, his jaw would jut and
-itical insiders
-eyes
-as intently as if he understood the words written on it-Impy had run a great
-race, but once in possession of the prize he had won, he proved to have
-not the slightest idea of what to do with it.
-He disclaimed any influence over the Board of Estimate, telling re-
-porters, "All I have is three votes on it, you know." Mayors were always
-telling reporters that-but City Hall insiders soon realized, to their astonish-
-ment, that this mayor believed it. Says one of his aides, Victor F. Condello:
-"Impy
-would focus on whatever piece of paper happened to be handy just
-Fast wits-er-
-mey S. Baron
-November if
-his
-that he had
-and his PR
-fact that no
-tical bosse,
-zy boss De
-mpy never understood that he had any power at all." Once Condello
-Suggested that the Mayor call the five borough presidents to an executive
-nation, the
-n indeper
-session to discuss a thorny issue. "Yeah," the Mayor said, "that's a good
-ed, Frank
-: second
-he was too timid to confront even his own subordinates. Once, a
-spaper leveled detailed charges against one. The next time they met, the
-jor asked him if the charges were true. Of course not, the appointee said
-ti-cormp
-ldea." Pause. "You think they'll come?"
-Moses
-This unan can lp elfcted tC Euch a ort, by poupitu AANTES
-we went TO Ceurralite meElpouref n the hands af
-ds,even the
-explanation of
-reshuffing of the
-arus Joseph for Com
-sh and from Brookn
-late could have eth
-the
-an Italian from Ma
-an Italian oficial ths
-d that sincelegal se
-espectable salary to
+More to come
 
 ### Chapter 36: The Meat Ax
 

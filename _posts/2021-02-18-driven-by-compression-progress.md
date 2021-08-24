@@ -5,7 +5,7 @@ description: "Why This Paper Is Important"
 date:  2021-02-18 06:00:00 -0700
 crosspost_to_medium: true
 categories: [information-infrastructure]
-tags: [shannon, information-infrastructure, compression]
+tags: [shannon, information-infrastructure, compression, academic_paper]
 permalink: driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity
 image: /images/title_image.jpg
 issue_id: 21
