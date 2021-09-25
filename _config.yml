@@ -78,3 +78,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   # syntax_highlighter: rouge
+
+
+exclude:
+  - _posts/**/*.jpg
+  - _posts/**/*.png

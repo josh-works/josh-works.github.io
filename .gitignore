@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 config/local_env.yml
+.jekyll-cache
 
 # Ignore docs files
 _gh_pages
