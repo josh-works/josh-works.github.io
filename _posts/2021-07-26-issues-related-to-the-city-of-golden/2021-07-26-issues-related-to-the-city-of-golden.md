@@ -17,11 +17,11 @@ I went to the meeting (Thursday, July 22) and learned a lot.
 
 Here's the lot in question:
 
-![picture of Coors property](images/2021-07-26-at-2.17-PM.jpg)
+![picture of Coors property](coors-property.jpg)
 
 I have ridden my bike past this property hundreds of times. It's directly between my house and downtown:
 
-![strava paths](images/2021-07-26-at-225-PM.jpg)
+![strava paths](strava-map.jpg)
 
 Blue lines are all the strava trips I've taken (by bike). See more here: [https://cryptic-sea-38287.herokuapp.com/](https://cryptic-sea-38287.herokuapp.com/)
 
