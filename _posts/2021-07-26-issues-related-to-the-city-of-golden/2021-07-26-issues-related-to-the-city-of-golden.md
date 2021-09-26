@@ -8,7 +8,7 @@ categories: [golden]
 tags: [cities, urbanism, traffic, parking, affordability]
 permalink: issues-in-golden
 image: /images/title_image.jpg
-issue_id: 5 
+issue_id: 43
 ---
 
 While I was biking around recently, I saw notes about an upcoming neighborhood meeting about some rezoning, a big lot in downtown Golden.
