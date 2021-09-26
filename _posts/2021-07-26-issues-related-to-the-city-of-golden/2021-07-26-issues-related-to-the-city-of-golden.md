@@ -56,22 +56,34 @@ It's not that big, it's quite approachable, but it's fine if you don't want to r
 
 This is THE book for anyone planning on spending a lot of money trying to solve a big problem in the city.
 
-### Giving full evaluation to the racist intent and impact of how cities have been built over the last century
+### Step 3: Give full evaluation to the racist intent behind modern zoning and it's impact of how cities have been built over the last century
 
 - [The Color of Law: A Forgotten History of How Our Government Segregated America](https://www.goodreads.com/book/show/32191706-the-color-of-law)
 - [The Slaughter of Cities: Urban Renewal as Ethnic Cleansing](https://www.fidelitypress.org/slaughter-of-cities)
 
 
 
-## Hindurances
+## Hindrances to the City of Golden trending in the right direction
 
-### Mismanaged parking:
+As you might imagine, this system is not stable. Things are always changing, and either getting better, or getting worse.
+
+They're currently getting _worse_, and [the new zoning plan](https://www.guidinggolden.com/code-changes) that the city zoning staff is working on generally makes things worse, in addition to probably eating up about $1.5 million in budget and payroll. 
+
+### Hindrance 1: Grossly Mismanaged parking
+
+Parking is a scarce commodity, and like all commodities, _if you mismanage access to said commodity, there are downstream negative effects_. 
+
+The solution is technical, not political. There are some complexities to it, but implementing this fix is well within the capacities of the full-time planning and engineering staff.
+
+This comes from The High Cost of Free Parking by Donald Shoup. Read more on this here:
+
+👉  [parking in Golden, CO]({{ site.baseurl }}{% link _posts/2021-08-23-parking/2021-08-23-parking.md %})
 
 1. Set appropriate price for curb-side parking
 2. Spend all revenue where it's collected
 3. Abolish parking minimums
 
-### Exclusionary zoning
+### Hindrance 2: Exclusionary zoning
 
 Euclidean zoning, AKA [exclusionary zoning](https://en.wikipedia.org/wiki/Exclusionary_zoning), is killing our city. Serious people in the space don't debate that exclusionary zoning is terrible. 
 
@@ -86,16 +98,21 @@ Here's more on this:
 
 
 
-### Minimums (lot size, setbacks)
+### Hindrance 3: Legally-imposed Minimums (lot size, setbacks)
 
-Having "minimums" around lot sizes and setbacks wrecks cities. 
+Having "minimums" around lot sizes and setbacks wrecks cities. I'll add more sources at some point, but again, _this is not a contentious statement_. If you think it's politically charged, it's because you're thinking about the issue from the wrong angle. 
 
-### Maximum development rules 
+### Hindrance 4: Legally-imposed Maximums
 
-- floor area ratios, set backs, etc. Most of the pleasent part of downtown that we all know and love is _wildly_ illegal according to modern zoning codes. 
+Proscribing maximums (like floor area ratios, heights, densities) wrecks cities as much as the minimums do.
 
-Of course all new development is ugly. The charming, efficient buildings of the past are all illegal.
+-------------------------
 
+Most of the pleasant part of downtown that we all know and love is _wildly_ illegal according to modern zoning codes, because it violates minimums (setbacks) and maximums (floor area ratios).
+
+Together, these minimums/maximums leave little room for new development - all the new development we get is the ugly stuff. The charming, efficient buildings of the past are all illegal.
+
+More later.
 
 
 ### Resources
