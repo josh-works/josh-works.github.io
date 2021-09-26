@@ -8,7 +8,7 @@ categories: [jekyll]
 tags: [jekyll]
 permalink: migrating-to-netlify
 image: /images/title_image.jpg
-issue: 44
+issue_id: 44
 ---
 
 Troubleshooting Netilify deploy

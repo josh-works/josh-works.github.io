@@ -8,7 +8,7 @@ categories: [jesus_christ]
 tags: [academic_paper, jesus_christ]
 permalink: the-violence-of-god-and-the-hermeneutics-of-paul
 image: /images/title_image.jpg
-issue: 39
+issue_id: 39
 ---
 
 _Sometimes I (Josh) want to share around certain academic works. Sometimes its a PDF that I want someone to download and read, sometimes it's text from a book I've read, and cannot otherwise get a sharable format of. So, I laboriously take photos of pages, use an optical character recognition tool to copy-paste the text from the image to my computer, clean it up, and repost it here._
