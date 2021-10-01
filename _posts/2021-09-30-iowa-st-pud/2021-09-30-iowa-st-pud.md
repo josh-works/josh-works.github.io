@@ -6,11 +6,12 @@ type: page
 published: true
 description: "I'm drafting a PUD. Here it is."
 permalink: pud
+issue_id: 47
 ---
 
 # Iowa Street PUD
 
-_This is a draft document, meant for circulation, will evolve with time and eventually be something we bring to the City of Golden for ratification, or whatever needs to happen to get this done in this zone._
+_This is a draft document, meant for circulation, will evolve with time and eventually be something we bring to the City of Golden for ratification, or whatever needs to happen to get this done in this zone. This document relates to [Collateralizing Mortgages and Loans With the Present Value of Rent Flow]({{ site.baseurl }}{% link _pages/present-value-of-flow-of-rents-as-mortgage-collatoralization/present-value-of-flow-of-rents-as-mortgage-collatoralization.md %})_
 
 I, Josh Thompson, owner of 621 Iowa St, with my wife and the owners and rentors of the below properties, hereby request a Planned Unit Designation from the City of Golden, in accordence to the following terms.
 
