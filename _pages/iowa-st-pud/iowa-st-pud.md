@@ -10,9 +10,11 @@ permalink: pud
 
 # Iowa Street PUD
 
+I, Josh Thompson, owner of 621 Iowa St, with my wife and the owners and rentors of the below properties, hereby request a Planned Unit Designation from the City of Golden, in accordence to the following terms.
+
 ## Dimensions/Boundaries of the PUD
 
-Addresses:
+Addresses included in the PUD, representing a contiguous territory and boundary.
 
 - 648 Iowa
 - 621 Iowa
@@ -39,24 +41,35 @@ All property owners and tenants are strongly invested in seeing this general pla
 
 Nearly everyone adjacent to the designated area, and 100% of the people I've spoken to about this, approve of this PUD and would not take actions to prevent it from being designated as such. 
 
-![impacted-neighbors](images/immediately-impacted-property-owners.jpg)
+![impacted-neighbors](/images/immediately-impacted-property-owners.jpg)
 
 ## Zone 2: Impacted Property Owners/Residents (nearby)
 
 Obviously, PUDs affect far more than just the immediately-adjacent properties. If we were to take an expansionist view of affected parties, we'd need to fill in the corners of the "space", so it would be inclusive of everyone who lived within a certain distance of _a_ boundary of the PUD. Here is that expansionist view:
 
-![expansionist](images/large-area.jpg)
+![expansionist](/images/large-area.jpg)
 
 ## Zone 3: Affected by usage patterns
 
 Finally, since roads are mobility networks, and _neighborhoods_ are a common unit of analysis, not just individual lots, here's the _neighborhood_ inclusivity of persons who would have some vested interest in this project:
 
-![expansionist](images/neighborhood.jpg)
+![expansionist](/images/neighborhood.jpg)
 
 
 ## PUD Code Provisions
 
-> The City and Agents of Golden will not probhibit households in the PUD to use the standards they can afford and to make their own trade-offs between location, road space, lot space, and floor space. The role of City and Agents involvement is limited to providing connections to the trunk city networks for transport, water, sewer, and storm drainage.
+This PUD "application" will contain several sections, modeled roughly after the other PUD applications I could find on the City of Golden's website:
+
+- []()
+- []()
+
+### PUD High-level summary
+
+> The City and Agents of Golden will not prohibit households in the PUD to use the standards they can afford and to make their own trade-offs between location, road space, lot space, and floor space. The role of City and Agents involvement is limited to providing connections to the trunk city networks for transport, water, sewer, and storm drainage.
+
+### City Easements
+
+Existing city infrastructure within the boundaries of the PUD will be maintained, broadly, by a coalition between the PUD and the city. Easements currently owned by the city that extend beyond the physical boundaries of the road, sewer, and water network will be deemed unexercisable, and full possession will be remitted to the property owners.
 
 -------------------
 
