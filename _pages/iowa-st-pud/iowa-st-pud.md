@@ -56,13 +56,18 @@ Finally, since roads are mobility networks, and _neighborhoods_ are a common uni
 
 ## PUD Code Provisions
 
-All language copy-pasted from Alain Bertraud, "Order Without Design", pasted below.
+> The City and Agents of Golden will not probhibit households in the PUD to use the standards they can afford and to make their own trade-offs between location, road space, lot space, and floor space. The role of City and Agents involvement is limited to providing connections to the trunk city networks for transport, water, sewer, and storm drainage.
+
+-------------------
+
+
+### Summarized language, initial draft:
+
+All language copy-pasted from Alain Bertraud, [Order Without Design](https://www.goodreads.com/book/show/39644188-order-without-design), pasted below.
 
 In specific, I want to model this PUD on the Indonesian Kampung. I'll copy-paste from the long quote, translating the described phenomina to a set of zoning rules legible to a local municipality.
 
 As I have discussed this with neighbors (in all zones), and explained the genesis of where this language comes from, they have all eagerly endorsed the plan. To emphasize, this general approach and language has broad community support.
-
-### Summarized language, initial draft:
 
 Below are sentences, as encountered in order, in their original form from the long quote shared below.
 
@@ -129,7 +134,7 @@ Operationally, the KIP continues to provide financial and technical assistance t
 
 The KIP has been complemented with citywide investments in transport and most importantly for Southeast Asia, in storm drainage networks to prevent periodic flooding in residential areas
 
- Indonesia, with a GDP per capita of US$10,500 in 2015, remains a lower-middle-income country, according to the World Bank. The overall standards of living reflect this income category. However, because the government concentrated its scarce resources on providing urban infrastructure to all urban residents, instead of increasing the housing consumption of a few poor households selected by lottery for public housing, every poor Indonesian received benefits. And these benefits increase over time. The government focus on infrastructure assistance allowed households to use their own resources to invest in their own housing, either as self-occupied dwellings or as investment in rental housing. The housing standards, defined as the size and quality of the structure, may therefore vary from very low to good in the same neighborhood, but access to safe water, sanitation, education, and health is ensured for all.
+Indonesia, with a GDP per capita of US$10,500 in 2015, remains a lower-middle-income country, according to the World Bank. The overall standards of living reflect this income category. However, because the government concentrated its scarce resources on providing urban infrastructure to all urban residents, instead of increasing the housing consumption of a few poor households selected by lottery for public housing, every poor Indonesian received benefits. And these benefits increase over time. The government focus on infrastructure assistance allowed households to use their own resources to invest in their own housing, either as self-occupied dwellings or as investment in rental housing. The housing standards, defined as the size and quality of the structure, may therefore vary from very low to good in the same neighborhood, but access to safe water, sanitation, education, and health is ensured for all.
 
 The demand-driven land use standards allowed by regulations in Indonesia are illustrated by the site plans of two neighborhoods in Surabaya, Indonesia, as surveyed in 2010 (figure 6.24). On the left in the figure, a kampung site plan shows the variety of plot and housing sizes that are possible in the same neighborhood. Some structures located in the back of lots facing the main passageways are very small and of poor quality, but they have access to safe water and sanitation. They have also access to the same schools and health facilities as their more affluent neighbors.
 
@@ -145,5 +150,5 @@ I have observed kampungs' evolution and improvement on a regular basis, since my
 
 Some households that have reached sufficiently high incomes are likely to leave the kampung and move into formal development neighborhoods. This movement creates vacancies in the kampungs that are immediately filled with holds who rent or buy a dwelling. Low-income households do not need to be on poorer a waiting list and do not have to submit a proof of their income to buy or rent in house a kampung. Expansion zoning plans are reserving land around existing kampungs located in the periphery to ensure a flow of new low-income housing in the future.
 
-The Indonesia kampungs and the KIP program demonstrate that it is possible for a government to provide large benefits to its large low-income population without creating long waiting lists. It shows that allowing standards to adjust and, consequently, population densities to float, not only provides affordable housing but also improves the city structure by allowing higher densities in areas accessible to jobs.
+**The Indonesia kampungs and the KIP program demonstrate that it is possible for a government to provide large benefits to its large low-income population without creating long waiting lists. It shows that allowing standards to adjust and, consequently, population densities to float, not only provides affordable housing but also improves the city structure by allowing higher densities in areas accessible to jobs.**
 
