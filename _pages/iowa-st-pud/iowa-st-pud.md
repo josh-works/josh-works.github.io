@@ -26,14 +26,14 @@ Addresses included in the PUD, representing a contiguous territory and boundary.
 
 Here's the specific properties, all owners and tenants of which desire to be included in the PUD:
 
-![properties-in-pud](images/pud-addresses.jpg)
+![properties-in-pud](./images/pud-addresses.jpg)
 
 
 ## Property Owners
 
 For the rest of the document, the collection of properties will be "The PUD boundary zone" or some otherwise collected group. 
 
-![pud](images/pud-outline.jpg)
+![pud](./images/pud-outline.jpg)
 
 The owners of these included lots desire for their land to be included in this PUD, and will sign contracts or testaments to this fact if it would be helpful for obtaining this PUD.
 
@@ -43,27 +43,27 @@ All property owners and tenants are strongly invested in seeing this general pla
 
 Nearly everyone adjacent to the designated area, and 100% of the people I've spoken to about this, approve of this PUD and would not take actions to prevent it from being designated as such. 
 
-![impacted-neighbors](/images/immediately-impacted-property-owners.jpg)
+![impacted-neighbors](./images/immediately-impacted-property-owners.jpg)
 
 ## Zone 2: Impacted Property Owners/Residents (nearby)
 
 Obviously, PUDs affect far more than just the immediately-adjacent properties. If we were to take an expansionist view of affected parties, we'd need to fill in the corners of the "space", so it would be inclusive of everyone who lived within a certain distance of _a_ boundary of the PUD. Here is that expansionist view:
 
-![expansionist](/images/large-area.jpg)
+![expansionist](./images/large-area.jpg)
 
 ## Zone 3: Affected by usage patterns
 
 Finally, since roads are mobility networks, and _neighborhoods_ are a common unit of analysis, not just individual lots, here's the _neighborhood_ inclusivity of persons who would have some vested interest in this project:
 
-![expansionist](/images/neighborhood.jpg)
+![expansionist](./images/neighborhood.jpg)
 
 
 ## PUD Code Provisions
 
 This PUD "application" will contain several sections, modeled roughly after the other PUD applications I could find on the City of Golden's website:
 
-- [Golden Overlook PUD Amendment (PDF)](/images/GoldenOverlookPUDAmendment.pdf)
-- [Lookout Mountain PUD Sheet (PDF)](/images/LookoutPUDSheet.pdf)
+- [Golden Overlook PUD Amendment (PDF)](./images/GoldenOverlookPUDAmendment.pdf)
+- [Lookout Mountain PUD Sheet (PDF)](./images/LookoutPUDSheet.pdf)
 
 ### PUD High-level summary
 
