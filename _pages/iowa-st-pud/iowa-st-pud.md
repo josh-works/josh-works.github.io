@@ -10,6 +10,8 @@ permalink: pud
 
 # Iowa Street PUD
 
+_This is a draft document, meant for circulation, will evolve with time and eventually be something we bring to the City of Golden for ratification, or whatever needs to happen to get this done in this zone._
+
 I, Josh Thompson, owner of 621 Iowa St, with my wife and the owners and rentors of the below properties, hereby request a Planned Unit Designation from the City of Golden, in accordence to the following terms.
 
 ## Dimensions/Boundaries of the PUD
@@ -60,8 +62,8 @@ Finally, since roads are mobility networks, and _neighborhoods_ are a common uni
 
 This PUD "application" will contain several sections, modeled roughly after the other PUD applications I could find on the City of Golden's website:
 
-- []()
-- []()
+- [Golden Overlook PUD Amendment (PDF)](/images/GoldenOverlookPUDAmendment.pdf)
+- [Lookout Mountain PUD Sheet (PDF)](/images/LookoutPUDSheet.pdf)
 
 ### PUD High-level summary
 
