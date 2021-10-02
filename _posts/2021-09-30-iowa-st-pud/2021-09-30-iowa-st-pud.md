@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: Planned Unit Design Document (work-in-progress)
 status: published
-type: page
+type: post
 published: true
 description: "I'm drafting a PUD. Here it is."
 permalink: pud
