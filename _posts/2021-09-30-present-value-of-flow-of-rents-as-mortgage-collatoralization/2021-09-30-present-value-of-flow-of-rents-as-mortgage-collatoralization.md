@@ -3,6 +3,9 @@ layout: post
 title: Collateralizing Mortgages and Loans With the Present Value of Rent Flow
 status: published
 type: post
+date:  2021-10-02 06:00:00 -0700
+categories: [zoning]
+tags: [golden, zoning, cities]
 published: true
 description: "A proposal for a new kind of financial product, one that is close to how money and land have been used together for a long time"
 permalink: collateralizing-financial-products-with-present-value-of-rent-flow
