@@ -24,18 +24,18 @@ Assess the value of a land parcel by evaluating the _present value of the flow o
 
 A property could plausibly generate $6,000/mo in rent? (say, with six small units at $1000/mo in rent?) 
 
-That $6,000/mo or $72,000/yr could easily collateralize a $600,000, _especially if there is reason to think even more rent could be generated from the structures._
+That $6,000/mo or $72,000/yr could easily collateralize a $600,000 loan/mortgage/financial product _especially if there is reason to think even more rent could be generated from the structures._
 
-At this point, collateralization discussions would require a plot-by-plot evaluation of the likelihood it could generate such rental streams.
+At this point, collateralization discussions would require a plot-by-plot evaluation of the likelihood a given structure on a given plot could generate such income streams.
 
 
 ## A financial product "crossing the distance" between the net present value of cash, and guaranteed future income flows
 
-The FIRE community (r/fire) has the 4% rule, which can be expressed a few different ways, but broadly it's the expression of a relationship between the value of cash on hand, and future income flows that the cash can generate. 
+The FIRE community ([r/fire](https://www.reddit.com/r/Fire/)) has the 4% rule, which can be expressed a few different ways, but broadly it's the expression of a relationship between the value of a given lump of cash on hand, and future risk-adjusted income flows that said lump of cash can generate. 
 
-Because of math, a guaranteed $1000/mo income is "as valuable as" a $12k/yr income, which is 4% of $300,000.
+Because of math, a guaranteed $1000/mo income is "as valuable as" a $12k/yr income, which is 4% of $300,000. 
 
-So, if I wanted to borrow $100k to do something that would have a strong probability of being capable of generating $1500/mo in rent, that is a "safe" mortgage, because even if I'm way off on the amount of rent I generate, I still will have something that is worth far more than was spent creating it. It's an _asset_. 
+So, if I wanted to borrow $100k to do something that would have a strong probability of being capable of generating $2000/mo in rent, that is a "safe" mortgage, because even if I'm way off on the amount of rent I generate, I still will have something that is worth far more than was spent creating it. It's an _asset_. 
 
 This notion all comes from the text expressed below, and other text in the same book, and other books. More on it soon.
 
