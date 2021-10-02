@@ -9,7 +9,7 @@ permalink: collateralizing-financial-products-with-present-value-of-rent-flow
 issue_id: 48
 ---
 
-_this is a draft document, it pairs with [this Planned Unit Development application draft document]({{ site.baseurl }}{% link _pages/iowa-st-pud/iowa-st-pud.md %})_
+_this is a draft document, it pairs with [this Planned Unit Development application draft document]({{ site.baseurl }}{% link _posts/2021-09-30-iowa-st-pud/2021-09-30-iowa-st-pud.md %})_
 
 The ideas contained within this book draw heavily from _Order Without Design_. I've quoted in depth two pages below, but there is many other sections of the book germane to the topic of this page.
 
