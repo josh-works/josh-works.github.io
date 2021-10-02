@@ -2,7 +2,10 @@
 layout: post
 title: Planned Unit Design Document (work-in-progress)
 status: published
+date:  2021-10-01 06:00:00 -0700
 type: post
+categories: [zoning]
+tags: [golden, zoning, cities]
 published: true
 description: "I'm drafting a PUD. Here it is."
 permalink: pud
