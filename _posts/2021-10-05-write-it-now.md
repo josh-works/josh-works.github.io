@@ -2,7 +2,7 @@
 layout: post
 title: Write It Now
 status: published
-date:  2021-10-051 06:00:00 -0700
+date:  2021-10-05 06:00:00 -0700
 type: post
 categories: []
 tags: [ideas, concepts, til, useful-concept, conceptual-framework]
