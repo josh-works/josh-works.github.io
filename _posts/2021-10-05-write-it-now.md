@@ -8,8 +8,8 @@ categories: []
 tags: [ideas, concepts, til, useful-concept, conceptual-framework]
 published: true
 description: "It's useful to know when to write about something. I feel like I often self-censure in an attempt to make something better than it should be, and in doing so, fall off the back of this curve."
-permalink: pud
-issue_id: 50
+permalink: write-it-now
+issue_id: 49
 ---
 
 
@@ -21,6 +21,8 @@ I will reference this page regularly, in some ways to act as a defense against s
 
 If I propose something that sparks "controversy", however that is defined, I'll gladly cross that bridge (or burn it, if need be) when I get there. 
 
-If you're a software developer, and use Github, you are welcome to leave a comment below (it takes you to a comment on a dedicated Github Issue page: [https://github.com/josh-works/josh-works.github.io/issues/50](https://github.com/josh-works/josh-works.github.io/issues/50))
+If you're a software developer, and use Github, you are welcome to leave a comment below (it takes you to a comment on a dedicated Github Issue page: [https://github.com/josh-works/josh-works.github.io/issues/49](https://github.com/josh-works/josh-works.github.io/issues/49))
 
 Related: [My own thinking is severely limited]({{ site.baseurl }}{% link _posts/2015-11-05-limitations-of-my-own-thinking.md %})
+
+_This was typed up/published in about 20 minutes, took 2x as long as I wish it had._ I could make it 10x better with another hour of work, but I only have 20 minutes.
