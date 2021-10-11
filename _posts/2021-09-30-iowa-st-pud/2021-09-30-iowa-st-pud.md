@@ -108,7 +108,8 @@ Below are sentences, as encountered in order, in their original form from the lo
 > while the government concentrates its efforts not on housing construction but on gradually improving residential infrastructure and services to all residential settlements
 
 
-# Long quote from _Order Without Design: How Markets Shape Cities_, p. 287
+## Long quote from _Order Without Design: How Markets Shape Cities_, p. 287
+
 
 [...]
 
@@ -120,7 +121,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > Many of the regulations recently introduced in cities around the world that aim to improve the housing consumption of low-income households, not only do not deliver the number of housing units promised, but also contribute to lowering the economic opportunity of the very people they are supposed to help. It is time to audit these regulations and policies, taking into account the increasingly valuable economic literature on the subject.
 > 
-> ### Cities Are Reluctant to Accept Housing Standards That Are Affordable for the Poor: The Exceptions
+### Cities Are Reluctant to Accept Housing Standards That Are Affordable for the Poor: The Exceptions
 > 
 > Cities in low-income countries, where urban migration annually adds a large number of unskilled people, cannot afford to subsidize the housing of the large number of poor. However, cities in Indonesia, using an "integration" approach to low income settlements, have been successful in absorbing new migrants into the urban labor force while maintaining an acceptable level of environmental health in the poorest neighborhoods.
 > 
@@ -131,8 +132,8 @@ Below are sentences, as encountered in order, in their original form from the lo
 > The outcome of these successive policies -- first ostracism, then benign neglect followed by reluctant integration -- has been disastrous. A significant share of the urban labor force, otherwise gainfully employed, live in large "informal" settlements often with unsafe water supplies, deficient sanitation, and sporadic solid waste collection. In Mumbai, one of the economic powerhouses of Asia, 60 percent of the population lives in slums.
 > 
 > I discuss below two case studies in Indonesia and China. **These countries, for different reasons and in different ways, took a different approach to integrating affordable low housing standards into the city infrastructure. The outcome for the poor migrant households was significantly better than in the countries where a strict regulatory approach had been followed. In these two countries, the government allowed low-income households to use the standards they could afford and to make their own trade-offs between location, road space, lot space, and floor space. The government role was limited to providing connections from these settlements to the trunk city networks for transport, water, sewer, and storm drainage.
-> 
-> ### Example 3: Indonesia's Urban Enclaves with No Minimum Standards
+
+### Example 3: Indonesia's Urban Enclaves with No Minimum Standards
 > 
 > In the densely populated island of Java, expanding cities absorb large existing villages, called "kampungs," whose population then integrates rapidly into the urban labor force. The former agricultural fields are soon built on by formal developers, while new informal constructions are added in the kampungs that have been absorbed into the city. So far, this is not too different from what happens in the rest of Asia, where countries are urbanizing rapidly. There is one important difference. Indonesian kampungs always had a formal robust administrative structure based on traditional laws, and that administrative structure has been able to survive their absorption into a larger urban municipality. 
 > 
@@ -146,7 +147,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > However, this increased density has a downside. The traditional source of water and means of sanitation -- consisting of shallow wells and seepage pits -- became grossly inadequate to serve the new higher densities. The low absorption capacity of the traditional sanitary system transformed the kampungs into dense unsanitary slums. The traditional storm drainage network, built around former irrigation canals, was insufficient to prevent flooding during the monsoon because of enhanced impermeability of the area caused by urbanization. 
 > 
-> ### Innovative Housing Policy Concentrating Subsidies on Infrastructure, Not on Housing Structure
+### Innovative Housing Policy Concentrating Subsidies on Infrastructure, Not on Housing Structure
 > 
 > So far the history of the Indonesian kampungs does not appear to be very different from that of informal settlements in many other developing countries. What made a difference was a decision taken in 1969 by the government of Indonesia to concentrate its resources on the improvement of the kampungs' infrastructure without trying to remove or restructure the existing housing, however small or inadequate it was. The provision of urban infrastructure and services to kampungs was called the Kampung Improvement Program (KIP). Compared to the prevailing housing policies of developing countries in the 1960s, which consisted mostly of bulldozing informal settlements to relocate their inhabitants in public housing flats, this approach was revolutionary.
 > 
@@ -165,9 +166,10 @@ Below are sentences, as encountered in order, in their original form from the lo
 > TODO: ADD PICTURES FROM BOOK
 > 
 > The road system allows only emergency and construction vehicles but is adequate for local motorcycle and pedestrian traffic. On the right in the figure, a site plan designed by a formal developer, which shows a different, more standard type of residential layout with much less variety in lot size and more house area, reflecting middle-class standards. homogeneity in house area, reflecting middle-class standards.
-> 
-> ### Kampung Integration Policy Has Successfully Provided a Flow of Low-Income Housing
-> 
+
+
+### Kampung Integration Policy Has Successfully Provided a Flow of Low-Income Housing
+
 > Because the kampung boundaries have always been protected since Indonesia started its rapid urbanization, kampungs are found in every neighborhood of Indonesian cities. Consequently, kampungs are always located side by side with commercial areas and higher-income areas, providing a socially desirable income mix at the neighborhood level. Because kampungs and middle-class areas share the same trunk infrastructure for water and sanitation, little discrimination is possible in public investment. 
 > 
 > I have observed kampungs' evolution and improvement on a regular basis, since my first work trip to Indonesia in 1977. Many housing units in kampung areas look more middle class than low income. This reflects the increase in house hold incomes in Indonesia over this period. The inability to use a car as a means of transport in kampungs (because of the narrowness of the streets) prevents any large displacement of the poor from the best-located kampungs. The low road standards are the best guarantee against massive gentrification.
