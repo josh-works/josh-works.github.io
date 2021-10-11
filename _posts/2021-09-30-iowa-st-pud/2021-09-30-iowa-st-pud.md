@@ -12,28 +12,26 @@ permalink: pud
 issue_id: 47
 ---
 
-# Iowa Street PUD
-
 _This is a draft document, meant for circulation, will evolve with time and eventually be something we bring to the City of Golden for ratification, or whatever needs to happen to get this done in this zone. This document relates to [Collateralizing Mortgages and Loans With the Present Value of Rent Flow]({{ site.baseurl }}{% link _posts/2021-09-30-present-value-of-flow-of-rents-as-mortgage-collatoralization/2021-09-30-present-value-of-flow-of-rents-as-mortgage-collatoralization.md %})_
 
 I, Josh Thompson, owner of 621 Iowa St, with my wife and the owners and rentors of the below properties, hereby request a Planned Unit Designation from the City of Golden, in accordence to the following terms.
 
-## Dimensions/Boundaries of the PUD
+# Dimensions/Boundaries of the PUD
 
 Addresses included in the PUD, representing a contiguous territory and boundary.
 
-- 648 Iowa
-- 621 Iowa
-- 623 Iowa 
-- 619 Iowa
-- 617 Iowa
+- 648 Iowa St.
+- 621 Iowa St.
+- 623 Iowa St. 
+- 619 Iowa St.
+- 617 Iowa St.
 
 Here's the specific properties, all owners and tenants of which desire to be included in the PUD:
 
 ![properties-in-pud](pud-addresses.jpg)
 
 
-## Property Owners
+# Property Owners of the lots inside of and around the PUD
 
 For the rest of the document, the collection of properties will be "The PUD boundary zone" or some otherwise collected group. 
 
@@ -62,20 +60,27 @@ Finally, since roads are mobility networks, and _neighborhoods_ are a common uni
 ![expansionist](neighborhood.jpg)
 
 
-## PUD Code Provisions
+# PUD Code Provisions
 
 This PUD "application" will contain several sections, modeled roughly after the other PUD applications I could find on the City of Golden's website:
 
 - [Golden Overlook PUD Amendment (PDF)](GoldenOverlookPUDAmendment.pdf)
 - [Lookout Mountain PUD Sheet (PDF)](LookoutPUDSheet.pdf)
 
-### PUD High-level summary
+## The role of the city
 
-> The City and Agents of Golden will not prohibit households in the PUD to use the standards they can afford and to make their own trade-offs between location, road space, lot space, and floor space. The role of City and Agents involvement is limited to providing connections to the trunk city networks for transport, water, sewer, and storm drainage.
+The role of the City and of its Agents is limited to providing connections to the trunk city networks for transport, water, sewer, and storm drainage.
 
-### City Easements
+
+## City easements
 
 Existing city infrastructure within the boundaries of the PUD will be maintained, broadly, by a coalition between the PUD and the city. Easements currently owned by the city that extend beyond the physical boundaries of the road, sewer, and water network will be deemed unexercisable, and full possession will be remitted to the property owners.
+
+## Rights of way
+
+The owners representing the PUD will maintain the existing roads to ensure safe and adequate mobility network through-put.
+
+Non-vehicular rights-of-way will be decided upon and maintained by the property owners.
 
 -------------------
 
@@ -103,7 +108,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > while the government concentrates its efforts not on housing construction but on gradually improving residential infrastructure and services to all residential settlements
 
 
-## Order Without Design: How Markets Shape Cities, p 287
+# Long quote from _Order Without Design: How Markets Shape Cities_, p. 287
 
 [...]
 
@@ -171,3 +176,22 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > **The Indonesia kampungs and the KIP program demonstrate that it is possible for a government to provide large benefits to its large low-income population without creating long waiting lists. It shows that allowing standards to adjust and, consequently, population densities to float, not only provides affordable housing but also improves the city structure by allowing higher densities in areas accessible to jobs.**
 
+# Alain Bertraud's specific feedback on this document
+
+I (Josh) am friends with Alain and Marie-Agnes Bertraud, the authors of _Order Without Design: How Markets Shape Cities_.
+
+When I sent him a draft of this document, Alain said:
+
+> Your proposed PUD is an imaginative adaptation to a Colorado subdivision of the Kampung and Chinese urban village concept described in my book.
+> 
+> I hope that it gets approved under Colorado law! 
+>
+> I hope that other people will also imitate the idea with some variations, ensuring constant adaptation to changing socio-economic conditions.
+> 
+> **This new way of changing land use initiated by current occupiers would be a wonderful escape from the arbitrary rigidity of existing zoning laws, which prevent demand-driven land use adaption.**
+> 
+> Your [preliminary financial calculation]({{ site.baseurl }}{% link _posts/2021-09-30-present-value-of-flow-of-rents-as-mortgage-collatoralization/2021-09-30-present-value-of-flow-of-rents-as-mortgage-collatoralization.md %}) also demonstrates that it is possible to have an excellent financial return by unit of land while creating affordable housing units at standards that are acceptable to the end-user. 
+
+Later, he added:
+
+> 
