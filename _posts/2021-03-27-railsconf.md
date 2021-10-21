@@ -2,7 +2,7 @@
 layout: post
 title:  "RailsConf Presentation: 'Junior' Developers are a Solution to Many of your Problems"
 description: "description about this post"
-date:  DATE 06:00:00 -0700
+date:  2021-05-21 06:00:00 -0700
 crosspost_to_medium: false
 categories: [software_development]
 tags: [public_speaking, rails, software_development]

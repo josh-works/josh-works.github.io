@@ -1,11 +1,13 @@
 ---
-title: Episode 6: Subversion(?)
+title: Episode 6: Software, learning, and subversion
 ---
 
 It has been a very, very long time since I've sent an update to this list. May 13, then trickling back from there.
 
 I think most of you are subscribers on my other list (https://josh.works/) and _some_, maybe most of you, subscribe to https://www.intermediateruby.com/. 
 
-I feel particularly burdened by this silence, because you all are, by definition, paying me monthly! 
+So, those of you who are on the other lists have gotten a few emails from me. 
 
-But none of you are paying me _that much_, so it's not a big deal. Most of you spend more on Netflix than on this list, and I guarantee that the rate of "i am modestly entertained" units-per-hour is higher on the few minutes you spend on this email than the same number of minutes of some of the last month of streaming services you've consumed. 
+This list, though - this list is where the fun stuff is going to be recorded.
+
+I'm doing something that, well, isn't _really_ supposed to be done. 
