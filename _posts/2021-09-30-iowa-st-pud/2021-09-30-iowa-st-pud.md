@@ -86,7 +86,7 @@ Non-vehicular rights-of-way will be decided upon and maintained by the property 
 -------------------
 
 
-### Summarized language, initial draft:
+# Summarized language, initial draft:
 
 All language copy-pasted from Alain Bertraud, [Order Without Design](https://www.goodreads.com/book/show/39644188-order-without-design), pasted below.
 
@@ -109,7 +109,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > while the government concentrates its efforts not on housing construction but on gradually improving residential infrastructure and services to all residential settlements
 
 
-## Long quote from _Order Without Design: How Markets Shape Cities_, p. 287
+# Long quote from _Order Without Design: How Markets Shape Cities_, p. 287
 
 
 [...]
@@ -122,7 +122,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > Many of the regulations recently introduced in cities around the world that aim to improve the housing consumption of low-income households, not only do not deliver the number of housing units promised, but also contribute to lowering the economic opportunity of the very people they are supposed to help. It is time to audit these regulations and policies, taking into account the increasingly valuable economic literature on the subject.
 > 
-### Cities Are Reluctant to Accept Housing Standards That Are Affordable for the Poor: The Exceptions
+## Cities Are Reluctant to Accept Housing Standards That Are Affordable for the Poor: The Exceptions
 > 
 > Cities in low-income countries, where urban migration annually adds a large number of unskilled people, cannot afford to subsidize the housing of the large number of poor. However, cities in Indonesia, using an "integration" approach to low income settlements, have been successful in absorbing new migrants into the urban labor force while maintaining an acceptable level of environmental health in the poorest neighborhoods.
 > 
@@ -134,7 +134,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > I discuss below two case studies in Indonesia and China. **These countries, for different reasons and in different ways, took a different approach to integrating affordable low housing standards into the city infrastructure. The outcome for the poor migrant households was significantly better than in the countries where a strict regulatory approach had been followed. In these two countries, the government allowed low-income households to use the standards they could afford and to make their own trade-offs between location, road space, lot space, and floor space. The government role was limited to providing connections from these settlements to the trunk city networks for transport, water, sewer, and storm drainage.
 
-### Example 3: Indonesia's Urban Enclaves with No Minimum Standards
+## Example 3: Indonesia's Urban Enclaves with No Minimum Standards
 > 
 > In the densely populated island of Java, expanding cities absorb large existing villages, called "kampungs," whose population then integrates rapidly into the urban labor force. The former agricultural fields are soon built on by formal developers, while new informal constructions are added in the kampungs that have been absorbed into the city. So far, this is not too different from what happens in the rest of Asia, where countries are urbanizing rapidly. There is one important difference. Indonesian kampungs always had a formal robust administrative structure based on traditional laws, and that administrative structure has been able to survive their absorption into a larger urban municipality. 
 > 
@@ -148,7 +148,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > However, this increased density has a downside. The traditional source of water and means of sanitation -- consisting of shallow wells and seepage pits -- became grossly inadequate to serve the new higher densities. The low absorption capacity of the traditional sanitary system transformed the kampungs into dense unsanitary slums. The traditional storm drainage network, built around former irrigation canals, was insufficient to prevent flooding during the monsoon because of enhanced impermeability of the area caused by urbanization. 
 > 
-### Innovative Housing Policy Concentrating Subsidies on Infrastructure, Not on Housing Structure
+## Innovative Housing Policy Concentrating Subsidies on Infrastructure, Not on Housing Structure
 > 
 > So far the history of the Indonesian kampungs does not appear to be very different from that of informal settlements in many other developing countries. What made a difference was a decision taken in 1969 by the government of Indonesia to concentrate its resources on the improvement of the kampungs' infrastructure without trying to remove or restructure the existing housing, however small or inadequate it was. The provision of urban infrastructure and services to kampungs was called the Kampung Improvement Program (KIP). Compared to the prevailing housing policies of developing countries in the 1960s, which consisted mostly of bulldozing informal settlements to relocate their inhabitants in public housing flats, this approach was revolutionary.
 > 
@@ -169,7 +169,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > The road system allows only emergency and construction vehicles but is adequate for local motorcycle and pedestrian traffic. On the right in the figure, a site plan designed by a formal developer, which shows a different, more standard type of residential layout with much less variety in lot size and more house area, reflecting middle-class standards. homogeneity in house area, reflecting middle-class standards.
 
 
-### Kampung Integration Policy Has Successfully Provided a Flow of Low-Income Housing
+## Kampung Integration Policy Has Successfully Provided a Flow of Low-Income Housing
 
 > Because the kampung boundaries have always been protected since Indonesia started its rapid urbanization, kampungs are found in every neighborhood of Indonesian cities. Consequently, kampungs are always located side by side with commercial areas and higher-income areas, providing a socially desirable income mix at the neighborhood level. Because kampungs and middle-class areas share the same trunk infrastructure for water and sanitation, little discrimination is possible in public investment. 
 > 
@@ -179,7 +179,7 @@ Below are sentences, as encountered in order, in their original form from the lo
 > 
 > **The Indonesia kampungs and the KIP program demonstrate that it is possible for a government to provide large benefits to its large low-income population without creating long waiting lists. It shows that allowing standards to adjust and, consequently, population densities to float, not only provides affordable housing but also improves the city structure by allowing higher densities in areas accessible to jobs.**
 
-## Alain Bertraud's specific feedback on this document
+# Alain Bertraud's specific feedback on this document
 
 I (Josh) am friends with Alain and Marie-Agnes Bertraud, the authors of _Order Without Design: How Markets Shape Cities_.
 
@@ -197,11 +197,11 @@ When I sent him a draft of this document, Alain said:
 
 _emphasis mine_
 
-## FAQ
+# FAQ
 
 This document prompts many questions. If you have any, consider leaving a comment below, or shoot me an email about it, or text me, or whatever. I'll update it accordingly.
 
-### What exactly is a PUD again?
+## What exactly is a PUD again?
 
 TL;DR: A "Planned Unit Development District" is a legal document, enacted via a political process[^political-process] by which the City approves of modifications to the existing rules and regulations, as applied to a specific piece of land.
 
@@ -225,7 +225,7 @@ The Planning and Zoning Office of Golden [defines](https://library.municode.com/
 > 
 > (2) Uses within a PUD development may be multiple in nature and may include uses not otherwise permitted within the same zone district. The location and relationship of these uses shall be as established in and conform to the policies and standards contained within the comprehensive plan and other appropriate adopted and approved plans, including but not limited to locational criteria within that comprehensive plan. 
 
-### So why do you want to get this collection of lots declared a PUD?
+## So why do you want to get this collection of lots declared a PUD?
 
 Look at reason 18.28.300.1.a:
 
@@ -237,7 +237,7 @@ I've got some development concepts not otherwise permitted within standard zone 
 
 For example - I'd love for there to be a vegetable stand that is sometimes operating on my street. I'd gladly build a space for someone, and let them operate it out of my lot. That structure, and that business, would be so illegal under current rules people laugh at me for even wanting to do this. [I'm not afraid to look stupid](https://danluu.com/look-stupid/), so here I am.
 
-### Who's involved? Are you trying to get other people's property rezoned out from under them?
+## Who's involved? Are you trying to get other people's property rezoned out from under them?
 
 Nope. Everyone involved is strongly supportive. That means, at minimum:
 
@@ -255,7 +255,7 @@ If, for political reasons, from the perspective of Zonning, Planning, or City Co
 
 There are many, many good things that will come about for the residents within and adjacent to the PUD, when this goes through. 
 
-### Why are you trying to get a PUD? Why not build to the existing code?
+## Why are you trying to get a PUD? Why not build to the existing code?
 
 I desire _flexibility_ more than almost anything else, so I (and my neighbors) can iterate and experiment with things, _and_ unlock traditional financing opportunities based off our land. 
 
@@ -271,7 +271,7 @@ I'm a software developer. Modern zoning forces all development projects into a "
 
 [^agile]: "Agile" software development is... complicated. There's a famous and rather nostalgia-inducing website that outlines the [principles behind the agile manifesto](http://agilemanifesto.org/principles.html). Check it out. 
 
-### What do you want to eventually build?
+## What do you want to eventually build?
 
 Critically, I am not quite sure. Once the City approves of the PUD, I'll start building out projects. Nearly everything I'll do, I plan on doing myself or with just a small group of people. I'll GC my own projects, I'll QA my own projects, and I'll manage everything I build. 
 
