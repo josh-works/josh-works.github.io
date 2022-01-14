@@ -14,7 +14,15 @@ issue_id: 48
 
 _this is a draft document, it pairs with [this Planned Unit Development application draft document]({{ site.baseurl }}{% link _posts/2021-09-30-iowa-st-pud/2021-09-30-iowa-st-pud.md %})_
 
-The ideas contained within this book draw heavily from _Order Without Design_. I've quoted in depth two pages below, but there is many other sections of the book germane to the topic of this page.
+
+
+Inspiration comes from many places, but most strongly it draws heavily from _Order Without Design_. I've quoted in depth two pages below, but there is many other sections of the book germane to the topic of this page.
+
+Other things to read:
+
+
+
+
 
 ## Summary of how a financial institution could use rent-generating property to collateralize a loan
 
@@ -74,3 +82,21 @@ The following comes from page 293 of Alain Bertraud's [Order Without Design: How
 > As a city expands, the land value increases in the villages that were initially at the fringe of urbanization, to the point of becoming higher than the compensation to be paid to farmers for whatever structures they have built. 
 > 
 > The municipal government then tends to evict farmers after compensation or relocation and sell the land to developers. However, the process is long and cumbersome, and many urban villages survive a long time before redevelopment occurs.
+
+### FAQ
+
+#### Are you proposing a new financial product?
+
+More or less, yes. 
+
+The reasons could be stated by meandering through the current state of affairs, the historical contexts and structures that made the current state of affairs most likely, and a scintillating discussion of who's visions for the future show the most merit. 
+
+For example, I just read [https://www.netinterest.co/p/financing-the-american-home](https://www.netinterest.co/p/financing-the-american-home). The way things are right now is _strange_, to say the least, and pressure is building for a good alternative that isn't "just" a 1:1 replacement.[^private-capital] 
+
+[^private-capital]: To quote from that article:
+
+    This reluctance of private capital to backstop the mortgage market would recur again. It stems partly from the risk involved (30 years is a long time) and partly because _having established a foothold in the market, the government’s presence makes it difficult for private capital to compete_. The same issues give the the government such a dominant share of the market today. (emphasis mine)
+
+Something much bigger needs to give, but this is a big piece of it.
+
+- [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)
