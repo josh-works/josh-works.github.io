@@ -22,11 +22,15 @@ I'd recommend reading Bloom's original paper from 1984:
 
 ### [The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring (PDF)](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
 
-_Full text and comments coming soon_
+I gave a brief presentation on this for the Turing School, back in 2020, making the case for some specific interventions, based on Bloom's 1984 research.
+
+[Here's the slideshow](https://docs.google.com/presentation/d/1sN_NqYbIlrnhNJOi9tIqn0kUCFqQrl23eUEwnPuenU0/edit#slide=id.p1). I didn't think to record a video of the actual presentation.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1UE0voecwqhuV3nGBQ6aytrJTndBprIsgeVLN0ZDQzxIf2G5-LtdN6hkePC21K33SYc0TNfznE3bo/embed?start=true&loop=false&delayms=6000" frameborder="0" width="638" height="541" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 
-### Resources
+### Resources & Related Reading
 
 - [Patrick Collison: Questions](https://patrickcollison.com/questions)
 - [On Bloom's two sigma problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction (Nintil)](https://nintil.com/bloom-sigma/)
