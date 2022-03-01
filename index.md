@@ -1,25 +1,38 @@
 ---
 layout: page
 title: Home
-description: "Welcome to Josh Thompson's corner of the internet. Software, urbanism, teaching, and a continuous study of the usage of power in the world."
+description: "I'm Josh. I give myself permission to put whatever I want on this website."
 ---
 
-Hi there, I'm Josh. 
+👋, I'm Josh. 
 
-I live in Golden, Colorado. I'm a software developer, amateur urban economist, and I'm strongly interested in all aspects of information compression. 
+This website serves as a bit of a public scratch pad for many diverse things.
+
+In what might be a slight over-simplification, I value coherence and meaningfulness. 
+
+I am learning to apologize less for having an abundance of interests, and what might be described as a sense of impatience.
+
+I have an email newsletter (a few, actually) that I have not yet figured out a good cadence for emailing/communicating with. 
+
+
+
+
 
 {% include newsletter.html %}
 
-Here's a teaser of the kinds of things we will discuss in the newsletter.
+_Here's a teaser of the kinds of things we will discuss in the newsletter:_
 
-Compare these two images:
+Compare these two drawings about Charleston, SC:
+
 
 ![subsidized and ugly](/images_2020/subsidized.jpeg)
 
 ![illegal but beautiful](/images_2020/illegal.jpg)
 
-I live in Golden, CO, and what's true in Charleston, South Carolina is true in Golden, Colorado.
+Why might one of these be subsidized, and why might one be illegal? What are the first-order and second-order effects of such things?
 
-> Josh, why is this "local and authentic" building style _illegal_?
+Which would you like to be built across the street from you?
 
-Great question! It's a bit of a winding story, which is why it takes a series of emails to unpack. It's extremely important to anyone living in Golden, Denver, and the surrounding areas.
+More critically, **what are the second-order effects of fixing what is broken about this subsidized/illegal dynamic?**
+
+{% include newsletter.html %}
