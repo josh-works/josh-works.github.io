@@ -18,9 +18,9 @@ Golden is _massively_ under-appreciated, and is a place full of potential, argua
 
 I've had an eclectic life, as I think is pretty common. I'm pretty good at solving some kinds of problems, with certain kinds of "software-enabled" solutions. My LinkedIn says "Software Developer", and probably something about Ruby and rails. I think Rails 7 is _amazing_, and am really excited to be whatever "fully invested in the Ruby/Rails ecosystem" is. 
 
-I've got a bit of an obsession with knowledge transfer and learning and education and skills development and practical problem solving, generally as expressed within Ruby and Rails. 
+I've got a bit of an obsession with knowledge transfer and learning and education and skills development and practical problem solving, and usually express this obsession in ways that relate to software development and technical sophistication. (and in rock climbing, but that's a different story.)
 
-I've not written much in the last two years on this website, but [here's some of my writing tagged `rails`](http://josh.works/tags#rails). 
+I've not written much in the last two years on this website, but for a possible starting point, [here's some of my writing tagged `rails`](http://josh.works/tags#rails). 
 
 I've also written about the Turing school and resources for being well-prepared for learning software development. [here's some of my writing tagged `turing`](http://josh.works/tags#turing)
 
