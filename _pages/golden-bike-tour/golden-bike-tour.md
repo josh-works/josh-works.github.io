@@ -26,11 +26,15 @@ I do the "tours" because I enjoy biking around Golden, and this page is to help 
 
 I like to highlight some aspects of Golden that most people miss. It brings me great joy, and I like to share that joy with others. 
 
-Here's a heatmap of my biking around Golden:
+Here's a heatmap of my biking around Golden. Feel free to visit the page, and zoom in/out the map.
 
-![Strava Heat Map](/_pages/golden-bike-tour/2021-05-24 at 12.50 PM.jpg)
+This mass of lines marks the places I've ridden my two feet, my bike, or my 125 cc scooter around, and if we go on a bike ride, we'll ride some of these places.
 
-Here's my recent rides.[^strava]
+[Click here](https://josh-strava-heatmap.herokuapp.com/) (or tap the upcoming picture) to visit the app. It's a free heroku application, so it takes a few seconds to start up. Come back and keep reading when done.
+
+[![Strava Heat Map](/_pages/golden-bike-tour/bike-around.jpg)](https://josh-strava-heatmap.herokuapp.com/)
+
+Here's some recent trips if tracked in Strava:[^strava]
 
 [^strava]: I apologize for the 🥔quality. I'll get an [_actual_ Strava API integration set up soon](https://github.com/josh-works/strava_run_polylines_osm), so I can display the activity in a reasonable way. 
 
