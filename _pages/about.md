@@ -60,7 +60,6 @@ I've spent a lot of time moving from one place to another. My wife and I spent a
 
 These days, we're LARPing as a normal ex-DINK tech power couple. We recently traded two incomes and a cheap apartment for one income and a way-overly-expensive (and oooold) house. We finally made a beautiful baby girl, and a pretty bad injury I got in 2020 is clearing up. 
 
-
 I have an email newsletter (a few, actually) that I have not yet figured out a good cadence for emailing/communicating with.
 
 {% include newsletter.html %}
@@ -94,15 +93,22 @@ More critically, **what are the second-order effects of fixing what is broken ab
 
 ## Products, Guides, and Services
 
-Most of what I make is free to use. I 
+Most of what I make is free to use. I would strongly prefer most of what I do to be as helpful and widely available at somewhere between "free" and "you make money while or because of interacting with it." 
 
-- [career coaching for software developers](https://github.com/sponsors/josh-works)
-- [Profile your Ruby/Rails test suite](https://www.intermediateruby.com/let-josh-audit-and-improve-your-test-suite)
-- [nokogiri obstacle course](https://github.com/josh-works/intermediate_ruby_obstacle_course/tree/master/nokogiri)
+That said, we live in a cold, capitalist society. I can kick it with accountants and sales teams, and I do legit stuff worth real money:[^not-current]
+
+[^not-current]: I must apologize, this list is not current nor comprehensive, but I hope to nudge it along towards both.
+
+- I offer [coaching for software developers and "software people"](https://github.com/sponsors/josh-works). I know, sounds audacious. It really tends to bubble up in other ways, and ends with a "what if you did {such and such}, but with an attitude informed by this other thing we were just talking about..."
+- A twitter rant turned into a small [rails test suite profiling](https://www.intermediateruby.com/let-josh-audit-and-improve-your-test-suite) productized consulting business. It wasn't the right time for me to spend adequate resources on, but was some of the most fun I've ever had. 
+- After spending too many hours wrestling to learn basic webscraping in Ruby [for this joke of a project](https://random-hn-blog.herokuapp.com/) that I'd planned on taking me like one hour, I compressed most of my learnings into a _very_ accessible [Nokogiri obstacle course](https://github.com/josh-works/intermediate_ruby_obstacle_course/tree/master/nokogiri). It's free, but is currently the best value-units-per-hour learning resource I've ever created, at least for people belonging to a very specific group.
 - [Pair along with an expert developer on your first open-source contribution](https://www.intermediateruby.com/make-oss-contributions-part-0-introduction)
 - [A detailed walk-through of Turing's Futbol project](https://github.com/josh-works/futbol)
 - [bike/brewery/urbanism tour of golden, co]({{ site.baseurl }}{% link _pages/golden-bike-tour/golden-bike-tour.md %})
+- I gave testimony to the [Governmental Accounting Standards Board]({{ site.baseurl }}{% link _posts/2021-03-29-gasb-notes.md %}), because why not? They're the group that set standards for Corporate GAAP and Municipal GAAP.[^if-you-know]
+- Voted "Most likely to be psyched to go to an obscure conference"
 
+[^if-you-know]: If you know, you know.
 
 
 [^irl]: [I]n [R]eal [L]ife
