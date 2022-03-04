@@ -83,11 +83,11 @@ The following comes from page 293 of Alain Bertraud's [Order Without Design: How
 > 
 > The municipal government then tends to evict farmers after compensation or relocation and sell the land to developers. However, the process is long and cumbersome, and many urban villages survive a long time before redevelopment occurs.
 
-### FAQ
+## Frequently Asked Questions
 
-#### Are you proposing a new financial product?
+#### Are you proposing a new "financial product"?
 
-More or less, yes. 
+More or less, yes. Eventually something like this could be construed as an alternative to a 30-year fixed-rate mortgage.
 
 The reasons could be stated by meandering through the current state of affairs, the historical contexts and structures that made the current state of affairs most likely, and a scintillating discussion of who's visions for the future show the most merit. 
 
@@ -99,4 +99,5 @@ For example, I just read [https://www.netinterest.co/p/financing-the-american-ho
 
 Something much bigger needs to give, but this is a big piece of it.
 
-- [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)
+I could speak at length of the intersection of [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles) and lending institutions. 
+

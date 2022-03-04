@@ -6,7 +6,7 @@ type: page
 published: true
 meta: {}
 categories: [public_speaking]
-tags: [rails_performance, rails, programming]
+tags: [rails_performance, rails, programming, public_speaking]
 permalink: boulder_ruby_group
 image: "images_2020/2020-08-21 at 9.08 AM.jpg"
 ---
