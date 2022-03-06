@@ -51,20 +51,54 @@ There's also a lot about traffic circles that isn't really "the job" of the traf
 
 - i'll get pictures at some point
 
-## Traffic circle "intensities"
+## Traffic circles can be very low-key, or intense
 
 ### low
 
+- tire on the ground, or a rock, or a tree, in the middle of a small intersection
 - https://www.strava.com/activities/6759764602
+
 
 ### Medium
 
+- a "square" of at least a few feet, or maybe a casual larger circle
+
 ### High
 
-## Related resources
+- something intense, multiple lanes for vehicle traffic. 
+
+Anything with two+ lanes counts as intense, IMO
+
+## Acoustic benefits
+
+Traffic circles, embedded in healthy networks, don't require too much breaking or accellerating, and they do it in a "gentle" way. Much less vehicle noise, because stop lights and stop signs invite a LOT of aggressive acceleration.
+
+Anyone that lives within a few hundred yards of that intersection is affected by it. Anyone who lives near ANY intersection like this, it invites constant noise, and when the noise isn't constant, it's punctuated by a distinctive sound of vehicle accelleration. Again, personally, might not be you in your vehicle, but someone with a loud car is accellerating hard out of that intersection, it's everpresent. 
+
+The volume and interruption far exceeds any noise coming from people. (Sound system, crowds) and I wish I could petition for "noise treatment" around roads that caused excessive DB readings alongside the road. 
+
+
+## Tactical Urbanism Adjacent Concepts/news
+
+- [https://mobile.twitter.com/sbrix/status/1185209075170267136](https://mobile.twitter.com/sbrix/status/1185209075170267136)
+- [https://www.saferoutespartnership.org/blog/neighbors-south-tucson-transform-their-school-crossing-tactical-urbanism-traffic-circle](https://www.saferoutespartnership.org/blog/neighbors-south-tucson-transform-their-school-crossing-tactical-urbanism-traffic-circle)
+- [https://issuu.com/streetplanscollaborative/docs/tu-guide_to_materials_and_design_v1/112](https://issuu.com/streetplanscollaborative/docs/tu-guide_to_materials_and_design_v1/112)
+
+
+## invisible-women-inspired data collection
+
+- [strava municipal data gathering/sharing (find non-motorized network users)]()
+- [in-citu]()
+- []()
+
+
+
+## more related resources
 
 - [Ask Marianne: Boulders and tire-tolerant plants for the traffic circle](https://www.seattlepi.com/lifestyle/homegarden/article/Ask-Marianne-Boulders-and-tire-tolerant-plants-1067567.php)
-- 
+- [The City as an Eco System Or, Nature Loves Edges](https://wrathofgnon.substack.com/p/the-city-as-an-eco-system?utm_source=url&s=r)
+- [the high cost of free parking]()
+
 
 ## In summary
 
@@ -73,4 +107,8 @@ Everything is tradeoffs, and when things work well, a thoughtful, well-crafted t
 When embedded in a healthy mobility network, a well-designed traffic circle casually allows safe travel in all directions, from all directions, for all participants, in a way that is high-throughput and low-wait-time for all users, in all conditions, at all times of day. 
 
 Safely. 
+
+I believe some of the benefits of traffic circles are illegible, but enough are legible and i'll bet money that we'll have a failure to disagree in any way, shape, or form, on traffic circles. 
+
+Email me if you'd like to put that to the test in a public or private way. 
 
