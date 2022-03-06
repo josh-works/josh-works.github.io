@@ -10,6 +10,7 @@ published: true
 description: "It's useful to know when to write about something. I feel like I often self-censure in an attempt to make something better than it should be, and in doing so, fall off the back of this curve."
 permalink: about-roundabouts
 image: /images/2020-07-21-write-it-now.jpg
+issue_id: 52
 
 ---
 
@@ -57,6 +58,7 @@ There's also a lot about traffic circles that isn't really "the job" of the traf
 
 - tire on the ground, or a rock, or a tree, in the middle of a small intersection
 - https://www.strava.com/activities/6759764602
+- 
 
 
 ### Medium
@@ -65,9 +67,11 @@ There's also a lot about traffic circles that isn't really "the job" of the traf
 
 ### High
 
-- something intense, multiple lanes for vehicle traffic. 
+- something intense, multiple lanes for vehicle traffic. The throughput-per-minute probably isn't very good, the rest of the network is strained, it's a bandaid. 
 
-Anything with two+ lanes counts as intense, IMO
+Anything with two+ lanes counts as intense, IMO. I don't really like "intense" traffic circles that much, or, at least, you and I probably agree about things that are not great about them: 
+
+![too big](/img_22/roundabout.jpg)
 
 ## Acoustic benefits
 
