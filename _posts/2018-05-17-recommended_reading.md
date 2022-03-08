@@ -1,4 +1,4 @@
-maintenance---
+---
 layout: post
 title:  "Recommended Reading"
 date:  2018-05-17 06:00:00 -0700
@@ -8,29 +8,55 @@ tags: [books, reading]
 permalink: recommended-reading
 ---
 
-## Introduction
 
-I like to read, and I often recommend books to others. I used to have a very different list of recommended books, but they come and go with time. 
+I like to read, and I often recommend books to others. I used to have a very different list of recommended books, but they come and go with time.[^books-change]
+
+[^books-change]: I've read a few thousand books over my ~33 years on this planet. Here's the ones that have shaped me. I created this page in 2018, and the books on that list have gone mostly out of date. [Here's the git history for how this page has changed across time](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2018-05-17-recommended_reading.md).
 
 These are a collection of books that come up in conversation more often than others.
 
-I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book.
-<!--more-->
-
+I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book. I don't do affiliate links.
 
 
 ## Politics
 
-I'm a fan of the idea of shrinking the political sphere. Politics is where everyone has a rightful sense of ownership of the issue (we all pay taxes, after all) and where the outcomes can be influenced _literally by who yells the loudest_. 
+I'm a fan of the idea of shrinking the political sphere. Politics is where everyone has a rightful sense of ownership of the issue (we all pay taxes, after all) and where the outcomes can be determined _by certain people being willing to yell_. 
 
-It's embarrassing to organize ourselves entirely around coercion, but for now, that's what it is. I look forward to when our dominant political institutions go the way of the church at the end of the medieval ages.
+It's embarrassing to organize ourselves entirely with/around coercion, but for now, that's what it is. I look forward to when our dominant political institutions go the way of the medieval church.
 
 A theme through the next few book recommendations is [unintended consequences](https://www.fs.blog/2018/02/unintended-consequences/) and [second order effects](https://www.fs.blog/2016/04/second-level-thinking/).
 
+### The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey
 
-### [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.goodreads.com/book/show/20186.Seeing_Like_a_State)
+[Goodreads](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
+
+This book (its technically a textbook written by a professor from Colorado University - Boulder) argues that "political" authority cannot be arrived at from first principles, and building institutions upon a foundation of one group legally exercising coercion against another might be legal (in the same way that slavery used to be "legal") but it's not moral.
+
+_The Problem of Political Authority_ is the best book I read since at least 2016.
+
+### The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia
+
+[Goodreads](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
+
+If you've hung out with me, and heard me was poetic about any modern phenomena visible in "the church" today, you may hear me talk about "slaveholder religion". This book is exactly as advertised. It'll be troubling to some of you, unsurprising to others. As long as churches cling unselfconsciously to slaveholder religion, they will continue to perpetuate cycles of injustice and oppression in the lives of their members, and the communities inside of which their members operate. 
+
+When some religious authority in the US makes a pronouncement of how laws should be written, in order to sustain a moral community, I will always think of this book. There was a time when many christian thinkers expended great energy to justify the existence of slavery. So, when {topic of the day} mixed with {"political" solution to said problem} involves steamrolling over some marginalized group... I'll just think back to the sections in this book outlining the theological justifications religious leaders used for slavery.
+
+From an [Amazon review](https://www.amazon.com/gp/customer-reviews/R25XTA19VPXJA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0807858773):
+
+> So here's a book whose very title might alienate... most people. If you are not a Christian, why take the time... If you are...you don't want to hear about it. I am still bothered by the term "Proslavery Christianity." As a Christian and a Baptist and an American Southerner by background, it was difficult to not take some of the information presented in this book personally. I didn't want it to be true. How can real Christians be "Proslavery?" Our American upbringing allows us to view Slavery as something separate and distinct from Religion. And our oversimplified understanding of history allows us to blame the sins of the past on long dead bad people not at all like us.
+>
+> But what if the "bad" people were like us? What if they even thought they were right? What if they were... Christians.
+>
+> Well, I don't want to spoil the story, but it happened. People, Christians included, can mix right and wrong together for so long that we end up simultaneously doing both and call them both a just cause. And we still do this. We go along with others definition of evil and good in the world. And we still allow economic, political and cultural power holders to narrow our faith to non status quo threatening endeavors.
+
+
+### Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed
+
+[Goodreads]](https://www.goodreads.com/book/show/20186.Seeing_Like_a_State)
 
 The craft of statehood is hard, and the state has been remarkably consistent at sustaining itself, despite myriad harms heaped upon its citizens.
+<!--more-->
 
 I'm quoting at length from [Slate Star Codex's excellent review of the book](http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/):
 
@@ -40,6 +66,52 @@ I'm quoting at length from [Slate Star Codex's excellent review of the book](htt
 >
 > And this pattern repeats with suspicious regularity across history, not just in biological systems but also in social ones.
 
+This book is exceptional.
+
+### The Non-Violent Atonement
+
+[Goodreads](https://www.goodreads.com/en/book/show/9945)
+
+I could speak at length about this, just know the title, read the reviews. IYKYK. 
+
+> Many Christians have begun to question the tradition view of substitutionary atonement that is a the heart of traditional doctrine. Its message of an angry God whose wrath has to be satisfied by a sacrifice of blood, is becoming increasingly difficult to accept. But to question it smacks, almost, of heresy.
+> 
+> Weaver explains that in fact this is a relatively recent concept, probably dating from Anselm in about 1000 CE.
+> 
+> He explains that it was an idea unknown to those in New Testament times and is in effect a modern idea.
+> 
+> He opening premise is that it is unacceptable to build a faith centred on the frightening levels of violence that accompany the traditional view.
+> 
+> He looks at other ideas - is the death of Jesus just to be seen as a lesson for us in sacrificial love. He also takes us back to the meaning of Christus Victor - the defeating of the powers of evil. So the atonement is seen less as a business transaction involving a payment for the sins of the world, but a sacrificial act which liberated humanity.
+
+### Against the Grain: A Deep History of the Earliest States
+
+[Goodreads](https://www.goodreads.com/book/show/34324534-against-the-grain?from_search=true&from_srp=true&qid=Q8h37t624W&rank=1)
+
+Read it. He talks about state formation and dissolution, in the time of early Mesopotamian societies. Given how states then flourished and reproduced endlessly, it's useful to learn how to see the world through the eyes of a state. 
+
+He argues that just as people domesticated animals, so too did states domesticate people.
+
+He argues (compellingly) it isn't _that great_ to be domesticated, nor is it _that bad_ when states dissolve. 
+
+### The Slaughter of Cities: Urban Renewal as Ethnic Cleansing
+
+[FidelityPress (this book wasn't available on Amazon!!!)]](https://www.fidelitypress.org/slaughter-of-cities)
+
+Lets look at the key phrases. From wikipedia:
+
+[Ethnic Cleansing](https://en.wikipedia.org/wiki/Ethnic_cleansing):
+
+> Ethnic cleansing is the systematic forced removal of ethnic, racial, and religious groups from a given area, with the intent of making a region ethnically homogeneous.
+
+[Urban Renewal](https://en.wikipedia.org/wiki/Urban_renewal):
+
+> Urban renewal is a program of land redevelopment often used to address urban decay in cities. Urban renewal is the clearing out of blighted areas in inner cities to clear out slums and create opportunities for higher class housing, businesses, and more. A primary purpose of urban renewal is to restore economic viability to a given area by attracting external private and public investment and by encouraging business start-ups and survival.
+
+Ok, ok, so what does it actually look like?
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CZuUXoMujRj/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CZuUXoMujRj/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CZuUXoMujRj/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Segregation by Design (@segregation_by_design)</a></p></div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
 
 ### [Evicted: Poverty and Profit in the American City](https://www.goodreads.com/book/show/25852784-evicted)
 
@@ -55,7 +127,9 @@ From [GoodReads](https://www.goodreads.com/review/show/1596100376):
 
 The whole review is worth reading.
 
-### [The Color of Law: A Forgotten History of How Our Government Segregated America](https://www.goodreads.com/book/show/32191706-the-color-of-law)
+### The Color of Law: A Forgotten History of How Our Government Segregated America
+
+[Goodreads]](https://www.goodreads.com/book/show/32191706-the-color-of-law)
 
 The modern US implementation of zoning is a by-product of the Supreme Court making [redlining](https://en.wikipedia.org/wiki/Redlining) illegal. Since explicit racism was no longer legal, politically powerful racists implemented laws that were not _explicitly_ racist, but everyone understood it to be laws to keep black (and and poor) people out of their neighborhoods, accomplishing the same goals.
 
@@ -88,7 +162,9 @@ From [GoodReads](https://www.goodreads.com/review/show/1994904156?book_show_acti
 >
 > The cumulative effects of discrimination over the first half of the 20th century are damning, and they have not at all been rectified.
 
-### [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)
+### Money, Bank Credit, and Economic Cycles
+
+[Goodreads](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)
 
 This book is a dense read, and over 1000 pages. You could read the first 10% of the book, and be more educated than 99% of pundits blabbering away on TV.
 
@@ -113,7 +189,9 @@ What _is_ relevant is the buildings and environment in which we all live. We (hu
 
 It stands to reason that an environment more conducive to use, at a lower price point, that encourages human flourishing is superior to one that is less conducive to use, costs more, and squelches human flourishing.
 
-### [How Buildings Learn](https://www.goodreads.com/book/show/38310.How_Buildings_Learn)
+### How Buildings Learn
+
+[Goodreads](https://www.goodreads.com/book/show/38310.How_Buildings_Learn)
 
 This book has beautiful and fascinating photography throughout, often capturing buildings that have lasted for hundreds of years. Buildings, if allowed, change dramatically over time.
 
@@ -125,7 +203,9 @@ I'm quoting a [GoodReads reviewer](https://www.goodreads.com/review/show/4481346
 >
 > Also be sure to check out his very original comments on "low-road" buildings, those whose designs are so throwaway that successive inhabitants can and do feel utterly free to knock down walls, cut through floors, and otherwise jerry-rig them to adapt to current needs. It's a brilliant exploration of an often neglected but probably ubiquitous subset of buildings.
 
-### [The Death and Life of Great American Cities](https://www.goodreads.com/book/show/30833.The_Death_and_Life_of_Great_American_Cities)
+### The Death and Life of Great American Cities
+
+[Goodreads](https://www.goodreads.com/book/show/30833.The_Death_and_Life_of_Great_American_Cities)
 
 Jane Jacobs _loves_ cities. She loves the unplanned, chaotic, messy way that cities evolve. She might well make you love the same thing.
 
@@ -144,25 +224,38 @@ Quoting from [this excellent review on GoodReads](https://www.goodreads.com/revi
 
 This book discusses the tension between "chaos" and "order" in a way that pairs very well with _Seeing like a State_. It pairs well with _Antifragile_, as well, as Jacobs talks about small bets, organic growth, and the dangers of "cataclysmic money" and top-down growth and planning.
 
-## Jesus Christ
+### A Pattern Language: Towns, Buildings, Construction
 
-He was an important figure. Most of what people today associate with "the church" is this thing called Christendom, which is a shorthand phrase for "the abominable alliance between political and religious authority". The state church of {pick a time and place} _always_ supports the political aspirations of the elite. 
+[link](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199)
 
-Jesus was executed for being a political criminal who represented an earnest threat to the powers of the day. 
+Buildings and their properties solve problems for people, and the buildings can and should be as customized as the problems they solve. This book is a good start to learning conceptual framework for physical-space problem solving, while leading to an overall "harmonious" and "right" and "beautiful" and "coherent" finished product, however you define those terms.
 
-For example, remember that 'feeding the 5000' thing? At the time, whoever it was that could command a group that size would have been able to take political control and run the place. The authorities were scared of Jesus and his popularity. He was quick to encourage people to give away their money, and said uncomfortable things like:
-
-> the most important people you'll ever meet are simultaneously the most vulnerable and least-assuming people you'll meet.
 
 ## Parenting
 
-I'm not a parent. I'm sure once I have kids I'll have a different set of books to recommend.
+<strike>I'm not a parent. I'm sure once I have kids I'll have a different set of books to recommend.</strike>
 
-### [Selfish Reasons to Have More Kids: Why Being a Great Parent is Less Work and More Fun Than You Think](https://www.goodreads.com/book/show/10266902-selfish-reasons-to-have-more-kids)
+I am now a parent. I still recommend these books, and some extras.
+
+### Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive
+
+[on amazon]](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary/dp/039916510X)
+
+The point of having a kid is (more or less) to raise independent adults who are friends with you. Actuarial tables agree that if you're reading these words, you might well live into your 80s. 
+
+We (millenials and beyond) are having kids later and later, unfortunately. The economy and housing and life situation is hard, so we defer kids until feeling a smidgen of stability in our lives, which is fleeting. 
+
+Anyway this book is good. You'll heal from some of your own stuff, learn some new/improved patterns, and be better equipped to care well for your own kid(s). 
+
+### Selfish Reasons to Have More Kids: Why Being a Great Parent is Less Work and More Fun Than You Think
+
+[Goodreads](https://www.goodreads.com/book/show/10266902-selfish-reasons-to-have-more-kids)
 
 This book gets the notable distinction of being why Kristi and I want to have kids in the near term. It had a profound and measurable impact on our plans and thinking. Enough said.
 
-### [The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It](https://www.goodreads.com/book/show/9861067-the-art-of-roughhousing)
+### The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It
+
+[Goodreads](https://www.goodreads.com/book/show/9861067-the-art-of-roughhousing)
 
 Physical play is deeply satisfying. I rough-housed with friends all the time when growing up. This book does make a case for the myriad benefits children, their friends, and parents can experience with roughhousing, but it's mostly a manual for _how_ to roughhouse.
 
@@ -172,32 +265,15 @@ It's got a few dozen suggested (and illustrated) games that are appropriate for 
 
 A surprisingly practical and immediately relevant read for anyone who has kids. I plan on re-reading it once I have a child of my own.
 
-### [How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success](https://www.goodreads.com/book/show/23168823-how-to-raise-an-adult)
+### How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success
 
-## Relationships and Emotions
+[Goodreads](https://www.goodreads.com/book/show/23168823-how-to-raise-an-adult)
 
-Most of the books in this section are written by Christians, and adopt a christian perspective of relationships, which is:
+Self-explanatory. Worth reading.
 
-> All people are broken and selfish, and it's mostly fruitless to try to repair relationships with others and ourselves entirely independent of our relationship with God.
+### Difficult Conversations: How to Discuss What Matters Most
 
-(I don't make much effort to detangle my relationships from my theology, so you might want to [read that section](#theology) before proceeding.)
-
-
-### [What Did You Expect?: Redeeming the Realities of Marriage](https://www.goodreads.com/book/show/7350849-what-did-you-expect)
-
-This is a book written to Christians. If you're a Christian, and married, I strongly recommend this.
-
-If you're not a Christian, go read [The Reason for God](#the-reason-for-god-belief-in-an-age-of-skepticism) (recommended above), and then read this book.
-
-Marriage is hard. Two broken sinners married each other, and live in a fallen world. Any illusions of perfection and endless honeymoon period will quickly be crushed under the reality of our own sinfulness.
-
-If that seems discouraging, you've not yet seen how the gospel redeems _all_ of this. Read the book.
-
-### [When Sinners Say "I Do": Discovering the Power of the Gospel for Marriage](https://www.goodreads.com/book/show/1451719.When_Sinners_Say_I_Do_)
-
-This is a short, digestible, practical book. Again, written for Christians.
-
-### [Difficult Conversations: How to Discuss What Matters Most](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+[Goodreads](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 
 Not a christian book, but _extremely_ relevant. The "value" of productive-but-difficult conversations is 100x almost any other kind of conversation.
 
@@ -205,39 +281,21 @@ Difficult conversations are how you define relationships, work through challenge
 
 The simple act of _reading a book about difficult conversations_ changes the tone of the next hard conversation you have. Instead of wanting to run from it or avoid it, you will see it as an opportunity to apply your learning, and work for a good outcome for all parties.
 
-### [Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead](https://www.goodreads.com/book/show/13588356-daring-greatly)
+### [Complex PTSD: From Surviving to Thriving: A Guide and Map for Recovering from Childhood Trauma](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842)
 
-This book is about vulnerability. Some people eschew being vulnerable. Some people try to be way too vulnerable and overshare everything with everyone.
+Those of you out there raised in religious homes might benefit from this. Not all of you, but enough of you.
 
-Neither of those are good, but vulnerability is critical. The best way to build closeness in a relationship is (essentially) reciprocal self-disclosure.
-
-Finally, vulnerability is not being "soft", or "weak". It has great use in simple maintenance and progression of relationships. Do you think specialized tools are appropriate to use in specialized situations? (Impact drivers in construction, version control in software, GriGris in rock climbing?)
-
-Vulnerability is simply a specialized tool for specialized situations.
-
-### [Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (And World Peace)](https://www.goodreads.com/book/show/12921211-search-inside-yourself)
-
-Kristi and I have both become huge fans of meditation since reading this book. I seem to remember meditation getting a bad rap when I was a kid, but since then have swung around to seeing it simply as exercise for the brain.
-
-If I can train my muscles for rock climbing, why shouldn't I train my mind for focus or self-observation?
-
-The general theme of this book is improving ones "Emotional Intelligence", which happens to be a huge predictor of generalized success in working with, or being in relationships with, other people.
-
-Since most of us interact with other people, doing some work to improve those interactions is appropriate.
-
-A big part of that work is being able to observe how _you_ are responding to certain situations.
-
-Simple example: There is a world of difference between _being_ angry, and _feeling_ anger. The latter is superior to the former. When you _are_ something, you're controlled by it. When you _feel_ something, you can choose how to respond to it.
-
-This book has served Kristi and I both quite well.
+There's so much I could say about this book, I don't have time to say it here. Surprisingly good, surprisingly accessible, surprisingly effective.
 
 ## Money
 
-Money is... complicated. It's easy to have too little, to have too much, or to not manage wisely the money you do have. It's an emotionally charged topic, and there's not a lot of good examples out there of people having a good relationship with it.
+Money is... complicated. It's easy to have too little, to have too much, or to not manage wisely the money you do have. It's an emotionally charged topic, and there's not a lot of good examples out there of people having a good relationship with it. Plenty of examples of people with a deeply unhealthy relationship with money.
 
-These two books were formative for my understanding of money (and the acquisition and spending of it).
+The right amount of money is "enough".
 
-### [Your Money or Your Life](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life)
+### Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence
+
+[Goodreads](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life)
 
 From a [GoodReads review](https://www.goodreads.com/review/show/775975?book_show_action=true&from_review_page=1):
 
@@ -251,44 +309,11 @@ From a [GoodReads review](https://www.goodreads.com/review/show/775975?book_show
 >
 > I guess, in that sense, this book delivers on its hokey promise to change your life.
 
-### [I Will Teach You to be Rich](https://www.goodreads.com/book/show/11221769-i-will-teach-you-to-be-rich)
-
-Ramit Sethi is a polarizing, opinionated person. That said, I've gotten _jobs and raises_ almost exclusively because of the things he's written.
-
-This book is ten years old. Some if it is outdated. Some of it his not. This book pairs well with _Your Money or Your Life_ because Ramit is leans much harder towards
-
-> if you want to spend your money on something, or anything, great! Do it! Just make sure you've got a system in place where you're moving in the direction of better and better financial outcomes.
-
-From a [GoodReads review](https://www.goodreads.com/review/show/62830471?book_show_action=true&from_review_page=1):
-
-> Sethi gives advice on “automatically enabling yourself to save, invest, and spend - enjoying it, not feeling guilty...because you’re spending only what you have.”
->
-> His main point: automate your finances so you effortlessly save and invest, leaving you money to spend on things you love without feeling guilty. Automatic saving and investing helps overcome psychological barriers and laziness.
-
-You won't find a single recommendation to track every penny you spend, or to build a budget. Most people can't be bothered to set one up, but instead of feel guilt about this, just build a "conscious spending plan".
-
-## Uncomfortable books
-
-I include this section for books that hold uncomfortable ideas for broad sections of the population. If you find yourself in total agreement with the arguments in one of these books, great! Pick another book off of this list. It'll make you uncomfortable.
-
-### [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
-
-This book (its technically a textbook written by a professor from Colorado University - Boulder) argues that "political" authority cannot be arrived at from first principles, and building institutions upon a foundation of one group legally exercising coercion against another might be legal (in the same way that slavery used to be "legal") but it's not moral.
-
-_The Problem of Political Authority_ is the best book I read since at least 2016.
 
 
-### [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
 
-When some religious authority in the US makes a pronouncement of how laws should be written, in order to sustain a moral community, I will always think of this book. There was a time when many christian thinkers expended great energy to justify the existence of slavery. So, when {topic of the day} mixed with {"political" solution to said problem} involves steamrolling over some marginalized group... I'll just think back to the sections in this book outlining the theological justifications religious leaders used for slavery.
 
-From an [Amazon review](https://www.amazon.com/gp/customer-reviews/R25XTA19VPXJA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0807858773):
 
-> So here's a book whose very title might alienate . . . most people. If you are not a Christian, why take the time . . . If you are . . . you don't want to hear about it. I am still bothered by the term "Proslavery Christianity." As a Christian and a Baptist and an American Southerner by background, it was difficult to not take some of the information presented in this book personally. I didn't want it to be true. How can real Christians be "Proslavery?" Our American upbringing allows us to view Slavery as something separate and distinct from Religion. And our oversimplified understanding of history allows us to blame the sins of the past on long dead bad people not at all like us.
->
-> But what if the "bad" people were like us? What if they even thought they were right? What if they were . . . Christians.
->
-> Well, I don't want to spoil the story, but . . . it happened. People, Christians included, can mix right and wrong together for so long that we end up simultaneously doing both and call them both a just cause. And we still do this. We go along with others definition of evil and good in the world. And we still allow economic, political and cultural power holders to narrow our faith to non status quo threatening endeavors.
 
 ### [The Privatization of Roads and Highways](https://www.goodreads.com/book/show/12720771-the-privatization-of-roads-and-highways)
 
@@ -300,30 +325,6 @@ _spoiler: for most of the time that humans have been building roads, they've bee
 
 Regrettably, the book is poorly written, _and_ it's just a collection of essays by the author, so the book covers much of the same territory multiple times. I have not found better treatment of this topic, so until then - this is the book I recommend.
 
-### [Negroes and the Gun: The Black Tradition of Arms](https://www.goodreads.com/book/show/17834926-negroes-and-the-gun)
-
-I'm skeptical of regimes where the government is charged with protecting some minority group. My reason for this is three-fold:
-
-- Governments are an expression of the people in them, who are a sub-section of the population as a whole. _The government tends to have the opinions of the majority of the people_
-- If "the people" are racist, the government will be racist, _and will use its power to further racist goals_.
-- If some of the people are not racist, and try to change the government's policies to be less racist, _they will not be successful until enough of the population is no longer racist that the government will, by default, be less racist._
-- The government's "progressive" policies tend to lag the policies of the general population.
-
-This book outlines, among other things, how a strong federal, state, and local government used its power to inflict incredible harm on black people. Much of this harm was inflicted after the "legal" elimination of formal slavery and the Jim Crowe laws.
-
-It's rare that I cry when I read a book. This was one of maybe three books that has done that to me.
-
-From a [GoodReads review](https://www.goodreads.com/review/show/1297687689?book_show_action=true&from_review_page=1):
-
-> A great written history of african americans from slavery through the 1970s whose only form of a self defense was a firearm.
->
-> This is a painful account of state and local law enforcement duplicity in the terrorizing and lynching of (mostly) southern blacks.
->
-> The book does a great job identifying people history has overlooked who made significant contributions to protecting their communities and eventually protecting those who were marching for equality and civil rights.
->
-> The book did not propose that everyone who took up arms had a satisfying outcome. In some cases, self-defense led to larger, angrier mobs of Klan and their supporters. Gun control and self defense is a difficult topic.
->
-> The author did a great job of presenting both sides of the argument and why the choice of firearms should be an individual choice and not a government mandate.
 
 
 ### [A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster](https://www.goodreads.com/book/show/19271055-a-paradise-built-in-hell)
