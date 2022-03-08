@@ -1,4 +1,4 @@
----
+maintenance---
 layout: post
 title:  "Recommended Reading"
 date:  2018-05-17 06:00:00 -0700
@@ -10,69 +10,20 @@ permalink: recommended-reading
 
 ## Introduction
 
-I like to read, and I often recommend books to others.
+I like to read, and I often recommend books to others. I used to have a very different list of recommended books, but they come and go with time. 
 
 These are a collection of books that come up in conversation more often than others.
 
 I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book.
 <!--more-->
 
-## Thinking Well
-
-As humans, we do a lot of thinking <sup>[citation needed]</sup>. And, when we're not thinking, we're living off of habit, and should think a bit about our habits. We underestimate large risks (driving) and over-estimate small risks (terrorism, kidnapping).
-
-### [Antifragile: Things That Gain From Disorder](https://www.goodreads.com/book/show/17340611-antifragile)
-
-Most biological systems benefit from stress in the environment. (Muscles. Exercise them, they get stronger). Many man-built institutions generally hate risk and do all they can to avoid exposure to risk. They are successful, for a time, until they catastrophically fail. You can build your life on the principles of a biological system, or on the principles of a rigid institution.
-
-_Antifragile_ is an annoying book. The author is a pompous, arrogant man. Unfortunately, he's also **correct**.
-
-This book, coupled with [Seeing like a State](#seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed) and [Money, Bank Credit, and Economic Cycles](#money-bank-credit-and-economic-cycles) has completely destroyed any confidence I've had in the professional thinking class. (Academics, politicians, and others with no "skin in the game"). If you would like to maintain your confidence in these people and institutions, please don't read these books.
-
-### [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472.The_Black_Swan)
-
-This book is written by the same author of _Antifragile_, and he talks about life in "mediocrastan" vs "extremistan", and all the implications of misjudging which world you live in. This book and _Antifragile_ have absolutely shaped many ways in which I live my life.
-
-Taleb is annoying. So many reviews spend the entire review discussing how annoying he is. That's irrelevant to me - if I can glean substantive value from the ideas, I can put up with an annoying person.
-
-From [GoodReads](https://www.goodreads.com/review/show/27674740?book_show_action=true&from_review_page=1):
-
-> _The Black Swan_ deals with the fascinating topic of the nature uncertainty and approaches it from a variety of intellectual angles, mainly the psychological blocks that we are both born with and have created for ourselves that prevent our understanding of the improbable:
->
-> - the narrative fallacy and the problem of induction (the tenuous relationship of cause and effect)
-> - our reliance on flawed mathematical models
-> - the expert problem.
->
-> Each one of these discussions reinforces his main argument but captivate independently as they are insights to the way we process information.
-
-### [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
-
-The "Right brain vs left brain" model is wrong. If you want to learn a technical topic, you can. Just like how if you wanted to cut a piece of wood, you can. If you have the right tool. A butter knife will not cut a piece of wood very well, but a buzz saw might.
-
-_A Mind for Numbers_ gives you that buzz saw. With the right tactics and motives, anyone can read anything. I read this before jumping into software development full-time, and this book delivered great value in that endeavor.
-
-From [GoodReads](https://www.goodreads.com/review/show/1080072109?book_show_action=true&from_review_page=1):
-
-> The title of the book doesn't do it justice. This is a book about how to get good at anything, not just math and science. It's a light read because it's full of simple advice. But the stuff it teaches is effective, and I wish it had been taught to me back in 1997 when I was starting graduate school.
->
-> If you find yourself checking your phone or screwing around on Facebook while you should be working, read this book. If you're having trouble learning stuff you need for work at a higher rate than you're forgetting it, read this book. Do so especially if you're young, because the longer the time you have left to reap the benefits, the more reading this book is worth to you.
-
-### [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
-
-_Deep Work_ is profound. It was [the best book I read in 2016]({{ site.baseurl }}{% link _posts/2016-10-24-i-quit.md %}), and is no small part of the reason I went to Turing and got into software development.
-
-From the author:
-
-> Deep work is the ability to focus without distraction on a cognitively demanding task. It’s a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep—spending their days instead in a frantic blur of e-mail and social media, not even realizing there’s a better way.
-
-
-Pursuing the skill of "deep work" will have a compounding effect on the rest of your life. A little investment now makes the rest of your efforts just a little more effective, and leaves you with more room to get better at deep work, which in turn makes your efforts more effective, and on and on.
-
 
 
 ## Politics
 
-I'm a fan of the idea of shrinking the political sphere. Politics is where everyone has a rightful sense of ownership of the issue (we all pay taxes, after all) and where the outcomes can be influenced _literally by who yells the loudest_. It's embarrassing that the way we organize ourselves relies entirely upon coercion, but for now, that's what it is. I look forward to when our dominant political institutions go the way of the church at the end of the medieval ages.
+I'm a fan of the idea of shrinking the political sphere. Politics is where everyone has a rightful sense of ownership of the issue (we all pay taxes, after all) and where the outcomes can be influenced _literally by who yells the loudest_. 
+
+It's embarrassing to organize ourselves entirely around coercion, but for now, that's what it is. I look forward to when our dominant political institutions go the way of the church at the end of the medieval ages.
 
 A theme through the next few book recommendations is [unintended consequences](https://www.fs.blog/2018/02/unintended-consequences/) and [second order effects](https://www.fs.blog/2016/04/second-level-thinking/).
 
@@ -104,13 +55,24 @@ From [GoodReads](https://www.goodreads.com/review/show/1596100376):
 
 The whole review is worth reading.
 
-### [The Color of Law](https://www.goodreads.com/book/show/32191706-the-color-of-law)
+### [The Color of Law: A Forgotten History of How Our Government Segregated America](https://www.goodreads.com/book/show/32191706-the-color-of-law)
 
-The modern US implementation of zoning is a by-product of the Supreme Court making [redlining](https://en.wikipedia.org/wiki/Redlining) illegal. Since explicit racism was no longer legal, racist people implemented laws that were not explicitly racist, but everyone understood it to be laws to keep black (and and poor) people out of their neighborhoods.
+The modern US implementation of zoning is a by-product of the Supreme Court making [redlining](https://en.wikipedia.org/wiki/Redlining) illegal. Since explicit racism was no longer legal, politically powerful racists implemented laws that were not _explicitly_ racist, but everyone understood it to be laws to keep black (and and poor) people out of their neighborhoods, accomplishing the same goals.
 
-I'll state that again - your neighborhoods HOA, your single-family-home neighborhood, your mortgage interest tax-deduction - all this was put in place by racists, to further their vision of a segregated society.
+I'll state that again - your neighborhoods' HOA, your single-family-home neighborhood, your mortgage interest tax-deduction - all this was put in place by racists, to further their vision of a segregated society.
+
+All of this was put in place long ago. The people living in these neighborhoods mostly ended up there by accident. 
 
 Of course, these policies are harmful to minorities and poor people, _but they are also harmful to everyone else, including those who ostensibly benefit from the policies_. The US is collectively shooting itself in the foot, every day, by allowing these policies to stand.
+
+What are the effects of this horrible regime?
+
+- Land value is 1/10th of what it could be
+- housing and commercial rental space is 5x what it should be
+- we all lose so much of our time to dealing with broken, congested mobility networks
+- we have to travel so much farther than we otherwise would for daily necessities
+- a large (and growing) fraction of our income goes to dealing with cars (one car, two car, gas, maintenance, traffic traffic traffic)
+- our social justice problems are almost exclusively a downstream effect of these racist, exclusionary policies.
 
 From [GoodReads](https://www.goodreads.com/review/show/1994904156?book_show_action=true&from_review_page=1):
 
@@ -126,11 +88,9 @@ From [GoodReads](https://www.goodreads.com/review/show/1994904156?book_show_acti
 >
 > The cumulative effects of discrimination over the first half of the 20th century are damning, and they have not at all been rectified.
 
-_The Color of Law_ pairs well with [Negroes and the Gun](#negroes-and-the-gun-the-black-tradition-of-arms).
-
 ### [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)
 
-This book is a dense read, and longer than 1000 pages. You could read the first 10% of the book, and be more educated than 99% of pundits blabbering away on TV.
+This book is a dense read, and over 1000 pages. You could read the first 10% of the book, and be more educated than 99% of pundits blabbering away on TV.
 
 The author lays out a few bold claims, and backs them up:
 
@@ -144,17 +104,6 @@ It's so good I've read it twice; I wish I could recommend a smaller book that ga
 
 If the topic piques your attention, but you're not down for 1000 dense pages, [this review on GoodReads](https://www.goodreads.com/review/show/2028288882?book_show_action=true&from_review_page=1) is a comprehensive summary of the book.
 
-### [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
-
-You know all those people who don't agree with you?
-
-They're not evil people who hate babies and puppies and want everyone to live in squalor. They most likely want almost the exact same things you do. (Safety, security, to live in peace with their family in a community of people who doesn't hate them, etc.)
-
-_The Righteous Mind_ will (hopefully) give you a little compassion for those standing on the other side of a given topic. It pairs well with [Getting to Yes: Negotiating an Agreement Without Giving In](https://www.goodreads.com/book/show/313605.Getting_to_Yes).
-
-If you find yourself resisting reading such a book, knowing that it might de-stigmatize "the other", I humbly propose that _you_ have the problem.
-
-I first read this book in 2013 or so, and re-read it in 2017, and found it to be less compelling the second time through, but still, on the whole, of value.
 
 ## Buildings and Urbanism
 
@@ -195,56 +144,15 @@ Quoting from [this excellent review on GoodReads](https://www.goodreads.com/revi
 
 This book discusses the tension between "chaos" and "order" in a way that pairs very well with _Seeing like a State_. It pairs well with _Antifragile_, as well, as Jacobs talks about small bets, organic growth, and the dangers of "cataclysmic money" and top-down growth and planning.
 
-## Theology
+## Jesus Christ
 
-Every person is a functional theologian. "Theology" is defined as:
+He was an important figure. Most of what people today associate with "the church" is this thing called Christendom, which is a shorthand phrase for "the abominable alliance between political and religious authority". The state church of {pick a time and place} _always_ supports the political aspirations of the elite. 
 
-> the study of the nature of God and religious belief.
+Jesus was executed for being a political criminal who represented an earnest threat to the powers of the day. 
 
-Most of us don't intentionally engage in "studying theology" - this would be sidestepped by someone who says "I don't believe in god" or "maybe there is a God, maybe there isn't, but I don't think about it."
+For example, remember that 'feeding the 5000' thing? At the time, whoever it was that could command a group that size would have been able to take political control and run the place. The authorities were scared of Jesus and his popularity. He was quick to encourage people to give away their money, and said uncomfortable things like:
 
-The good news is this is an example of _applied theology_. We are all practical theologians, because we all have a stance on the existence of God. Maybe it's apathy, maybe it's the flying spaghetti monster.
-
-Everyone has opinions on "god". Indeed, to refuse to consider the existence of "god" is an applied theology.
-
-I am one of those weird folk that have a very specific theology. Were I to have to define my theology, I'd just throw my lot in with [the Westminster Shorter Catechism](http://matt2819.com/wsc/).
-
-If you've not encountered such a thing before, take a gander at [5 reasons you need the Westminster shorter catechism](https://www.thegospelcoalition.org/article/five-reasons-you-need-the-westminster-shorter-catechism/).
-
-Its easy to get into the weeds on the finer points of theology. I argue its mostly irrelevant unless it impacts how you live your life.
-
-A personal relationship with Jesus Christ is the most profound relationship you'll ever have.
-
-It can seem like a big ask, right, to say that GOD HIMSELF walked around the planet a long time ago, said stuff, did stuff, etc.
-
-It seems like a big ask because it's a really big deal if he did or not. To that end, I recommend the following book:
-
-### [The Reason for God: Belief in an Age of Skepticism](https://www.goodreads.com/book/show/1858013.The_Reason_for_God)
-
-This is my go-to book for someone who's curious to know more about my crazy beliefs about the world. The author was a pastor of a church in New York City, and does a great job unpacking the core pieces of Christianity, from a range of perspectives, in a way that would lead you to agree that it is internally consistent, and is respectful to the perspectives of skeptical people.
-
-By "internally consistent", I mean that if you are comfortable with a small number of starting assumptions, the implications of those assumptions are reasonable. One of those starting assumptions (indeed, the only important one) is:
-
-_A few thousand years ago, a man named Jesus was born, said some things, was killed by the religious leaders of the day, and then didn't stay dead._
-
-That assumption, right there, is _the foundation of the entire Christian religion._ If it happened, it's a really big deal. If it didn't happen, feel pity on us all, because we are wildly misguided and stupid.
-
-If that happened, the things he said have great weight. If they didn't happen, its the ravings of a lunatic and should be forgotten posthaste.
-
-I recommend the book. If you read it, shoot me an email. I'd love to hear about it.
-
-### [When I Don't Desire God: How to Fight for Joy](https://www.goodreads.com/book/show/45352.When_I_Don_t_Desire_God)
-
-This (and the next few books) are written by and to those who agree with the basic tenants of the Christian religion.
-
-This book was written as a follow-up to [Desiring God: Meditations of a Christian Hedonist](https://www.goodreads.com/book/show/213367.Desiring_God).
-
-I, and many others I've spoken about this with, often struggle to feel a sense of satisfaction, peace, and rest.
-
-If you happen to care about what the Bible says, you'll quickly recall that there is _no_ satisfaction or peace apart from God. That won't stop us all from trying to find it in something (programming! Rock climbing! Travel!) but we'll come up short.
-
-This book will point you in the right direction. It's served me well.
-
+> the most important people you'll ever meet are simultaneously the most vulnerable and least-assuming people you'll meet.
 
 ## Parenting
 
@@ -468,4 +376,28 @@ I cannot do justice to this book, so I'll quote extensively from  [Slate Star Co
 > > Thus far, this account of local measurement practices risks giving the impression that, although local conceptions of distance, area, volume, and so on were different from and more varied than the unitary abstract standards a state might favor, they were nevertheless aiming at objective accuracy. This impression would be false. […]
 
 [Just read the review](http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
+
+
+### [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
+
+The "Right brain vs left brain" model is wrong. If you want to learn a technical topic, you can. Just like how if you wanted to cut a piece of wood, you can. If you have the right tool. A butter knife will not cut a piece of wood very well, but a buzz saw might.
+
+_A Mind for Numbers_ gives you that buzz saw. With the right tactics and motives, anyone can read anything. I read this before jumping into software development full-time, and this book delivered great value in that endeavor.
+
+From [GoodReads](https://www.goodreads.com/review/show/1080072109?book_show_action=true&from_review_page=1):
+
+> The title of the book doesn't do it justice. This is a book about how to get good at anything, not just math and science. It's a light read because it's full of simple advice. But the stuff it teaches is effective, and I wish it had been taught to me back in 1997 when I was starting graduate school.
+>
+> If you find yourself checking your phone or screwing around on Facebook while you should be working, read this book. If you're having trouble learning stuff you need for work at a higher rate than you're forgetting it, read this book. Do so especially if you're young, because the longer the time you have left to reap the benefits, the more reading this book is worth to you.
+
+### [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
+
+_Deep Work_ is profound. It was [the best book I read in 2016]({{ site.baseurl }}{% link _posts/2016-10-24-i-quit.md %}), and is no small part of the reason I went to Turing and got into software development.
+
+From the author:
+
+> Deep work is the ability to focus without distraction on a cognitively demanding task. It’s a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep—spending their days instead in a frantic blur of e-mail and social media, not even realizing there’s a better way.
+
+
+Pursuing the skill of "deep work" will have a compounding effect on the rest of your life. A little investment now makes the rest of your efforts just a little more effective, and leaves you with more room to get better at deep work, which in turn makes your efforts more effective, and on and on.
 
