@@ -6,7 +6,7 @@ date:  2022-03-10 06:00:00 -0700
 categories: [urbanism]
 tags: [golden, urbanism, streetcars]
 permalink: street-cars-in-golden
-image: /images/title_image.jpg
+image: new-streetcar-line.jpg
 issue_id: 56
 ---
 
@@ -28,7 +28,7 @@ The steps. None of these are small steps, but are within the capacities of one o
 
 Coors takes the lead on getting rail line installed, all the way to what will be a train-building/street-car-testing facility on School of Mines campus, and an initial 'transfer equipment to a smaller device' facility will be built at the junction of the existing rail line and the new streetcar line:
 
-![first lines](/_posts/2022-03-10-rails-in-golden/new-streetcar-line.jpg)
+![first lines](new-streetcar-line.jpg)
 
 sub-tasks:
 
@@ -50,7 +50,7 @@ Now to start getting the street car network sorta "mixed into" school of mines s
 
 Here's some ideas of where some new lines might be added:
 
-![new lines](/_posts/2022-03-10-rails-in-golden/possible-new-lines.jpg)
+![new lines](possible-new-lines.jpg)
 
 ## Step 3
 
@@ -60,10 +60,12 @@ Maybe Mines will figure out how to make autonomous streetcars, similar to the au
 
 Here's a much smaller version of building some rail. Obviously these are just ideas, but hopefully you can start seeing how this could lead to a growing body of knowledge and understanding.
 
-![small lines](/_posts/2022-03-10-rails-in-golden/step-3.jpg)
+![small lines](step-3.jpg)
 
 
 # Questions
 
 - what is the correct increment/size of rail line one buys? I imagine it's a certain quantity of steel in a given [track gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway).
-- I imagine 
+- What is the equipment required to install straight pieces of narrow-guage railway, and curved pieces? 
+- to avoid having to pre-commit to where stations will be, can we make sure it's easy to get on and off the rail even from just next to it?
+- so much more

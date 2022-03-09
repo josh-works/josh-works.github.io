@@ -21,7 +21,6 @@ In some cases, I'm learning interesting things about them (or news about how the
 
 ## What I think should be done, from an "ecosystem" perspective
 
-
 Aim to replace stop signs and traffic lights with traffic circles. This reduces the rushing and hard acceleration stuff that's common with stop lights and the vehicle dynamics around them.
 
 Aim to deliver a "consistent experience" for drivers navigating around Golden. A more-or-less 20-mph drive, once you're in your car, to a near-by highway[^travel-time].
@@ -52,9 +51,16 @@ open nyt.html
 
 ## My own mapping projects
 
-I'm working on projects that will touch on many things. Mostly, these are so I can get kick the tires on some software-related challenge, but here's a link to an intersection that would be well served by a tiny traffic circle:
+### Rails, Leaflet, GIS stuff
 
-https://leaflet-gis-rails-practice.herokuapp.com/point_of_interests/4
+Mostly, these are so I can get kick the tires on some software-related challenge, but here's a link to an intersection that would be well served by a tiny traffic circle:
+
+[https://leaflet-gis-rails-practice.herokuapp.com/point_of_interests/4](https://leaflet-gis-rails-practice.herokuapp.com/point_of_interests/4)
+
+### OpenStreetMaps, Strava API, polylines
+
+- [base repository](https://github.com/josh-works/strava_run_polylines_osm/tree/main)
+- [live page on heroku](https://josh-strava-heatmap.herokuapp.com/)
 
 
 ## Examples of "good" and "bad" traffic circles
@@ -75,7 +81,7 @@ There's also a lot about traffic circles that isn't really "the job" of the traf
 
 ### low
 
-- tire on the ground, or a rock, or a tree, in the middle of a small intersection
+- as simple as a tire on the ground, or a rock, or a tree, in the middle of a small intersection
 - https://www.strava.com/activities/6759764602
 - 
 
@@ -113,13 +119,13 @@ What I'd rather you think about is what it is like using this intersection in th
 
 For example, each of these red lines indicates a turning direction someone has to do that is at _least_ occasionally dangerous, given sight-lines and traffic speeds. The green boxes represent where we could consider adding traffic circles:
 
-![dangerous](/_posts/2022-03-05-about-roundabouts/rough-intersections.jpg)
+![a picture of dangerous spots of this spot of road](rough-intersections.jpg)
 
 Some of these 'simpler' intersections could be _mostly_ 'fixed' with a small-to-medium temporary/home-made-but-beautiful traffic circle.
 
 Here's a system-wide example of what the "feel" of a system-wide rollout of traffic circles could be. Remember, aiming for really fast, consistent, smooth travel-times, for everyone. Never coming to a full stop, never feeling like they have to rush[^stop-signs-traffic-lights].
 
-![better](/_posts/2022-03-05-about-roundabouts/just-some-ideas.jpg)
+![better](just-some-ideas.jpg)
 
 [^stop-signs-traffic-lights]: This 'never fully stopping, never rushing' rule is lovely.
 
@@ -164,7 +170,7 @@ That's not a question, but I agree. I'm not sure exactly which one you're talkin
 
 Good question. I live in "north Golden", so here's the direction I'd like my 'hood' to go:
 
-![safer](/_posts/2022-03-05-about-roundabouts/eligible-intersections-for-roundabouts.jpg)
+![safer](eligible-intersections-for-roundabouts.jpg)
 
 I've lived here for a year, these roads are VERY DANGEROUS for lots of the people who use them, in many very normal conditions during the year. Roundabouts are what make things safer, smoother, more interesting, more pretty, quieter, calmer. 
 

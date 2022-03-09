@@ -7,7 +7,7 @@ crosspost_to_medium: true
 categories: [urbanism]
 tags: [golden, urbanism]
 permalink: fix-ford-and-washington-in-golden
-image: /images/title_image.jpg
+image: after.jpg
 issue_id: 52
 ---
 
@@ -20,11 +20,11 @@ That's it!
 
 Golden before:
 
-![before](/_posts/2022-03-09-ford-washington-fix/before.jpg)
+![before](before.jpg)
 
 Golden after:
 
-![after](/_posts/2022-03-09-ford-washington-fix/after.jpg)
+![after](after.jpg)
 
 The green line would be made easy for cars to move along.
 
