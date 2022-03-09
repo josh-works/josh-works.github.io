@@ -8,7 +8,7 @@ categories: [urbanism]
 tags: [golden, urbanism]
 permalink: fix-ford-and-washington-in-golden
 image: /images/title_image.jpg
-issue_id: 54
+issue_id: 52
 ---
 
 ## Do all of these, in the right order/way/buy-in:
@@ -37,4 +37,4 @@ Critically, if you can naturally keep cars (and other vehicles) moving in a clos
 ## Resources worth reading
 
 - [The Forgotten Story of Harbor Drive: Portland's Demolished Freeway (Peter Dibble)](https://www.youtube.com/watch?v=l2_yNrP0hCY)
-- [About Roundabouts]({{ site.baseurl }}{% link  %})
+- [About Roundabouts]({{ site.baseurl }}{% link _posts/2022-03-05-about-roundabouts/2022-03-05-about-roundabouts.md %})

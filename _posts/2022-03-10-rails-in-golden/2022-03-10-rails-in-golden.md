@@ -20,7 +20,7 @@ I think there are three institutions that, if working together in interesting wa
 
 School of Mines could create a streetcar/urban-mobility-infrastructure school, and start getting students involved with (and, as soon as possible, in charge of) planning, designing, building, and operating a growing streetcar network. 
 
-Read more [here]({{ site.baseurl }}{% link /about#trains--streetcars-1920-era %}#trains--streetcars-1920-era)
+Read more [here]({{ site.baseurl }}{% link _pages/about.md %}#trains--streetcars-1920-era)
 
 The steps. None of these are small steps, but are within the capacities of one or two people to manage each of the primary constituent steps, and the on-the-ground-help of no more than a dozen workers at a single time.
 

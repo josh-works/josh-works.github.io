@@ -11,7 +11,6 @@ description: "It's useful to know when to write about something. I feel like I o
 permalink: about-roundabouts
 image: /_posts/2022-03-05-about-roundabouts/rough-intersections.jpg
 issue_id: 52
-
 ---
 
 _I'm desperately trying to work through a giant back-log of writings. Please see [write it now]({{ site.baseurl }}{% link _posts/2021-10-05-write-it-now.md %}) for more. I'm spending only a few minutes on this, forgive my errors._
@@ -178,7 +177,7 @@ Like I've said before, roundabouts are just one piece of the puzzle.
 
 - [Ask Marianne: Boulders and tire-tolerant plants for the traffic circle](https://www.seattlepi.com/lifestyle/homegarden/article/Ask-Marianne-Boulders-and-tire-tolerant-plants-1067567.php)
 - [The City as an Eco System Or, Nature Loves Edges](https://wrathofgnon.substack.com/p/the-city-as-an-eco-system?utm_source=url&s=r)
-- [the high cost of free parking]()
+- [the high cost of free parking](https://www.amazon.com/High-Cost-Parking-Updated-Edition/dp/193236496X/ref=as_li_ss_tl?ie=UTF8&qid=1332084228&sr=8-1&linkCode=ll1&tag=markeurban-20&linkId=65aeac5942c99b794876bb2d2dc32bb0)
 
 
 ## In summary
