@@ -11,7 +11,7 @@ image: /images/title_image.jpg
 issue_id: 53
 ---
 
-I'm going to weave together talk of land value, and financing, and some of the primitives[^primitive] around financial products. As 
+I'm going to weave together talk of land value, and financing, and some of the primitives[^primitive] around financial products. 
 
 [^primitive]: I'll be using in the sense of 'constituent, base components' rather than 'backwards or colonial' sense. 
 
