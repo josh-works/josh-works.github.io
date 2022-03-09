@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fixing Ford and Washington"
-description: "How to fix Ford and Washington st in Golden, CO."
+description: "How to fix Ford and Washington St. in Golden, CO."
 date:  2022-03-09 06:00:00 -0700
 crosspost_to_medium: true
 categories: [urbanism]

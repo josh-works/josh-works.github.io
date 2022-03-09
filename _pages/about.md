@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Me
 published: true
 description: "I'm interested in many things. Here's a bit more about them. "
