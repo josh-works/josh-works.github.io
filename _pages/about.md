@@ -6,17 +6,21 @@ description: "I'm interested in many things. Here's a bit more about them. "
 permalink: /about
 ---
 
-I've got many different interests, and projects, and this page is very much a work-in-progress.
+I've got many different interests, and projects, and this page is very much a work-in-progress[^how-things-work-around-here].
 
-First, I'm live in Golden, Colorado. Since I like to have friends and family nearby (who doesn't), I'm trying to get everyone I know to agree to try to move here, or at least to plan on visiting. 
+[^how-things-work-around-here]: I use footnotes for all sorts of reasons, and it's generally consistent, jumping between the spot in the text where the footnote is located, and jumping to the full footnote itself. I'm oddly opinionated about them. 
+
+First, I live in Golden, Colorado. I'm trying to get friends and family to agree to try to move here, or at least to plan on visiting regularly.
 
 Golden is _massively_ under-appreciated, and is a place full of potential, arguably more potential than nearly any other place in the USA[^bold-claim].
 
-[^bold-claim]: you: "Bold claim there, Josh, can you actual-"; me interrupting: "yes, you must be new here keep reading. Also, I make bold claims regularly."
+[^bold-claim]: I wish I could easily give my sources for my claims. I think I _could_ give my sources, but it would be best to know what counts as 'good sources', and 'how long do we claim this to take'. We all have different standards for different kinds of information/situations. If you're the kind of person who reads footnotes, great! You will find sources and such for my claims. If you're the kind of person who reads books, you'll be pleased. 
 
 ## Software development
 
-I've had an eclectic life, as I think is pretty common. I'm pretty good at solving some kinds of problems, with certain kinds of "software-enabled" solutions. My Linkedin says "Software Developer", and probably something about Ruby and Rails. I think Rails 7 is _amazing_, and am  excited to be "fully invested in the Ruby/Rails ecosystem".
+I've had an eclectic life, as I think is pretty common. I'm pretty good at solving some kinds of problems, with certain kinds of "software-enabled" solutions. My Linkedin says "Software Developer", and something about Ruby and Rails.[^software]
+
+[^software]: There's a lot of strange little sub-specialities in software development, and I sit at a strange word-cloud of them. _Mostly_ I like to have an enjoyable time solving meaningful problems, without being bored or stressed. 
 
 I've got a bit of an obsession with knowledge transfer and learning and education and skills development and practical problem solving, and usually express this obsession in ways that relate to software development and technical sophistication. (and in rock climbing, but that's a different story.)
 
@@ -30,7 +34,7 @@ Finally, I'm rounding up "Ruby/Rails educational skills-development stuff" at [i
 
 - [Josh Thompson: Safety Science and Failure As An Opportunity For Growth (greaterthancode.com)](https://www.greaterthancode.com/safety-science-and-failure-as-an-opportunity) (2021) _This is the best podcast episode to listen to, if you want to get a feel for how I approach problems/what working with me might be like._
 - [The Benefits of Working on One Thing at a Time with Josh Thompson (codewithjason.com)](https://www.codewithjason.com/rails-with-jason-podcast/episodes/106-the-benefits-of-working-on-one-thing-at-a-time-with-josh-thompson-ngjOtBGg/) (2021)
-- [Move Slow and Improve Things (boulder ruby meetup)]({{ site.baseurl }}{% link _posts/2018-02-10-boulder_ruby_group.md %}) (2019)
+- [Move Slow and Improve Things (boulder ruby meetup)]({{ site.baseurl }}{% link _posts/2018-02-10-boulder_ruby_group.md %}) (2019, a pretty good talk, IMO)
 - [Move Slow And Improve Things (Denver.rb meetup)](https://josh.works/denverrb) (2019)
 - [Josh Thompson presentation to Governmental Accounting Standards Board (GASB)](https://josh.works/gasb) (2021)
 - [RailsConf Presentation: 'Junior' Developers are a Solution to Many of your Problems](https://josh.works/railsconf) (2021)
@@ -70,6 +74,24 @@ In some ways it's a hilariously easy project. The technology, while forgotten, w
 As I work on this, my guiding principle is:
 
 ### Streetcars must simultaneously be free to use/ride _and_ must cover their own costs of installation, operation, and expansion
+
+The "How" of this _was_ understood at an intuitive level in many different parts of society, _I think_. This section of the following video gets at _how_ companies could use street-car-building, at any level of scale, to fund in a nice way, their own development:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Nw6qyyrTeI?start=454" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You could imagine this analysis applied to a space of nearly any shape/size, in a "seeking to make the best use of resources" perspective, and this leading _directly_ to improved profit-and-loss statements.[^heartless-capitalist]
+
+[^heartless-capitalist]: I'm very aware of the financial side of what I'm speaking of. Broadly, for very many groups, the answer is "more money", or "less expense", or "saved time", all of which roll up to "our company/group does 'better' in GAAP-legible ways". 
+
+The results of this thing, when it's done right, are fractal.
+
+On the flip side, look at the actual pictures: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Nw6qyyrTeI?start=146" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+They're beautiful, and something you could imagine applying to land in a fractal way. [This was a solved problem, more or less](https://twitter.com/josh_works/status/1426386086125875200)
+
+### Historically bootstrapped
 
 Historically, streetcar companies funded themselves. It's a pretty simple revenue model, based on buying land before the streetcar line goes in, putting in the line, and then selling the land at much increased costs (especially the land adjacent to a new station) at multiples of what it was purchased at. The land value goes up because of the station.
 

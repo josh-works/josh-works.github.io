@@ -15,7 +15,7 @@ _when I say 'ship' and 'shipping', I mean 'deliver' or 'building' things. Nothin
 
 In no particular order, I'll list finished "products" and "projects". Some of them are purely educational, some of them generate income, some of them are little games that entertain no one but me. 
 
-I want to build my "shipping" habits, instead of having tons of half-finished projects hanging around. 
+I want to build my "shipping" habits, instead of having tons of half-finished projects hanging around, barely findable even to myself. 
 
 
 To that end:
