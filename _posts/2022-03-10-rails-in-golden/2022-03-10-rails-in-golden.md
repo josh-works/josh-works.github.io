@@ -22,11 +22,27 @@ School of Mines could create a streetcar/urban-mobility-infrastructure school, a
 
 Read more [here]({{ site.baseurl }}{% link /about#trains--streetcars-1920-era %}#trains--streetcars-1920-era)
 
-The steps:
+The steps. None of these are small steps, but are within the capacities of one or two people to manage each of the primary constituent steps, and the on-the-ground-help of no more than a dozen workers at a single time.
 
 ## Step 1
 
 Coors takes the lead on getting rail line installed, all the way to what will be a train-building/street-car-testing facility on School of Mines campus, and an initial 'transfer equipment to a smaller device' facility will be built at the junction of the existing rail line and the new streetcar line:
+
+![first lines](/_posts/2022-03-10-rails-in-golden/new-streetcar-line.jpg)
+
+sub-tasks:
+
+- start pricing/buying narrow-guage railway. I have a friend that was the #1 steel-seller in colorado, he'll get us where we need to go
+
+Narrow-guage, because (from [wikipedia](https://en.wikipedia.org/wiki/Narrow-gauge_railway)):
+
+> Since narrow-gauge railways are usually built with tighter curves, smaller structure gauges, and lighter rails, they can be less costly to build, equip, and operate than standard- or broad-gauge railways (particularly in mountainous or difficult terrain).[1] Lower-cost narrow-gauge railways are often used in mountainous terrain, where engineering savings can be substantial. Lower-cost narrow-gauge railways are often built to serve industries as well as sparsely populated communities where the traffic potential would not justify the cost of a standard- or broad-gauge line. Narrow-gauge railways have specialised use in mines and other environments where a small structure gauge necessitates a small loading gauge. 
+
+while the steel is shipping, start the streetcar staging depot:
+
+- Build a shed that covers the beginning of the rail, and has space on one side of the track for assembling train parts
+- the shed/production facility doesn't need to be very tall, but it needs to be equipped with moveable winches that can move heavy things from the tracks and back
+
 
 ## Step 2
 
@@ -45,3 +61,9 @@ Maybe Mines will figure out how to make autonomous streetcars, similar to the au
 Here's a much smaller version of building some rail. Obviously these are just ideas, but hopefully you can start seeing how this could lead to a growing body of knowledge and understanding.
 
 ![small lines](/_posts/2022-03-10-rails-in-golden/step-3.jpg)
+
+
+# Questions
+
+- what is the correct increment/size of rail line one buys? I imagine it's a certain quantity of steel in a given [track gauge](https://en.wikipedia.org/wiki/Narrow-gauge_railway).
+- I imagine 
