@@ -189,6 +189,14 @@ What _is_ relevant is the buildings and environment in which we all live. We (hu
 
 It stands to reason that an environment more conducive to use, at a lower price point, that encourages human flourishing is superior to one that is less conducive to use, costs more, and squelches human flourishing.
 
+### Order Without Design: How Markets Shape Cities
+
+[Goodreads](https://www.goodreads.com/book/show/39644188-order-without-design?from_search=true)
+
+Everyone involved with urban planning, city planning, or large-scale construction projects should read this book, make some modest improvements to their plans, and enjoy doubling all the good things their projects accomplish, for a fraction of the cost. 
+
+This is an incredible book.
+
 ### How Buildings Learn
 
 [Goodreads](https://www.goodreads.com/book/show/38310.How_Buildings_Learn)
