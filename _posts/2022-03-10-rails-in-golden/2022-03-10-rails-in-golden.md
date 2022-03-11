@@ -10,38 +10,54 @@ image: new-streetcar-line.jpg
 issue_id: 56
 ---
 
-I was describing this two or three stage plan to a friend the other day. They _almsot_ understood it, but since they don't live in Golden, and have not spent a lot of their life nerding out on "urban mobility infrastructure", they didn't quite get it.
+I was describing this two or three stage plan to a friend the other day. They _almost_ understood it, but since they don't live in Golden, and have not spent a lot of their life nerding out on "urban mobility infrastructure", they didn't quite get it.
 
 Since I'm trying to [write things quickly, or at least now]({{ site.baseurl }}{% link _posts/2021-10-05-write-it-now.md %}), I'm doing a quick little visual of what I wanted to propose to the involved parties.
 
 ## The involved parties
 
-I think there are three institutions that, if working together in interesting ways, could build a very interesting piece of infrastructure.
+I think there are three institutions that, if working together in interesting ways, could build a very interesting piece of infrastructure:
 
-School of Mines could create a streetcar/urban-mobility-infrastructure school, and start getting students involved with (and, as soon as possible, in charge of) planning, designing, building, and operating a growing streetcar network. 
+1. School of Mines
+2. CoorsTek
+3. Coors
 
-Read more [here]({{ site.baseurl }}{% link _pages/about.md %}#trains--streetcars-1920-era)
+School of Mines could create a streetcar/urban-mobility-infrastructure addition to their curriculum, and start getting students involved with (and, as soon as possible, in charge of) planning, designing, building, and operating a growing streetcar network. 
 
-The steps. None of these are small steps, but are within the capacities of one or two people to manage each of the primary constituent steps, and the on-the-ground-help of no more than a dozen workers at a single time.
+Some more context [here]({{ site.baseurl }}{% link _pages/about.md %}#trains--streetcars-1920-era)
+
 
 ## Step 1
 
-Coors takes the lead on getting rail line installed, all the way to what will be a train-building/street-car-testing facility on School of Mines campus, and an initial 'transfer equipment to a smaller device' facility will be built at the junction of the existing rail line and the new streetcar line:
+The steps. None of these are small steps, but are within the capacities of one or two people to manage each of the primary constituent steps, and the on-the-ground-help of no more than a dozen workers at a single time.
+
+Here's what _could_ be the first streetcar line, connecting an existing heavy rail line
 
 ![first lines](new-streetcar-line.jpg)
 
+Here's another possible vision, which would get some streetcar running _back_ through downtown:
+
+![option 2](another-idea.jpg)
+
 sub-tasks:
 
-- start pricing/buying narrow-gauge railway. I have a friend that was the \#1 steel-seller in Colorado, he'll get us where we need to go.
+### start pricing/buying narrow-gauge railway.
+
+I have a friend that was the \#1 steel-seller in Colorado, he'll get us where we need to go.
 
 Narrow-gauge, because (from [wikipedia](https://en.wikipedia.org/wiki/Narrow-gauge_railway)):
 
 > Since narrow-gauge railways are usually built with tighter curves, smaller structure gauges, and lighter rails, they can be less costly to build, equip, and operate than standard- or broad-gauge railways (particularly in mountainous or difficult terrain).[1] Lower-cost narrow-gauge railways are often used in mountainous terrain, where engineering savings can be substantial. Lower-cost narrow-gauge railways are often built to serve industries as well as sparsely populated communities where the traffic potential would not justify the cost of a standard- or broad-gauge line. Narrow-gauge railways have specialised use in mines and other environments where a small structure gauge necessitates a small loading gauge. 
 
-while the steel is shipping, start the streetcar staging depot:
+while the steel is shipping, start building the trolleys that would be used to move materials and supplies and equipment along the line as it's being built. They could be fairly cheap, but again, this is about rapid iteration and experimentation.
 
-- Build a shed that covers the beginning of the rail, and has space on one side of the track for assembling train parts
-- the shed/production facility doesn't need to be very tall, but it needs to be equipped with moveable winches that can move heavy things from the tracks and back
+### Obtain that facility at 809 East St for School of Mines
+
+rumor has it the owner wants to get rid of it/might be declaring bankruptcy already, because Coors doesn't need the railcar maintenance facility anymore. Here's what exists there right now:
+
+![staging-facility](staging-facility.jpg)
+
+Start getting equipment and letting interested people self-select into the project. 
 
 
 ## Step 2
