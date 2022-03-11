@@ -26,6 +26,18 @@ School of Mines could create a streetcar/urban-mobility-infrastructure addition 
 
 Some more context [here]({{ site.baseurl }}{% link _pages/about.md %}#trains--streetcars-1920-era)
 
+## Some of the second-order effects of a streetcar network
+
+With streetcars starting to fill the city, Golden could relax their minimum housing consumption standards while also expecting a decrease in inter-city vehicle miles travelled, AND while seeing an _increase_ in inter-city trips. 
+
+I'll make that a graph at some point.
+
+Read [How Seattle Killed Micro-Housing](https://www.sightline.org/2016/09/06/how-seattle-killed-micro-housing/), and imagine how well streetcars in Golden would pair with micro housing. 
+
+It's impossible to say that housing would remain unaffordable. It would let the children of long-time Golden residents live in Golden, etc.
+
+
+
 ## Step 0
 
 First, emotionally, I think it helps to recognize that Denver (and Golden) used to have TONS of streetcar and rail travel. For example: 
@@ -125,6 +137,5 @@ I feel like building it as cheaply as possible, with a goal of maximizing speed-
 - What is the equipment required to install narrow-gauge railway
 - to avoid having to pre-commit to where stations will be, we make sure it's easy to get on and off the rail even from just next to it, with no station, as long as the streetcar is stopped.
 - What about the effect of removing lanes (or complete streets) from free, fast-speed through-traffic? [It's a good thing](https://www.instagram.com/p/Ca21ejRu8XR/?utm_source=ig_web_copy_link)
-
 
 
