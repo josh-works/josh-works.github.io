@@ -26,6 +26,17 @@ School of Mines could create a streetcar/urban-mobility-infrastructure addition 
 
 Some more context [here]({{ site.baseurl }}{% link _pages/about.md %}#trains--streetcars-1920-era)
 
+## Step 0
+
+First, emotionally, I think it helps to recognize that Denver (and Golden) used to have TONS of streetcar and rail travel. For example: 
+
+- [The History of Denver’s Streetcars and Their Routes](https://denverurbanism.com/2017/08/the-history-of-denvers-streetcars-and-their-routes.html)
+- [Denver's Streetcar Legacy and its Role in Neighborhood Walkability](https://dugis.maps.arcgis.com/apps/MapSeries/index.html?appid=00a2d498a2ac4c58ad140ac306110213)
+
+Here's a picture of a streetcar in Denver about 100 years ago, from [this excellent article about The History of Denver’s Streetcars and Their Routes](https://denverurbanism.com/2017/08/the-history-of-denvers-streetcars-and-their-routes.html):
+
+![streetcar](denver-streetcar.jpg)
+
 
 ## Step 1
 
@@ -114,4 +125,6 @@ I feel like building it as cheaply as possible, with a goal of maximizing speed-
 - What is the equipment required to install narrow-gauge railway
 - to avoid having to pre-commit to where stations will be, we make sure it's easy to get on and off the rail even from just next to it, with no station, as long as the streetcar is stopped.
 - What about the effect of removing lanes (or complete streets) from free, fast-speed through-traffic? [It's a good thing](https://www.instagram.com/p/Ca21ejRu8XR/?utm_source=ig_web_copy_link)
+
+
 
