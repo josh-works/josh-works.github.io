@@ -11,9 +11,26 @@ image: after.jpg
 issue_id: 52
 ---
 
-## Do all of these, in the right order/way/buy-in:
+Do all of these, in the right order/way/buy-in. _btw, i'm pretending it's easy. it's not trivial, but it is doable_:
 
-1. Install car-friendly roundabouts targeting ~20 mph throughput throughout the city. Please see [about roundabouts]({{ site.baseurl }}{% link _posts/2022-03-05-about-roundabouts/2022-03-05-about-roundabouts.md %})
+## Step 1: Install car-friendly roundabouts targeting a ~20 mph throughput speed throughout the city
+
+Please see [about roundabouts]({{ site.baseurl }}{% link _posts/2022-03-05-about-roundabouts/2022-03-05-about-roundabouts.md %}). 
+
+You'll know it's working when vehicles, with very minimal signage, comfortably and casually move through the city at a speed of about 20 miles per hour, _even on short trips_. 
+
+## Step 2: increase friction to drivers trying to cut through Golden
+
+Here's how google maps "views" the primary roads through some of Golden:
+
+![ford and related roads](ford-and-related-roads.jpg)
+
+And here's Ford, which you can see very clearly is also many other _big_ roads:
+
+![rest of ford](rest-of-ford.jpg)
+
+## Step 4: Fix the average throughput problem on rt 6
+
 1. Block off Washington over the bridge and through downtown, completely. (people can drive along those fancy highways we have, rt 6 and 58)
 
 That's it!
