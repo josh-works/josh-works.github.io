@@ -2,9 +2,9 @@
 layout: page
 title: Bike Tours of Golden with Josh!
 published: true
-description: "I love to 'show off' Golden to friends, family, and random acquintances. "
+description: "I love to 'show off' Golden to friends, family, and random acquaintances. "
 permalink: /golden-bike-tour-with-josh
-image: ""
+image: /_pages/golden-bike-tour/bike-around.jpg
 ---
 
 # Bike Tours of Golden with Josh!
