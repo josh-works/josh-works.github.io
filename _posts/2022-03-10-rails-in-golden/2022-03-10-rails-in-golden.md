@@ -129,7 +129,11 @@ One could get the steel and start laying it, while a different group works on th
 I feel like building it as cheaply as possible, with a goal of maximizing speed-of-learning, would be the prudent option.
 
 
+# Streetcar Inspiration
 
+Here's some inspiration:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Romanian Mocănița railways on 735mm gauge running Ford Transit (?) minivans are cool but here&#39;s a Myanmar 610mm gauge mining rail running a converted 1955 Hino diesel buss. <a href="https://twitter.com/hashtag/TrainTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#TrainTwitter</a> <a href="https://t.co/AaeaFW9Z70">https://t.co/AaeaFW9Z70</a> <a href="https://t.co/XYmkFCK91y">https://t.co/XYmkFCK91y</a></p>&mdash; Wrath Of Gnon (@wrathofgnon) <a href="https://twitter.com/wrathofgnon/status/1504422997263749123?ref_src=twsrc%5Etfw">March 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 # Questions
 
@@ -139,3 +143,7 @@ I feel like building it as cheaply as possible, with a goal of maximizing speed-
 - What about the effect of removing lanes (or complete streets) from free, fast-speed through-traffic? [It's a good thing](https://www.instagram.com/p/Ca21ejRu8XR/?utm_source=ig_web_copy_link)
 
 
+# Next Steps
+
+- [ ] Submit this project for 
+[Capstone (Senior) Design Engineering project](https://eds.mines.edu/project-sponsorship/) at Mines
