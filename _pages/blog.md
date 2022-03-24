@@ -8,6 +8,7 @@ permalink: /blog
 
 I've got >250 blog posts, so here's a bit of a best-of section:
 
+- [Bringing Streetcars (back) to Golden]({{ site.baseurl }}{% link _posts/2022-03-10-rails-in-golden/2022-03-10-rails-in-golden.md %})
 - [Job Hunting Recommendations for Early-Career Software Developers]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
 - [How to Ask Questions of Experts To Gain More than Just Answers]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
 - [What I've learned from cooking in 36 kitchens in the last year]({{ site.baseurl }}{% link _posts/2016-05-09-what-ive-learned-from-cooking-in-36-kitchens-in-the-last-year.md %})
