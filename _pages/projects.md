@@ -15,6 +15,23 @@ I try to be biased towards finishing projects. To that end, here's a list of pro
 
 This page is inspired by Tom Critchlow's [The Importance of Launching](https://tomcritchlow.com/2017/01/26/f-yeah-side-projects/)
 
+These are ordered by recency, magnitude, or interestingness to myself.
+
+### Power Broker Quotes
+
+**Get One Quote from _The Power Broker_ in your inbox, every week**
+
+As I work on email sending infrastructure professionally, I wanted a little playground to replicate some of the message sending infrastructure used at Homebot, like `rails`, `redis`, `sidekiq`, `twilio/sendgrid`. 
+
+One of my favorite books is _The Power Broker_ by Robert Caro. (I've written extensively about this book [here]({{ site.baseurl }}{% link _pages/robert-moses.md %}))
+
+Anyway, the project is rapidly evolving, but there's a code-a-long available in the `readme`, from `rails new` to here. 
+
+- [https://github.com/josh-works/power-broker-quotes](https://github.com/josh-works/power-broker-quotes)
+- [https://power-broker-quotes.herokuapp.com/](https://power-broker-quotes.herokuapp.com/)
+
+Head over there, punch in your email, enjoy the weekly quotes!
+
 ### Intermediate Ruby
 
 Are you an early-career software developer? Working on getting your first job, or you've been working for less than two years? I'll help you level up your software development skills.
