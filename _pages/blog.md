@@ -17,6 +17,13 @@ I've got >250 blog posts, so here's a bit of a best-of section:
 - [A Little Bit of Slope Makes For A Lot Of Y-Intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
 - [Be Gentle To You]({{ site.baseurl }}{% link _posts/2014-07-20-be-gentle-to-you.md %})
 
+# All Blog Posts 
+
+{% for post in site.posts %}
+  * [ {{ post.title }} ]({{ post.url }}) <time class="archive-date">{{ post.date | date: '%b %Y' }}</time>
+
+{% endfor %}
+
 
 ### Miscellaneous Guides and Tutorials
 
@@ -43,12 +50,3 @@ I write many, many guides/tutorials. Here are some of them. Most of them are _so
 - [Pry Tips and Tricks]({{ site.baseurl }}{% link _posts/2018-05-07-pry_tips_tricks.md %})
 - [MacOS: Keyboard Shortcut to Toggle Bookmarks Bar in Firefox]({{ site.baseurl }}{% link _posts/2018-02-15-toggle_bookmarks_bar_in_firefox.md %})
 - [Testing Rake Tasks in Rails]({{ site.baseurl }}{% link _posts/2018-02-08-test_rake_tasks_rails.md %})
-
--------------------------
-
-# All Blog Posts 
-
-{% for post in site.posts %}
-  * [ {{ post.title }} ]({{ post.url }}) <time class="archive-date">{{ post.date | date: '%b %Y' }}</time>
-
-{% endfor %}
