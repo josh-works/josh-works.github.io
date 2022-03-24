@@ -129,11 +129,27 @@ One could get the steel and start laying it, while a different group works on th
 I feel like building it as cheaply as possible, with a goal of maximizing speed-of-learning, would be the prudent option.
 
 
-# Streetcar Inspiration
+## Streetcar Inspiration
 
-Here's some inspiration:
+Here's some inspiration. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Romanian Mocănița railways on 735mm gauge running Ford Transit (?) minivans are cool but here&#39;s a Myanmar 610mm gauge mining rail running a converted 1955 Hino diesel buss. <a href="https://twitter.com/hashtag/TrainTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#TrainTwitter</a> <a href="https://t.co/AaeaFW9Z70">https://t.co/AaeaFW9Z70</a> <a href="https://t.co/XYmkFCK91y">https://t.co/XYmkFCK91y</a></p>&mdash; Wrath Of Gnon (@wrathofgnon) <a href="https://twitter.com/wrathofgnon/status/1504422997263749123?ref_src=twsrc%5Etfw">March 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I finally downloaded TikTok specifically so I could share this <a href="https://t.co/wHZGorDwdp">pic.twitter.com/wHZGorDwdp</a></p>&mdash; Jane Lyons (@janeplyons) <a href="https://twitter.com/janeplyons/status/1502258843769876481?ref_src=twsrc%5Etfw">March 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+Like many things, it's best to click around and load your mind up on examples of this kind of thing done well, and how streetcars might interact with their environment (and vice versa). 
+
+For example, because of how accessible streetcars make distances previously considered far away, a certain style of human relationships tend to spring up adjacent to the streetcar line.
+
+These relationships tend to result in a built environment that makes a more 'intensive' use of the land. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The I Am A Mayor Who Is Serious About Reducing My Town&#39;s Dependence on Fossil Fuels Starter Pack. Inquire within for more details. <a href="https://t.co/MaQTSdkmTp">pic.twitter.com/MaQTSdkmTp</a></p>&mdash; Wrath Of Gnon (@wrathofgnon) <a href="https://twitter.com/wrathofgnon/status/1503016316642689026?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Andy Gammon&#39;s view of Lewe&#39;s Priory in 1520. Even if you don&#39;t build the priory itself it would make a beautiful starting point for a human scaled no-car settlement for a hundred families of craftsmen, food producers and teleworkers. With ample wifi. <a href="https://t.co/pU9qvTRaKV">pic.twitter.com/pU9qvTRaKV</a></p>&mdash; Wrath Of Gnon (@wrathofgnon) <a href="https://twitter.com/wrathofgnon/status/1503588077213675522?ref_src=twsrc%5Etfw">March 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 
 # Questions
 

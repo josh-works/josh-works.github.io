@@ -21,6 +21,22 @@ It might not be possible to eliminate _every_ stop sign and light, but I think a
 
 You'll know it's working when vehicles, with very minimal signage, comfortably and casually move through the city at a speed of about about 20 miles per hour, no matter where they're starting and finishing their journey.
 
+Critically, the turns/roundabouts need to function adequately in the following ways:
+
+- automobile drivers making left and right turns
+- automobile drivers going straight through the intersection
+- bicyclists making turns
+- bicyclists going straight
+- one should never have to stop completely
+- at night
+- in rush hour
+- in rain/heavy rain/snow/heavy snow
+
+Here's the complete guide to roundabouts. It's from the Netherlands, who have refined mobility networks: 
+
+
+
+
 ## Step 2: increase friction to drivers trying to cut through Golden
 
 Here's how google maps "views" the primary roads through some of Golden:
