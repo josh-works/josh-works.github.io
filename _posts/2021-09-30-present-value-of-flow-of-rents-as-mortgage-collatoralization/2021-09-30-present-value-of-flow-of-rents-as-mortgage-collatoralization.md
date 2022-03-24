@@ -85,7 +85,7 @@ The following comes from page 293 of Alain Bertraud's [Order Without Design: How
 
 ## Frequently Asked Questions
 
-#### Are you proposing a new "financial product"?
+### Are you proposing a new "financial product"?
 
 More or less, yes. Eventually something like this could be construed as an alternative to a 30-year fixed-rate mortgage.
 
@@ -100,4 +100,20 @@ For example, I just read [https://www.netinterest.co/p/financing-the-american-ho
 Something much bigger needs to give, but this is a big piece of it.
 
 I could speak at length of the intersection of [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles) and lending institutions. 
+
+### How would you propose 'getting the most out of the land'?
+
+Great question! By applying established processes to your specific bit of land.
+
+I propose: 
+
+**The Bertraud Model**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Notes for myself, that I bet others will find interesting.<br><br>I have a paper, crafted a few years ago, by Alain and Marie-Agnes Bertaud.<br><br>I&#39;ll be adding many more notes in this thread, but for starters, here&#39;s the title and abstract. <a href="https://t.co/FKnTvYiHtW">pic.twitter.com/FKnTvYiHtW</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1426386086125875200?ref_src=twsrc%5Etfw">August 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+I need to write up an article about that, but until then, the twitter thread will have to do. 
+
+Skip straight to this page:
+
+https://twitter.com/josh_works/status/1426952509088845830/photo/1
 
