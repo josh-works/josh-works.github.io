@@ -7,6 +7,7 @@ gem 'figaro'
 gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "rake"
+gem "webrick"
 
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.15"
