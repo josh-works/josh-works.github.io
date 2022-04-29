@@ -10,7 +10,6 @@ published: true
 description: ""
 permalink: back-in-the-saddle
 image:
-issue_id: 54
 ---
 
 It's been a hell of a year. I've got about 10,000 things I've wanted to write about, and have not gotten around to any of them. Here's my various top-level reasons for not writing:
