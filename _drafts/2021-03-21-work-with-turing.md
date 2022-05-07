@@ -10,7 +10,7 @@ permalink: how-i-want-to-work-with-turing
 image: /images/title_image.jpg
 ---
 
-A bit of an open letter_
+_A bit of an open letter, drafted early 2021_
 
 Hey Jeff,
 
@@ -24,19 +24,19 @@ I'm also want to have a chance to understand any mis-steps I've made along the w
 
 <iframe src="https://giphy.com/embed/k3fTc8vOmbZRU8BCXW" width="427" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZurichInsurance-gifz-zgif-zgifs-k3fTc8vOmbZRU8BCXW">not very subtle via GIPHY</a></p>
 
-I've been floating around the Turing community since 2017; in some high-profile ways and in some low-profile ways, almost all of it entirely accidental and unplanned. 
+I've been floating around the Turing community since 2017; in some high-profile ways and in some low-profile ways, almost all of it entirely accidental and unplanned.
 
-I _also_ want to make sure that I don't come across in the wrong way, when I discuss money in this document. 
+I _also_ want to make sure that I don't come across in the wrong way, when I discuss money in this document.
 
 I know that you've been been so reluctant to raise prices, because just as inflation and rising house prices has placed pressure on your own costs and profit margins, it does the same to your student's costs and 'profit margins'.
 
-I don't think you've raised Tuition since like 2016, and the fact that Turing is _only_ $21,000 is a crazy deal. 
+I don't think you've raised Tuition since like 2016, and the fact that Turing is _only_ $21,000 is a crazy deal.
 
 Just a few minutes ago, a friend who recently graduated from Turing, and is employed as a software developer, said:
 
 > I don't think I'll ever be able to repay you for recommending Turing and saving me from "higher level education" :confounded:
 
-Compared to college, Turing is cheap at $30,000. Compared to the monthly take-home of some stay-at-home mom, Turing is prohibitively expensive at $15,000. 
+Compared to college, Turing is cheap at $30,000. Compared to the monthly take-home of some stay-at-home mom, Turing is prohibitively expensive at $15,000.
 
 So much of what is lovely about Turing is because it's not motivated by money, but when you have $250,000/mo in payroll that you have to deposit in your staff's bank accounts every other week _or some of them don't eat_, you need to make sure you have enough cash on hand to pay them!
 
@@ -70,5 +70,4 @@ Turing
 
 
 
-## Footnotes 
-
+## Footnotes

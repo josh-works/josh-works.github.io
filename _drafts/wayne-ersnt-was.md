@@ -10,11 +10,9 @@ permalink: this-post-url
 image: /images/title_image.jpg
 ---
 
-Kristi's dad passed away early this year: January 12, 2020. 
+Kristi's dad passed away early this year: January 12, 2020.
 
 He was one of her best friends. She and he spoke on the phone _every day_. I'm not speaking hyperbolically - she and he spoke on the phone almost 365 times last year. He was a pillar in his community, in a way I didn't even realize anyone could be today. (I associate the phrase with civic leaders from the 50s.)
 
-There's a lot of pieces to pick up. 
+There's a lot of pieces to pick up.
 <!--more-->
-
-More text
