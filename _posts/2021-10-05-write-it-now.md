@@ -34,7 +34,7 @@ I will reference this page regularly, in some ways to act as a defense against s
 
 If I propose something that sparks "controversy", however that is defined, I'll gladly cross that bridge (or burn it, if need be) when I get there.
 
-If you're a software developer, and use Github, you are welcome to leave a comment below (the link takes you to a comment on a dedicated Github Issue page: [https://github.com/josh-works/josh-works.github.io/issues/49](https://github.com/josh-works/josh-works.github.io/issues/49)), or on any page around here with this link. I added this comments thing only recently, and still have not scripted an API call to auto-generate a new github issue when I write a new post. So... I just don't bother, at least some of the time. 
+If you're a software developer, and use Github, you are welcome to leave a comment below (the link takes you to a comment on a dedicated Github Issue page: [https://github.com/josh-works/josh-works.github.io/issues/49](https://github.com/josh-works/josh-works.github.io/issues/49)), or on any page around here with this link. I added this comments thing only recently, and still have not scripted an API call to auto-generate a new github issue when I write a new post. So... I just don't bother, at least some of the time.
 
 Here's other things I've written along this vein:
 
@@ -49,15 +49,15 @@ Read around the internet, viewed as permission/empathy:
 
 [^noteworthy]: There were some very lovely comments in the hackernews thread. Here's a portion of [this comment](https://news.ycombinator.com/item?id=31760857):
 
-    It's hard because it probably won't change the world, but it becomes much harder when shouting.
-
-    It's entirely OK to sit and write without fanfare, we're not wizards or witches any longer, just plain people with the same plain obligation towards the mind as towards the body: tend, feed, and regularly empty out.
-
-    If today you really gotta go write, go ahead, knock yourself out.
-
-    If tomorrow you just scribble in the margins of empty pages but nothing comes, have a bath or a nap or both, and sit again the day after.
-
-    I also find it very helpful to remember that I'm not addressing others when writing, I'm not in a possibly empty auditorium talking into the void, instead I'm reaching across time and continue a discussion I started with myself earlier, and may pick up again later.
+    > It's hard because it probably won't change the world, but it becomes much harder when shouting.
+    >
+    > It's entirely OK to sit and write without fanfare, we're not wizards or witches any longer, just plain people with the same plain obligation towards the mind as towards the body: tend, feed, and regularly empty out.
+    >
+    > If today you really gotta go write, go ahead, knock yourself out.
+    >
+    > If tomorrow you just scribble in the margins of empty pages but nothing comes, have a bath or a nap or both, and sit again the day after.
+    >
+    > I also find it very helpful to remember that I'm not addressing others when writing, I'm not in a possibly empty auditorium talking into the void, instead I'm reaching across time and continue a discussion I started with myself earlier, and may pick up again later.
 
 
 ## Updates to this post

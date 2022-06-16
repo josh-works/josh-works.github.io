@@ -149,6 +149,9 @@ The good news is as soon as we drop the crappy old paradigm, (and the rules that
 
 - More parks
 - more pleasant places to walk
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ask for trees in your city 🌳 <a href="https://t.co/GT2QcoAPb7">pic.twitter.com/GT2QcoAPb7</a></p>&mdash; Diego Saez Gil (@dsaezgil) <a href="https://twitter.com/dsaezgil/status/1536880682525306885?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - quieter, safer, exercise-ier,
 - more kids playing outside
 - more socializing
