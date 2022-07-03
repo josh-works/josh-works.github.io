@@ -6,10 +6,21 @@ date:  2022-06-28 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
 tags: []
+published: false
 permalink: 'context-setting-certain-classes-relationship-difficulties'
 image: /images/title_image.jpg
-issue_id: 55
 ---
+
+I've been "catching up" a _lot_ in my life lately. Some of that catching up involves bringing up to speed various people I've not spoken too (or spoken too _much_, or _openly_, or _recently_, or _ever_, or some combination thereof).
+
+I am strongly biased towards written-editable-consistent versions of "what's going on", because then:
+
+1. everyone has some confidence in at least some shared context
+2. Thinking how this reads for the various audiences has a useful clarifying effect on the writing.
+3. I believe in writing things when they're being experienced
+4. the act of writing tends to have a great ordering effect on the meaning we assign to our own stories
+
+S
 
 ## Books I've read, and that I believe shed light on what's been going on in my marriage
 
