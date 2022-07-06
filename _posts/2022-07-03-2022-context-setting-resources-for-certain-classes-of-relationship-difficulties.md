@@ -14,20 +14,30 @@ image: /images/title_image.jpg
 
 I've been "catching up" a _lot_ in my life lately. Some of that catching up involves bringing up to speed various people I've not spoken too (or spoken too _much_, or _openly_, or _recently_, or _ever_, or some combination thereof).
 
-I am strongly biased towards written-editable-consistent versions of "what's going on", because then:
+I am strongly biased towards written/editable/consistent versions of "what's going on", because then:
 
 1. everyone has some confidence in at least some shared context
 2. Thinking how this reads for the various audiences has a useful clarifying effect on the writing.
-3. [I believe in writing things when they're being experienced]({{site.base_url}}{% link _posts/2021-10-05-write-it-now.md %})
-4. the act of writing tends to have a great ordering effect on the meaning we assign to our own stories
+3. [I believe in writing things when they're being experienced]({{site.base_url}}{% link _posts/2021-10-05-write-it-now.md %}), especially as a tool to capture insights, learnings, etc.
+4. the act of writing tends to have a great ordering effect on the meaning we assign to our own stories.
+5. I've historically written a lot, trying to "unblock the writing blockages", so taking a stab at writing about "the most important things", ordered `DESC`.
+6. I could imagine that some of what I might write could be helpful to someone else. There's analogous writings that software developers perceive as very conventional for their craft. Incident reports, retrospectives, etc.
 
 ## TL;DR Depression & Decline
 
-For several years, from an "overall health-and-wellbeing of Josh & Kristi Thompson", things have been sliding, in many different ways, downhill. Sometimes fast, sometimes slow. Sometimes in terms of physical health, sometimes in terms of mental health. Often both! There's been a tough mix of totally unavoidable, and totally avoidable, tragedy.
+For several years, from an "overall health-and-wellbeing of Josh & Kristi Thompson", things have been sliding, in different ways, downhill.
 
-I historically would have self-assessed my marriage as in many real ways once quite good, and lately things have gotten quite bad. Things are trending upwards again[^what-that-means], but there have been a lot of changes or deviations from what would have once been normal for us.
+Sometimes the decline was fast, sometimes slow. Sometimes in terms of physical health, sometimes in terms of mental health. Sometimes both!
 
-[^what-that-means]: I know, that's nebulous. Feel free to "shell out" to an IRL conversation/email/whatsapp voice message/whatever.
+There's been a tough mix of totally unavoidable, and totally avoidable, tragedy.
+
+I historically would have self-assessed my marriage as in many real ways once as "quite good" and lately would self-assess as "quite bad".[^third-parties]
+
+[^third-parties]: I believe in general a third-party observer would agree with both assessments - and third parties _have_ agreed. I'm generally leery of using third parties to bolster arguments, in the off chance it's a rhetorical device instead something genuinely helpful to contribute, but there are situations where it could be construed as relevant.
+
+Things are trending upwards again[^what-that-means], but there have been a lot of changes or deviations from what would have once been normal for us.
+
+[^what-that-means]: I know, that's nebulous. Feel free to circle around with an IRL conversation/email/WhatsApp voice message/whatever. As I'm getting a better handle on what's going on (this write-up is a piece of that) I'm getting a better grasp on a peaceful disposition. And perhaps as I get more of a peaceful disposition, I get a better handle on what's going on.
 
 I believe "systems" and "dynamics" are closely related to "complex reactive systems", and thus any discussion of failure or errors is best informed by approaching the issue with the 18 questions/statements of [How Complex Systems Fail: Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety](https://how.complexsystems.fail/)
 
@@ -55,7 +65,7 @@ Incidentally, I don't think people who's behavior patterns best roll up as "verb
 
 I no longer want to participate in patterns of conflict and verbal abuse. I've not quite figured out how to step off the train, but am working on it.
 
-## Books I've read, and that I believe shed light on what's been going on in my marriage
+## Books I've read, and that I believe shed light/signal on what's been going on in my marriage
 
 My marriage has historically been a source/center for/inspiration of all the good things that tend to circulate people who enjoy each other's company and way of being. I've grown more sophisticated in the last two years, in how I perceive relationships (my own and other people's), so the version of me (and Kristi) at 24 years old is very different than me today, at 33, but I can effortlessly see threads of similarity and reasonable evolution in how we'd engaged in the world around us ten years and five years ago, and how we seem to be doing this now.
 
@@ -65,7 +75,7 @@ First, an explanation for the books you're about to see listed: I've always been
 
 Here's some books that, as I've lived the last few years, have come to have particularly high explanatory power for the relationship between external events and internal experiences in my life.
 
-I read at a high enough rate that it's relatively painless (especially related to the potential reward) to 'read the canon'[^read-cannon]. in any given domain. I start with one book, and then branch out from there, either thematically or via citations/references. Of course I often digest related podcasts and topical digital content.
+I read at a high enough rate that it's relatively painless (especially related to the potential reward) to 'read the canon'[^read-cannon] in any given domain. I start with one book, and then branch out from there, either thematically or via citations/references. Of course I often digest related podcasts and topical digital content.
 
 [^read-cannon]: I mean this in the sense of 'literary/scene-setting canon' and 'accepted high-culture canon', from [https://en.wikipedia.org/wiki/Canon](https://en.wikipedia.org/wiki/Canon). It's analogous to looking at an issue intentionally from several different frames. I'm competent at identifying some instances of internal (in)consistency within frames, _and_ between frames. It might be obvious, but me reading a book (and referencing it) certainly ought not to be treated as an endorsement of the book or the ideas espoused within. I've watched "Birth of a Nation" and read _Mein Kampf_. I am _down_ for reading/understanding propaganda and/or the views of _very_ bad people. It'll be up to you to infer from context if I'm recommending something, or holding it up as an example of a bad thing.
 
@@ -85,7 +95,7 @@ Here's some of the books I've read lately. There's a theme:
 - [No Visible Bruises: What We Don’t Know About Domestic Violence Can Kill Us](https://www.goodreads.com/book/show/33786693-no-visible-bruises)
 - [The Work of Jesus Christ in Anabaptist Perspective: Essays in Honor of J. Denny Weaver](https://www.goodreads.com/book/show/4495703-the-work-of-jesus-christ-in-anabaptist-perspective?ac=1&from_search=true&qid=0gOW87C7Aq&rank=5)
 
-# Memetics
+## Memetics
 
 There's this book, [Worth The Candle](https://www.goodreads.com/book/show/36146179-worth-the-candle?from_search=true&from_srp=true&qid=wogfgw2d0G&rank=1), that is quite good. It smashes some interesting concepts together, in a bit of a fantasy universe, that lead to interesting "frame-shifting experiential outcomes".
 
@@ -130,20 +140,52 @@ It's undeniable that it has an affect on the world. Don't know how I feel about 
 
 [https://www.tiktok.com/t/ZTReJWVX3/?k=1](https://www.tiktok.com/t/ZTReJWVX3/?k=1)
 
-
-
 I thought this one was... sad:
 
 [https://www.tiktok.com/t/ZTReNV2KA/?k=1](https://www.tiktok.com/t/ZTReNV2KA/?k=1)
 
 [https://www.tiktok.com/t/ZTReYJkWL/?k=1](https://www.tiktok.com/t/ZTReYJkWL/?k=1)
 
-[https://www.tiktok.com/t/ZTRe25G1M/?k=1](https://www.tiktok.com/t/ZTRe25G1M/?k=1)
+This next one is on manipulation. I was raised in an environment full of manipulation, toxic masculinity, and more.
+
+I did a lot of manipulation "to survive", and learned it as a tool to solve the problems I was facing. I have few memories of my own childhood, but I clearly remember being unwillfully manipulated into things _all the time_. By people who then said they loved me. anyway:
 
 [https://www.tiktok.com/t/ZTReq9Eao/?k=1](https://www.tiktok.com/t/ZTReq9Eao/?k=1)
 
 [https://www.tiktok.com/t/ZTRe1xrex/?k=1](https://www.tiktok.com/t/ZTRe1xrex/?k=1)
 
+## Quotes around power and abuse
 
+The more someone has spent time dealing with issues of individual/organizational misbehavior (like issues leading to, and stemming from, abuse and neglect), the more they seem to have intuitive mental models that fit the frames of the above books I've listed.
+
+There's two general polarities at play. Focusing on what is _most wrong_ and focusing on what could be _most right_. It's important to focus on what's gone wrong, but I think in any situation of mistreatment (and systemic mistreatment that reads as abuse or neglect) the correct response invites and makes space for evaluating what could be best-case-scenario outcomes, not _just_ reflecting on the past.
+
+Anyway, here's some of what _to_ do. Quotes from various books:
+
+> There are two kinds of power. One kills the spirit. The other nourishes the spirit. The first is Power Over. The other is Personal Power.
+>
+> _Power Over shows up as control and dominance. Personal Power shows up as mutuality and co-creation._
+>
+> Mutuality is a way of being with another person which promotes the growth and well-being of one's self _and_ the other person by means of clear communication and empathetic understanding.
+>
+> Co-creation is a consciously shared participation in life which helps one reach one's goals.
+
+
+
+
+## Substacks and blogs
+
+- [Epistemic Legibility](https://news.ycombinator.com/item?id=30802349)
+- [Three Hundred Ways It Can Hurt to Be a Man — Index](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to-d1d)
+
+## So what? Now what?
+
+I've worked on this post off and on for a while. I've recognized an absolutely real difficulty in knowing how to ask for help. [In some cases, I'm at least decent at asking for help](https://josh.works/better-questions), but on the whole, in ways that have mattered more than usual, I would not yet self-identify as one who's skilled at making needs/requests visible in "normal/cool ways". (These requests for help have gone poorly a high percentage of the times I've made them in the last few years)
+
+So, knowing that this page summarizes my best understanding of the world. you can imagine how frustrated and beat down I feel. Generally, things that line up well with "caring for depressed people" works for me. I enjoy time with others, so email me, text me, call me, visit with me. Feel free to plainly discuss anything you've read on this website, or discuss it with others.
+
+The hardest thing for me, around spending time with other people, has been feeling like this (the above context-setting) is something I couldn't talk about without placing others in an uncomfortable place. I generally _yearn_ for "weighty conversations of meaningful things, and am happy to bear witness/hold space for whatever comes up, as needed", so it was hard for me to endure not talking about how the most important thing in my life was withering and dying, even as my partner would pretend (to me and others) that "everything is fine".
+
+So, things are not fine. I've gotten dramatically more comfortable with the idea of divorce than I once was, and as things continue to go unresolved, I continue to move in that direction. It's quite sad. 
 
 # Footnotes

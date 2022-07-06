@@ -9,11 +9,15 @@ image: ""
 
 Originally, this page contained exclusively links to software projects/resources I'd made. Some of them were under active development, but I am working full-time again, _and_ have a baby, so my discretionary free time is diminished.
 
-I don't mind this, though.
+Some of this is out of date, some of these projects take place entirely off-line, etc. Some of this is work related, some of it is purely for the challenge and edification of trying to bring something into existance.
+
+I have a _very_ high number of small things I've built/experimented with, that have "failed". I've also got a lot of meaningful, "real" projects I've worked on, tried to bring to fruition, and some of them certainly have, some of them have absolutely failed.
 
 ### 'Gardening' around Golden
 
-This project is the hardest to define. My wife and I recently bought a rather old house for a rather large amount of money. We are really psyched on *Golden*, and this neighborhood and what we're close to and how fun it is here.
+This project is the hardest to define. My wife and I recently bought a rather old house for a rather large amount of money. We are really psyched on *Golden*, and this neighborhood and what we're close to and how fun it is to be here.[^other-reasons]
+
+[^other-reasons]: there's lots of reasons to live in Golden. The finances of it right now are strange, bad for everyone, and probably you shouldn't try to live in Golden until it feels "cheap" and "right-sized" in meaningful ways.
 
 I'm trying many different small experiments, riding the trade-off between "costs little" in time, effort, and/or money and "guaranteed to be of high quality/solve the exact problem".
 
@@ -24,15 +28,25 @@ I'm drawn inexorably to attend to "the largest problems" in my life, so _current
 
 I also spend time pursuing "having fun with friends", and that looks like lots of shared meals, or the occasional back-yard outdoor movie-night. (🤞 for more of that).
 
+### Placeholder for [big ongoing investment in Golden that needs a lot of explaining]
+
+It's a long story. It starts with Robert Moses. Ends with me agreeing to spend a meaningful amount of money every month ($1575) to prevent next-door neighbors from getting evicted.
+
+Felt like the right thing to do then, and it still feels like the right thing to do now. More on this later.
+
 ### Living an as-enjoyable-as-possible existence
 
 The last few years have been _profoundly_ difficult, for everyone. Even before the pandemic, myself, family, and close friends were greatly affected by death and disease, and how quickly lives can change, with a diagnoses, a heart attack, an accident. I enjoy "banking joy", and am attuned to what kinds of things lead to joy, satisfaction, rest, laughter, peace, appreciation, and beauty.
+
+I enjoy physical activity, and anything that feels like "gardening" in/around Golden/Denver. Small investments that might grow into something beautiful.
 
 ### I am deeply concerned about beauty
 
 Ugh. I need to expand on this in more depth. I care a lot about it. Beauty corresponds with so many good things (healthy ecosystems tend to be beautiful, for example) it's worth always pursuing along side whatever else you've got going on.
 
-Create beauty, yes, but first be able to recognize it. [Beauty is closely related to wonder and curiosity](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity)
+Create beauty, yes, but first be able to recognize it. [Beauty is closely related to wonder and curiosity](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity). Christopher Alexander cares a lot about it, expands on the concepts in [A Pattern Language: Towns, Buildings, Construction](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199) and [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=pd_bxgy_sccl_1/144-1216185-6526842?pd_rd_w=DshvC&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=V2PSNKFRV1FHPZP3H4BW&pd_rd_wg=qOa8d&pd_rd_r=a46fbe02-fb2f-49e9-a3e8-cc8277ff3b66&pd_rd_i=0195024028&psc=1).
+
+These are "primary motivating concerns" for me. I'm happy to spend time and effort on projects related to beauty, across large swaths of time. 
 
 ## Software projects
 

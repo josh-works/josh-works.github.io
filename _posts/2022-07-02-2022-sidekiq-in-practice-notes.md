@@ -12,6 +12,6 @@ image: /images/title_image.jpg
 issue_id: 55
 ---
 
-Working through [https://nateberk.gumroad.com/l/sidekiqinpractice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+Working through [https://nateberk.gumroad.com/l/sidekiqinpractice](https://nateberk.gumroad.com/l/sidekiqinpractice). Similar to what I did for [Noah Gibb's Rebuilding Rails Course](https://www.intermediateruby.com/rebuilding-rails-course-walkthrough)
 
 Here's some raw notes. Drafts for now.
