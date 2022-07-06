@@ -6,7 +6,7 @@ date:  2022-07-03 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
 tags: []
-published: true
+published: false
 permalink: 'context-setting-certain-classes-relationship-difficulties'
 image: /images/title_image.jpg
 ---
@@ -186,6 +186,6 @@ So, knowing that this page summarizes my best understanding of the world. you ca
 
 The hardest thing for me, around spending time with other people, has been feeling like this (the above context-setting) is something I couldn't talk about without placing others in an uncomfortable place. I generally _yearn_ for "weighty conversations of meaningful things, and am happy to bear witness/hold space for whatever comes up, as needed", so it was hard for me to endure not talking about how the most important thing in my life was withering and dying, even as my partner would pretend (to me and others) that "everything is fine".
 
-So, things are not fine. I've gotten dramatically more comfortable with the idea of divorce than I once was, and as things continue to go unresolved, I continue to move in that direction. It's quite sad. 
+So, things are not fine. I've gotten dramatically more comfortable with the idea of divorce than I once was, and as things continue to go unresolved, I continue to move in that direction. It's quite sad.
 
 # Footnotes
