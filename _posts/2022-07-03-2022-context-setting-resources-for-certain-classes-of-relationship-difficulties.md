@@ -41,7 +41,8 @@ Things are trending upwards again[^what-that-means], but there have been a lot o
 
 I believe "systems" and "dynamics" are closely related to "complex reactive systems", and thus any discussion of failure or errors is best informed by approaching the issue with the 18 questions/statements of [How Complex Systems Fail: Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety](https://how.complexsystems.fail/)
 
-Briefly, Kristi's family, and Kristi, have displayed depressive and avoidant tendencies, across generations. Kristi's tended towards depressive states, especially as a reaction to increased stress and difficulty. For a long time, I was motivated to move in opposite directions as a reaction to stress and difficulty. This divide (which relates to substantial trauma we both experienced as children and more recently) eventually led to Kristi becoming systemically verbally and emotionally abusive towards me.
+Nature and nurture (genetics and environment) matter, for both of us.
+Kristi's family, and Kristi, have displayed depressive and avoidant tendencies, across generations. Kristi's tended towards depressive states, especially as a reaction to increased stress and difficulty. For a long time, I was motivated to move in opposite directions as a reaction to stress and difficulty. This divide (which relates to substantial trauma we both experienced as children and more recently) eventually led to Kristi becoming systemically verbally and emotionally abusive towards me.
 
 For many reasons it took a very long time for me to recognize this, and eventually start protecting myself and adjusting expectations to better care for myself. It was deeply damaging and felt like repeated, horrific betrayals, for a long time.
 
@@ -55,13 +56,27 @@ I examined the changes I was seeing in my own personality. These were very unlik
 
 Historically I've sought (and engaged in) relationships and friendships full of shared experiences, mutual support, some adventure, some appreciation of beauty, going new places and having new experiences, doing things worth doing, long-term and short-term goals, positive emotional energy, and more. I care _a lot_ about my friendships. I prefer to spend energy and time in relationships where that energy is seen and appreciated.
 
-So, I got walloped by a flood of unremitting negative energy, broken only by silence or tense withdrawal, never punctuated with periods of closeness, kindness, compassion, or empathy, but was generally blamed for all of it, even as I kept acting as someone who had good reason to expect future periods of closeness, kindness, compassion and empathy in this relationship. I was told expecting/demanding these things was rushing it - I needed to be patient for weeks/months/years of incremental progress towards treating me with slightly less meanness than yesterday.
+So, I got walloped by a flood of unremitting negative energy, broken only by silence or tense withdrawal, never punctuated with periods of closeness, kindness, compassion, or empathy, but was generally blamed for all of it, even as I kept acting as someone who had good reason to expect future periods of closeness, kindness, compassion, empathy, mutuality, and co-creation in this relationship.
 
-Plainly, _this is abuse_. I kept getting unexpected reactions when I brought my evidence and observations and experiences to very close friends, and I think a string of these fumbled conversations made things worse for everyone, not better.[^church-and-abuse]
+I was told (essentially) that me expecting and demanding change in these aspects was not necessarily appropriate, that I needed to be patient for weeks/months/years of incremental progress towards a future ideal state of treating me with slightly less meanness than yesterday, and even if this isn't necessarily earned/justified by my behavior, it is at least not that wrong.
 
-[^church-and-abuse]: I will absolutely write about "The church" and "institutionalized abusive behavior" soon. It's bad. Shame is such a wide-spread tool for behavior control, isn't it?
+Plainly, _this is abuse_, and at minimum, _can be traumatizing_.[^what-is-abuse]
 
-Incidentally, I don't think people who's behavior patterns best roll up as "verbally/emotionally abusive" are 'bad people', I believe it's a _deeply_ ingrained response to trauma, the kind of trauma that hearing about would make your heart break ten different times. That said, the world conforms to structure and power dynamics, and certain patterns invite/dissuade certain classes of interactions.
+[^what-is-abuse]: "Abuse" is the flip side of "neglect", both of which _can_ be harmful to those who experience it, and _can_ induce aggregate emotional damage, which can be called "trauma".
+
+This pattern of behavior is not a difference in personality or preference, or a cosmetic problem that can be managed, or a situation where one can 'agree to disagree'. There are many ameliorative responses to harmful behavior, but denial and minimization is _not within the range of those appropriate responses._
+
+It was frustrating to me, in early, uncertain conversations with others, as I was trying to figure out why things felt so wrong, it felt like key areas of what I was trying to express were particularly difficult to express, and therefore I wasn't making progress on the salient aspects of the pain.
+
+I kept getting unexpected reactions when I brought my evidence and observations and experiences to very close friends, and I think a string of these fumbled conversations made things worse for everyone, not better.[^church-and-abuse]
+
+[^church-and-abuse]: I will absolutely write about "The church" and "institutionalized abusive behavior" soon. It's bad. Shame is such a wide-spread tool for behavior control, isn't it? I don't mean this to imply "Josh was failed by the church in this specific situation" but "the people who comprise the church/it's institutions/Christendom/ are so habituated to certain patterns that boil down to 'verbal abuse', that their 'abuse radar' that normally would be operating is weak/malfunctioning". Shame is _sometimes_ the appropriate response to an event/action, but if one starts using it as a tool on others for behavior control, all sorts of things go wrong with whatever it is one is trying to control. If you don't have a mental model for 'in certain ways, humans seem to often use shame for behavior control' it makes it harder to debug problems that might be rooted in shaming people for behavior control. 🙊
+
+Incidentally, I don't think people who's behavior patterns best roll up as "verbally/emotionally abusive" are 'bad people', I believe it's just a trauma-based series of `perceived-problem:safety-seeking-response` tuples. I am sure you've experienced bad things, done to you or those you love. The world is full of the kind of trauma that hearing about could break your heart ten different ways.[^response]
+
+[^response]:  There's a variety of responses to experiencing trauma/bad things, and those responses are shaped by many factors. Not worth getting into here.
+
+Even assuming the sadness of tragedy and heartbreak and bad behavior and tragic circumstances, the world around us conforms to structure and power dynamics and certain patterns invite/dissuade certain classes of interactions.
 
 I no longer want to participate in patterns of conflict and verbal abuse. I've not quite figured out how to step off the train, but am working on it.
 
@@ -69,11 +84,11 @@ I no longer want to participate in patterns of conflict and verbal abuse. I've n
 
 My marriage has historically been a source/center for/inspiration of all the good things that tend to circulate people who enjoy each other's company and way of being. I've grown more sophisticated in the last two years, in how I perceive relationships (my own and other people's), so the version of me (and Kristi) at 24 years old is very different than me today, at 33, but I can effortlessly see threads of similarity and reasonable evolution in how we'd engaged in the world around us ten years and five years ago, and how we seem to be doing this now.
 
-First, an explanation for the books you're about to see listed: I've always been book-oriented. Even as a ten year old, I read, _a lot_. It was with a small sense of pride that I learned, when I was perhaps 13, that on at least the standardized tests I took as a homeschooler, I read at or above a college level.[^skilled-at-sports]
+First, an explanation for the books you're about to see listed: I've always been book-oriented. Even as a ten year old, I read, _a lot_. It was with a small sense of pride that I learned, when I was perhaps 13, that on at least the standardized tests I took as a homeschooler, I read at or above a college level.[^skilled-at-sports] Since then, I've often used reading to reliably solve many classes of problems in my life.
 
 [^skilled-at-sports]: This didn't lead to ego inflation, I believe, because I immediately thought much less of "college-level reading"; I wasn't impressed (at all) with my own reading - I simply liked to read, and disappear into the worlds I encountered in books. I suppose I was better at reading than some peers, but I saw it as an interests divergence, no more, no less.  The people I knew then and now, who were/are deeply impressive to me from an athletic perspective share a similar approach - they're not necessarily impressed with themselves, even as they know they're _way_ better than most more casual participants of said sport. they simply happen to "enjoy" the kinds of things that make them good at said sport. All that to say, I've "historically read a lot", many years approaching or exceeding 100 books read in that year. In hindsight that's probably too many, but whatever.
 
-Here's some books that, as I've lived the last few years, have come to have particularly high explanatory power for the relationship between external events and internal experiences in my life.
+The list below are some books that, as I've lived the last few years, have come to have particularly high explanatory power for the relationship between external events and internal experiences in my life.
 
 I read at a high enough rate that it's relatively painless (especially related to the potential reward) to 'read the canon'[^read-cannon] in any given domain. I start with one book, and then branch out from there, either thematically or via citations/references. Of course I often digest related podcasts and topical digital content.
 
@@ -101,15 +116,17 @@ There's this book, [Worth The Candle](https://www.goodreads.com/book/show/361461
 
 Frame control might be a topic for a larger conversation some day, but here's a good overview: [Frame Control, by @aella](https://www.lesswrong.com/posts/bQ6zpf6buWgP939ov/frame-control).
 
-June, in _Worth the Candle_, encounters 'memetic threats', which are ideas which if vocalized or considered in a certain way could have a deliterous effect, like a landmine going off.[^shia]
+Juniper, in _Worth the Candle_, encounters 'memetic threats', which are ideas which if vocalized or considered in a certain way could have a deleterious effect, like a landmine going off.[^shia]
 
-Ideas matter. Ideas come from (and go) different places. I think "less social media usage is better than more", but to that end, here's a smattering of links that felt relvant.
+Ideas matter. Ideas come from (and go) different places. I think "less social media usage is better than more", but to that end, here's a smattering of links that felt relevant.
 
 Part of the therapy we've been doing (together and individually) has made use of written notes, and I've always been an aggregator of 'useful ideas'. It's like a smattering of software development notes. They might help others, they certainly help me.
 
-[^shia]: For example: [Shia LaBeouf](https://alexanderwales.fandom.com/wiki/Shia_LaBeouf)
+[^shia]: For example: [Shia LaBeouf](https://alexanderwales.fandom.com/wiki/Shia_LaBeouf). In the book, he's a dangerous entity that can be summoned from another reality (that he usually inhabits) into the 'current reality' and will go on a murderous rampage. He's unkillable, so as a weapon, he's something like a nuclear bomb. In the book,  summoning him (or threatening to) represents a substantial danger.
 
-So, memes and frames matter. I view our relationship from a few of those perspectives. To that end, sometimes I see something that says/expresses a concept in a meaningful/illuminating way. To the degree a concept or idea is difficult to convey, approaching it from many different directions can help shed light on "the thing" we're trying to talk about.
+So, memes and frames matter. Reality is complex, we're always [compressing datastreams according to available heuristics](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity).
+
+I view our relationship through a variety of perspectives and conceptual compressions. To that end, sometimes I see something that says/expresses a concept in a meaningful/illuminating way. To the degree a concept or idea is difficult to convey, approaching it from many different directions can help shed light on "the thing" we're trying to talk about.
 
 ## Attachment theory
 
