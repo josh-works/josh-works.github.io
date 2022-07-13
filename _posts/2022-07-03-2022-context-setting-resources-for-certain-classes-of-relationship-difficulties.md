@@ -6,7 +6,7 @@ date:  2022-07-03 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
 tags: []
-published: false
+published: true
 permalink: 'context-setting-certain-classes-relationship-difficulties'
 image: /images/title_image.jpg
 ---
@@ -39,7 +39,35 @@ Things are trending upwards again[^what-that-means], but there have been a lot o
 
 [^what-that-means]: I know, that's nebulous. Feel free to circle around with an IRL conversation/email/WhatsApp voice message/whatever. As I'm getting a better handle on what's going on (this write-up is a piece of that) I'm getting a better grasp on a peaceful disposition. And perhaps as I get more of a peaceful disposition, I get a better handle on what's going on.
 
-I believe "systems" and "dynamics" are closely related to "complex reactive systems", and thus any discussion of failure or errors is best informed by approaching the issue with the 18 questions/statements of [How Complex Systems Fail: Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety](https://how.complexsystems.fail/)
+### Contributing circumstances
+
+I believe "systems" and "dynamics" are closely related to "complex reactive systems", and thus any discussion of failure or errors is best informed by approaching the issue with the 18 questions/statements of [How Complex Systems Fail: Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety](https://how.complexsystems.fail/).[^complex-systems]
+
+
+
+Every one of these has a huge story behind it, but I don't have the time or desire to talk about them right now.
+
+- it's hard to get pregnant. we had two miscarriages along the way.
+- I got a bad back injury. It was _bad_, and affected me for a long time in profound ways.
+- we bought an old house, moved into it.
+- Kristi's dad unexpectedly passed away in January 2020
+- Covid blew holes in our normal group of relationships and friendships
+- I tried to do like three different hard things at the same time [^hard-things]
+- I was also trying to do a few less-hard things
+
+Throughout all of this, a theme of "emotional abandonment" kept surfacing. Tension and silence dominated my life, in a way that caused active, on-going pain.
+
+[^hard-things]: Here's the hard things:
+
+    1. climbing (I _finally_ had been making gains in pushing climbing grades (not unimportant to me))
+    2: caring _a lot_ about 'the nighborhood'/Golden
+    3: starting a software consulting business.
+    4. getting significantly injured: I kept saying "oh, it's just back pain", and then commenting "and that's why I cannot walk without a big limp" or "I've not stood up straight in months!" and often was met with horror. I ran the Leadville Marathon in 2019. Even after months of rehab, I couldn't "run" 10 steps without pain, and I wasn't able to just... walk, indefinately, without discomfort. Everything started hurting. (Back, neck, knees). I was depressed, and couldn't find the enthusiasm to work out. This was one of the ways I was asking Kristi for help, and felt more or less 'emotionally abandoned' in it.
+    5.
+
+    , and it feels like we "adopted" Golden/Iowa St as 'our' neighborhood. I really wanted to see it thrive, and thought that with our efforts, we could build some real community. (We did! Threw a few parties, invited the neighborhood, and had many gatherings, large and small. These remain the high point of my time in this house.)
+
+
 
 Nature and nurture (genetics and environment) matter, for both of us.
 
@@ -85,7 +113,25 @@ Even assuming the sadness of tragedy and heartbreak and bad behavior and tragic 
 
 I no longer want to participate in patterns of conflict and verbal abuse. I've not quite figured out how to step off the train, but am working on it.
 
-## Books I've read, and that I believe shed light/signal on what's been going on in my marriage
+## Memetics
+
+Memetics describe how an idea spreads, not necessarily if it's correct or incorrect, but how effective it is, relative to many different factors. The map is not the territory and all that, and neither does one framework/conceptual compression of a situation/problem cover all relevant details.
+
+_Ideas matter_. _Words matter_. Ideas can be both good and bad, and effective or ineffective. To that end, below this section, I've got a a smattering of links that felt relevant. These might be the kinds of links I'd text a friend with a question like "what do you think?" or "this reminded me of that thing we were talking about".
+
+These ideas all approach the world from different perspectives, or frames. There's this book, [Worth The Candle](https://www.goodreads.com/book/show/36146179-worth-the-candle?from_search=true&from_srp=true&qid=wogfgw2d0G&rank=1), that is quite good. It smashes some interesting concepts together, in a bit of a fantasy universe, that lead to really thought-provoking ideas around ways we see the world around us. Different ways of seeing things can be
+
+Frame control might be a topic for a larger conversation some day, but here's a good overview: [Frame Control, by @aella](https://www.lesswrong.com/posts/bQ6zpf6buWgP939ov/frame-control). I assert that abusive people engage in unfair aspects of 'frame control', and for many reasons, and in many ways, refuse to evaluate the situation from a different frame.
+
+Part of the therapy we've been doing (together and individually) has made use of written notes, and I've always been an aggregator of 'useful ideas'. It's like a smattering of software development notes. They might help others, they certainly help me. (This document obviously reflects this approach to life.)
+
+So, memes and frames matter. Reality is complex, we're always [compressing data-streams according to available heuristics](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity).
+
+I view my marriage (and all of the many relationships that of course spring up around a marriage) through a variety of perspectives and conceptual compressions. To that end, sometimes I see something that says/expresses a concept in a meaningful/illuminating way. To the degree a concept or idea is difficult to convey, approaching it from many different directions can help shed light on "the thing" we're trying to talk about. Books. "Frameworks". Poems. Thought provoking TikToks.
+
+### Books
+
+What follows is a list of some books, all of which I'd read earlier in my life than I actually did. I believe they shed light/signal on what's been going on in my marriage.
 
 My marriage has historically been a source/center for/inspiration of all the good things that tend to circulate people who enjoy each other's company and way of being. I've grown more sophisticated in the last two years, in how I perceive relationships (my own and other people's), so the version of me (and Kristi) at 24 years old is very different than me today, at 33, but I can effortlessly see threads of similarity and reasonable evolution in how we'd engaged in the world around us ten years and five years ago, and how we seem to be doing this now.
 
@@ -115,33 +161,18 @@ Here's some of the books I've read lately. There's a theme:
 - [No Visible Bruises: What We Don’t Know About Domestic Violence Can Kill Us](https://www.goodreads.com/book/show/33786693-no-visible-bruises)
 - [The Work of Jesus Christ in Anabaptist Perspective: Essays in Honor of J. Denny Weaver](https://www.goodreads.com/book/show/4495703-the-work-of-jesus-christ-in-anabaptist-perspective?ac=1&from_search=true&qid=0gOW87C7Aq&rank=5)
 
-## Memetics
 
-Ideas matter. Ideas can be both good and bad, and effective or ineffective. To that end, below this section, I've got a a smattering of links that felt relevant. These might be the kinds of links I'd text a friend with a question like "what do you think?" or "this reminded me of that thing we were talking about".
-
-These ideas all approach the world from different perspectives, or frames. There's this book, [Worth The Candle](https://www.goodreads.com/book/show/36146179-worth-the-candle?from_search=true&from_srp=true&qid=wogfgw2d0G&rank=1), that is quite good. It smashes some interesting concepts together, in a bit of a fantasy universe, that lead to really thought-provoking ideas around ways we see the world around us. Different ways of seeing things can be
-
-Frame control might be a topic for a larger conversation some day, but here's a good overview: [Frame Control, by @aella](https://www.lesswrong.com/posts/bQ6zpf6buWgP939ov/frame-control).
-
-Juniper, in _Worth the Candle_, encounters 'memetic threats', which are ideas which if vocalized or considered in a certain way could have a deleterious effect, like a landmine going off.[^shia]
-
-Part of the therapy we've been doing (together and individually) has made use of written notes, and I've always been an aggregator of 'useful ideas'. It's like a smattering of software development notes. They might help others, they certainly help me.
-
-[^shia]: For example: [Shia LaBeouf](https://alexanderwales.fandom.com/wiki/Shia_LaBeouf). In the book, he's a dangerous entity that can be summoned from another reality (that he usually inhabits) into the 'current reality' and will go on a murderous rampage. He's unkillable, so as a weapon, he's something like a nuclear bomb. In the book,  summoning him (or threatening to) represents a substantial danger.
-
-So, memes and frames matter. Reality is complex, we're always [compressing datastreams according to available heuristics](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity).
-
-I view my marriage (and all of the many relationships that of course spring up around a marriage) through a variety of perspectives and conceptual compressions. To that end, sometimes I see something that says/expresses a concept in a meaningful/illuminating way. To the degree a concept or idea is difficult to convey, approaching it from many different directions can help shed light on "the thing" we're trying to talk about.
-
-## At it's simplest - anxious and avoidant attachment styles
+### "At it's simplest": Attachment Styles
 
 The involved parties have had a variety of experiences, some of which roll up to verbal/emotional abuse & neglect, through formative years and life circumstances.
 
 We've accumulated trauma.
 
-We have nature/nurture proclivities towards anxious attachment styles (me) and avoidant (her).
+We have nature/nurture proclivities towards [anxious attachment styles](https://www.attachmentproject.com/blog/anxious-attachment/) (me) and [avoidant](https://www.attachmentproject.com/blog/avoidant-attachment-style/) (her). Things are trending towards 'disorganized'.
 
-Things may have turned to "disorganized", and there's lots of "co-regulating in the wrong direction" going on.
+There's lots on the internet and in books about "Attachment Styles", but for a good primer, scroll through [@thesecurerelationship](https://www.instagram.com/thesecurerelationship/)'s instagram. Great stuff there, about how to have a "secure attachment". My definition probably butchers a 'real' definition, but here it is:
+
+> A 'secure attachment' means one is capable of trusting the self and others, in healthy ways, engaging in emotionally intimate relationships, and has an embodied confidence in the value of one's own needs and preferences.
 
 There's this account on instagram, `@thesecurerelationship`, who is wonderful. Here's some prototypical posts:
 
@@ -153,9 +184,11 @@ There's this account on instagram, `@thesecurerelationship`, who is wonderful. H
 
 <script async src="//www.instagram.com/embed.js"></script>
 
-The whole account is great!
 
-## Tiktok links
+
+### Tiktok links
+
+
 
 Tiktok is complicated to me. It's undeniable that it has an affect on the world. Don't know how I feel about it, but it's deff good for "feeling seen" sometimes. To that end, here's a smattering of videos I've felt some kinship with. I'll explain each, eventually. For now, just consider skimming:
 
@@ -192,23 +225,34 @@ The more someone has spent time dealing with issues of individual/organizational
 
 There's two general polarities at play. Focusing on what is _most wrong_ and focusing on what could be _most right_. It's important to focus on what's gone wrong, but I think in any situation of mistreatment (and systemic mistreatment that reads as abuse or neglect) the correct response invites and makes space for evaluating what could be best-case-scenario outcomes, not _just_ reflecting on the past.
 
+Power adheres and follows the _structures_ of the way we move through the world.[^power-structures] For example, check out [https://www.liberatingstructures.com/](https://www.liberatingstructures.com/). The tagline is _increase relational coordination and trust_. This concepts relates to that of a [caucus score](https://chelseatroy.com/2018/03/29/why-do-remote-meetings-suck-so-much/). _People who have certain forms of power can mistreat people who might be deficient of power in related ways_.[^shock]
+
+[^shock]: Lots of people have expressed shock when I've alleged that I've found myself in an emotionally abusive relationship. They say something like "if it's actually abusive, you should leave, full stop, but because I don't think you have to leave, it must not be abusive." They don't say it exactly like that, but it's something close. I can feel them pattern matching on verbal abuse being something that tends to be done by men towards women, and includes a variety of other power dynamics. It's nice being a strong fit young white guy - I can physically defend myself, so even though I know that all physical abuse is proceeded by verbal abuse, _and even though Kristi has made veiled threats of physical violence_, I don't fear physical violence. It's the emotional and verbal component that's been so devastating. It feels like this component is illegible to others. 
+
+[^power-structures]: Oh I cannot wait to expand on this thought. It'll get its own blog post, and it's implications extend far beyond the extent of my marriage, or marriage in general. My marriage is a "downstream effect" of the reality of power, and power structures.
+
 Anyway, here's some quotes:
 
 > There are two kinds of power. One kills the spirit. The other nourishes the spirit. The first is Power Over. The other is Personal Power.
 >
-> _Power Over shows up as control and dominance. Personal Power shows up as mutuality and co-creation._
+> _Power Over_ shows up as control and dominance. _Personal Power_ shows up as mutuality and co-creation.
 >
 > Mutuality is a way of being with another person which promotes the growth and well-being of one's self _and_ the other person by means of clear communication and empathetic understanding.
 >
 > Co-creation is a consciously shared participation in life which helps one reach one's goals.
 
+C.S. Lewis said:
 
+> To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.
 
 
 ## Substacks and blogs
 
-- [Epistemic Legibility](https://news.ycombinator.com/item?id=30802349)
+- [Epistemic Legibility](https://news.ycombinator.com/item?id=30802349) _relates to 'being able to be proven wrong', how important that is in high-stakes conversation/conflict_
 - [Three Hundred Ways It Can Hurt to Be a Man — Index](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to-d1d)
+- [My Recent Divorce, and/or Dior Homme Intense](https://sashachapin.substack.com/p/my-recent-divorce-andor-dior-homme)
+- [Divorce Brain](https://sashachapin.substack.com/p/divorce-brain)
+- [emotional neglect is a monster of a thing](https://www.reddit.com/r/CPTSD/comments/vyb19q/emotional_neglect_is_a_monster_of_a_thing/)
 
 ## So what? Now what?
 
@@ -222,8 +266,36 @@ The hardest thing for me, around spending time with other people, has been feeli
 
 I generally delight in and yearn  for _weighty conversations of meaningful things_, and am happy to bear witness/hold space for whatever comes up, as needed, so it has been hard for me to endure not talking about how the most important thing in my life was withering and dying, the effects it was having on me, and how it impacted me to have a partner would pretend (to me and others) that "everything is fine".
 
-So, _things are not fine._
+So, _things are not fine._ Even in that, I'm finding ways to be okay. I put a lot of eggs in one basket, with a certain expectation of how things would go, and I've been consistently, catastophically wrong in how things would go.
+
+It's been _deeply difficult_ to wrap my mind around this. I've plumbed the depths of what 'bad mental health' looks like, and I would like to never do that again. I'm _deeply_ aware of instances now of verbal abuse, or coercion, and on principle call it out when I see it. (For example, I now comment upon self deprecating humor. If a friend says something about him/herself that would be rude to say about someone else, I say something to the extent of: 'I witness that criticism of yourself and do not accept it.')
 
 I've gotten dramatically more comfortable with the idea of divorce than I once was, and as things continue to go unresolved, I continue to move in that direction.
 
+# FAQ
+
+**OMG you're considering divorce why???**
+
+It's complicated. Please see above.
+
+**OMG you're still married why have you not gotten a divorce yet???**
+
+It's complicated. I'm finding boundaries. I have _extensive_ confidence in people's abilities to learn and change. It's a blessing and a curse.
+
 # Footnotes
+
+[^complex-systems]: Here's some of the bullet points from [how complex systems fail](https://how.complexsystems.fail/) but first, know that 'marriages' or 'relationships' share lots of commonalities with 'complex systems', so any of the principles for 'more common complex systems', like a factory or power generation facility are not _completely dissimilar_ to a marriage/family unit. Here's some quotes. As you read 'systems', in your mind, hear 'relationships':
+
+    > Complex systems contain changing mixtures of failures latent within them.
+    >
+    > Catastrophe is always just around the corner.
+    >
+    > Hindsight biases post-accident assessments of human performance.
+    >
+    > Human operators have dual roles: as producers & as defenders against failure.
+    >
+    > Actions at the sharp end resolve all ambiguity.
+    >
+    > Change introduces new forms of failure.
+    >
+    > People continuously create safety.
