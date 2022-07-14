@@ -99,3 +99,4 @@ more notes to come soon!
 - [How Sidekiq really works](https://paweldabrowski.com/articles/how-sidekiq-really-works)
 - [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
 - [Tips on Sidekiq Queues (Phil.tech)](https://phil.tech/2016/tips-on-sidekiq-queues/)
+- [Sidekiq and Background Jobs for Beginners](https://josh.works/sidekiq-and-background-jobs-in-rails-for-beginners)
