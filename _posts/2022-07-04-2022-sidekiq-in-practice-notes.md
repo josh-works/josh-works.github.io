@@ -12,7 +12,7 @@ image: /images/title_image.jpg
 issue_id: 55
 ---
 
-Working through [https://nateberk.gumroad.com/l/sidekiqinpractice](https://nateberk.gumroad.com/l/sidekiqinpractice).
+Working through [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice).
 
 Similar to what I did for [Noah Gibb's Rebuilding Rails Course](https://www.intermediateruby.com/rebuilding-rails-course-walkthrough)
 
@@ -96,4 +96,6 @@ more notes to come soon!
 
 ### Related Reading
 
-- []()
+- [How Sidekiq really works](https://paweldabrowski.com/articles/how-sidekiq-really-works)
+- [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice)
+- [Tips on Sidekiq Queues (Phil.tech)](https://phil.tech/2016/tips-on-sidekiq-queues/)
