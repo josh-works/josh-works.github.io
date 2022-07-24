@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Context Setting for certain classes of relationship difficulties"
+title:  "Context Setting for certain patterns & classes of relationship difficulties"
 description: "if you're having problems, maybe some of this will help."
 date:  2022-07-03 06:00:00 -0700
 crosspost_to_medium: false
-categories: []
+categories: [relationships]
 tags: []
-published: false
-permalink: 'context-setting-certain-classes-relationship-difficulties'
+published: true
+permalink: 'context-setting-around-certain-classes-relationship-difficulties'
 image: /images/title_image.jpg
 ---
 

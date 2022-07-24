@@ -2,7 +2,7 @@
 layout: post
 title: Rules for Fighting Fair
 categories:
-- home
+- relationships
 tags:
 - arguments
 - fighting
@@ -56,7 +56,7 @@ When you're fighting, it's easy to think they hate you, and that they are a mise
 
 Don't call them names, or ascribe negative character traits.
 
-They are not stupid, they did something that you need help understanding. 
+They are not stupid, they did something that you need help understanding.
 
 They are not disrespectful, they did something that seemed disrespectful.
 
