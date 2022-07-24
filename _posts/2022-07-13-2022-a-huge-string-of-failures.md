@@ -84,4 +84,10 @@ This is a huge failure. It felt like Kristi was treating the aspects of the hous
 
 I've failed with the house, and with what I'd wanted to do in the community.
 
-## 
+I'll need to add a reference to _The Politics of Jesus_, because I was strongly motivated to _spend real wealth_ on things that mattered. So I put real money into this effort.
+
+Over $16,000.
+
+I'd hoped to get tons of great stuff out of it, I saw ways I could be successful, but at this point Kristi had gone far into verbal abuse, and was extremely avoidant of all topics that made her uncomfortable. This was one of them. I've tried to talk through this with like two different counselors and friends, but it's big, complicated, and if she wants to block the conversation from happening, she's able to do so.
+
+Where I'd hoped for partnership, I've found betrayal. It sucks. This project is the first and largest loss. We've also now spent (or wasted) over $10k on therapy, weeks of PTO, and the opportunity cost of our relationship difficulties is _staggering_.
