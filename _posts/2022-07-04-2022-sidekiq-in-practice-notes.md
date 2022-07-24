@@ -7,12 +7,14 @@ crosspost_to_medium: false
 published: true
 categories: [urbanism]
 tags: [dirt, place-making, golden]
-permalink: 'experiments'
+permalink: 'sidekiq-in-practice-notes'
 image: /images/title_image.jpg
 issue_id: 55
 ---
 
 Working through [Sidekiq in Practice](https://nateberk.gumroad.com/l/sidekiqinpractice).
+
+Companion notes in a different repo for that course: https://github.com/josh-works/sidekiq_in_practice/tree/main
 
 Similar to what I did for [Noah Gibb's Rebuilding Rails Course](https://www.intermediateruby.com/rebuilding-rails-course-walkthrough)
 
