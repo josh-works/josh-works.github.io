@@ -4,7 +4,7 @@ title:  "Notes on, and quotes from: The Politics of Jesus (Yoder, 1972, 1994)"
 description: ""
 date:  2022-07-24 06:00:00 -0700
 crosspost_to_medium: false
-published: false
+published: true
 categories: [book_notes]
 tags: [jesus_christ, ethics]
 permalink: 'the-politics-of-jesus-notes-quotes'
