@@ -4,7 +4,7 @@ title:  "How to Log Dead Sidekiq jobs to Sentry"
 description: ""
 date:  2022-07-13 06:00:00 -0700
 crosspost_to_medium: false
-published: false
+published: true
 categories: [programming]
 tags: [rails, sidekiq, sentry]
 permalink: 'how-to-log-dead-sidekiq-jobs-to-sentry'
@@ -24,7 +24,6 @@ end
 
 So, tossed this into our `config/sidekiq.rb`
 
-
 ```ruby
 config.death_handlers << ->(job, ex) do
   # job keys:
@@ -36,18 +35,4 @@ config.death_handlers << ->(job, ex) do
 end
 ```
 
-We've got a few different Sidekiq configurations, that we'll need to make sure work correctly, so we log what we want:
-
-```ruby
-class SomeJob
-  include Sidekiq::Worker
-  include Sidekiq::Throttled::Worker
-
-  sidekiq_options queue: 'system',
-                  retry: 0,
-                  dead: false,
-                  lock: :until_expired,
-                  lock_ttl: 3.days,
-                  on_conflict: :log,
-                  lock_args_method: :lock_args
-```
+So far, so good.

@@ -37,6 +37,32 @@ class UpdateGivenViewToVersion5 < ActiveRecord::Migration[6.0]
 end
 ```
 
+```ruby
+# app/models/given_view.rb
+class GivenView < ApplicationRecord
+  belongs_to :other_thing
+
+  def self.refresh(concurrently: true)
+    Scenic.database.refresh_materialized_view(table_name, concurrently: concurrently, cascade: false)
+  end
+
+  def readonly?
+    true
+  end
+end
+```
+
+```ruby
+# spec/models/given_view_spec.rb
+# frozen_string_literal: true
+
+require 'rails_helper'
+
+RSpec.describe GivenView, type: :model do
+
+end
+```
+
 ## Resources/extra reading
 
 - [Effectively Using Materialized Views in Ruby on Rails](https://pganalyze.com/blog/materialized-views-ruby-rails)
