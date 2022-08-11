@@ -59,7 +59,19 @@ end
 require 'rails_helper'
 
 RSpec.describe GivenView, type: :model do
+  context 'v6 refinements' do
+      it "correctly filters out certain objects" do
+        object_to_be_excluded = create(
+          :object,
+          :refinement_1,
+          :refinement_2,
+          association: associated_object
+        )
 
+        described_class.refresh(concurrently: false)
+
+        expect(described_class.all.pluck(:id)).not_to include(object_to_be_excluded.id)
+      end
 end
 ```
 

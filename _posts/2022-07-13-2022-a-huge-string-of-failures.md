@@ -9,7 +9,6 @@ categories: [failure]
 tags: [golden]
 permalink: 'many-failures'
 image: /images/title_image.jpg
-
 ---
 
 I had plans, and it's felt like at this moment in time, _most of them are failing/have failed_. Here's a list, and if you see yourself as one of the affected persons, please know I am genuinely sorry!
@@ -22,16 +21,32 @@ The worst is when it feels like my _efforts to help_ literally make things _much
 
 I'm getting a bit expansive here - these don't all cause me equal pain (thank god) and some of these failures might be a bit tongue in cheek. Levity helps when things hurt.
 
-### A long list of ways I've failed, mistakes I've made
+# A long list of ways I've failed
 
-_again, it's cathartic to get things on paper. I might well be overly self-centered (see below) but I've historically been comfortable 'baring my soul'. And we've read (with complete boredom, mild disinterest, and rapt attention) other people's stories of their own failures.
+_again, it's cathartic to get things on paper. I might well be overly self-centered (see below) but I've historically been comfortable 'baring my soul'. And we've all read (with something like either complete boredom, mild disinterest, and rapt attention) other people's stories of their own failures._
 
 
-1. I've tried to help many people, in a variety of ways. Folks going through Turing, or otherwise entering the software development industry. I have absolutely felt like I've made errors, or failed to provide some bit of help that really could have made a difference, and to the degree the person experiences less-good outcomes, I feel responsible. I've definately been successful in helping folks, and many people would have no idea that anything has gone wrong for anyone.
-1. my marriage. Feels like I really, really failed people I wanted to do nothing but love really well. And either I don't understand why, or I couldn't prevent it, or I'm an inhumane clueless monster/narcicist doomed to re-make all the same mistakes my dad made, no matter how badly I want to not do that.
-1. my family. No matter how things go, we'll always be in each other's life, and to the degree that I cause them pain, in justified and unjustified ways, I certainly feel some burden for that.
+##  my marriage
 
-## 648 Iowa St
+Feels like I really, really failed people I wanted to do nothing but love really well. (Kristi, and Kristi's family). We're rapidly heading towards divorce, and the last two years have been complete relationship hell.
+
+And either I don't understand why, or I couldn't prevent it, or I'm an inhumane clueless monster/narcissist doomed to re-make all the same mistakes my dad made, no matter how badly I want to not do that.
+
+It's been burning to the ground catastrophically.
+
+Where once there was perceived friendship, there's resentment and enmity.
+
+Kristi has hardly spoken a gentle word to me in two years, and is actively pushing me out of our home and marriage.
+
+She has spoken to me with anger nearly daily, or has withheld words and kindness.
+
+I've begged her for gentleness, and in the past I used to beg her to affirm anything of value or worth in me, our lives, our marriage, the hopes and dreams we once had.
+
+She's been persistently unwilling or unable to do this, and it's devastated me. I've been at times suicidal and despondent, deep in a pit of despair, for how she's treated me. Things are _so_ bad. High-conflict, we don't even talk anymore. We've spent days, weeks, and months with hardly any interaction, though she's always been happy to pretend that things are find to others, even trusted friends that have known about our difficulties.
+
+I obviously played a role in the failure of my marriage. I've been unable to save it, despite strenuous efforts. I now regret how long I clung to the hope that things could get better, instead of ending it in a more gentle way long ago. The longer things go on like this, the worse things get.
+
+## 648 Iowa St (the house across the street)
 
 My god. Lets talk about this. I ended up "buying" a family out of getting evicted, because they didn't have any options for where to go. I committed to making the rent gap that was filled by some departing tenants (as the tenants left, the problems leading to the landlord wanting to get rid of the property were going away).
 
@@ -39,7 +54,7 @@ My LinkedIn bio says "software developer". I was unemployed at the time, when I 
 
 I felt like I'd be able to float $1600/mo for a while. My last job was making $5800/mo (post tax) and Kristi was working too, of course.
 
-We'd just purchased an _expensive_ house, the mortgage was not cheap, but we wanted to be invested in the neighborhood, I didn't want the properties across the street to be torn down (the tenants evicted), etc.
+We'd just purchased an _expensive_ house, the mortgage was not cheap, but we wanted to be invested in the neighborhood, I didn't want the properties across the street to be torn down (the tenants evicted), etc. I know a lot about housing, ethics, and the deeply American trait of ruining the lives of poor renters, and wanted to mix my life with theirs in an effort of preventing these bad outcomes.
 
 A point of constant tension between Kristi and I has been that I've wanted to be _deeply invested_ in the neighborhood, and try to make various projects be fun and work out. This has been in my mind the inspiration for the parties we used to host, the donuts and coffee neighborhood gatherings we'd organize, and the shared meals with friends we generally enjoyed participating in.
 
@@ -49,22 +64,34 @@ Very early in the process, Kristi had said something like:
 
 > Do whatever you want, but don't you dare spend money on them!
 
-(in anger, aggressively, and as she 'shut down the conversation'). She maintained a similar defensiveness and kept me away as I went through the following days and weeks of conversations with the involved parties, trying to see if there was a way to keep this eviction from going through.
+(in anger, aggressively, and as she 'shut down the conversation', in the same way that she would plainly refuse to discuss many topics I wanted us to discuss). She maintained a similar defensiveness and kept me away as I went through the following days and weeks of conversations with the involved parties, trying to see if there was a way to keep this eviction from going through.
 
-I'm aware of our earning power, our privilege. We've spent (semi-casually) up to $6k on gifts/donations in the pass (one-off), and regularly spent thousands of dollars in a given month helping others. So, this commitment felt pretty on-brand, and I saw a ton of ways that it could have worked out great.
+I'm aware of our earning power, our privilege. We've spent (semi-casually) up to $6k on gifts/donations in the past (one-off), and regularly spent thousands of dollars in a given month helping others. So, this commitment felt pretty on-brand, and I saw a ton of ways that it could have worked out great.
 
 See, I'm deeply interested in the 'dynamics' of how cities work, and totally saw the events as just another instance of an oppressive system chewing through all the involved parties to destructive ends.
 
-I jumped in, halted the eviction, and every time this house came up, Kristi gave me icy silence and said hurtful things about it. Acted like I was spending on hookers and cocaine, instead of trying to keep three adults and a child from losing their house.
+I jumped in, halted the eviction, and every time this house came up, Kristi gave me icy silence and said hurtful things about it. Acted like I was spending on hookers and cocaine, instead of trying to keep 8 adults and a child from losing their housing. She's accused me of really bad things, and has never apologized or even acknowledged her own stonewalling of these conversations, and other conversations.
 
 I believe that, in general, if people take steps to care for their immediate family and immediate neighbors, that is the right thing to do.
 
-_I've found myself married to someone who is not interested in taking steps to care for immediate family and neighbors_.
+_I've found myself married to someone who is not interested in taking steps to care for immediate family and neighbors_. I've asked her at times for emotional support, encouragement, a hug, tender words, verbal affirmations, or any message that showed she valued me, saw me, supported me.
+
+Those requests would be _strongly_ rejected. I spent a long time internalizing this rejection and abandonment, and it was painfully similar to repeated experiences I experienced growing up.
+
+In the space of a little over a year, I lost my father-in-law to a heart attack, I went 'no contact' with my own verbally and emotionally abusive father, and found my wife treating me as an enemy, in a persistent and durable fashion, while pretending to others that our relationship was as good as it's ever been. We used to be able to talk openly with others about what challenges we were having in our marriage, and then... that stopped.
+
+She can enforce silence in our marriage, but I don't have to participate in that silence.
+
+We are actively pursuing divorce. It's been like a bomb going off in my life. I find my ability to focus at work severely diminished, and the pleasure I once took from many day-to-day activities is completely gone. I feel unlovable, broken, deeply flawed, and i fear never being in a loving relationship again.
+
+My daughter Eden is deeply important to me. I plan on being an available and present father, and loving her as well as I can love anyone. I am so sad over the state of my relationship with Kristi.
 
 
 ## A long sabbatical to try to 'start something'
 
-Phew. This feels like the biggest failure. I quit my last full-time job as Covid was breaking out. I'd had a bunch of plans for what the sabbatical would look like, none of them worked out, and I failed to re-build good plans. I kept floating along on the path of least resistence, and trying to make certain things work.
+I quit my last full-time job as Covid was breaking out. I'd had a bunch of plans for what the sabbatical would look like, none of them worked out, and I failed to re-build good plans.
+
+I kept floating along on the path of least resistance, and trying and failing to make certain things work.
 
 I gave Turing a proposal to work hard on their ruby-exercises repositories, to help students self-serve into a higher degree of readiness for the program. Early results for the free work I'd done for them, and the paid work I did for them, was extremely promising. For a variety of reasons, it didn't work out, and in a way that hurt. Either I keep getting myself involved with unhealthy organizations, or I have this massive blind spot to how I come off to others, and keep stepping on toes in a really visible and obvious way, like walking around with toilet paper trailing from your shoe.
 
@@ -72,15 +99,33 @@ After Turing, I kept trying other projects. I learned a ton, and I'm willing to 
 
 I was also in the midst of being verbally abused by Kristi nearly daily, and felt my hope and optimism and confidence and sense of joy and playfulness being slowly stripped from me. As failure/success got laden with conditional approval (and shame) from Kristi, because I wasn't able to recognize it as such, I just kept sliding, and toiling away from a position of sadness, depression, and loneliness.
 
+I had to routinely pivot from being yelled at by my wife, her screaming horrible things at me, to hopping on a video call with an executive or CTO of a software company, wiping tears off my face as the zoom call started. My mental wellbeing was devestated, repeatedly, by her unapologetic mistreatment of me. I've been habituated to mistreatment, for complicated reasons, from childhood. I kept thinking that eventually Kristi would see the decline of our marriage, of me, and would relinquish using anger and verbal violence against me, but that has not happened. Things keep not only "not changing" but "getting actively worse".
+
+She will rail against me, say verbally devastating things, try to throw me out of the house, and then when I do leave accuse me of abandoning her and Eden. We got married under certain terms, and she's violated those terms repeatedly. Our marriage exists on paper only.
+
+Part of why I am writing this all publicly is so that one day, if Eden cares to try to understand what happened to her parent's relationship, I can have my side of the story recorded. I keep clinging to hope that things can be repaired, and then in a novel and new situation, Kristi treats me with naked hostility and anger. I've already decided that I will not kill myself, so when I think through the recent times where I was being treated so poorly that suicide looked like a desirable outcome, I decided that it would be better to end the relationship than kill myself.
+
+I have a sensitive and tender heart, and am driven by beauty, joy, a desire for growth and improvement and building beautiful things, especially that will last for a long time. Kristi has been hacking away at my wellbeing for years, and I can no longer remain reachable by her. She's implied that she is planning for a high-conflict divorce, and it's extremely hard for me to feel any sense of optimism or hope about the future, but I know it's theoretically possible to get there.
+
+I am so sad about the many dreams that I thought we were close to achieving, in purchasing the house we moved into. Her unrelenting anger, refusal to treat me with any kindness, and the collective failure of many in our immediate community to correctly identify her anger as a source of great trouble, has led to me withdrawing from her entire extended family, much of my immediate and extended family, and a collection of mutual friends.
+
+I feel like my life has been burned to the ground. The emotional abandonment I've felt for the last few years has been absolutely devastating.
+
+If you feel like _you_ are in a verbally abusive relationship, I'd encourage you to simply get out. End the relationship. Insert distance. You could always re-enter the relationship if you wanted to later, but the most dangerous signal you could send to yourself and the other person is that abusive behavior is tolerated. It'll devestate you, and it'll devestate them.
+
 ## A house and investing in the community
 
 We bought an old, crappy house (from 1955) with tons of old house problems. I thought Kristi and I were going to work on it together, playing music, hanging out, enjoying time and work on something important to our family and each other.
 
-Instead, I got extreme anger, a refusal to work together, and pretty negative emotional energy at every step of the way. I am responsible for the projects I undertook, but until this point in my life, Kristi and I had pursued projects in a _shared_ way, with positive emotional energy around it.
+Instead, I got extreme anger, a refusal to work together, and pretty negative emotional energy at every step of the way. Criticism and contempt. Open refusal to meet requests. I am responsible for the projects I undertook, but until this point in my life, Kristi and I had pursued projects in a _shared_ way, with positive emotional energy around it.
 
-I kept being caught by surprise, as there was negligence, frustration, and anger being poured out. I absorbed so much of the stress that Kristi was projecting into the environment around her. I eventually ended up feeling simultaneously useless, incompetent, unlikable, unworthy to be helped, and devoid of interesting or beautiful visions for the future, based on how Kristi was treating me. Eventually I had to realize these cannot all be true, and started taking steps to not feel these things so strongly.
+I kept being caught by surprise, as there was negligence, frustration, and anger being poured out. I absorbed so much of the stress that Kristi was projecting into the environment around her. I'd be walking on eggshells, sad and alone. I have cried almost every day for two years.
 
-This is a huge failure. It felt like Kristi was treating the aspects of the house I was most excited about (a backyard garden, hosting friends, parties, playing games, reading books together in the morning on our back porch) with disinterest or shame, and that led to me feeling like I needed to 'hide' these interests of mine from her, to keep the peace in the relationship. Hiding those things did _not_ keep the peace, and made me feel much worse, as I tried to become a version of someone that would be less triggering to her than I was.
+I eventually ended up feeling simultaneously useless, incompetent, unlikable, unworthy to be helped, and devoid of interesting or beautiful visions for the future, based on how Kristi was treating me. Eventually I had to realize these cannot all be true, and started taking steps to not feel these things so strongly.
+
+This is a huge failure. It felt like Kristi was treating the aspects of the house I was most excited about (a backyard garden, hosting friends, parties, playing games, reading books together in the morning on our back porch, a composting toilet) with disinterest or shame, and that led to me feeling like I needed to 'hide' these interests of mine from her and my friends, to keep the peace in the relationship.
+
+Hiding those things did _not_ keep the peace, and made me feel much worse, as I tried to become a version of someone that would be less triggering to her than I was.
 
 I've failed with the house, and with what I'd wanted to do in the community.
 
@@ -91,3 +136,37 @@ Over $16,000.
 I'd hoped to get tons of great stuff out of it, I saw ways I could be successful, but at this point Kristi had gone far into verbal abuse, and was extremely avoidant of all topics that made her uncomfortable. This was one of them. I've tried to talk through this with like two different counselors and friends, but it's big, complicated, and if she wants to block the conversation from happening, she's able to do so.
 
 Where I'd hoped for partnership, I've found betrayal. It sucks. This project is the first and largest loss. We've also now spent (or wasted) over $10k on therapy, weeks of PTO, and the opportunity cost of our relationship difficulties is _staggering_.
+
+I cannot recall Kristi issuing a sincere apology in the last two years for anything she's said or done to me. This relationship is _extremely over_ under those terms. She's now been stating that "for religious reasons" she'd refuse to sign divorce papers, though her religion (which has very little overlap with my beliefs about the life of Jesus Christ, and how the things he said and did should affect the ethical stance of those who claim to follow him) never precluded her from tearing me to pieces with anger, and her religion never was enough to generate an apology or desire to change her behaviors.
+
+## I withdrew from, and abandoned, many friendships and relationships
+
+There's this phenomena where someone with an insufficiently developed sense of self, coupled with unhealthy coping mechanisms, when faced with a sufficiently hostile presence from loved ones, internalizes their abandonment of him/her into "self-abandonment".
+
+That leads to depression, withdrawal, shame, a visceral sense of being wrong, broken, unfit, unlovable. I've felt this deeply for a long time. I saw a friend for the first time in a while, and I mentioned casually (as I will casually mention to anyone who asks) that I'd been severely depressed for a while, and he was _shocked_. He said "You? You don't seem prone to depression _at all_, and the Josh I remember was vibrant, full of life, relationally-oriented, and eager to engage with the world."
+
+This was a kindness to me, as that version of myself seems so long gone I barely remember it ever having happened. I recognize intellectually that it was the case, but I cannot get there emotionally. I hope to rebuild my sense of self someday, but it'll take a while.
+
+In the midst of all this difficulty, especially because of the sense of shame that Kristi injected in the situation, I'd not tell others what was going on. After all, if someone says "how's it going", and the moment I say anything true, I break down in tears, and I don't like burdening others with my emotions (because Kristi has verbally devastated me repeatedly for 'burdening her with my emotions'), I found it easier to simply let phone calls go unanswered, emails to go unresponded to, texts go unresponded to.
+
+Many of you that might read these words have received these non-responses.
+
+# My new normal for consensual relationships with others
+
+I mention "consensual relationships", because all voluntary relationships are consensual. For years Kristi treated me in ways that I would never permit an employer or a friend to treat me, but because I had committed _my entire life_ to her and our marriage, I tolerated mistreatment, expecting that if I was patient enough and waited long enough, something would change. She'd shake off her depression, a trusted friend might tell her to snap out of it, or something would happen that would cause our relationship to trend in a better direction.
+
+## red flags I will be watching for going forward
+
+Despite how difficult it is for me to imagine ever being in a healthy and supportive relationship, I know that's the abandoment-depression-malaise speaking. I tend to return to a reasonably optimistic emotional set-point when I get a respite from mistreatment, and I am eager to spend my life energy pursuing joy and meaning. I hope to do it some day with someone by my side, as a friend and fully trusted partner. I may never get married again, as I've now seen the tremendous downsides of getting involved with someone who might turn on you.
+
+So, here's the red flags I'll watch for going forward:
+
+- your partner or friend expresses an explicit, stated refusal to change how they relate to you, or to even negotiate on what changes might be appropriate
+- after a relationship rupture, there is not relationship repair, where the outcome is you feeling an embodied sense of peace and a belief that they genuinely regret harming you
+- expressing what went wrong in a way that leaves the door open for them understanding and apologizing for the impact they had on you doesn't lead to an apology, but leads to defensiveness.
+- they don't want your feedback, and believe it's appropriate to reject it, because they don't give you feedback. That's a near guarantee that they're letting resentment grow, wittingly or unwittingly.
+- they cannot verbalize or recognize the affect that their internal emotional state might have on the world around them
+- They refuse to engage in any resources you might share about building towards a healthier relationship, but instead insist on doing whatever feels right to them
+- someone has biting and/or a harsh sense of humor
+
+Life is short. Spend it alone, or with someone who adds to your life. Be very careful with who you give yourself to.
