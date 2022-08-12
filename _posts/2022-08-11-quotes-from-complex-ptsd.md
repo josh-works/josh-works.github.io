@@ -256,7 +256,7 @@ In this vein, I believe that many substance and process addictions also begin as
 
 How do traumatically abused and/or abandoned children develop Cptsd? While the origin of Cptsd is most often associated with extended periods of physical and/or sexual abuse in childhood, my observations convince me that ongoing verbal and emotional abuse also causes it.
 
-[Many dysfunctional parents react contemptuously to a baby or toddler's plaintive call for connection and attachment. Contempt is extremely traumatizing to a child, and at best, extremely noxious to an adult.
+[Many dysfunctional parents react contemptuously to a baby or toddler's plaintive call for connection and attachment. Contempt is extremely traumatizing to a child, and at best, extremely noxious to an adult.]
 
 Contempt is a toxic cocktail of verbal and emotional abuse, deadly amalgam of denigration, rage and disgust. Rage creates fear, and disgust creates shame in the child in a way that soon teaches her to refrain from crying out, from ever asking for attention. Before long, the child gives up on seeking any kind of help or connection at all. The child's bid for bonding and acceptance is thwarted, and she is left to suffer in the frightened despair of abandonment.
 
@@ -264,7 +264,7 @@ Particularly abusive parents deepen the abandonment trauma by linking corporal p
 
 Furthermore, Cptsd can also be caused by emotional neglect alone. This key theme is explored at length in chapter 5. If you notice that you are berating yourself because your trauma seems insignificant compared to others, please skip ahead to this chapter and resume reading here upon completion.
 
-Emotional neglect also typically underlies most traumatizations that are more glaringly evident. Parents who routinely ignore or turn their backs on a child's calls for attention, connection or help, abandon their child to unmanageable amounts of fear, and the child f eventually gives up and succumbs to depressed, death-like feelings of helplessness and hopelessness.
+Emotional neglect also typically underlies most traumatizations that are more glaringly evident. Parents who routinely ignore or turn their backs on a child's calls for attention, connection or help, abandon their child to unmanageable amounts of fear, and the child eventually gives up and succumbs to depressed, death-like feelings of helplessness and hopelessness.
 
 These types of rejection simultaneously magnify the child's fear, and eventually add a coating of shame to it. Over time this fear and shame begets a toxic inner critic that holds the child, and later the adult, totally responsible for his parents' abandonment, until he becomes his own worst enemy and descends into the bowels of Cptsd.
 
