@@ -4,7 +4,7 @@ title:  "A huge string of failures and mistakes"
 description: "In which I outline many, many ways I've failed"
 date:  2022-07-13 06:00:00 -0700
 crosspost_to_medium: false
-published: false
+published: true
 categories: [failure]
 tags: [golden]
 permalink: 'many-failures'
@@ -13,7 +13,7 @@ image: /images/title_image.jpg
 
 I had plans, and it's felt like at this moment in time, _most of them are failing/have failed_. Here's a list, and if you see yourself as one of the affected persons, please know I am genuinely sorry!
 
-I've had some things that have felt very avoidable, and very unavoidable, go wrong. In all cases, it _feels_ like I'm completely to blame, and I feel big senses of guilt and having failed other people in really meaningful ways.
+Of all that has gone wrong, some feels very avoidable, some feels very unavoidable, and some is unknown. In many cases, especially when my "inner critic" is running the show, it _feels_ like I'm completely to blame, and I feel big senses of guilt and having failed other people in really meaningful ways.
 
 I know that not all of these are completely my fault, and our failures don't define us, and it's okay to make mistakes
 
@@ -23,22 +23,32 @@ I'm getting a bit expansive here - these don't all cause me equal pain (thank go
 
 # A long list of ways I've failed
 
-_again, it's cathartic to get things on paper. I might well be overly self-centered (see below) but I've historically been comfortable 'baring my soul'. And we've all read (with something like either complete boredom, mild disinterest, and rapt attention) other people's stories of their own failures._
+_As another aside: it's cathartic to get things on paper._
+
+_I might very well be overly self-centered, but I've historically been comfortable 'exposing inner state', and in a desire to rebuild a sense of a coherent narrative of my own life, especially one that makes sense to others, listing the highlights of failures is helpful. I often feel an intense desire to be able to explain some of this to others, especially in a way that is generous to me. (The written word, my own website, across the time and rounds of editing afforded by this format)_
 
 
 ##  my marriage
 
-Feels like I really, really failed people I wanted to do nothing but love really well. (Kristi, and Kristi's family). We're rapidly heading towards divorce, and the last two years have been complete relationship hell.
+I feel that I really, really failed people I wanted to do nothing but love really well.
 
-And either I don't understand why, or I couldn't prevent it, or I'm an inhumane clueless monster/narcissist doomed to re-make all the same mistakes my dad made, no matter how badly I want to not do that.
+Kristi, and Kristi's family. Eden, in some ways.
 
-It's been burning to the ground catastrophically.
+Kristi and I are rapidly moving towards a divorce, with greivous damage having been done to the relationship and each other across the last few years. I long thought it was quite preventable, avoidable, repairable, etc, but can endure being wrong for so long.
+
+The last two years have been complete relationship hell. Kristi would probably agree, though for obvious reasons I would encourage you to speak with her independently to gut-check anything I might say. Her experience of our marriage and relationship is hers, and valid, just as my experience of it is my own, and valid.
+
+It's been burning to the ground catastrophically. Basically, the abandonment emotional neglect that we both experienced as children began to be forcefully replayed in our marriage, for a variety of reasons, with 2020 being a year of particularly visible escalation of harmful trends. In different ways, we both experienced abandonment from crucial caretakers. We brought plenty of trauma into our marriage when we got married in 2012; at the time we lacked a lot of the tools to deal with the trauma healthfully.
+
+We spun our wheels for a while in some ways, while gaining traction in others. Eventually, in 2020, the wheels came off. I needed emotional intimacy and freedom to experience emotions in a way that Kristi wasn't able to support, and she experienced those emotions and need for emotional intimacy as a threat, and responded with fight and freeze responses. Things deteriorated, in ways that felt so preventable to me.
 
 Where once there was perceived friendship, there's resentment and enmity.
 
-Kristi has hardly spoken a gentle word to me in two years, and is actively pushing me out of our home and marriage.
+Kristi has hardly spoken a gentle word to me in two years, and is actively pushing me out of our home and marriage. [^claims-of-abuse]
 
-She has spoken to me with anger nearly daily, or has withheld words and kindness.
+[^claims-of-abuse]: i've observed a phenomina where at times these claims trigger extremely defensive reactions in others. I'm not here to moralize about ethical/unethical behavior. I'm not character assassinating, I'm _describing a pattern of behaviors_, in the conceptual compression that makes most sense for me.
+
+She has spoken to me with anger nearly daily, and has withheld words of kindness,
 
 I've begged her for gentleness, and in the past I used to beg her to affirm anything of value or worth in me, our lives, our marriage, the hopes and dreams we once had.
 
@@ -48,11 +58,17 @@ I obviously played a role in the failure of my marriage. I've been unable to sav
 
 ## 648 Iowa St (the house across the street)
 
-My god. Lets talk about this. I ended up "buying" a family out of getting evicted, because they didn't have any options for where to go. I committed to making the rent gap that was filled by some departing tenants (as the tenants left, the problems leading to the landlord wanting to get rid of the property were going away).
+My god. Lets talk about _this_.
 
-My LinkedIn bio says "software developer". I was unemployed at the time, when I started this project, but had just received two job offers (that, in hind sight, I should have taken the other one) that came in at $120k.
+I ended up "buying" a family out of getting evicted, and purchased an option (literally, in the financial sense) on the property, hoping to do "something interesting", because they didn't have any options for where to go. I committed to making the rent gap that was filled by some departing tenants (as the tenants left, the legal/municipal problems leading to the landlord wanting to get rid of the property were going away).
 
-I felt like I'd be able to float $1600/mo for a while. My last job was making $5800/mo (post tax) and Kristi was working too, of course.
+My LinkedIn bio says "software developer", which is politely synonymous for "rich". I have been, emphatically, _not rich_ before in my life, and even earning "only" the $132k/yr that I do now feels like a crazy amount of money in many ways, though the current global trends in housing and inflation temper the fun a bit. And yes, I know it's possible to earn _dramatically more_. More on that below.
+
+Unfortunatly, I was not a W-2 earner at the time, when I started this project, but had just received two job offers that came in at $120k and _much_ more. I was on the cusp of landing very interesting and lucrative consulting work, so I felt OK committing to the opportunity, but because of Kristi's stonewalling was never able to help her feel peace. This issue, in particular, festered, and I think led to substantial resentment on her behalf towards me.
+
+The dual tracks of resentment about this commitment I wanted to make, and emotional abandonment of the work I was trying to do, led to more problems than I could endure, overcome, or survive.
+
+Anyway, I felt like I'd be able to float $1600/mo for a while. My last job was making $5800/mo (post tax) and Kristi was working too, of course.
 
 We'd just purchased an _expensive_ house, the mortgage was not cheap, but we wanted to be invested in the neighborhood, I didn't want the properties across the street to be torn down (the tenants evicted), etc. I know a lot about housing, ethics, and the deeply American trait of ruining the lives of poor renters, and wanted to mix my life with theirs in an effort of preventing these bad outcomes.
 
@@ -168,5 +184,6 @@ So, here's the red flags I'll watch for going forward:
 - they cannot verbalize or recognize the affect that their internal emotional state might have on the world around them
 - They refuse to engage in any resources you might share about building towards a healthier relationship, but instead insist on doing whatever feels right to them
 - someone has biting and/or a harsh sense of humor
+- anything that looks like Gottman's "four horsemen of the marriage apocolyps": Criticism, contempt, defensiveness, stonewalling.
 
 Life is short. Spend it alone, or with someone who adds to your life. Be very careful with who you give yourself to.
