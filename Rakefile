@@ -1,23 +1,14 @@
-require './scripts/new_draft_builder.rb'
-require 'html-proofer'
+require 'date'
 
-task :test do
-  sh "bundle exec jekyll build"
-  options = {
-    assume_extension: true,
-    empty_alt_ignore: true,
-    cache: { timeframe: '2w' }
-  }
-  HTMLProofer.check_directory("./_site", options).run
-end
-
-desc "create new draft with `rake \"new_draft['2020-wrapup']\"`"
+desc "create new draft with 'rake new_draft'"
 task :new_draft, [:options] do |task, args|
-  content = NewDraftBuilder.new(args[:options]).content
+  content = File.read('_drafts/aa-post_template.md')
   today = Date.today.to_s
-  File.open("_drafts/#{today}-#{args[:options]}.md", "a") do |file|
+  f = File.open("_drafts/#{today}-draft.md", "a") do |file|
     file.write(content)
   end
+
+  puts f.inspect
 end
 
 # https://stackoverflow.com/questions/825748/how-to-pass-command-line-arguments-to-a-rake-task
