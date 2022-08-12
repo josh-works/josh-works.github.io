@@ -2,7 +2,7 @@
 layout: post
 title:  "Quotes from 'Complex PTSD: From Surviving to Thriving', by Pete Walker"
 description: "I have found this book exceptionally interesting and helpful, wanted to share some tidbits that might help others find even more value in the book than just based on words about it that I might say myself."
-date:  2022-07-12 06:00:00 -0700
+date:  2022-08-11 06:00:00 -0700
 crosspost_to_medium: false
 published: true
 categories: [book_quotes]
