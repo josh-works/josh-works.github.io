@@ -9,7 +9,7 @@ categories: [book_quotes]
 tags: [trauma, cptsd, book_quotes]
 permalink: quotes-from-complex-ptsd
 image: /images/title_image.jpg
-issue_id: 5
+issue_id: 57
 ---
 
 
@@ -56,13 +56,11 @@ Identifying my father's behavior as abusive eventually helped me become aware of
 The fact that verbal and emotional abuse can be traumatic is lost on many childhood trauma victims, though it is rarely lost on recovering victims of cult brainwashing.
 
 Many survivors of verbal and emotional abuse never learn to validate its soul-damaging effects. They never accurately assign current time suffering to it. Attempts to acknowledge it are typically blindsided with thoughts that it was nothing compared to kids
-who were
-
-repeatedly beaten - who "had it so much worse." As a child, I minimized my father's frequent face-slapping by comparing who were it to my friend's father who used to punch him.
+who were repeatedly beaten - who "had it so much worse." As a child, I minimized my father's frequent face-slapping by comparing who were it to my friend's father who used to punch him.
 
 Much later, however, I finally realized that for me, and many of my clients, verbal and emotional abuse damaged us much more than our physical abuse.[^spankings]
 
-Ongoing assault with critical words systematically destroys our self-esteem and replaces it with a toxic inner critic that incessantly judges us as defective. Even worse, words that are emotionally poi soned with contempt infuse the child with fear and toxic shame. Fear and shame condition him to refrain from asking for attention, from expressing himself in ways that draw attention. Before long, he learns to refrain from seeking any kind of help or connection at Lall.
+Ongoing assault with critical words systematically destroys our self-esteem and replaces it with a toxic inner critic that incessantly judges us as defective. Even worse, words that are emotionally poisoned with contempt infuse the child with fear and toxic shame. Fear and shame condition him to refrain from asking for attention, from expressing himself in ways that draw attention. Before long, he learns to refrain from seeking any kind of help or connection at all.
 
 ## Theoretical Neurobiology of the Critic
 
@@ -312,4 +310,4 @@ In the next section we will explore examples of how children are driven into the
 #### Footnotes
 
 
-[^spankings]: I was spanked extensively; for a long time I didn't consider this hitting and physical abuse. That is no longer my view. To clarify, though, I have long labelled spanking as 'simple punitive/retalitory violence', despicable, unfit behavior for one who claims to love another or him/herself. As  it is violence, it's nothing I would ever do to someone I loved. I now _do_ label spanking as hitting, though the emotional impact still isn't the same for me as what I imagine it might be if the violence looked like my parent(s) hitting me in the face.
+[^spankings]: I was spanked extensively; for a long time I didn't consider this "hitting", though it was a form of physical abuse. That is no longer my view. To clarify, though, I have long labelled spanking as 'simple punitive/retalitory violence', despicable, unfit behavior for one who claims to love another or him/herself. As it is with any act of violence, it's nothing I would ever do to someone I loved, at least not without apologizing and repairing the damage my violence would do to the relationship. I now _do_ label spanking as hitting, though the emotional impact still isn't the same for me as what I imagine it might be if the violence looked like my parent(s) hitting me in the face.

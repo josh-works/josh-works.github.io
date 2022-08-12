@@ -74,7 +74,7 @@ We'd just purchased an _expensive_ house, the mortgage was not cheap, but we wan
 
 A point of constant tension between Kristi and I has been that I've wanted to be _deeply invested_ in the neighborhood, and try to make various projects be fun and work out. This has been in my mind the inspiration for the parties we used to host, the donuts and coffee neighborhood gatherings we'd organize, and the shared meals with friends we generally enjoyed participating in.
 
-Years ago, we read books like [A Severe Mercy](https://www.goodreads.com/book/show/56594.A_Severe_Mercy?from_search=true&from_srp=true&qid=jd4hhefMEV&rank=1) and [The Gospel Comes with a House Key](https://www.goodreads.com/book/show/36384252-the-gospel-comes-with-a-house-key?ac=1&from_search=true&qid=WXFtlZdLbg&rank=1), and I'd understood our house and the way we wanted to go about our lives as being coherent with some of the themes expressed in those books. (There are many beautiful themes, regardless of how you feel about the religious influence of those books.)
+Years ago, we read books like [A Severe Mercy](https://www.goodreads.com/book/show/56594.A_Severe_Mercy?from_search=true&from_srp=true&qid=jd4hhefMEV&rank=1) and [The Gospel Comes with a House Key](https://www.goodreads.com/book/show/36384252-the-gospel-comes-with-a-house-key?ac=1&from_search=true&qid=WXFtlZdLbg&rank=1), and many more, and I'd understood our house and the way we wanted to go about our lives as being coherent with some of the themes expressed in those books. (There are many beautiful themes, regardless of how you feel about the religious influence of those books.)
 
 Very early in the process, Kristi had said something like:
 
@@ -82,23 +82,23 @@ Very early in the process, Kristi had said something like:
 
 (in anger, aggressively, and as she 'shut down the conversation', in the same way that she would plainly refuse to discuss many topics I wanted us to discuss). She maintained a similar defensiveness and kept me away as I went through the following days and weeks of conversations with the involved parties, trying to see if there was a way to keep this eviction from going through.
 
-I'm aware of our earning power, our privilege. We've spent (semi-casually) up to $6k on gifts/donations in the past (one-off), and regularly spent thousands of dollars in a given month helping others. So, this commitment felt pretty on-brand, and I saw a ton of ways that it could have worked out great.
+I'm aware of our earning power, our privilege. We've spent (semi-casually, in our DINK phase, when we were spending "only" $1300/mo on rent) up to $6k on gifts/donations in the past (one-off), and regularly spent thousands of dollars in a given month helping others. So, this commitment felt pretty on-brand, and I saw a ton of ways that it could have worked out great.
 
 See, I'm deeply interested in the 'dynamics' of how cities work, and totally saw the events as just another instance of an oppressive system chewing through all the involved parties to destructive ends.
 
 I jumped in, halted the eviction, and every time this house came up, Kristi gave me icy silence and said hurtful things about it. Acted like I was spending on hookers and cocaine, instead of trying to keep 8 adults and a child from losing their housing. She's accused me of really bad things, and has never apologized or even acknowledged her own stonewalling of these conversations, and other conversations.
 
-I believe that, in general, if people take steps to care for their immediate family and immediate neighbors, that is the right thing to do.
+I believe that, in general, if people take steps to care for their immediate family and immediate neighbors, that is the right thing to do, _on many levels_. This is a core belief, one that it's difficult for me to reconcile with someone who feels differently.
 
 _I've found myself married to someone who is not interested in taking steps to care for immediate family and neighbors_. I've asked her at times for emotional support, encouragement, a hug, tender words, verbal affirmations, or any message that showed she valued me, saw me, supported me.
 
-Those requests would be _strongly_ rejected. I spent a long time internalizing this rejection and abandonment, and it was painfully similar to repeated experiences I experienced growing up.
+Those requests would be _strongly_ rejected. I spent a long time unwillingly internalizing this rejection and abandonment, especially as it was painfully similar to repeated experiences I experienced growing up.
 
-In the space of a little over a year, I lost my father-in-law to a heart attack, I went 'no contact' with my own verbally and emotionally abusive father, and found my wife treating me as an enemy, in a persistent and durable fashion, while pretending to others that our relationship was as good as it's ever been. We used to be able to talk openly with others about what challenges we were having in our marriage, and then... that stopped.
+In the space of a little over a year, I lost my father-in-law to a heart attack, I went 'no contact' with my own verbally and emotionally abusive father, found my wife treating me as an enemy, became a father, and experienced a few other "big changes", in poignant and painful ways. Things were easier, once, and I had much more support, with less need of it. Things then got hard, my need for support went up dramatically, and I couldn't get even a fraction of what I'd gotten in the past.
 
-She can enforce silence in our marriage, but I don't have to participate in that silence.
+It felt like running headlong into a wall.
 
-We are actively pursuing divorce. It's been like a bomb going off in my life. I find my ability to focus at work severely diminished, and the pleasure I once took from many day-to-day activities is completely gone. I feel unlovable, broken, deeply flawed, and i fear never being in a loving relationship again.
+Anyway, we are actively pursuing divorce. It's been like a bomb going off in my life. I find my ability to focus at work severely diminished, and the pleasure I once took from many day-to-day activities is completely gone. I feel unlovable, broken, deeply flawed, and i fear never being in a loving relationship again.
 
 My daughter Eden is deeply important to me. I plan on being an available and present father, and loving her as well as I can love anyone. I am so sad over the state of my relationship with Kristi.
 
