@@ -8,6 +8,7 @@ gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "rake"
 gem "webrick"
+gem 'pry'
 
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.15"

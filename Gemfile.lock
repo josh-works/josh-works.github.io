@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    coderay (1.1.3)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
     domain_name (0.5.20190701)
@@ -65,8 +66,12 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    method_source (1.0.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    pry (0.14.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
     public_suffix (4.0.7)
     rake (13.0.6)
     rb-fsevent (0.11.1)
@@ -99,6 +104,7 @@ DEPENDENCIES
   jekyll-twitter-plugin
   kramdown
   kramdown-parser-gfm
+  pry
   rake
   webrick
 
