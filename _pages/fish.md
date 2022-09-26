@@ -1,7 +1,7 @@
 ---
 layout: page-no-anchor
 title: fish
-permalink: /fish
+permalink: fish
 ---
 
 
@@ -22,6 +22,3 @@ Challenge 2: inspect the source of this website. Find the HTML. What's the domai
 I might do `curl -L josh.works`, but there's lots of ways to read the HTML of a web page.
 
 visit `josh.works/domain_you_found`, lets see if you figured it out.
-
-
-josh.works/cloudfront

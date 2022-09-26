@@ -1,7 +1,7 @@
 ---
 layout: page-no-anchor
 title: treasure hunt
-permalink: fish
+permalink: treasure_hunt
 ---
 
 I've been working on the idea of treasure hunts, games, and more.
