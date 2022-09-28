@@ -4,7 +4,7 @@ title:  "How to Log Dead Sidekiq jobs to Sentry"
 description: ""
 date:  2022-07-13 06:00:00 -0700
 crosspost_to_medium: false
-published: true
+published: false
 categories: [programming]
 tags: [rails, sidekiq, sentry]
 permalink: 'how-to-log-dead-sidekiq-jobs-to-sentry'

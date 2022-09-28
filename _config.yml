@@ -36,9 +36,9 @@ include: ['_pages', '.well-known']
 # seems to need `jekyll build` to catch updates on localhost
 pages_list:
   about: '/about'
-  projects: '/projects'
   blog: '/blog'
   ☕️ with josh: '/coffee'
+  # projects: '/projects'
 
 
 # Assets

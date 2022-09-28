@@ -4,30 +4,18 @@ title: Blog
 permalink: /blog
 ---
 
-### Start Here
-
-I've got >250 blog posts, so here's a bit of a best-of section:
-
-- [Bringing Streetcars (back) to Golden]({{ site.baseurl }}{% link _posts/2022-03-10-rails-in-golden/2022-03-10-rails-in-golden.md %})
-- [Job Hunting Recommendations for Early-Career Software Developers]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
-- [How to Ask Questions of Experts To Gain More than Just Answers]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
-- [What I've learned from cooking in 36 kitchens in the last year]({{ site.baseurl }}{% link _posts/2016-05-09-what-ive-learned-from-cooking-in-36-kitchens-in-the-last-year.md %})
-- [Hidden Damages of the Introvert vs. Extrovert "debate"]({{ site.baseurl }}{% link _posts/2014-07-22-hidden-damages-of-the-intovert-vs-extrovert-debate.md %})
-- [Overcome (some) barriers in work with this magic phrase]({{ site.baseurl }}{% link _posts/2016-05-10-overcome-some-barriers-in-work-with-this-magic-phrase.md %})
-- [A Little Bit of Slope Makes For A Lot Of Y-Intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
-- [Be Gentle To You]({{ site.baseurl }}{% link _posts/2014-07-20-be-gentle-to-you.md %})
-
-# All Blog Posts 
-
-{% for post in site.posts %}
-  * [ {{ post.title }} ]({{ post.url }}) <time class="archive-date">{{ post.date | date: '%b %Y' }}</time>
-
-{% endfor %}
-
 
 ### Miscellaneous Guides and Tutorials
 
-I write many, many guides/tutorials. Here are some of them. Most of them are _so focused_ that they're useful to almost no one, but for the person they _are_ useful to? They have the potential to save that person hours-to-days of effort. 
+I write many, many guides/tutorials.
+
+Most of them are _so focused_ that they're useful to almost no one, but for the person they _are_ useful to?
+
+They have the potential to save that person hours-to-days of effort.
+
+I am generally proud of the guides I write, though they often follow the impulse of [Write it now](https://josh.works/write-it-now).
+
+I rarely edit things more than once.
 
 - [How To Build a Personal Website in Jekyll - A Detailed Guide For First-Timers]({{ site.baseurl }}{% link _posts/2020-08-06-setting-up-basic-jekyll-site-for-turing-backend-students.md %})
 - [Sidekiq and Background Jobs for Beginners]({{ site.baseurl }}{% link _posts/2018-07-30-sidekiq_background_jobs_for_beginners.md %})
@@ -50,3 +38,10 @@ I write many, many guides/tutorials. Here are some of them. Most of them are _so
 - [Pry Tips and Tricks]({{ site.baseurl }}{% link _posts/2018-05-07-pry_tips_tricks.md %})
 - [MacOS: Keyboard Shortcut to Toggle Bookmarks Bar in Firefox]({{ site.baseurl }}{% link _posts/2018-02-15-toggle_bookmarks_bar_in_firefox.md %})
 - [Testing Rake Tasks in Rails]({{ site.baseurl }}{% link _posts/2018-02-08-test_rake_tasks_rails.md %})
+
+# All Blog Posts
+
+{% for post in site.posts %}
+  * [ {{ post.title }} ]({{ post.url }}) <time class="archive-date">{{ post.date | date: '%b %Y' }}</time>
+
+{% endfor %}
