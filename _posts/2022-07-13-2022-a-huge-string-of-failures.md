@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A huge string of failures and mistakes"
+title:  "A reflection upon some failures and mistakes"
 description: "In which I outline many, many ways I've failed"
 date:  2022-07-13 06:00:00 -0700
 crosspost_to_medium: false
