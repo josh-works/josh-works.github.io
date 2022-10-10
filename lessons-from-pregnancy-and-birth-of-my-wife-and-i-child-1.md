@@ -6,25 +6,25 @@ date:  2020-01-31 06:00:00 -0700
 crosspost_to_medium: false
 categories: [annual_review]
 tags: [annual_review]
-permalink: 2019-review
+permalink: thoughts-from-edens-pregnancy-and-birth
 image: /images/title_image.jpg
 ---
 
 ### We were low-hope over the last year
 
-So we didn't plan/prepare mentally for much after birth. 
+So we didn't plan/prepare mentally for much after birth.
 
 We prepped well for birth, esp. Kristi, but we got laid out pretty hard by the post-birth experience.
 
 Having a mother-in-law that you get along with well is a huge benefit.
 
-Multigenerational housing FTW
+Multigenerational housing FTW.
 
 We have tons of time of/together. Kristi, 3 months. Mom, 6 weeks, me... meh
 
 ### Interactions with the medical system
 
-Interactions with the medical system required what I consider to be a surprising amount of advocacy. 
+Interactions with the medical system required what I consider to be a surprising amount of advocacy.
 
 I was routinely livid at the low standard of care, but understanding why people say "there's no other way!"
 
