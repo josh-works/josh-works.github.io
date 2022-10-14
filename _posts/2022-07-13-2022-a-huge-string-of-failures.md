@@ -4,7 +4,7 @@ title:  "A reflection upon some failures and mistakes"
 description: "In which I outline many, many ways I've failed"
 date:  2022-07-13 06:00:00 -0700
 crosspost_to_medium: false
-published: false
+published: true
 categories: [failure]
 tags: [golden]
 permalink: 'many-failures'
@@ -34,13 +34,13 @@ I feel that I really, really failed people I wanted to do nothing but love reall
 
 Kristi, and Kristi's family. Eden, in some ways.
 
-Kristi and I are rapidly moving towards a divorce. The 'failure' of our marriage is rooted in the intersection of many factors. Some within our control, many not within our control.
+Kristi and I are rapidly moving towards a divorce. The 'failure' of our marriage is rooted in the intersection of many factors. Some within our control, some not within our control.
 
-The last few years have been rather difficult.
+The last few years have been difficult.
 
-Basically, the abandonment/emotional neglect that we both experienced as children began to be replayed in our marriage, for a variety of reasons, with 2020 being a year of particularly visible escalation of harmful trends, overlapping with very difficult circumstances and life events. We wrestled with death, disease, injury, Covid, etc. There were some communication breakdowns, and mismatches of hopes, desires, and goals.
+Basically, the abandonment/emotional neglect that we both experienced as children began to be replayed in our marriage, for a variety of reasons, with 2020 being a year of particularly visible escalation of harmful trends, overlapping with very difficult circumstances and life events. We wrestled with death, disease, injury, Covid, etc. There were communication breakdowns, and mismatches of hopes, desires, and goals.
 
-I observed external signs of things not going well, like feeling despondent and suicidal, deep in a pit of despair. I've learned a lot about emotional self-regulation, boundaries, co-dependency, and more, though it's been generally unfun. It's looking like introducing separation and space is the quickest path to us both being happy and healthy and being able to thrive.
+I observed signs of things not going well in myself, like feeling despondent and suicidal, deep in a pit of despair. I've learned a lot about emotional self-regulation, boundaries, co-dependency, and more, though it's been unfun. It's looking like introducing separation and space is the quickest path to us both being happy and healthy and being able to thrive.
 
 ## 648 Iowa St (the house across the street)
 
@@ -54,7 +54,7 @@ Unfortunatly, I was not a W-2 earner at the time, when I started this project, b
 
 See, I'm deeply interested in the 'dynamics' of how cities work, and totally saw the events as just another instance of an oppressive system chewing through all the involved parties to destructive ends. I had/have been thinking often on the implications of the things Jesus said and did, especially around 'loving money' and 'helping others'.
 
-I jumped in, halted the eviction, and then... failed to do anything of note.
+I jumped in, halted the eviction, and then... failed to do anything of note, other than spinning wheels for the better part of a year.
 
 I believe that, in general, if people take steps to care for their immediate family and immediate neighbors, that is the right thing to do, _on many levels_.
 
