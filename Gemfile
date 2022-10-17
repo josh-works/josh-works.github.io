@@ -11,7 +11,7 @@ gem "webrick"
 gem 'pry'
 
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.15"
+   gem "jekyll-feed", "~> 0.17"
    gem 'jekyll-paginate'
    gem 'jekyll-twitter-plugin'
    gem 'jekyll-crosspost-to-medium'
