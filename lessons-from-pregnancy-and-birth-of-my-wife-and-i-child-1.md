@@ -20,7 +20,9 @@ Having a mother-in-law that you get along with well is a huge benefit.
 
 Multigenerational housing FTW.
 
-We have tons of time of/together. Kristi, 3 months. Mom, 6 weeks, me... meh
+We have tons of time of/together.
+
+Kristi, 3 months. Mom, 6 weeks, me... meh
 
 ### Interactions with the medical system
 
@@ -34,4 +36,4 @@ Structures dictate results (I.E. Conway's Law), and when you look at the various
 
 - invisible women: data bias in a world made for men
 - the birth partner
-- 
+-
