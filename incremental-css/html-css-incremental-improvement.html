@@ -4,6 +4,36 @@ title: "A little CSS goes a long way"
 permalink: incremental-css
 ---
 
+<script>
+  document.getElementById("startOver").addEventListener("click", startOver); 
+
+var html = document.querySelector('html');
+var stepLinks = document.getElementsByClassName('step')
+var sections = document.querySelectorAll('section')
+
+for (var i = 0; i < stepLinks.length; i++) {
+  stepLinks[i].addEventListener("click", nextStep)
+}
+
+function nextStep() {
+  var currentStep = this.dataset.step
+  var nextStep = parseInt(currentStep) + 1
+  sections[nextStep].classList.remove("hidden")
+  html.classList.add("step" + nextStep.toString())
+}
+
+var firstSection = sections[0]
+
+function startOver() {
+  html.className = ''
+  for (var i = 0; i < sections.length; i++) {
+    sections[i].classList.add("hidden")
+  }
+  firstSection.classList.remove("hidden")
+}
+
+</script>
+
 
 <h1>A Little CSS Goes a Long Way</h1>
 <section id="start">
@@ -14,8 +44,8 @@ permalink: incremental-css
 
   <p>I wanted to learn some basic styling. I've done back-end development most of my professional career, hardly ever had to weigh in on the front-end.</p>
 
-  <p>But, over here on my own personal website, I've got a bunch of modifications I want to make.</p>
-  
+  <p>But, over here on my own CCpersonal website, I've got a bunch of modifications I want to make.</p>
+
   <p>Specifically, I want come up with a way to add footnotes and annotations to my own writing. Maybe something similar to how Nate Berkopec (<a href="https://www.nateberkopec.com/blog/2019/12/17/year-in-review.html">example</a>) or Tim Urban (<a href="https://waitbutwhy.com/2019/09/thinking-ladder.html">example</a>) does it. </p>
 
   <p>So, I'm here to talk about HTML, CSS, and JavaScript, but what is <a class="step" data-step="0" href="#content">more important than all of those things?</a></p>
@@ -39,27 +69,27 @@ permalink: incremental-css
   <p>See, people are <a href="https://en.wikipedia.org/wiki/Memetics">memetic</a>.</p>
   <p>I'm broadly defining "people are memetic" as <em>people are strongly influenced by ideas and beliefs, and ideas and beliefs can spread through a person's mind and a group of people just like a virus might.</em>
   <p>But the best words, the most infectious ideas, if presented in an unreadable way, will fail to have an effect.</p>
-  
+
   <p>คนใจดีไม่ควรฆ่าคนใจดี</p>
   <p>What do you think of this idea? Is it compelling? Do you agree or disagree? What about edge cases? It's mostly true but not always?</p>
   <p>Unless you happen to be a Thai speaker (or are quick with Google Translate) you have no idea if this is a "contageous" idea, a good idea, a bad idea, or anything else about it.</p>
   <p>Parenthetically, it causes me discomfort to think of all amazing ideas and stories in the world, that are amazing precicely because the author/story-teller has no knowledge of English.</p>
   <p>I will never know these ideas, because we cannot converse directly with each other.</p>
   <p>Anyway, we ought to care about legibility.</p>
-  <p>Besides limiting the line length, we ought to 
+  <p>Besides limiting the line length, we ought to
     <a class="step" data-step="1" href="#text-styling">style the text itself.</a></p>
 </section>
 
 <section id="text-styling" class="hidden">
   <h2>Lose the serifs</h2>
   I prefer a font without serifs, or "san-serif". Lets add to our <code>styles.css</code> the following:
-  
+
   <pre>
     body: {
       font-family: "Helvetica", "Arial", sans-serif;
     }
   </pre>
-  
+
   <p>But now, the text feels a little crowded, don't you think? Especially on long lines where the words wrap without line breaks. This paragraph is getting to be rather long, and it's feeling crowded already. If I had the audacity to make this paragraph multiple (long) sentances long, the way it would wrap would make it more than just a daunting block of text to wade into -- it would make it hard for the eye to follow along and avoid skipping up and down.</p>
   <p><a class="step" data-step="2" href="#spacing">What to you need beyond a better font?</a></p>
 </section>
@@ -109,10 +139,10 @@ permalink: incremental-css
 
 <section id="style-those-links" class="hidden">
   <h2>Style the Links</h2>
-  
+
   The default link color isn't great, and it varies based on if you've clicked it before. Doesn't look great, so lets standardize our links on something that looks a bit nicer:
   <p>Lets upgrade the links:</p>
-  
+
   <pre>
   a {
     color: #268bd2;
@@ -124,7 +154,7 @@ permalink: incremental-css
     text-decoration: underline;
   }
   </pre>
-  
+
   <p>Next <a class="step" data-step="5" href="#upgrade-code-blocks">lets upgrade our code blocks.</a></p>
 </section>
 
@@ -132,7 +162,7 @@ permalink: incremental-css
 <section id="upgrade-code-blocks" class="hidden">
   <h2>Upgrade the code blocks</h2>
   <p>The code blocks are still kinda bland. We can add subtle accents to the left side and bottom:</p>
-  
+
   <pre>
     html.step6 code,
     html.step6 pre {
@@ -156,7 +186,7 @@ permalink: incremental-css
 <section id="current-section" class="hidden">
   <h2>Section Title</h2>
   <p>Words about this section</p>
-  
+
   <pre>
   add code here
   </pre>
