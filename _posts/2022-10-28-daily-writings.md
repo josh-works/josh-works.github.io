@@ -4,13 +4,14 @@ title:  "Writing Every Day for a Month"
 description: "In which I write more"
 date:  2022-10-28 06:00:00 -0700
 crosspost_to_medium: false
+published: true
 categories: [misc]
 tags: [misc, writing]
 permalink: daily-writing
 image: /images/title_image.jpg
 ---
 
-A long time ago, years, I wrote a short post every day. For a month. It was lovely.
+A long time ago, years, I wrote a short post every day. For a month. It was lovely. I theoretically could make each of these a different post, but I'm choosing to smash 30 days of writing together into a single document. Newest stuff is on the bottom.
 
 Here we go:
 
@@ -46,7 +47,7 @@ The documentary is potent. Hitler was really impressed with how the federal gove
 
 He considered expelling the jews from the region between germany and modern-day russia to be similar to how the US government "conquored the west".
 
-White people who hated black people [invented Euclidean zoning in the 1920s]({% link _posts/_posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}). Euclidean zoning is a cute term for a regime of social control implemented at the municipal code level, mediated through permits and applications.
+White people who hated black people [invented Euclidean zoning in the 1920s]({% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}). Euclidean zoning is a cute term for a regime of social control implemented at the municipal code level, mediated through permits and applications.
 
 Ford (Henry Ford, you know him) was a HUUUUGE fan of Hitler. Ford and GM (the companies, you know them) were some of the biggest advocates of certain regimes of social control outlined in [The Slaughter of Cities: Urban Renewal as Ethnic Cleansing](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities)
 
