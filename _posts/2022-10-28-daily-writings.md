@@ -206,8 +206,45 @@ At any point someone can start making the right decisions, going forward, but tr
 
 They've un-earned it, and given that life is full of real actions, real situations, real risk, and real outcomes, it's irresponsible to link your wellbeing to someone who acts like they're hell-bent on destruction.
 
+# 2022-11-01 Traffic 01
+
+I ride a moped around, quite a lot.
+
+I observe mobility networks from the perspective of one who can move through them in slightly unconventional ways (given a certain referance point) and who is a 'very vulnerable' user of the networks. An accident/incident on my moped, at nearly any speed, could leave me permanantly injured or dead.
+
+It's hard for me to even know where to start, when I want to talk about roads. Roads in America are quite broken, and "traffic planners" are negligent, and more akin to adherents of a cult than independent, thoughtful, creative, well-meaning individuals.
+
+The federal, state, and municipal government actors in America are much closer to eugenicists than scientists. (Heh, it's a joke, you see, because lots of scientists _were_ eugencists!)
+
+Political authority is a myth, a schema that exists with power only because enough of the right people believe it's real, for the same reason that the Church dominated the political world in the 16th century because enough people thought it mattered.
+
+Unfortunately, group hallucinations can still lead to real people with real weapons showing up somewhere and enacting real violence upon someone, which leads to real death and real destruction. Wrong beliefs matter. Wrong beliefs about roads matter.
+
+Anyone who sits in traffic, or is stopped at any point in their journey from A to B, or experiencing the harm of a bad road network. The harms touch every aspect of life:
+
+- air quality
+- road noise
+- threat to physical safety
+- lack of opportunity to travel at certain times of day
+- expense of maintaining vehicles
+- lack of time to do something besides driving. (I'd rather read than drive, and healthy networks allow you to move _and_ read at the same time.)
+
+I am a foaming-at-the-mouth crazy person about this stuff, and don't know how to express it, so I'll be allocating a fair bit of my daily writings to writing about mobility networks.
+
+I love riding around on my moped. It works during _most_ of the year, _most_ times of day, _most_ weather conditions, it's screamingly cheap, efficient, and fun to use.
+
+https://josh-strava-heatmap.herokuapp.com/
+
+# 2022-11-02 Traffic 02 - Rate an intersection on dwell time
+
+[Throughput analysis](https://en.wikipedia.org/wiki/Throughput_(business)) is common in manufacturing and business domains. It's why anything in the modern world works. Ish.
+
+As I go through my day, I see quite a few intersections and sections of highway. I 'grade' intersections, by function. A healthy intersection moves people through it at a high number of people-per-minute, and, critically, it _minimizes the number of people waiting at that intersection_.
+
+If a big intersection can move 50 cars per minute, but causes 50 cars to be sitting and waiting for the light to change, something isn't right. (It might not be the "intersection's fault", of course, but it's indicative of the ecosystem being unhealthy.)
 
 
 
 
-### Footnotes
+
+# Footnotes
