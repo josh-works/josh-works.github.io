@@ -111,6 +111,103 @@ Here's a prototypical example of "urban renewal" meets "highway planning":
 
 OK, I'm done for today.
 
+# 2022-10-31 Intent Matters
+
+Them:
+
+> I didn't mean to hurt you.
+
+What a reasonable and appropriate statement.
+
+You:
+
+> I see that, and I believe you. It still hurt, and I don't want it to happen again.
+
+The next statement matters.
+
+Them:
+
+> But I didn't _mean_ to hurt you. Why don't you focus more on my intent?
+
+Great question. What's your intent here?
+
+> I want to feel better about myself.
+
+> I am uncomfortable with the prospect of being someone who makes mistakes.
+
+> I don't know how or plan to change.
+
+> I believe people who 'do bad things' are 'bad people', and I don't think I am a bad person, so I cannot handle the prospect of centering my bad actions in this story.
+
+It wrecks someone to be repeatedly, intentionally hurt by someone who claims to be acting in your interests, to love you, and is close to you.
+
+I feel anger for everyone who has ever been yelled at, spoken to cruely, attacked, and dismissed by someone close to them, who then irresponsibly wraps up interactions with a lie:
+
+> I love you
+
+Words matter, so much.
+
+Does the perception to be seen as 'not bad' overwhelms your ability to understand the impact you have on someone? For example, if you make someone feel terror, sadness, alienation, insecurity, and abandonment, the only appropriate response is to handle it with responsiblity and ownership.
+
+It messes with someone's internal state, and brain development, at a bunch of different levels, to be both _scared_ and _comforted_ by the same person in short order, repeatedly.
+
+This is abuse:
+
+_does something scary_
+
+> Don't fear me!
+
+_does something scary_
+
+> Don't fear me! I love you, we're friends.
+
+_does something scary_
+
+----------------------------
+
+It's inexcusable to repeatedly frighten someone and then coerce them into thinking that they're not afraid of you. Do they flinch away from you? Are they walking on egg shells around you? Do they tell you they're regularly frightened of you?
+
+Do they make requests for different behavior?
+
+If you say:
+
+> I didn't mean that
+
+or
+
+> I demand that you ignore my impact
+
+You're sending a message that says:
+
+> I demand that _you aid me_ in allowing me to maintain an illusion about myself.
+
+This is not how love between loving people is expressed, and you'd be forgiven for feeling debased when someone uses such weighty language ("I love you") in ways that invert the meaning of love, so _please do not do something so irresponsible as to say 'i love you' when there is such brokenness in a relationship_.
+
+And you invalidate them, and keep saying things that _allow you to feel good about yourself_, this is "unethical behavior"[^ethics]
+
+[^ethics]: I care deeply about ethical behavior, and in a move that makes me unappologetically insufferable to some people, I believe the rightest option when there's a disagreement is to rigerously focus on why either party believes a course of action is or is not ethical and wise. Especially when dealing with power imbalances, if the high-power person/group is encouraging the lower-power person or group to ignore their judgement, it's a HUGE red flag, and this course of action is well-understood in the domain of 'safety science' to lead to really bad outcomes, where actual people actually die. (See: `Group dynamics & avalanch fatalities`)
+
+Taking responsibility would sound like:
+
+> I am sorry for the ways I've hurt you. I've done work to understand two things:
+>
+> 1. How people _should_ be treated
+> 2. How I sometimes treat(ed) _you_
+>
+> There's a gap between 1 and 2, and that is _my_ gap. This is a conventional experience that many have experienced in the past, and will experience again, so I will not flinch from the idea that I have perpetuated bad things upon people I claim to love.
+>
+> Indeed, my inability to demonstrate real love is rooted in damage done to me, at various times in my life. I understand the roots of the gap between what I want and what I do isn't rooted in "I am a bad person", so I can hold my mistakes clearly in my mind without my sense of self being decimated.
+>
+> Here's evidence that I'm not just saying things, but am doing the work to repair: {evidence 1, evidence 2, evidence 3}.
+
+Dismissiveness, denial, anger, and minimialization is wholly toxic to those who are affected by such behavior.
+
+At any point someone can start making the right decisions, going forward, but trust matters, patterns matter, and when I talk with someone about how to handle someone like this in their life, I convey to them that it's madness and self-abandoning to continue to give this person privileged access to your life. The rightest course of action is to reduce the exposure and access in your life to someone like this.
+
+They've un-earned it, and given that life is full of real actions, real situations, real risk, and real outcomes, it's irresponsible to link your wellbeing to someone who acts like they're hell-bent on destruction.
+
+
+
 
 
 ### Footnotes
