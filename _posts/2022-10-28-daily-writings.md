@@ -15,7 +15,7 @@ A long time ago, years, I wrote a short post every day. For a month. It was love
 
 Here we go:
 
-## 2022-10-28 Increasing Agency
+# 2022-10-28 Increasing Agency
 
 Here's some thoughts around agency, and children, and relatedly adults:
 
