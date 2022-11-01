@@ -235,16 +235,8 @@ I love riding around on my moped. It works during _most_ of the year, _most_ tim
 
 https://josh-strava-heatmap.herokuapp.com/
 
-# 2022-11-02 Traffic 02 - Rate an intersection on dwell time
-
-[Throughput analysis](https://en.wikipedia.org/wiki/Throughput_(business)) is common in manufacturing and business domains. It's why anything in the modern world works. Ish.
-
-As I go through my day, I see quite a few intersections and sections of highway. I 'grade' intersections, by function. A healthy intersection moves people through it at a high number of people-per-minute, and, critically, it _minimizes the number of people waiting at that intersection_.
-
-If a big intersection can move 50 cars per minute, but causes 50 cars to be sitting and waiting for the light to change, something isn't right. (It might not be the "intersection's fault", of course, but it's indicative of the ecosystem being unhealthy.)
 
 
 
 
-
-# Footnotes
+#### Footnotes
