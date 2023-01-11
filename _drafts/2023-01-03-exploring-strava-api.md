@@ -97,4 +97,63 @@ I'm hoping to get `client.athlete_activites` listed. I need a better token, so l
 strava run athlete.username
 --client_id 63764
 --client_secret 2e6c5168e3b97a9c0975e5377041b8a416b4fbf8 
+--scope=activity:read
 ```
+
+---------------------
+
+## Session 3
+
+Use `strava-ruby-cli` to get an access token and use it on subsequent requests. I'd like to generate data on my most recent strava activity.
+
+```shell
+strava --scope=activity:read run athlete_activities.first
+# get the access_token from the browser after authing (seems clunky)
+strava --access_token=ac6b1fdfd60cc0c3d2fd1aa52d2e6bf7bcfef664 run athlete_activities.first.name
+# Big Day!
+```
+
+Bam. It worked. Now lets get this in my little script...
+
+and I got it working. First, the script:
+
+```ruby
+# strava_client.rb
+require 'strava-ruby-client'
+require 'strava-ruby-cli'
+
+CLIENT_ID = "1234"
+CLIENT_SECRET = "abcd" # secret from https://www.strava.com/settings/api"
+ACCESS_TOKEN = "abcd" # from http://localhost:4242/?state=&code=f59&scope=read,read_all
+
+Strava::Api.configure do |config|
+  config.access_token = ACCESS_TOKEN # Strava access token
+end
+
+Strava::OAuth.configure do |config|
+  config.client_id = CLIENT_ID
+  config.client_secret = CLIENT_SECRET
+end
+
+client = Strava::Api::Client.new()
+
+athlete = client.athlete
+p "athlete.name:"
+p athlete.name
+
+activities = client.athlete_activities
+p "activities count: "
+p activities.count
+
+activity = activities.first
+pp "name: " + activity.name
+pp "distance: " + activity.distance.to_i.to_s
+pp "total_photo_count: " + activity.total_photo_count.to_s
+pp "map.summary_polyline: " + activity.map.summary_polyline 
+```
+
+Here's how it looks in my terminal: 
+
+![running this little script](images/2023-01-11-run-strava-script.jpg)
+
+
