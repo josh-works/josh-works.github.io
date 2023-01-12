@@ -83,7 +83,7 @@ I wonder if `client.athlete` is authenticated. :thinking-face:
 
 Ah, yes, I remember reading about [https://github.com/dblock/strava-ruby-cli](https://github.com/dblock/strava-ruby-cli)
 
-![strava ruby cli](images/2023-01-09-strava-cli.jpg)
+![strava ruby cli](/images/2023-01-09-strava-cli.jpg)
 
 I updated the `access_token` in my script to be the returned access token, lets see if I can get the activity now...
 
@@ -154,7 +154,7 @@ pp "map.summary_polyline: " + activity.map.summary_polyline
 
 Here's how it looks in my terminal: 
 
-![running this little script](images/2023-01-11-run-strava-script.jpg)
+![running this little script](/images/2023-01-11-run-strava-script.jpg)
 
 
 -----------------
@@ -163,8 +163,8 @@ _next session_
 
 Got it working:
 
-![running this little script](images/2023-01-12-script.jpg)
 
+![running this little script](/images/2023-01-12-script.jpg)
 
 
 ```diff
@@ -178,4 +178,27 @@ Got it working:
 +end
 +
 ```
+
+This is getting close to the contents of https://github.com/josh-works/strava_run_polylines_osm/blob/main/runs.csv
+
+Which gets read in at https://github.com/josh-works/strava_run_polylines_osm/blob/main/app.py#L12
+
+And results in this cool looking map:
+
+https://josh-strava-heatmap.herokuapp.com/
+
+For example, heres some of my strava activity data for an apartment building I lived in for a month, recently:
+
+![example-to-come](/images/2023-01-12-cool-strava-map.jpg)
+
+Soon, we'll include query params like:
+
+https://josh-strava-heatmap.herokuapp.com?latlng=2245634556&z=13
+
+and a clickable link will take straight to any specific spot on the map at a given zoom level.
+
+Anyway, that'll be a little down the road. I kinda wanna now stand up a Sinatra application to read/render this data, again, at an MVP level.
+
+- todo: reference https://github.com/josh-works/til/tree/main/sinatra get bare sinatra app up with a map visible on it
+- todo: reference above to get a polyline on it
 
