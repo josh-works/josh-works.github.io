@@ -107,7 +107,7 @@ strava run athlete.username
 Use `strava-ruby-cli` to get an access token and use it on subsequent requests. I'd like to generate data on my most recent strava activity.
 
 ```shell
-strava --scope=activity:read run athlete_activities.first
+strava --scope=activity:read_all run athlete_activities.first
 # get the access_token from the browser after authing (seems clunky)
 strava --access_token=ac6b1fdfd60cc0c3d2fd1aa52d2e6bf7bcfef664 run athlete_activities.first.name
 # Big Day!
@@ -156,4 +156,26 @@ Here's how it looks in my terminal:
 
 ![running this little script](images/2023-01-11-run-strava-script.jpg)
 
+
+-----------------
+
+_next session_
+
+Got it working:
+
+![running this little script](images/2023-01-12-script.jpg)
+
+
+
+```diff
+ pp "total_photo_count: " + activity.total_photo_count.to_s
+ pp "map.summary_polyline: " + activity.map.summary_polyline
+
++File.open('activities.txt', 'w') do |f|
++  activities.each do |a|
++    f.write "#{a.name}, #{a.map.summary_polyline}\n"
++  end
++end
++
+```
 
