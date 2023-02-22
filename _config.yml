@@ -62,16 +62,16 @@ github:
 plugins:
   - jekyll-twitter-plugin
   - jekyll-feed
-  - jekyll-crosspost-to-medium
+  # - jekyll-crosspost-to-medium
 
 
-jekyll-crosspost_to_medium:
-  enabled: true
-  cache: .jekyll-crosspost_to_medium
-  status: public
-  license: all-rights-reserved
-  text: <p><i>This article was originally posted on <a href="https://josh.works" rel="canonical">https://josh.works</a>.</i></p>
-  backdate: true
+# jekyll-crosspost_to_medium:
+#   enabled: true
+#   cache: .jekyll-crosspost_to_medium
+#   status: public
+#   license: all-rights-reserved
+#   text: <p><i>This article was originally posted on <a href="https://josh.works" rel="canonical">https://josh.works</a>.</i></p>
+#   backdate: true
 
 
 markdown: kramdown

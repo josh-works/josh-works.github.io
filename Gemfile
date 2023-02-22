@@ -1,5 +1,6 @@
 source "https://rubygems.org"
-ruby '3.1.1'
+ruby '3.2.0'
+
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll"
@@ -15,6 +16,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.15"
    gem 'jekyll-paginate'
    gem 'jekyll-twitter-plugin'
-   gem 'jekyll-crosspost-to-medium'
   gem 'jekyll-postfiles'
 end

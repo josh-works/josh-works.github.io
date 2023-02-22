@@ -1,5 +1,5 @@
 ---
-title: Episode 6: Software, learning, and subversion
+title: "Episode 6: Software, learning, and subversion"
 ---
 
 It has been a very, very long time since I've sent an update to this list. May 13, then trickling back from there.
