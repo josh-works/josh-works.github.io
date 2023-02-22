@@ -104,6 +104,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.15)
   jekyll-paginate
   jekyll-postfiles
+  jekyll-sass-converter
   jekyll-twitter-plugin
   kramdown
   kramdown-parser-gfm
