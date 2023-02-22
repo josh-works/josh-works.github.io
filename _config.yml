@@ -83,5 +83,5 @@ kramdown:
 exclude:
   - _posts/**/*.jpg
   - _posts/**/*.png
-  - [vendor]
+  - vendor
   
