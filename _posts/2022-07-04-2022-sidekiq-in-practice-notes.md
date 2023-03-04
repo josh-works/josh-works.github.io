@@ -4,7 +4,7 @@ title:  "Sidekiq in Practice"
 description: "Running Notes on Nate's Sidekiq in Practice Course"
 date:  2022-07-04 06:00:00 -0700
 crosspost_to_medium: false
-published: true
+published: false
 categories: [urbanism]
 tags: [dirt, place-making, golden]
 permalink: 'sidekiq-in-practice-notes'

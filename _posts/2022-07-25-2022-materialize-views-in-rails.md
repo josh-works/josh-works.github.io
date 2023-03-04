@@ -4,7 +4,7 @@ title:  "Notes on using Materialize Views in Rails"
 description: "I take notes for many reasons - top of the list is 'I do not feel very smart most days, need every piece of help I can get.'"
 date:  2022-07-24 06:00:00 -0700
 crosspost_to_medium: false
-published: true
+published: false
 categories: [rails]
 tags: [programming, rails, materialize_views]
 permalink: 'materialize-views-in-rails'

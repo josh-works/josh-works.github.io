@@ -5,6 +5,7 @@ description: "An examination of how I believe I'm not yet a mature writer"
 date:  2022-09-28 06:00:00 -0700
 crosspost_to_medium: false
 categories: [misc]
+published: false
 tags: [misc, writing]
 permalink: i-am-an-immature-writer
 image: /images/title_image.jpg

@@ -4,7 +4,7 @@ title:  "Writing Every Day for a Month"
 description: "In which I write more"
 date:  2022-10-28 06:00:00 -0700
 crosspost_to_medium: false
-published: true
+published: false
 categories: [misc]
 tags: [misc, writing]
 permalink: daily-writing
