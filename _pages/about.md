@@ -33,7 +33,7 @@ Here's some of my interests, around which I could claim expert knowledge:
 
 ## I do useful things
 
-- I've written useful guides to help people do difficult things. My guides have helped dozens-to-hundreds of people better learn software development, mostly at the Turing school, but they're all public and free for anyone. (example)[https://josh.works/turing-backend-prep-01-intro]
+- I've written useful guides to help people do difficult things. My guides have helped dozens-to-hundreds of people better learn software development, mostly at the Turing school, but they're all public and free for anyone. [example](https://josh.works/turing-backend-prep-01-intro)
 - I have helped some people make huge gains in their climbing abilities, mostly by improving the technical and mental skills around lead belaying and lead climbing. It's a slippery slope from "getting really good at belaying" to "trying hard at 5.12 and 5.13"
 - Almost all of what I'm good at is because I'm sensitive emotionally, to myself and others, and am able to easily adopt the perspective of someone else. (Nice thing about growing up nearly always feeling like an outsider)
 
