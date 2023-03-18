@@ -9,9 +9,9 @@ permalink: /about
 
 This entire page is a work-in-progress, but until then, here's a bit more about me.
 
-Here's some of my interests, around which I could claim expert knowledge:
+Here's some of my interests, around which I could some aspects of "expert knowledge":
 
-- improving the portions of a built environment that is allocated to vehicle storage 🚗🚛🛻🏍️ [you can hire me to do this for you](https://josh.works/fix-your-parking)
+- improving the portions of a built environment that is allocated to vehicle movement and storage 🚗🚛🛻🏍️ [you can hire me to do this for you](https://josh.works/fix-your-parking)
 - riding scooters, scooters as personal mobility tools 🛵
 - [climbing](https://josh.works/tags#climbing) 🧗‍♀️. My main 'jams' are bouldering, and sport climbing. I'm currently obsessed with moonboarding, and helping others learn to no longer feel fear while lead climbing, so they can have tons of fun climbing at their physical limit, and can most quickly and safely grow their skills, so they can have _more_ fun doing _harder_ rock climbs. 
 - [programming](https://josh.works/tags#programming) 🧑‍💻, most specifically web app development with Ruby/Rails. Here's my most recent project: [an app that renders on a map all the places in the world I've ridden my scooter](https://josh-strava-heatmap.herokuapp.com/)
