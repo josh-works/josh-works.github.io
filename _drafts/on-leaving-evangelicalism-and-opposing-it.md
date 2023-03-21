@@ -14,42 +14,56 @@ image: /images/title_image.jpg
 # Content warning
 
 
-_I've wanted to express aspects of this to others, particularly to those in my life who come from a religious background. Specifically, those who would call themselves evangelical or protestant._
+_I've wanted to express aspects of this to others, particularly to those in my life who come from a religious background. Specifically, those who would call themselves "evangelical" or "protestant"._
 
-_From birth through my early 30s, I was firmly ensconced in the evangelical church traditions, which I've now left, and am tired of getting accused of an odious offense, which is "Josh is doing things that don't make sense, and cannot be understood by reasonable people."_ 
+two-paragraph summary:
 
-_This post is an explanation of how, without ever intending to, I found myself to have walked out of that camp of evangelicalism, and from their point of view I'm now firmly planted in heretical theological hinterlands._
+The theological underpinnings of modern evangelicalism are two-fold. First, a guy named Anselm, in like 1100 AD, invented a justification for nobility and chivalry known as the 'satisfaction theory of atonement'. Second, the puritans (john calvin, martin luther, others of that 1500s ilk) openly advocated genocide against certain groups of christians who wanted to be left alone, but committed the offense of being insufficiently deferential to religious and political authorities. 
 
-_Hilariously, I consider myself to have recovered a much more actionable, robust, and firm understanding of the person of Jesus Christ (and the things he said and did, and why) than I ever had in the decades leading up to now._
+**Therefore, everything associated with Calvinism or the satisfaction view of atonment is completely polluted with murder, violence, and domination. If murder, violence, and domination (or being murdered, having violence enacted upon you, and being dominated) isn't your cup of tea, run.**
 
-_I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of a religious tradition._
+"Modern christians" don't resort to physical violence as quickly as their intellectual forebearers (slaveholders), for example, but they instantly reach for tools of psychological and verbal coercion as soon as they see something that looks "out of line". 
 
-_I'm basically writing this document as a mix of an "impassioned open letter", and "a list of resources and concepts that I wish I'd encountered years earlier in my life."_
+Those willing to use verbal and psychological coercion, in justifying that coercion, find themselves as bedfellows with those who use physical violence, and the spawn of that union is demonic. America's global military empire (and domestic military 'empire') is firmly rooted in the logical extension of this verbal and psychological coercion. Police yelling "stop resisting!" and the US military's message of "accept our democracy" lives close to the message parents like to proclaim, which is "you will do whatever I tell you, and i'll psychologically torture you until you comply"
 
-_To borrow from James C. Scott's [Against the Grain](), I may be revealing myself to be something of a theological barbarian and savage, but I vastly prefer this version of myself than who I was several years ago._
 
-_From my own point of view of myself on my own change, there is a coherent line of thought, way of being, intellectual purity, a clear adherence to a firm ethical standard, and a reasonable causal chain from "there" (thinking evangelicalism was true, and a source of good in the world) to "here" (thinking evangelicalism is more like propaganda than anything else, viewing it as a primary source of ongoing harm in the world)._
+# Where I started
 
-_To borrow from early church language, I follow 'the way', and reject the label 'christian'._
+From birth through my early 30s, my parents had me firmly ensconced in the evangelical church traditions, which I've now left. I was raised in a verbally, emotionally, and physically abusive household, more akin to a cult than anything else. I was surrounded by others from the same cult, and it took a long time to get far enough from it that I could see it clearly.
 
-_What I view as nothing more novel than a process of intellectual and emotional maturation, others may view as heresy and an embodiment of evil._
+Members of that cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. Perhaps they sensed this, as I've been pressured to comply, not speak, and certainly not explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', and true to the way in which I was raised, those requests were denied.
 
-_Critically, there are no thoughts that are in my head that are particularly novel - at my most novel, any given thought I've had is a combination of ideas contained in at max three books._
+This post is an explanation of how, without ever intending to, I found myself to have walked out of that camp of evangelicalism, and from their point of view I'm now firmly planted in "heretical theological hinterlands."
 
-_I sometimes manage to find words that are extremely offensive to others, which in some ways I'm proud of, and in other ways I am disappointed and saddened by._
+Hilariously, I consider myself to have recovered a much more actionable, robust, and firm understanding of the person of Jesus Christ (and the things he said and did, and why) than I ever had in the decades leading up to now.
 
-_So, I'm writing with a first pass towards an open display of what I feel, which is at times certainly tinged with strong emotions like anger and rage and grief, but at other times, I wish I could soften my disposition and be a bit more warm, winsom, and reasonable. Hate is closer to love than apathy, so if you hate what I say, I don't mind you communicating that to me. In some ways, it's an honor._
+I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of that religious tradition.
 
-_I've been shunned[^shun] by some, and I have withdrawn from others._
+It would horrify those like my parents, but I've actually internalized (some of) the words they spoke over me: "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me, to control me. This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.[^horrors]
 
-[^shun]: shun (definition): _persistently avoid, ignore, or reject (someone or something) through antipathy or caution._ Where shunning exists, it's a form of punishment that a group can apply to individuals. I was naïve and well-intentioned, earlier on in my "journey" out of evangelicalism, and kept expecting other evangelicals to engage seriously with me, and got met with shunning. "Don't say that!" "Don't think that!" "You can't be serious!" "You might be right, but I don't think others will want to hear about it." "Does that really matter?"
+[^horrors]: the horrors such religiously inclined, emotionally immature people might feel over what I'm writing are only just beginning...
 
-_Eventually, I realized I was being told many different versions of:_
+I'm basically writing this document as a mix of an "impassioned open letter", and "a list of resources and concepts that I wish I'd encountered years earlier in my life."
 
-> _you're thinking incorrect thoughts, Josh, stop acting like this. No, I'm not willing to do any meaningful effort to understand you._
+To borrow from James C. Scott's [Against the Grain](https://www.goodreads.com/book/show/34324534-against-the-grain), I may be revealing myself to be something of a theological barbarian and savage, but I vastly prefer this version of myself than who I was several years ago.
 
-_This response is no longer acceptable to me._
+From my own point of view of myself on my own change, there is a coherent line of thought, way of being, intellectual purity, a clear adherence to a firm ethical standard, and a reasonable causal chain from "there" (thinking evangelicalism was true, and a source of good in the world) to "here" (thinking evangelicalism is more like propaganda than anything else, viewing it as a primary source of ongoing harm in the world).
 
+I sometimes manage to find words that are extremely offensive to others, which in some ways I'm proud of, and in other ways I am disappointed and saddened by. I also am inclined to hide explosive intellectual ideas behind a veil of words, to screen out those who hide behind the veil of functional illiteracy. 
+
+So, I'm writing with a first pass towards an open display of what I feel, which is at times certainly tinged with strong emotions like anger and rage and grief, but at other times, I wish I could soften my disposition and be a bit more warm, winsom, and "reasonable". Hate is closer to love than apathy, so if you hate what I say, I don't mind you communicating that to me. In some ways, it's an honor. I am apathetic about none of this. What I hate is motivated by love for that which has been polluted and degraded by inhumane thoughts and actions. I'm a humanist. 
+
+I've been shunned[^shun] by some, and I have withdrawn from others.
+
+[^shun]: 
+    shun (definition): _persistently avoid, ignore, or reject (someone or something) through antipathy or caution._ Where shunning exists, it's a form of punishment that a group can apply to individuals. I was naïve and well-intentioned, earlier on in my "journey" out of evangelicalism, and kept expecting other evangelicals to engage seriously with me, and got met with shunning. "Don't say that!" "Don't think that!" "You can't be serious!" "You might be right, but I don't think others will want to hear about it." "Does that really matter?" 
+        
+    My views on shunning had been shifting for a while, particularly after reading [Legal Systems Very Different than Ours](https://www.amazon.com/dp/1793386722/ref=redir_mobile_desktop?_encoding=UTF8&qid=1631421225&ref_=tmm_pap_swatch_0&sr=8-1), and especially after reading [Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://www.goodreads.com/en/book/show/29363252). 
+    
+    Shunning is a response that is no longer acceptable to me.
+
+    I now view shunning as the violence and assertion of dominance that it is. My family, my ex-wife's family, and many from evangelical traditions have shunned me, and that I was collectively shunned from "my" religious tradition (and, critally, from no one else) was ultimately what inspired this polemic. I would have loved to discuss this all privately, rather than dragging it into the public realm. Alas.
+    
 # Who this post is for/who might find this interesting
 
 First, this is love letter to an earlier and younger version of myself. 
@@ -80,7 +94,6 @@ The entire weight of evangelical christianity and it's pomp and circumstance eva
 
 
 1. the 'dangerous' books I read
-1. Where I started (evangelicalism and Jesus Christ)
 1. Where I ended up (not evangelicalism and Jesus Christ)
 1. How I got from there to here
 1. The books, and quotes from each
@@ -128,7 +141,7 @@ In other words, I was raised White, though the closest I'll identify now with wh
 
 [^white-passing]: I now view 'whiteness' as a stand-in for 'culturally alientated from any meaningful roots'. Whiteness tends to look like a mix of consumption, colonialism, imperialism, emotional numbness, and cultural vacuousness. Or at least, even if some white people don't explicitely embody those values, they are comfortable in ecosystems hospitable to those values. 
 
-[^anarchist]: I'm an actual anarchist right now, have been for a while, but that's neither here nor there. Just don't read _The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey_, even if it's just to appreciate the author's simple writing style, and how he's nearly apologetic as he gently destroys argument after argument for state-sponsored violence. 
+[^anarchist]: I'm now an actual anarchist, have been for a while, but that's neither here nor there. Just don't read [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority), even if it's just to appreciate the author's simple writing style, and how he's nearly apologetic as he gently destroys argument after argument for state-sponsored violence. I'm not the 'moltov cocktail' anarchist, I'm simply opposed to trying to put the lipstick of legitimacy upon the pig of state-sponsored violence. I'm a consentualist, not more, not less. Hilariously, it's guaranteed that almost anyone reading these words is, practically, an anarchist in most of their relationships.
 
 ## Where I ended up
 
@@ -152,9 +165,9 @@ To me, it's now vastly more interesting to understand and apprectiate why his wo
 
 Next, after reading the three books above about anabaptism, I kept reading 'the canon', and a rather interesting-and-provocative paper. 
 
-- [The Non-Violent Atonement]()
-- [Essays in Honor of J. Denny Weaver]()
-- [The Hermeneutic of Paul and the Introspective Conscious of the West (Harvard Theological Review, circa 1950s)]()
+- [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
+- [The Work of Jesus Christ in Anabaptist Perspective: Essays in Honor of J. Denny Weaver](https://www.amazon.com/Work-Jesus-Christ-Anabaptist-Perspective/dp/193103849X)
+- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
 
 I was raised in 'the church', in a variety of 'baptist', 'evangelical', 'southern baptist', 'presbyterian', 'episcopal', non-denominational churches, from age zero, through perhaps age 31. I went to a nominally christian four-year university. 
 
