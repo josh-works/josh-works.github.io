@@ -10,38 +10,57 @@ image: /images/title_image.jpg
 # issue_id: 5 
 ---
 
-
 # Content warning
 
+I've wanted to express aspects of this to others, particularly to those in my life who come from a religious background. Specifically, those who would call themselves "evangelical" or "protestant".
 
-_I've wanted to express aspects of this to others, particularly to those in my life who come from a religious background. Specifically, those who would call themselves "evangelical" or "protestant"._
+a brief summary:
 
-two-paragraph summary:
+The theological underpinnings of modern evangelicalism are two-fold. First, a guy named Anselm, in like 1100 AD, invented a theological justification for nobility and chivalry known as the 'satisfaction theory of atonement'. Second, the puritans (john calvin, martin luther, others of that 1500s ilk) openly advocated genocide against certain groups of christians who wanted to be left alone, but committed the offense of being insufficiently deferential to religious and political authorities. 
 
-The theological underpinnings of modern evangelicalism are two-fold. First, a guy named Anselm, in like 1100 AD, invented a justification for nobility and chivalry known as the 'satisfaction theory of atonement'. Second, the puritans (john calvin, martin luther, others of that 1500s ilk) openly advocated genocide against certain groups of christians who wanted to be left alone, but committed the offense of being insufficiently deferential to religious and political authorities. 
+**Therefore, everything associated with Calvinism/the puritans or the satisfaction view of atonment is completely polluted with murder, violence, and domination. If murder, violence, and domination (or being murdered, having violence enacted upon you, and being dominated) isn't your cup of tea, run.** [^burden-of-proof]
 
-**Therefore, everything associated with Calvinism or the satisfaction view of atonment is completely polluted with murder, violence, and domination. If murder, violence, and domination (or being murdered, having violence enacted upon you, and being dominated) isn't your cup of tea, run.**
+[^burden-of-proof]: Some readers will understandibly protest this 'discard' I'm advocating for. Throwing away "the puritans" and the satisfaction view of atonement? Yes, that's what I'm advocating for, and the burden of proof is on _you_ for why something so odious as a theological justification for nobility, or a theological justification for domination and violence, shouldn't be discarded.
 
-"Modern christians" don't resort to physical violence as quickly as their intellectual forebearers (slaveholders), for example, but they instantly reach for tools of psychological and verbal coercion as soon as they see something that looks "out of line". 
+"Modern christians" don't resort to physical violence as quickly as their intellectual forebearers (slavers), for example, but they instantly reach for tools of psychological and verbal coercion as soon as they see something that looks "out of line". 
 
-Those willing to use verbal and psychological coercion, in justifying that coercion, find themselves as bedfellows with those who use physical violence, and the spawn of that union is demonic. America's global military empire (and domestic military 'empire') is firmly rooted in the logical extension of this verbal and psychological coercion. Police yelling "stop resisting!" and the US military's message of "accept our democracy" lives close to the message parents like to proclaim, which is "you will do whatever I tell you, and i'll psychologically torture you until you comply"
+Those willing to use verbal and psychological coercion, in justifying that coercion, find themselves as bedfellows with those who use physical violence, and the spawn of that union is demonic. America's global military empire (and its _domestic_ military empire) is firmly rooted in the logical extension of this verbal and psychological coercion. Police yelling "stop resisting!" and the US military's message of "accept our democracy" lives close to the message parents coerce on their children, which is "you will do whatever I tell you, and i will psychologically torture you until you comply."
 
 
-# Where I started
 
-From birth through my early 30s, my parents had me firmly ensconced in the evangelical church traditions, which I've now left. I was raised in a verbally, emotionally, and physically abusive household, more akin to a cult than anything else. I was surrounded by others from the same cult, and it took a long time to get far enough from it that I could see it clearly.
+# Who this post is for/who might find this interesting
 
-Members of that cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. Perhaps they sensed this, as I've been pressured to comply, not speak, and certainly not explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', and true to the way in which I was raised, those requests were denied.
+First, this is love letter to an earlier and younger version of myself. 
+
+I experienced difficulty of many shades, because I was trying hard to fit into, and live according to, a system and regime that I thought was capable of absorbing my energy and giving me back something worthwhile, something that would justify what I was giving it. I eagerly pursued safety for myself, relative to caretakers around me, and with the naïvety only children can embody, tried (unsuccessfully) to obtain safety from them while maintaining an individuated sense of self.
+
+I relied on this regime of religiosity to intermediate all sorts of relationships. Relationships with my family, friends, and myself. This religieosity wasn't capable of intermediating these relationships healthfully, and I experienced pain and harm as a result, without ever understanding why the pain was so poingant, the hurt so profound, the loneliness and abandonment so bottomless.
+
+A way I like to move through the world is to add rungs to the bottom of the ladder, whatever ladder I am on, so if anyone else wants to move up that particular ladder, it is more accessible to them than it was to me.
+
+Some of you might find yourself with something like a hole in the bottom of your heart, a pervasive sense of emptiness, alienation from otherse and yourself, purposelessness, and a sense of feeling deeply, desperately alone, or desperately unfit for relationships with others, especially in situations where you feel like you shouldn't _feel_ alone, like when you're with family. 
+
+Listen to yourself, attend to your inner state. It is full of rich and valuable signal. The message of toxic family dynamics is one of numbness and self-abandonment and dissociation from the inner world. It is soul-murderous to exist in such a noxious environment.
+
+Together, we might help you rebuild a sense of self, healthy boundaries, and an ability to make your own way through the world. 
+
+Some of you have been raised in toxic and abusive environments and don't yet know it. Your soul may have been crushed, repeatedly, until you relented and consented to whatever regime you were under, and you don't even remember that this ever happened. 
+
+Lets go recover your soul. The wourld needs soulful, lively people. _You_ need your own soul, and a sense of aliveness. Let's see if we cannot get it back.
+
+From birth through my early 30s, my parents had me firmly ensconced in the evangelical church traditions. 
+
+I was raised in an abusive and neglectful household (physical, emotional, verbal), more akin to a cult than anything else. Because I was surrounded by others from the same cult, and it took a long time to get far enough from it that I could see it clearly.
+
+Some members of this cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. Perhaps they sensed this, as I've been pressured to comply, not speak, and certainly not explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', but, true to the way in which I was raised, those requests were denied.
 
 This post is an explanation of how, without ever intending to, I found myself to have walked out of that camp of evangelicalism, and from their point of view I'm now firmly planted in "heretical theological hinterlands."
 
 Hilariously, I consider myself to have recovered a much more actionable, robust, and firm understanding of the person of Jesus Christ (and the things he said and did, and why) than I ever had in the decades leading up to now.
 
-I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of that religious tradition.
+I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of that religious tradition. Despite my anger about my origins, I warmly extend an invite to this greener side of the fence, to anyone who currently finds themselves still a member of any religious tradition that is or adjacent to evangelicalsm. It's way, way more peaceful and enjoyable 'out here'. 
 
-It would horrify those like my parents, but I've actually internalized (some of) the words they spoke over me: "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me, to control me. This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.[^horrors]
-
-[^horrors]: the horrors such religiously inclined, emotionally immature people might feel over what I'm writing are only just beginning...
+While my current "place" would horrify those from the religious communities in which I was raised, I've actually internalized (some of) the words they spoke over me: "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me and others, to control us.) This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.
 
 I'm basically writing this document as a mix of an "impassioned open letter", and "a list of resources and concepts that I wish I'd encountered years earlier in my life."
 
@@ -49,11 +68,13 @@ To borrow from James C. Scott's [Against the Grain](https://www.goodreads.com/bo
 
 From my own point of view of myself on my own change, there is a coherent line of thought, way of being, intellectual purity, a clear adherence to a firm ethical standard, and a reasonable causal chain from "there" (thinking evangelicalism was true, and a source of good in the world) to "here" (thinking evangelicalism is more like propaganda than anything else, viewing it as a primary source of ongoing harm in the world).
 
-I sometimes manage to find words that are extremely offensive to others, which in some ways I'm proud of, and in other ways I am disappointed and saddened by. I also am inclined to hide explosive intellectual ideas behind a veil of words, to screen out those who hide behind the veil of functional illiteracy. 
+I sometimes manage to find words that are extremely offensive, which in some ways I'm proud of, and in other ways I am disappointed and saddened by. I also am inclined to hide explosive intellectual ideas behind a veil of words, to screen out those who hide behind the veil of functional illiteracy. 
 
-So, I'm writing with a first pass towards an open display of what I feel, which is at times certainly tinged with strong emotions like anger and rage and grief, but at other times, I wish I could soften my disposition and be a bit more warm, winsom, and "reasonable". Hate is closer to love than apathy, so if you hate what I say, I don't mind you communicating that to me. In some ways, it's an honor. I am apathetic about none of this. What I hate is motivated by love for that which has been polluted and degraded by inhumane thoughts and actions. I'm a humanist. 
+So, I'm writing this as a first pass towards an open display of what I feel, which is at times certainly tinged with emotions like anger and rage and grief, but at other times, I wish I could soften my disposition and be a bit more warm, winsom, and "reasonable". 
 
-I've been shunned[^shun] by some, and I have withdrawn from others.
+Hate is closer to love than apathy, so if you hate what I say, I don't mind you communicating that to me. In some ways, it's an honor. I am apathetic about none of this. What I hate is motivated by love for that which has been polluted and degraded by inhumane thoughts and actions.
+
+I've been shunned[^shun] by some, and I have withdrawn from others. Here's no more or less than an explanation, mixed with a defense. Say what you will about me, but "Josh has not given thought and intellectual brain-sweat to his life" will not be accepted.
 
 [^shun]: 
     shun (definition): _persistently avoid, ignore, or reject (someone or something) through antipathy or caution._ Where shunning exists, it's a form of punishment that a group can apply to individuals. I was naïve and well-intentioned, earlier on in my "journey" out of evangelicalism, and kept expecting other evangelicals to engage seriously with me, and got met with shunning. "Don't say that!" "Don't think that!" "You can't be serious!" "You might be right, but I don't think others will want to hear about it." "Does that really matter?" 
@@ -63,111 +84,9 @@ I've been shunned[^shun] by some, and I have withdrawn from others.
     Shunning is a response that is no longer acceptable to me.
 
     I now view shunning as the violence and assertion of dominance that it is. My family, my ex-wife's family, and many from evangelical traditions have shunned me, and that I was collectively shunned from "my" religious tradition (and, critally, from no one else) was ultimately what inspired this polemic. I would have loved to discuss this all privately, rather than dragging it into the public realm. Alas.
-    
-# Who this post is for/who might find this interesting
-
-First, this is love letter to an earlier and younger version of myself. 
-
-I experienced difficulty of many shades, because I was trying hard to fit into, and live according to, a system and regime that I thought was capable of absorbing my energy and giving me back something worthwhile, something that would justify what I was giving it. 
-
-I relied on this regime of religiosity to intermediate all sorts of relationships for me. Relationships with my family, friends, myself. It wasn't capable of doing these things well, and I experienced pain and harm as a result, without ever understanding why the pain was so poingant, the hurt so profound, the loneliness and abandonment so bottomless.
-
-A way I like to move through the world is to add rungs to the bottom of the ladder, whatever ladder I am on, so if anyone else wants to move up that particular ladder, it is more accessible to them than it was to me.
-
-Some of you might find yourself with a hole in your heart, a sense of emptiness, alienation from otherse and yourself, purposelessness, and a sense of feeling deeply, desperately alone, especially in situations where you feel like you shouldn't _feel_ alone, or especially when you're with family. 
-
-Listen to yourself, attend to your inner state. 
-
-Together, we might help you rebuild a sense of self, healthy boundaries, and an ability to make your own way through the world. 
-
-Some of you have been raised in toxic and abusive environments and don't yet know it. Your soul may have been crushed, repeatedly, until you relented and consented to whatever regime you were under, and you don't even remember it. 
-
-Lets go get it back.
-
-# Summary of whats to come
-
-After reading a few books, I obtained a dramatically different view of the religious teachings I was given as a child. I'd been renegotiating my understanding of religion, myself, my relationships, and the world around me, and kept coming up empty, with something like a 'gaping hole' in my soul. 
-
-These improved conceptual compressions have let me move through the world in a much healthier and more forceful way. I'm dramatically less succeptible to certain unhealthy influences, and feel much more at peace and content. I also, at times, feel _quite_ angry, but I don't deny myself the ability to feel anger like I used to.
-
-The entire weight of evangelical christianity and it's pomp and circumstance evaporated from my life like popping a balloon. It collapsed so completely that the thought of taking it seriously on it's own terms now feels like the punchline to a joke. 
 
 
-1. the 'dangerous' books I read
-1. Where I ended up (not evangelicalism and Jesus Christ)
-1. How I got from there to here
-1. The books, and quotes from each
-    1. 
-
-
-
-## The Dangerous Books I Read
-
-_Warning: Don't read any of the books I reference in this article. Any single book might wreck you._
-
-I've always been intuitively attracted to lists of banned books. Almost on principle, if I find that a book has been banned, I'll seek it out, read it, and luxuriate in whatever subversive or anti-establishment views it espouses. 
-
-These books that I recommend could easily be banned. Banning a book directly is a small-brained solution to a problem, from the establishment point of view, because of the [Streisand Effect](). 
-
-If the evangelical church (and it's consorts from the state) got together and said:
-
-> We're banning _The Politics of Jesus_, _The Non-Violent Atonement_, and _The Problem of Political Authority_, everyone who had access to a library, a credit card, or the internet would go out and see what spicy words were contained in the text. Even children. In the era of the internet, the best defense against 🌶️ ideas is an attitude of apathy. 
-
-Feel free to skim the rest of this article. It's long, meandering, and weaves together my own thoughts with those of the books I read. I've written a few articles already around this topic, and I'll link them in, but if you're at all inclined to read the books I suggest, I think your time would be well-spent, though you'll pay far more for reading these books than just time and money.
-
-A warning - I'm nearly autistic and will wade through text of any difficulty if I feel like there's something useful at the other end. These books are not "easy", but neither is life. Grow up or get out.
-
-Here's the books (and a paper), in the order in which I read them:
-
-- [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism]()
-- [The Naked Anabaptist]()
-- [The Politics of Jesus]()
-- [The Non-violent Atonement]()
-- [The Hermeneutic of Paul and the Introspective Conscious of the West (an academic paper from the 1950s)]()
-
-Boom. That was it. At the end of these books, and the paper, I was firmly outside of the evangelical tradition, and never able to be brought back. 
-
-## Where I started
-
-I was "an evangelical", despite how much I disliked the political conservativism that tends to come with it.[^anarchist]
-
-While there are absolutely black evangelicals (the divide between black and white evangelicals is the topic of a wonderful book titled [The Origins of Pro-Slavery Christianity: White and Black Evangelicals in Preantebellum Virgina](), in general, white evangelicalism is an embodiment of "whiteness". So, I _started_ "christian", "white", "republican", and more. I'm not proud of the views I once espoused, but they were coerced onto me with overwhelming pressure, so I don't see myself as having too much of a choice.
-
-If I chose to, I could blend in with a crowd of any political flavor, but my upbringing was _extremely_ politically conservative. I was raised on messages like "gay people are what is wrong with America" and "the military of the government of the USA makes the world safe" and "american democracy is the best/last form of organization needed in the world" and "black people are overall inferior to white people" and "china and russia represent the biggest threats to world peace we know".
-
-I was also raised mostly functionally divorced from any of the ethnic heritage I had, despite how close I could have been to certain latin american cultural origins. 
-
-In other words, I was raised White, though the closest I'll identify now with whiteness is "white-passing". [^white-passing]
-
-[^white-passing]: I now view 'whiteness' as a stand-in for 'culturally alientated from any meaningful roots'. Whiteness tends to look like a mix of consumption, colonialism, imperialism, emotional numbness, and cultural vacuousness. Or at least, even if some white people don't explicitely embody those values, they are comfortable in ecosystems hospitable to those values. 
-
-[^anarchist]: I'm now an actual anarchist, have been for a while, but that's neither here nor there. Just don't read [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority), even if it's just to appreciate the author's simple writing style, and how he's nearly apologetic as he gently destroys argument after argument for state-sponsored violence. I'm not the 'moltov cocktail' anarchist, I'm simply opposed to trying to put the lipstick of legitimacy upon the pig of state-sponsored violence. I'm a consentualist, not more, not less. Hilariously, it's guaranteed that almost anyone reading these words is, practically, an anarchist in most of their relationships.
-
-## Where I ended up
-
-After reading those books, some of them more than once, and much conversation (and painful lack of conversation) with others, I strongly and clearly de-identified with Christianity, christians, and all forms of evangelicalism. 
-
-This article isn't about why I de-identified with evangelicalism, though. 
-
-I did that quietly, without really telling anyone, and I kept going to church on Sundays, and since I wasn't saying/writing much about what I'd encountered, except for in trusted 1:1 conversations, no one in my family or the church had any reason to think things had changed for me. 
-
-Anyone who knew me and this came up in conversation, I'd quickly explain where I'd been, theologically, and they could track with me, but again, in the terms of Exit, Voice, and Loyalty, I exited, quietly. 
-
-**This article is about why I now strongly associate evangelicalism with an active creation of spaces safe for, and full of, abusive behaviors, oppression, and violence. As someone who's ethically opposed to abuse, oppression, and violence... I've got words.**
-
-These books are quite dangerous, in the same way that Jesus was dangerous. For example, here's a "take" that I'd literally never considered, but is intellectually coherent:
-
-> Jesus was not "murdered by God to atone for the sins of mankind" (the satisfaction atonement motif) - he was murdered by angry and small-minded people at the behest of the religious and political leaders, because he represented a credible threat to the established political and religious regimes of the day, and that threat was legible to the people who ran the regimes, so they killed him. No more and no less. 
-
-To me, it's now vastly more interesting to understand and apprectiate why his words and actions were so egregiously offensive to the establishment. Given that he also encouraged his followers to embody his way of being, if one can see why he was dangerous to the status quo, one becomes different, and... oops. There goes the status quo. 
-
-----------------------------------
-
-Next, after reading the three books above about anabaptism, I kept reading 'the canon', and a rather interesting-and-provocative paper. 
-
-- [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
-- [The Work of Jesus Christ in Anabaptist Perspective: Essays in Honor of J. Denny Weaver](https://www.amazon.com/Work-Jesus-Christ-Anabaptist-Perspective/dp/193103849X)
-- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+# Where I started
 
 I was raised in 'the church', in a variety of 'baptist', 'evangelical', 'southern baptist', 'presbyterian', 'episcopal', non-denominational churches, from age zero, through perhaps age 31. I went to a nominally christian four-year university. 
 
@@ -175,57 +94,14 @@ At the beginning, I went to church because my parents would have committed acts 
 
 Kristi and I were married in "the church" over a decade ago, and at that point I considered my involvement to be fully voluntary. 
 
-Then, 2019 happened. these words are that story. 
+When this *gestures broadly* first started happening, I didn't really think it would lead to where it actually led me. Some of these things 'i did', others 'were done to me'. There's horror and sadness and grief throughout. 
 
-What happened in 2019?
- 
-Lets roll back the clock to 2019.
-
-You and I had not even heard the word 'covid 19'. 
-
-I was climbing well, finally getting some breakthroughs in my bouldering and sport climbing. 
-
-The troubles that would affect my life in 2020, 2021, 2022, and 2023 were completely absent from my consciousness. 
-
-I was happy, all seemed good. 
-
-Friends, family, climbing, I was doing well in my career, doing cool things, giving cool talks at meetups, had a great podcast appearence, and was helping others in ways that were good and emotionally satisfying. 
-
-I was getting unsolicited job offers, got recognized by a stranger in an airport because of a talk I had given (!!!), had external and internal trappings of success. My birth family and Kristi's birth family gave me a resounding 'thumbs up', based on the life I was living. 
-
-Money was abundant, free time was abundant, emotional energy and engagement and agency was overall abundant.
-
-Things were good.
+- I am no longer married, and as far as how well divorces can go, it feels like it went poorly.
+- I am no longer on speaking terms with a rather large percentage of my birth family, and with the family I married into.[^engage-with] :( 
+- I have deepened dramatically some friendships in my life (new and old), which has provided energy and support in a way that one might find a life preserver to provide energy and support when floating down a turbulent river.
 
 
-Then 2019 happened. When i try to think of the beginning of the story, the best focal point I can pick is when I read a little book.
-
-I read an unassuming little pamphlet titled _Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism_. It ruined me. Changed the trajectory of my life.
-
-Let me back up a bit. 
-
-Again, this is going to get nuanced, in some ways. 
-
-I'm writing this letter more or less to people who consider themselves to be part of the church, even though for the last three years, I've firmly rejected the moral authority of those people, and without concern or qualm iterated on my beliefs in such a way that people who considered me to have been part of "their team" as an "insider in the church" would now assess me as apostate or heretical. 
-
-I happen to disagree with their read of me. 
-
-These people have simultaneously taken steps to prevent me from explaining myself, thus I don't care anymore about their opinions, but there was a time that this judging (coupled with the shunning) hurt. It was, at minimum, confusing and felt like a form of abandonment. 
-
-"You're saying you dislike me, but we've hardly even talked about the core issues at stake, and when we do talk about it it's just been you pouring condemnation on me? You've not even asked me an open-ended question, you fool."
-
-I happen to consider myself to not be apostate or heretical, and since this is my life and my website, I can share my story. 
-
-When "the shift" first started happening, I didn't really think it would lead to where it actually led me:
-
-- no longer married, and as far as those kinds of things go, it went rather poorly
-- No longer on speaking terms with a rather large percentage of my birth family, and with the family I married into
-- No longer in any form of relationship with a rather large percentage of a former friend group
-- I've deepened dramatically many friendships in my life (new and old), which has provided energy and support in a way that one might find a life preserver to provide energy and support when floating down a turbulent river
-
-I've been functionally expelled from my birth family (though I was never really anything but an outsider in my own family), and I've been expelled from the family I married into, and various friend groups and extended family groups have also indicated that I'm no longer to be fairly/safely engaged with. [^engage-with]
-
-[^engage-with]: the narrative seems to be that I have "expelled myself" from those groups. We can agree to disagree. I endorse [Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty to Repair](https://www.goodreads.com/en/book/show/29363252) as a useful ethical framework for how to proceed. The number of people who have brought aggressive and demanding and probing questions to me, that I've asked to consider reading one or two books to better understand the dynamics at root, who have then plainly refused to read a single book... You don't have to read a book, but if you claim to care deeply what's going on, and then want to engage with me the way a lawyer might cross-examine a witness, and you embody coercive frame control... my time is short, my energy important. take a hike. You've un-earned access to my resources.
+[^engage-with]: the narrative seems to be that I have "expelled myself" from those groups. We can agree to disagree. I endorse [Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty to Repair](https://www.goodreads.com/en/book/show/29363252) as a useful ethical framework for how to proceed. The number of people who have brought aggressive and demanding and probing questions to me, that I've asked to consider reading one or two books to better understand the dynamics at root, who have then plainly refused to read a single book... You don't have to read a book, but if you claim to care deeply what's going on, and then want to engage with me the way a lawyer might cross-examine a witness, and you use verbally coercive language... meh. not my speed.
 
 At least it feels that way. 
 
@@ -237,7 +113,116 @@ So, between me not being proactive in relationships, hiding from the overtures o
 
 Some have reached out with a message like 'pull your head out of your ass and man up', which, besides not really meaning anything, earned a quick 'block this contact' response. (If I've not spoken at all or openly to you in several years, I'm not going to dignify a condemning overture with a response.) 
 
-Enough of 'my people' verbally assaulted me when I was already in a pretty low place, so cutting off contact with most people of a certain ilk (evangelical) was safety-seeking behavior on my behalf. 
+Enough of 'my people' verbally assaulted me when I was already in a pretty low place, so cutting off contact with most people of a certain ilk (evangelical) was safety-seeking behavior on my behalf.     
+
+Then, 2019 happened. these words are that story. The troubles that would affect my life in 2020, 2021, 2022, and 2023 were completely absent from my consciousness. 
+ 
+Lets roll back the clock to 2019.
+
+You and I had not even heard the word 'covid 19'. 
+
+I was climbing well, finally getting some breakthroughs in my bouldering and sport climbing. 
+
+Friends, family, climbing, I was doing well in my career, doing cool things, giving cool talks at meetups, had a great podcast appearence, and was helping others in ways that were good and emotionally satisfying. 
+
+I was getting unsolicited job offers, got recognized by a stranger in an airport because of a talk I had given (!!!), had external and internal trappings of success. My birth family and Kristi's birth family gave me a resounding 'thumbs up', based on the life I was living. 
+
+Money was abundant, free time was abundant, emotional energy and engagement and agency was, overall, abundant.
+
+Things were good.
+
+When i try to think of the beginning of the story of my exit from evangelicalism, the best focal point I can pick is a book I got gifted on my Kindle, for my birthday.
+
+I read an unassuming, short little book titled [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist). It ruined me. Changed the trajectory of my life.
+
+
+## The Dangerous Books I Read
+
+_Warning: Don't read any of the books I reference in this article, even if 'just' out of spite, to prove that the book won't impact you. Any single book might wreck you. They're dangerous._
+
+I've always been intuitively attracted to "banned books". On principle, when hearing of a book that's been banned, I'll seek it out, read it, and luxuriate in whatever subversive or anti-establishment views it espouses. 
+
+These books that I recommend could easily be banned. Banning a book directly is a small-brained solution to a problem, from the establishment point of view, because of the [Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect). 
+
+If the evangelical church (and it's consorts from the state) got together and said:
+
+> We're banning [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus), [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement), and [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority) 
+
+everyone who had access to a library, a credit card, or the internet would go out and see what spicy words were contained in the text. Even children. In the era of the internet, the best defense against 🌶️ ideas is projecting an attitude of apathy. 
+
+Feel free to skim the rest of this article. It's long, meandering, and weaves together my own thoughts with those of the books I read. I've written a few articles already around this topic, and I'll link them in, but if you're at all inclined to read the books I suggest, I think your time would be well-spent, though you'll pay far more for reading these books than just time and money.
+
+A warning - I'm nearly autistic and will gleefully wade through text of any difficulty if I feel like there's something useful at the other end. These books are not "easy". People change when the cost of not-changing is greater than the cost of changing. 
+
+Here's the books (and a paper), in the order in which I read them:
+
+- [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
+- [The Naked Anabaptist](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
+- [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
+- [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
+- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+
+Boom. That was it. At the end of these books, and the paper, I was firmly outside of the evangelical tradition, and never able to be brought back. 
+
+## Where I started
+
+I was "an evangelical", despite how much I disliked the political conservativism that tends to come with it.[^anarchist]
+
+While there are absolutely black evangelicals (the divide between black and white evangelicals is the topic of a wonderful book titled [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity), in general, white evangelicalism is/was an embodiment of "historic whiteness". In my early years, I was "christian", "white", "republican", and more. I'm not proud of the views I once espoused, but they were coerced onto me with an overwhelming pressure, so I don't see myself as having had too much of a choice. (seeking safety from caretakers as a child and such)
+
+If I chose to, I could blend in with a crowd of any political flavor, but my upbringing was _extremely_ politically conservative. I was raised on messages like "gay people are what is wrong with America" and "the military of the government of the USA makes the world safe" and "american democracy is the best/last form of organization needed in the world" and "black people are overall inferior to white people" and "china and russia represent the biggest threats to world peace."
+
+I was also raised mostly functionally divorced from any of the ethnic heritage I had, despite how close I could have been to certain latin american cultural origins. 
+
+In other words, I was raised White, though the closest I'll identify now with whiteness is "white-passing". [^white-passing]
+
+[^white-passing]: I now view 'whiteness' as a stand-in for 'culturally alientated from any meaningful roots'. Whiteness tends to look like a mix of consumption, colonialism, imperialism, emotional numbness, and cultural vacuousness. Or at least, even if some white people don't explicitely embody those values, they are comfortable in ecosystems hospitable to those values.
+
+[^anarchist]: I'm now an actual anarchist, have been for a while, but that's neither here nor there. Just don't read [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority), even if it's just to appreciate the author's simple writing style, and how he's nearly apologetic as he gently destroys argument after argument for state-sponsored violence. I'm not the 'moltov cocktail' anarchist, I'm simply opposed to trying to put the lipstick of legitimacy upon the pig of state-sponsored violence. I'm a consentualist, not more, not less. Hilariously, it's guaranteed that almost anyone reading these words is, practically, an anarchist in most of their 'normal' relationships.
+
+## Where I ended up
+
+After reading those books, some of them more than once, and much conversation (and painful lack of conversation) with others, I strongly and clearly de-identified with Christianity, christians, america/americanism, and all forms of evangelicalism. 
+
+When traveling, when asked "where I'm from", I'll say "Colorado", rather than "the United States of America", and I'll sometimes add "my family is from Paraguay".
+
+I identify with attribute tags like anarchism and anabaptistm (loosely), but mostly I've dropped all the labels I used to voluntarily use. I'll talk about my daughter, rock climbing, my love of friends and friendship, 'intellectual pursuits' and more. These are the ways I choose to define myself.
+
+This article isn't about why I de-identified with evangelicalism, though. 
+
+I did that quietly, without really telling anyone, and I kept going to church on Sundays, and since I wasn't saying/writing much about what I'd encountered, except for in trusted 1:1 conversations, no one in my family or the church had any reason to think things had changed for me. 
+
+Anyone who knew me and this came up in conversation, I'd quickly explain where I'd been, theologically, and they could track with me, but again, in the terms of [Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States](https://www.goodreads.com/book/show/149033.Exit_Voice_and_Loyalty), I exited, quietly. 
+
+**This article is about why I now strongly associate evangelicalism with an active creation of spaces safe for, and full of, abusive behaviors, oppression, and violence. As someone who's ethically opposed to abuse, oppression, and violence... I've got words.**
+
+These books are quite dangerous, in the same way that Jesus was dangerous. 
+
+To recap, I read:
+
+1. [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
+1. [The Naked Anabaptist](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
+1. [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
+
+After these three books, especially the last one, I saw core components of what I'd been given in a wholly different light. 
+
+For example, here's a "take" that I'd literally never considered, but is intellectually coherent:
+
+> Jesus was not "murdered by God to atone for the sins of mankind" (the [satisfaction atonement motif](https://en.wikipedia.org/wiki/Satisfaction_theory_of_atonement)) - he was murdered by angry and small-minded people at the behest of the religious and political leaders, because he represented a credible threat to the established political and religious regimes of the day, and that threat was legible to the people who ran the regimes, so they killed him. No more and no less. 
+
+To me, it's now vastly more interesting to understand and apprectiate why his words and actions were so egregiously offensive to the establishment. 
+
+Given that he also encouraged his followers to embody his way of being, if one can see why his words and actions were so dangerous to the status quo, one becomes different, and... 
+
+oops. There goes the status quo. 
+
+----------------------------------
+
+Next, after reading the three books above about anabaptism, I kept reading 'the canon', and a rather interesting-and-provocative paper. 
+
+1. [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
+1. [The Work of Jesus Christ in Anabaptist Perspective: Essays in Honor of J. Denny Weaver](https://www.amazon.com/Work-Jesus-Christ-Anabaptist-Perspective/dp/193103849X)
+1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
 
 
 ## Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism
@@ -352,33 +337,41 @@ Modern evangelicalsm is... well, basically politically powerful white people coo
 
 ## The non-violent atonement
 
-OK, so we're gonna go another layer deeper. Here's why:
+From the introduction:
 
-It would be one thing to throw your hands up, say "yep, the church is effed up, not gonna touch it with a ten-foot pole", and walk away and never come back. 
+Atonement theology starts with violence, namely, the killing of Jesus. The commonplace assumption is that something good happened, namely, the salvation of sinners, when or because Jesus was killed. It follows that the doctrine of atonement then explains how and why Christians believe that the death of Jesus the killing of Jesus - resulted in the salvation of sinful humankind.
 
-Nothing wrong with that. 
+In much of the world generally and in the United States in particular, the prevailing assumption behind the criminal justice system is that to "do justice" means to punish criminal perpetrators appropriately. "Appropri- ately" means that the more serious the offense, the greater the penalty (punishment) to be imposed, with death as the ultimate penalty for the most serious crimes. There is a pervasive use of violence in the criminal justice system when it operates on this belief that justice is accomplished by inflicting punishment. Called retributive justice, this system assumes that doing justice consists of administering quid pro quo violence an evil deed involving some level of violence on one side, balanced by an equivalent violence of punishment on the other. The level of violence in the punishment corresponds to the level of violence in the criminal act.*
 
-It's like walking away from white supremacy. You don't need to prove to the white supremacists, as they cling to their white supremacy, that they're wrong. It's sorta de-dignifying to debate them from their own 'frame', because the frame makes so many assumptions that it cannot really be wrestled with fairly. They'll "no true scottsman" you to death.
+Satisfaction atonement assumes that the sin of humankind against God has earned the penalty of death but that Jesus satisfied the offended honor of God on their behalf or took the place of sinful humankind and bore their punishment or satisfied the required penalty on their behalf. Sin was atoned for because it was punished - punished vicariously through the death of Jesus, which saved sinful humankind from the punishment of death that they deserved- or because the voluntary death of Jesus paid or satisfied a debt to God's honor that sinful humans had no way of paying themselves. That is, sinful humankind can enjoy salvation because Jesus was killed in their place, satisfying the requirement of divine justice on their behalf. While the discussion of satisfaction atonement involves much more than this exceedingly brief account, this description is sufficient to portray how satisfaction atonement, which assumes that God's justice re- quires compensatory violence or punishment for evil deeds committed, can seem self-evident in the context of contemporary understandings of retributive justice in North American as well as worldwide system of crim- inal justice.]
 
-In fact, refusal to leave a certain frame and try on a different one is a tactic of abuse. It's a blatant refusal to adopt the theory of mind of someone else. Of course they're right, if you play by their rules, because their starting assumption of the world is that 'the white race' is superior, and non-white races are inferior. If they say "prove to me that non-white people are not inferior", it's embarrassing and self-abandoning to even treat that statement with seriousness. 
+The link between satisfaction atonement and systems of retributive justice cannot be denied. Timothy Gorringe's God's Just Vengeance pro- vides a thorough analysis of satisfaction atonement's foundation in as- sumptions of retributive violence as well as an extended discussion of the mutual interrelations between theories of satisfaction atonement and un- derstandings of punishment and criminal justice in the western world since the time of Anselm.
 
-More on frame control: https://knowingless.com/2021/11/27/frame-control/
+[...]
 
-Undoubtedly you're better off, leaving this whole pile of crock behind, and nothing meaningful is lost. It's like walking away from a cult, or deciding that your friends who think the earth is flat are wrong. All you 'lose' is a mental model that causes the world to keep not making sense, and getting mysteriously lost when navigating by the stars. 
+A different kind of challenge to satisfaction atonement comes from a Catholic writer who works out of the theory of mimetic violence and the scapegoat mechanism developed by René Girard. As an alternative to the assumption that God orchestrates evil that punishes Jesus for the sins of humankind, Raymund Schwager developed a dramatistic understanding of the New Testament's depiction of Jesus, **which shows that punishment is what sinful humanity does to itself through rejection of the reign of God.**
 
-You can change your thinking and leave an intellectually bankrupt idea behind, and having nothing but improvement, and there's no need to engage intellectually with those you leave.
+[...]
 
-unless, of course, you think you might be able to get more of them to leave with you.
+I had concluded that Anselmian atonement was an abstract legal transaction that enabled the Christian believers of Christendom to claim salvation via the death of Christ while actively accommodating the violence of the sword. With that insight already in mind, encountering the critique of Anselm in Cone's God of the Oppressed was startling. **Where I had been arguing that the abstract legal formula allowed accommodation of the sword, Cone was arguing that it had accommodated chattel slavery and racism.** Rapidly I saw that critique of Anselm was an agenda item that extended well beyond the pacifist perspective from which I had been working. 
 
-I've always enjoyed a good house party, and any good party is more fun when there's more people. So, in honor of me 'leaving evangelicalism', I'm sorta throwing myself a party, and trying to get a few more people to show up. 
+[...]
 
-I'm basically willing to do to evangelicals what they so annoyingly do to others. I'm evangelizing them. (ooooh, how your blood might be boiling right now, dear reader, if you're an evangelical and pissed with me.)
+### Definition of Narrative Christus Victor 
 
-Buuuut the best/worst thing about me is I'm *so screamingly stupid* I can only take baby steps from one spot to another, and I like to leave a trail of breadcrumbs behind me. 
+"The" alternative to the anselmian/violent/atonement atonement:
 
-I can start at one spot and end up at a starkly different spot that is very surprising to someone else, but something that I love about myself is that nothing I've ever done is difficult or undoable by someone else. 
+I have called the resulting model of the life and work of Christ narrative Christus Victor. While narrative Christus Victor displays continuity with classic Christus Victor, it differs from the classic view in many important ways, and it deals with a number of issues not usually included in the discussion of atonement. The working assumption in development of this model is that the rejection of violence, whether the direct violence of the sword or the systemic violence of racism or sexism, should be visible in ex pressions of Christology and atonement. Developing an understanding shaped by nonviolence then lays bare the extent to which satisfaction atonement is founded on violent assumptions. Thus proposing narrative Christus Victor as a nonviolent atonement motif also poses a fundamental challenge to and ultimately a rejection of satisfaction atonement.
 
-So, if I've arrived at a 'theologically novel spot', my honor requires me to push back and say "this is neither novel, nor difficult for you to arrive at, if you're willing to apply a little brain sweat". 
+Since violence covers a multitude of sins and issues, examining biblical and historical material from a "nonviolent perspective" requires definitions for both violence and nonviolence. I am using "violence" to mean harm or damage, a definition given more specificity by Glen Stassen and Michael Westmoreland-White. They describe two dimensions of violence: "(1) destruction to a victim and (2) by overpowering means. Violence is destruction to a victim by means that overpower the victim's consent."15 This definition obviously includes killing in war, in murder, and in capital punishment. Violence as harm or damage includes physical harm or injury to bodily integrity. It incorporates a range of acts and conditions that include damage to a person's dignity or self-esteem. Abuse comes in psychological and sociological as well as physical forms: parents who belittle a child and thus nurture a person without self-worth, teachers who brand a child a failure and destroy confidence to learn, a husband who continually puts down his wife, and more. Killing is not the sole instance of violence but one of its more extreme forms. The system of chattel slavery that existed in colonial America and in the United States for two and a half centuries was most certainly violence. But the continuation of racist practices today under other names is also violence. Social practices which proscribe set roles for women and limit their opportunities are examples of violence. Social structures that impose poverty are violent. Such forms as racism, sexism, and poverty are frequently referred to as systemic violence. It is necessary to keep all these forms of violence in mind, from direct violence of bodily injury and killing through psychological abuse and the multiple forms of systemic violence. Each of these forms of violence appears at some point in the discussion of atonement images to follow. One important dimension of violence is the way it is assumed and used in the criminal justice system. As was already noted, the prevailing assumption behind the criminal justice system is that to do justice means to inflict punishment, with the intensity of punishment dependent on the seriousness of the misdeed. In theory then, the death penalty differs quantitatively but not qualitatively from lesser punishments. But recognizing the assumption that justice means punishment shows that a very pervasive use of violence surrounds us in the criminal justice system, a use of violence whose commonness renders it virtually invisible. The assumed violence of justice as punishment will appear at several stages in the discussion of atonement, particularly in the context of feminist and womanist arguments and in the arguments of the defenders of Anselm in Chapter 7.
+
+If "violence" covers a variety of issues, "nonviolence" also covers a spectrum of stances and actions ranging from passive nonresistance at one end to active nonviolent resistance at the other. In this regard, it is very important to distinguish violence defined as harm or damage from nonviolence as force or social coercion that respects bodily integrity. Since we have no term that carries the specific meaning of coercion used positively, I will describe it here as identifying a spectrum or continuum of acts stretching from persuasion to physical coercion. Persuasion attempts to affect and guide the action of others without denying their freedom or harming their person. At a low level of intensity, it includes the gentle coercion of parents who restrain children from disruptive behavior and teachers who require pupils to raise their hands and wait for permission to speak in class. At a high level of intensity at the other end of the spectrum, positive coercion that constrains or compels the acts of others through pressure would include such actions as social ostracism, public marches and protests, and eventually strikes and economic boycotts. Examples of physical force used positively or in a way to prevent an act that an individual wants to perform might include some forms of punishment for children, physically restraining children from running into the street, knocking a person out of the path of a vehicle, and physically restraining a person attempting suicide.'
+
+One specific point to make clear about nonviolence is that it does resist violence in any of its forms. The question is not whether nonviolent Christians should resist. It is rather how Christians should resist. And the answer is to resist nonviolently. As the treatment of the story of Jesus in the following chapter demonstrates, Jesus engaged in nonviolent resistance.
+
+[...]
+
+It also engages in conversation with other critics of violent atonement theology. The final conclusion is that, even at its best, Anselm's satisfaction theory of atonement cannot escape its foundation in the idea of retributive violence. It can be kept and defended, I conclude, only if one is willing to defend the compatibility of violence and retribution with the gospel of Jesus Christ.]
 
 # Appendix
 
@@ -416,21 +409,54 @@ So, if you read the books mentioned above, you'll join me on the outside of evan
 
 When someone is sad, we hold space for them. When they're stuck, we help un-stick them. When someone has a sense of malaise, we malaise with them. We don't arbitrarily denigrate whole groups of people (sigh. My weakness in this regard is to denigrate evangelicals, white supremacists, and imperialists/colonialists, and yes, I know that hurt people hurt people. It's been a year or so since I've exited the world I was raised in for three decades. Working on it.)
 
+OK, so we're gonna go another layer deeper. Here's why:
+
+It would be one thing to throw your hands up, say "yep, the church is effed up, not gonna touch it with a ten-foot pole", and walk away and never come back. 
+
+Nothing wrong with that. 
+
+It's like walking away from white supremacy. You don't need to prove to the white supremacists, as they cling to their white supremacy, that they're wrong. It's sorta de-dignifying to debate them from their own 'frame', because the frame makes so many assumptions that it cannot really be wrestled with fairly. They'll "no true scottsman" you to death. [^frame-control]
+
+[^frame-control]: 
+    refusal to leave a certain frame and try on a different one is a tactic of abuse. It's a blatant refusal to adopt the theory of mind of someone else. Of course they're right, if you play by their rules, because their starting assumption of the world is that 'the white race' is superior, and non-white races are inferior. If they say "prove to me that non-white people are not inferior", it's embarrassing and self-abandoning to even treat that statement with seriousness. 
+
+    More on frame control: https://knowingless.com/2021/11/27/frame-control/
+
+Undoubtedly you're better off, leaving this whole pile of crock behind, and nothing meaningful is lost. It's like walking away from a cult, or deciding that your friends who think the earth is flat are wrong. All you 'lose' is a mental model that causes the world to keep not making sense, and getting mysteriously lost when navigating by the stars. 
+
+You can change your thinking and leave an intellectually bankrupt idea behind, and having nothing but improvement, and there's no need to engage intellectually with those you leave.
+
+unless, of course, you think you might be able to get more of them to leave with you.
+
+I've always enjoyed a good house party, and any good party is more fun when there's more people. So, in honor of me 'leaving evangelicalism', I'm sorta throwing myself a party, and trying to get a few more people to show up. 
+
+I'm basically willing to do to evangelicals what they so annoyingly do to others. I'm evangelizing them. (ooooh, how your blood might be boiling right now, dear reader, if you're an evangelical and pissed with me.)
+
+Buuuut the best/worst thing about me is I'm *so screamingly stupid* I can only take baby steps from one spot to another, and I like to leave a trail of breadcrumbs behind me. 
+
+I can start at one spot and end up at a starkly different spot that is very surprising to someone else, but something that I love about myself is that nothing I've ever done is difficult or undoable by someone else. 
+
+So, if I've arrived at a 'theologically novel spot', my honor requires me to push back and say "this is neither novel, nor difficult for you to arrive at, if you're willing to apply a little brain sweat". 
+
 
 ## Full list of recommended readings
 
 Here's ten books that, if you read them, you _might_ feel like you've gotten your life and your soul back.
 
-- Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism
+- [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
 - The Naked Anabaptist
-- The Politics of Jesus
-- The Non-violent Atonement
-- The Hermeneutic of Paul and the Introspective Conscious of the West (an academic paper from the 1950s)
-- The Origins of Pro-Slavery Christianity
-- The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey
+- [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
+- [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
+- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+- [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
+- [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
 - The Most Dangerous Superstition
 - The verbally abusive relationship
-- Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty to Repair
+- [Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty to Repair]()
+
+## Misc reading
+
+- [https://josh.works/quotes-from-complex-ptsd#chapter-5-what-if-i-was-never-hit](https://josh.works/quotes-from-complex-ptsd#chapter-5-what-if-i-was-never-hit)
 
 
 ## Footnotes 
