@@ -30,6 +30,18 @@ Those willing to use verbal and psychological coercion, in justifying that coerc
 
 # Who this post is for/who might find this interesting
 
+I've always enjoyed a good house party, and any good party is more fun when there's more people. So, in honor of me 'leaving evangelicalism', I'm sorta throwing myself a party, and trying to get a few more people to show up. 
+
+I'm basically willing to do to evangelicals what they so willingly (and often annoyingly) do to others. I'm evangelizing them. (ooooh, how your blood might be boiling right now, dear reader, if you're an evangelical and pissed with me.)
+
+Buuuut the best/worst thing about me is I'm *so screamingly stupid* I can only take baby steps from one spot to another, and I like to leave a trail of breadcrumbs behind me. 
+
+I can start at one spot and end up at a starkly different spot that is very surprising to someone else, but something that I love about myself is that nothing I've ever done is difficult or undoable by someone else. 
+
+So, if I've arrived at a 'theologically novel spot', my honor requires me to push back and say "this is neither novel, nor difficult for you to arrive at, if you're willing to apply a little brain sweat". 
+
+-----------------------
+
 First, this is love letter to an earlier and younger version of myself. 
 
 I experienced difficulty of many shades, because I was trying hard to fit into, and live according to, a system and regime that I thought was capable of absorbing my energy and giving me back something worthwhile, something that would justify what I was giving it. I eagerly pursued safety for myself, relative to caretakers around me, and with the naïvety only children can embody, tried (unsuccessfully) to obtain safety from them while maintaining an individuated sense of self.
@@ -377,48 +389,50 @@ It also engages in conversation with other critics of violent atonement theology
 
 Please, please engage with this, if you have any inclination. 
 
-My email inbox is open, and I'd be thrilled to hop on a whatsapp call to discuss more! (Whatsapp is preferred to phone call, for a few reasons, but I could be swayed to do a phone call.)
+My email inbox is open, and I'd be thrilled to hop on a WhatsApp call to discuss more! (Whatsapp is preferred to phone call, for a few reasons, but I could be swayed to do a phone call.)
 
 Just a warning, though - there's this thread of coercion and domination that exists in the church, and when someone tries to invoke a claim of "authority" over me, I have to laugh inside a little. Here's why:
 
-I've been so brutalized by authority my whole life, and I've seen what happens to others when they have been brutalized by 'authority', i've had an instinct to rebel, on principle, when someone tries to force me to do something. 
+I've been so brutalized by authority my whole life, and I've seen what happens to others when they have been brutalized by 'authority', i've had an instinct to rebel, on principle, when someone tries to force me to do something. Please consider engaging from a place of mutuality and curiosity, rather than trying to push me to a specific, pre-determined outcome. 
 
-I comply with police, nominally, because they could kill me (but I'm a privileged white-passing wealthy guy, so I'm unlikely to ever have an actual-bad interaction with police.)
-
-Short of that, I have something that could be called "the opposite of respect" for those who invoke claims of authority. It now lands as an intellectual crutch, the tools of those who don't have the awareness or maturity to use adult tools. Authority is for children. Don't threaten me like I am an easy-to-intimidate child. 
+Invoked claims of authority now lands as an intellectual crutch, the tools of those who don't have the awareness or maturity to use adult tools. Authority is for children. Don't threaten me like I am an easy-to-intimidate child. 
 
 I've got good books that I could refer one to, if you wanted to know why I so reject your claims of authority, and why I would advise your children to stop giving it any heed, as soon as they're out of the range of your threats of physical and emotional violence.
 
-I'm not here really for the people that want to argue. I'm here for the people like me, that when they smelled the possibility of an alternative they jumped on it. I heard rumblings on the distance of ideas contained in books, and ordered them and read them immediately. I hungered and thirsted for knowledge and wisdom, and true to my form, read about 1000 pages in pursuit of knowledge and freedom.
+I'm not here really for the people that want to argue. I'm here for the people like me, that when they smelled the possibility of an alternative they jumped on it. I heard rumblings on the distance of ideas contained in these books, and ordered them and read them immediately. I hungered and thirsted for knowledge and wisdom, and true to my form, read about 1000 pages in pursuit of knowledge and freedom.
 
 I found it. I'm out. The books are there for anyone else to read. The path has been laid. 
 
-The entire edifice of Christendom just... collapses. The screaming rage of evangelicalism dies with a wimper, in a heap. 
+The entire intellectua and moral self-justification of Christendom just... collapses. The screaming rage of evangelicalism dies with a wimper, collapses in a heap. 
 
-I kept going to friends in the church with my findings, and they kept matching my eager interest with derision, disinterest, and dismissiveness. I can't control others, but I was and am willing to *ahem* burn any bridge required to protect myself, and those that I love, from abusive institutions. 
+I kept going to friends in the church with my findings, and they kept matching my eager interest with derision, disinterest, and dismissiveness. I can't control others, but I was and am now willing to *ahem* burn any bridge required to protect myself, and those that I love, from abusive institutions. 
 
-I have a vast capacity to love. I am deeply compassionate. I dislike conflict to my core, and in the same way as some will go off to war to commit acts of violence against, broadly, another ethnic group, I will strenuously exert myself to reduce conflict for myself and those I love. One of the ways one can resist actual violence is with words. 
+I have a vast capacity to love. I am deeply compassionate. I dislike conflict to my core, and in the same way as some will go off to war to commit acts of violence against a specific ethnic group, I will strenuously exert myself to reduce conflict for myself, those I love, and anyone I can reduce conflict for. 
 
-Violence is a terrible problem-solving solution. It invariably creates problems, as it's contingent upon fear, intimidation
+One of the ways one can resist actual violence is with words. 
 
-My main mechanism of reducing conflict now is not violence. 
+Violence is a terrible problem-solving solution. It invariably creates far more problems than it's advocates claims it solves, as it's contingent upon fear, intimidation. Those who use violence don't want to solve problems, they want to assert dominance in such an overwhelming way that the victim stops strenuously resisting, and this is certainly an available option to those willing to use violence.
 
-It's to grow the awareness, skills, capacity, and strength of those who are being victimized by those willing to use violence, or who complacency, privilege, and unawareness allow bad things to keep happening. 
+The way I resist violence now is to attend more to the victims. It's to grow the awareness, skills, capacity, and strength of those who are being victimized by those willing to use violence, or who those who use complacency, privilege, and unawareness allow bad things to keep happening. 
 
-So, if you read the books mentioned above, you'll join me on the outside of evangelicalism. Despite what your parents may have told you, there's a lot of fun to be had out here, and freedom. Dramatically less shame. a bit of laughter. things don't need to be so serious all the time. We have potlucks, home-cooked meals, mutuality, and co-creation. 
+So, if you read the books mentioned above, you'll possibly join me on the outside of evangelicalism. 
 
-When someone is sad, we hold space for them. When they're stuck, we help un-stick them. When someone has a sense of malaise, we malaise with them. We don't arbitrarily denigrate whole groups of people (sigh. My weakness in this regard is to denigrate evangelicals, white supremacists, and imperialists/colonialists, and yes, I know that hurt people hurt people. It's been a year or so since I've exited the world I was raised in for three decades. Working on it.)
+Despite what your parents may have told you, there's a lot of fun to be had out here, and freedom. Dramatically less shame. Sometimes laughter. Space held for grief and sadness and mourning. Things don't need to be so serious all the time. We have potlucks, home-cooked meals, mutuality, and co-creation, and a lot less shame and repressed sadness.
+
+When someone is sad, we hold space for them. When they're stuck, we help un-stick them. When someone has a sense of malaise, we malaise with them. We don't arbitrarily denigrate whole groups of people.[^anger]
+
+[^anger]: sigh. My weakness in this regard is to denigrate evangelicals, white supremacists, and imperialists/colonialists, and yes, I know that hurt people hurt people. It's been a year or so since I've exited the world I was raised in for three decades. Working on it.
 
 OK, so we're gonna go another layer deeper. Here's why:
 
-It would be one thing to throw your hands up, say "yep, the church is effed up, not gonna touch it with a ten-foot pole", and walk away and never come back. 
+It would be one thing to throw your hands up, say "yep, 'the church' is effed, not gonna touch it with a ten-foot pole", and walk away and never come back. 
 
 Nothing wrong with that. 
 
 It's like walking away from white supremacy. You don't need to prove to the white supremacists, as they cling to their white supremacy, that they're wrong. It's sorta de-dignifying to debate them from their own 'frame', because the frame makes so many assumptions that it cannot really be wrestled with fairly. They'll "no true scottsman" you to death. [^frame-control]
 
 [^frame-control]: 
-    refusal to leave a certain frame and try on a different one is a tactic of abuse. It's a blatant refusal to adopt the theory of mind of someone else. Of course they're right, if you play by their rules, because their starting assumption of the world is that 'the white race' is superior, and non-white races are inferior. If they say "prove to me that non-white people are not inferior", it's embarrassing and self-abandoning to even treat that statement with seriousness. 
+    a refusal to leave a certain frame and try on a different one is a tactic of abuse, or at least emotional immaturity. It's a blatant refusal to try on a theory of mind of someone else. Of course white supremacists are right, if you play by their rules, because their starting assumption of the world is that 'the white race' is superior, and non-white races are inferior. If they say "prove to me that non-white people are not inferior", it's embarrassing and self-abandoning to even treat that statement with seriousness. 
 
     More on frame control: https://knowingless.com/2021/11/27/frame-control/
 
@@ -428,15 +442,7 @@ You can change your thinking and leave an intellectually bankrupt idea behind, a
 
 unless, of course, you think you might be able to get more of them to leave with you.
 
-I've always enjoyed a good house party, and any good party is more fun when there's more people. So, in honor of me 'leaving evangelicalism', I'm sorta throwing myself a party, and trying to get a few more people to show up. 
 
-I'm basically willing to do to evangelicals what they so annoyingly do to others. I'm evangelizing them. (ooooh, how your blood might be boiling right now, dear reader, if you're an evangelical and pissed with me.)
-
-Buuuut the best/worst thing about me is I'm *so screamingly stupid* I can only take baby steps from one spot to another, and I like to leave a trail of breadcrumbs behind me. 
-
-I can start at one spot and end up at a starkly different spot that is very surprising to someone else, but something that I love about myself is that nothing I've ever done is difficult or undoable by someone else. 
-
-So, if I've arrived at a 'theologically novel spot', my honor requires me to push back and say "this is neither novel, nor difficult for you to arrive at, if you're willing to apply a little brain sweat". 
 
 
 ## Full list of recommended readings
