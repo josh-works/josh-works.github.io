@@ -58,21 +58,25 @@ Together, we might help you rebuild a sense of self, healthy boundaries, and an 
 
 Some of you have been raised in toxic and abusive environments and don't yet know it. Your soul may have been crushed, repeatedly, until you relented and consented to whatever regime you were under, and you don't even remember that this ever happened. 
 
-Lets go recover your soul. The wourld needs soulful, lively people. _You_ need your own soul, and a sense of aliveness. Let's see if we cannot get it back.
+Lets go recover your soul. The world needs soulful, lively people. _You_ need your own soul, and a sense of aliveness. Let's see if we cannot get it back.
 
 From birth through my early 30s, my parents had me firmly ensconced in the evangelical church traditions. 
 
 I was raised in an abusive and neglectful household (physical, emotional, verbal), more akin to a cult than anything else. Because I was surrounded by others from the same cult, and it took a long time to get far enough from it that I could see it clearly.
 
-Some members of this cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. Perhaps they sensed this, as I've been pressured to comply, not speak, and certainly not explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', but, true to the way in which I was raised, those requests were denied.
+Some members of this cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. I've been pressured to comply, not speak, and certainly not explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', but, true to the way in which I was raised, those requests were denied. 
 
-This post is an explanation of how, without ever intending to, I found myself to have walked out of that camp of evangelicalism, and from their point of view I'm now firmly planted in "heretical theological hinterlands."
+This post is an explanation of how, without ever intending to, I found myself to have walked out of that camp of evangelicalism, and from their point of view I'm now firmly planted in "heretical theological hinterlands", and vastly better off for it.
 
-Hilariously, I consider myself to have recovered a much more actionable, robust, and firm understanding of the person of Jesus Christ (and the things he said and did, and why) than I ever had in the decades leading up to now.
+I've recovered a much more actionable, robust, and firm understanding of the person of Jesus Christ (and the things he said and did, and why) than I ever had in the decades leading up to now.
 
-I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of that religious tradition. Despite my anger about my origins, I warmly extend an invite to this greener side of the fence, to anyone who currently finds themselves still a member of any religious tradition that is or adjacent to evangelicalsm. It's way, way more peaceful and enjoyable 'out here'. 
+I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of that religious tradition. 
 
-While my current "place" would horrify those from the religious communities in which I was raised, I've actually internalized (some of) the words they spoke over me: "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me and others, to control us.) This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.
+Despite my justified anger about my experiences as a child, adolescent, and adult, related to evangelicalism (and abuse and neglect sanctioned by 'evangelical intellectual traditions'), I warmly extend an invite to this greener side of the fence, to anyone who currently finds themselves still a member of any religious tradition that is or adjacent to evangelicalsm. It's way, way more peaceful and enjoyable 'out here'. 
+
+While my current "place" would horrify some from the religious communities in which I was raised, I've actually internalized (some of) the words they spoke over me: "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me and others, to control us.) This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.
+
+Some of you, reading this, who find yourselves in the camp of evangelicals, but who have sometimes felt that something was not quite right about it, you're the people I'm writing to.
 
 I'm basically writing this document as a mix of an "impassioned open letter", and "a list of resources and concepts that I wish I'd encountered years earlier in my life."
 
@@ -86,7 +90,7 @@ So, I'm writing this as a first pass towards an open display of what I feel, whi
 
 Hate is closer to love than apathy, so if you hate what I say, I don't mind you communicating that to me. In some ways, it's an honor. I am apathetic about none of this. What I hate is motivated by love for that which has been polluted and degraded by inhumane thoughts and actions.
 
-I've been shunned[^shun] by some, and I have withdrawn from others. Here's no more or less than an explanation, mixed with a defense. Say what you will about me, but "Josh has not given thought and intellectual brain-sweat to his life" will not be accepted.
+I've been shunned[^shun] by some, and I have withdrawn from others. Here's no more or less than an explanation, mixed with a defense. Say what you will about me, but "Josh has not given thought or intellectual brain-sweat to his life" will not be accepted.
 
 [^shun]: 
     shun (definition): _persistently avoid, ignore, or reject (someone or something) through antipathy or caution._ Where shunning exists, it's a form of punishment that a group can apply to individuals. I was naïve and well-intentioned, earlier on in my "journey" out of evangelicalism, and kept expecting other evangelicals to engage seriously with me, and got met with shunning. "Don't say that!" "Don't think that!" "You can't be serious!" "You might be right, but I don't think others will want to hear about it." "Does that really matter?" 
@@ -158,16 +162,17 @@ These books that I recommend could easily be banned. Banning a book directly is 
 
 If the evangelical church (and it's consorts from the state) got together and said:
 
-> We're banning [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus), [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement), and [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority) 
+> We're banning [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus), [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement), [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority) and [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
 
 everyone who had access to a library, a credit card, or the internet would go out and see what spicy words were contained in the text. Even children. In the era of the internet, the best defense against 🌶️ ideas is projecting an attitude of apathy. 
 
 Feel free to skim the rest of this article. It's long, meandering, and weaves together my own thoughts with those of the books I read. I've written a few articles already around this topic, and I'll link them in, but if you're at all inclined to read the books I suggest, I think your time would be well-spent, though you'll pay far more for reading these books than just time and money.
 
-A warning - I'm nearly autistic and will gleefully wade through text of any difficulty if I feel like there's something useful at the other end. These books are not "easy". People change when the cost of not-changing is greater than the cost of changing. 
+A warning - I'm nearly autistic and will gleefully wade through text of any difficulty and length if I feel like there's something useful at the other end. These books are not "easy". People change when the cost of not-changing is greater than the cost of changing. 
 
 Here's the books (and a paper), in the order in which I read them:
 
+- [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
 - [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
 - [The Naked Anabaptist](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
 - [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
@@ -180,21 +185,22 @@ Boom. That was it. At the end of these books, and the paper, I was firmly outsid
 
 I was "an evangelical", despite how much I disliked the political conservativism that tends to come with it.[^anarchist]
 
-While there are absolutely black evangelicals (the divide between black and white evangelicals is the topic of a wonderful book titled [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity), in general, white evangelicalism is/was an embodiment of "historic whiteness". In my early years, I was "christian", "white", "republican", and more. I'm not proud of the views I once espoused, but they were coerced onto me with an overwhelming pressure, so I don't see myself as having had too much of a choice. (seeking safety from caretakers as a child and such)
+[^anarchist]: I'm anarchist, have been for a while, but that's neither here nor there. Just don't read [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority), even if it's just to appreciate the author's simple writing style, and how he's nearly apologetic as he gently destroys argument after argument for state-sponsored violence. I'm not the 'moltov cocktail' anarchist, I'm simply opposed to trying to put the lipstick of legitimacy upon the pig of state-sponsored violence. I'm a consentualist, not more, not less. Hilariously, it's guaranteed that almost anyone reading these words is, practically, an anarchist in most of their 'normal' relationships. (I could also be considered a 'consentualist', or 'a anti-state-sponsored-violence-ist')
+
+While there are absolutely black evangelicals (the divide between black and white evangelicals is the topic of a wonderful book titled [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity), in general, white evangelicalism is/was an embodiment of "historic whiteness". In my early years, I was "christian", "white", "republican", and more. I'm not proud of the views I once espoused, but as they were coerced onto me with an overwhelming pressure, I don't see myself as having had too much of a choice. (seeking safety from caretakers as a child and such)
 
 If I chose to, I could blend in with a crowd of any political flavor, but my upbringing was _extremely_ politically conservative. I was raised on messages like "gay people are what is wrong with America" and "the military of the government of the USA makes the world safe" and "american democracy is the best/last form of organization needed in the world" and "black people are overall inferior to white people" and "china and russia represent the biggest threats to world peace."
 
-I was also raised mostly functionally divorced from any of the ethnic heritage I had, despite how close I could have been to certain latin american cultural origins. 
+I was also raised functionally divorced from any of the ethnic heritage I had, despite how close I could have been to certain latin american cultural origins. 
 
 In other words, I was raised White, though the closest I'll identify now with whiteness is "white-passing". [^white-passing]
 
-[^white-passing]: I now view 'whiteness' as a stand-in for 'culturally alientated from any meaningful roots'. Whiteness tends to look like a mix of consumption, colonialism, imperialism, emotional numbness, and cultural vacuousness. Or at least, even if some white people don't explicitely embody those values, they are comfortable in ecosystems hospitable to those values.
+[^white-passing]: I now view 'whiteness' as a stand-in for 'culturally alientated from any meaningful roots'. Whiteness tends to look like a mix of consumption, colonialism, imperialism, emotional numbness, and cultural vacuousness. Or at least, even if some white people don't explicitely embody those values, they are comfortable in ecosystems hospitable to those values. I don't find 'race' to be a useful construct, and am suspicious of those who do. That said, I am a privileged white-passing male from America, and would have to be stupid to pretend that this doesn't drag behind it a lot of potential power. It's been fun to see what this power gains me access to. If you call me 'white', I'll correct you and say something like "I reject the lable, but I forgive you for thinking it. I'm 'White-passing'."
 
-[^anarchist]: I'm now an actual anarchist, have been for a while, but that's neither here nor there. Just don't read [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority), even if it's just to appreciate the author's simple writing style, and how he's nearly apologetic as he gently destroys argument after argument for state-sponsored violence. I'm not the 'moltov cocktail' anarchist, I'm simply opposed to trying to put the lipstick of legitimacy upon the pig of state-sponsored violence. I'm a consentualist, not more, not less. Hilariously, it's guaranteed that almost anyone reading these words is, practically, an anarchist in most of their 'normal' relationships.
 
 ## Where I ended up
 
-After reading those books, some of them more than once, and much conversation (and painful lack of conversation) with others, I strongly and clearly de-identified with Christianity, christians, america/americanism, and all forms of evangelicalism. 
+After reading those books, some of them more than once, and much conversation (and painful lack of conversation) with others, I strongly and clearly de-identified with Christianity, christians, america/americanism, and all forms of evangelicalism and christendom.
 
 When traveling, when asked "where I'm from", I'll say "Colorado", rather than "the United States of America", and I'll sometimes add "my family is from Paraguay".
 
@@ -254,25 +260,35 @@ I opened it up on my kindle, and started the preface, and was rocked. So much so
 
 That was the beginning of the end. 
 
+I invite you to read it:
+
+👉 [https://josh.works/whats-up-with-anabaptists](https://josh.works/whats-up-with-anabaptists)
+
 The preface of the book was excellent, and then the last chapter and appendix was also exceptional. I touch on all of those things in the blog post. 
 
-At the time, I knew nothing about the anabaptists. I didn't realize that they were targeted for extermination/ethnic cleansing by the religious and secular authorities of the day. 
+At the time, I knew nothing about the anabaptists. 
 
-Critically, I felt a sense of indignation that no one had told me that the same John Calvin that shaped much of modern protestantism had also advocated for genocide against this group. 
+I didn't realize that they were _targeted for extermination/ethnic cleansing by the religious and secular authorities of the day, like John Calvin._
+
+Critically, I felt a sense of indignation and betrayal that no one had told me that the same John Calvin that shaped much of modern protestantism had also advocated for genocide against this group. 
 
 The modern take on Anabaptists often says it's a disagreement about minor theological points, like 'how many times is the right number of times to be baptized' and 'who, really, is allowed to interpret scripture.'
 
-The book said, basically, "when one group is killing [literally, burning at the stake] another group, perhaps we in the modern world should assume that both sides of the party knew what was at stake (pun intended), instead of saying they were committing acts of ethnic cleansing over a misunderstanding." 
+The book said
 
-Next, any earnest effort to get to the bottom of the disagreement should focus on the core differences between the groups, rather than over-focusing on commonalities. 
+> when one group is killing [literally, burning at the stake] another group, perhaps we in the modern world should assume that both sides of the party knew what was at stake (pun intended), instead of saying they were committing acts of ethnic cleansing over a misunderstanding.
+
+Also:
+
+> any earnest effort to get to the bottom of the disagreement should focus on the core differences between the groups, rather than over-focusing on commonalities. 
 
 This last sentence ruined me.
 
 I kept finding this conversational tactic around me everywhere, for the next two years of my life. I would want to focus conversations on core, critical differences, and those around me would respond with "sure, but look at the things you agree about each other, surely that difference you say is critical is immaterial. Anyway, what's for lunch?"
 
-So, that book kicked off my normal 'reading of the canon'. 
+So, that book kicked off my normal 'reading of the canon'.[^read-the-canon]
 
-(The best/worst thing about being 'hyper literate', and having used reading as a dissociative activity much of my life is a stack of books one or two feet tall doesn't intimidate me in the slightest, as long as they're all in english.)
+[^read-the-canon]: The best/worst thing about being 'hyper literate', and having used reading as a dissociative activity much of my life is a stack of books one or two feet tall doesn't intimidate me in the slightest, as long as they're all in english. If I find a topic I want to learn about, I will read, a lot, many different sources. I struggle to respect people who choose to not read books on topics they claim are important to them.
 
 I ordered another five or six books on the topic from Amazon, and read through them all. 
 
@@ -280,9 +296,9 @@ I ordered another five or six books on the topic from Amazon, and read through t
 
 I ended up reading _The Politics of Jesus_, and... that was it. 
 
-That was the end. That was when I officially renounced vestiges of evangelicalism, and decided I might never attend a church again. I didn't stop going to church when I read it, but I instantly felt like an outsider. 
+That was the end. That was when I officially renounced vestiges of evangelicalism, and decided I might never attend a church again. I didn't stop going to church when I read it, but I instantly felt like an outsider, but was content in this new status. A sense of self had coalesced, and I could put my finger on what felt wrong about many experiences I'd had while growing up. 
 
-I began feeling uncomfortable with the songs that were sung, the constant repeating of certain 'creeds', and more. (The Nicean Creed, for example, doesn't mean anything. It means nothing. Why do we say it over and over?)
+I began feeling uncomfortable with the songs that were sung, the constant repeating of certain 'creeds', and more.
 
 After reading _The Politics of Jesus_, I shared some personal context, a summary of the introduction, and reproduced a few pages from the first chapter here: https://josh.works/was-jesus-ethics-normative.
 
@@ -292,7 +308,7 @@ At this point in the story, I'd encourage you to click through the above link, a
 
 👉 https://josh.works/was-jesus-ethics-normative
 
-if you're not 'in the church', you might not recognize that the page slug, 'was Jesus' ethic normative', is an absolute broadside against 'the church'. to write those words is to throw an actual bomb into a room.
+if you're not 'in the church', you might not recognize that the page slug, 'was Jesus' ethic normative', is an absolute broadside against 'the church'. It's saying "does jesus words and actions matter?" and that's a bit of a dog-whistle, because evangelicals will say _of course_ jesus words and actions matter. As they live out a belief of the opposite.
 
 I kept trying to get friends to read this book. 
 
@@ -300,7 +316,7 @@ Some did, and found it as compelling as I did.
 
 Some of you looked at it, saw that it was loosely academic and had a lot of footnotes, and chose to embrace functional illiteracy.
 
-The author of the book (John Yoder) makes a *ahem* compelling case that 
+The author of the book makes a compelling case that 
 
 > the Jesus that is preached about in churches across America is explicitly made irrelevant to today, and replaced with basically an ethic of intellectual naturalism. 
 
