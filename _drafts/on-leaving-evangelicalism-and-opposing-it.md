@@ -7,7 +7,7 @@ categories: [theology]
 tags: [evangelicalism, jesus_christ, christianity, cults, books]
 permalink: on-leaving-evangelicalism
 image: /images/title_image.jpg
-# issue_id: 5 
+issue_id: 64 
 ---
 
 # Content warning
@@ -463,18 +463,19 @@ unless, of course, you think you might be able to get more of them to leave with
 
 ## Full list of recommended readings
 
-Here's ten books that, if you read them, you _might_ feel like you've gotten your life and your soul back.
+Here's some books, and some academic essays, if you read them, you _might_ feel like you've gotten your life and your soul back.
 
 - [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
-- The Naked Anabaptist
+- [The Naked Anabaptist: The Bare Essentials of a Radical Faith](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
 - [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
 - [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
-- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
 - [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
 - [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
-- The Most Dangerous Superstition
-- The verbally abusive relationship
-- [Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty to Repair]()
+- [The Most Dangerous Superstition](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)
+- [The Verbally Abusive Relationship: How to Recognize It and How to Respond](https://www.goodreads.com/book/show/402366.The_Verbally_Abusive_Relationship)
+- [Conflict is Not Abuse: Overstating Harm, Community Responsibility, and the Duty to Repair](https://www.goodreads.com/en/book/show/29363252)
+- [The Violence of God and the Hermeneutics of Paul](https://josh.works/the-violence-of-god-and-the-hermeneutics-of-paul)
 
 ## Misc reading
 
