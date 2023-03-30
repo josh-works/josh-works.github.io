@@ -363,17 +363,49 @@ There are plenty more bombs carefully contained in that text. I'd encourage you 
 Modern evangelicalsm is... well, basically politically powerful white people coopting language of moral authority to justify a regime of domination. This is all in the context of Americanism, or westernism. The intellectual throught that emerged in Europe after the advent of the printing press, related to Calvin, Luther, catholicism, and more, is basically all the same. 
 
 
-## The non-violent atonement
+## The Non-Violent Atonement
 
-From the introduction:
+As soon as I read the title of this book, I smashed the ['buy now' button on Amazon](https://www.amazon.com/Nonviolent-Atonement-J-Denny-Weaver/dp/0802849083), as quickly as I could navigate to the page on my phone.
+
+I've been raised in 'the church', and heard ALL THE TIME about the atonement. Say it with me - those of you in the church, you've heard these phrases, sprinkled liberally throughout spiritual words and texts, like salt and pepper on a dish:
+
+> Christ's work on the cross
+
+> The blood of Christ
+
+> Christ bearing the sins of mankind
+
+> He was punished for our sin
+
+> Because we couldn't be perfect, he was perfect, and incurred the wrath of god because of it
+
+
+I'll share a few long quotes from the introduction of the book. I'd encourage you to pick up your own copy, if you want, but these quotes are sufficient at explaining what is obviously implied in the title - that there exists this thing called 'the violent atonement', and it is, in fact, what all of evangelicalism (and the west) is founded upon. If you (correctly) recognize that violence is a crappy problem-solving 'tool' used by emotionally immature people, you'll quickly traverse from "the atonement theology you've been taught is dripping in violence and blood" to "the satisfaction atonement motif is heareby discarded"
+
+Everything below is a quote from the first few pages of [The Nonviolent Atonement](https://www.amazon.com/Nonviolent-Atonement-J-Denny-Weaver/dp/0802849083), by J. Denny Weaver. It's a theological 'child' of _The Politics of Jesus_, which I strongly recommend. I've added a few linebreaks here and there, because this is the internet.
+
+First, he paints some words about the 'satisfaction' motif of atonement, also known as 'the violent atonement' or 'anselmian atonement', named after the noble who invented the whole thing in 1100AD. 
+----------------------------
+
+### A brief sketch of the violent atonement
+
+[...]
 
 Atonement theology starts with violence, namely, the killing of Jesus. The commonplace assumption is that something good happened, namely, the salvation of sinners, when or because Jesus was killed. It follows that the doctrine of atonement then explains how and why Christians believe that the death of Jesus the killing of Jesus - resulted in the salvation of sinful humankind.
 
-In much of the world generally and in the United States in particular, the prevailing assumption behind the criminal justice system is that to "do justice" means to punish criminal perpetrators appropriately. "Appropri- ately" means that the more serious the offense, the greater the penalty (punishment) to be imposed, with death as the ultimate penalty for the most serious crimes. There is a pervasive use of violence in the criminal justice system when it operates on this belief that justice is accomplished by inflicting punishment. Called retributive justice, this system assumes that doing justice consists of administering quid pro quo violence an evil deed involving some level of violence on one side, balanced by an equivalent violence of punishment on the other. The level of violence in the punishment corresponds to the level of violence in the criminal act.*
+In much of the world generally and in the United States in particular, the prevailing assumption behind the criminal justice system is that to "do justice" means to punish criminal perpetrators appropriately. "Appropriately" means that the more serious the offense, the greater the penalty (punishment) to be imposed, with death as the ultimate penalty for the most serious crimes. 
 
-Satisfaction atonement assumes that the sin of humankind against God has earned the penalty of death but that Jesus satisfied the offended honor of God on their behalf or took the place of sinful humankind and bore their punishment or satisfied the required penalty on their behalf. Sin was atoned for because it was punished - punished vicariously through the death of Jesus, which saved sinful humankind from the punishment of death that they deserved- or because the voluntary death of Jesus paid or satisfied a debt to God's honor that sinful humans had no way of paying themselves. That is, sinful humankind can enjoy salvation because Jesus was killed in their place, satisfying the requirement of divine justice on their behalf. While the discussion of satisfaction atonement involves much more than this exceedingly brief account, this description is sufficient to portray how satisfaction atonement, which assumes that God's justice re- quires compensatory violence or punishment for evil deeds committed, can seem self-evident in the context of contemporary understandings of retributive justice in North American as well as worldwide system of crim- inal justice.]
+There is a pervasive use of violence in the criminal justice system when it operates on this belief that justice is accomplished by inflicting punishment. Called "retributive justice", this system assumes that doing justice consists of administering _quid pro quo_ violence an evil deed involving some level of violence on one side, balanced by an equivalent violence of punishment on the other. 
 
-The link between satisfaction atonement and systems of retributive justice cannot be denied. Timothy Gorringe's God's Just Vengeance pro- vides a thorough analysis of satisfaction atonement's foundation in as- sumptions of retributive violence as well as an extended discussion of the mutual interrelations between theories of satisfaction atonement and un- derstandings of punishment and criminal justice in the western world since the time of Anselm.
+The level of violence in the punishment corresponds to the level of violence in the criminal act.
+
+Satisfaction atonement assumes that the sin of humankind against God has earned the penalty of death but that Jesus satisfied the offended honor of God on their behalf or took the place of sinful humankind and bore their punishment or satisfied the required penalty on their behalf. 
+
+Sin was atoned for because it was punished - punished vicariously through the death of Jesus, which saved sinful humankind from the punishment of death that they deserved - or because the voluntary death of Jesus paid or satisfied a debt to God's honor that sinful humans had no way of paying themselves. That is, sinful humankind can enjoy salvation because Jesus was killed in their place, satisfying the requirement of divine justice on their behalf. 
+
+While the discussion of satisfaction atonement involves much more than this exceedingly brief account, this description is sufficient to portray how satisfaction atonement, which assumes that God's justice requires compensatory violence or punishment for evil deeds committed, can seem self-evident in the context of contemporary understandings of retributive justice in North American as well as worldwide system of criminal justice.
+
+The link between satisfaction atonement and systems of retributive justice cannot be denied. Timothy Gorringe's _God's Just Vengeance_ provides a thorough analysis of satisfaction atonement's foundation assumptions of retributive violence as well as an extended discussion of the mutual interrelations between theories of satisfaction atonement and understandings of punishment and criminal justice in the western world since the time of Anselm.
 
 [...]
 
@@ -381,21 +413,69 @@ A different kind of challenge to satisfaction atonement comes from a Catholic wr
 
 [...]
 
-I had concluded that Anselmian atonement was an abstract legal transaction that enabled the Christian believers of Christendom to claim salvation via the death of Christ while actively accommodating the violence of the sword. With that insight already in mind, encountering the critique of Anselm in Cone's God of the Oppressed was startling. **Where I had been arguing that the abstract legal formula allowed accommodation of the sword, Cone was arguing that it had accommodated chattel slavery and racism.** Rapidly I saw that critique of Anselm was an agenda item that extended well beyond the pacifist perspective from which I had been working. 
+I had concluded that Anselmian atonement was an abstract legal transaction that enabled the Christian believers of Christendom to claim salvation via the death of Christ while actively accommodating the violence of the sword. With that insight already in mind, encountering the critique of Anselm in Cone's _God of the Oppressed was startling_. **Where I had been arguing that the abstract legal formula allowed accommodation of the sword, Cone was arguing that it had accommodated chattel slavery and racism.** Rapidly I saw that critique of Anselm was an agenda item that extended well beyond the pacifist perspective from which I had been working. 
 
 [...]
 
 ### Definition of Narrative Christus Victor 
 
-"The" alternative to the anselmian/violent/atonement atonement:
+_"The" alternative to the anselmian/violent/atonement atonement, from the next page of the introduction:_
 
-I have called the resulting model of the life and work of Christ narrative Christus Victor. While narrative Christus Victor displays continuity with classic Christus Victor, it differs from the classic view in many important ways, and it deals with a number of issues not usually included in the discussion of atonement. The working assumption in development of this model is that the rejection of violence, whether the direct violence of the sword or the systemic violence of racism or sexism, should be visible in ex pressions of Christology and atonement. Developing an understanding shaped by nonviolence then lays bare the extent to which satisfaction atonement is founded on violent assumptions. Thus proposing narrative Christus Victor as a nonviolent atonement motif also poses a fundamental challenge to and ultimately a rejection of satisfaction atonement.
+I have called the resulting model of the life and work of Christ narrative Christus Victor. 
 
-Since violence covers a multitude of sins and issues, examining biblical and historical material from a "nonviolent perspective" requires definitions for both violence and nonviolence. I am using "violence" to mean harm or damage, a definition given more specificity by Glen Stassen and Michael Westmoreland-White. They describe two dimensions of violence: "(1) destruction to a victim and (2) by overpowering means. Violence is destruction to a victim by means that overpower the victim's consent."15 This definition obviously includes killing in war, in murder, and in capital punishment. Violence as harm or damage includes physical harm or injury to bodily integrity. It incorporates a range of acts and conditions that include damage to a person's dignity or self-esteem. Abuse comes in psychological and sociological as well as physical forms: parents who belittle a child and thus nurture a person without self-worth, teachers who brand a child a failure and destroy confidence to learn, a husband who continually puts down his wife, and more. Killing is not the sole instance of violence but one of its more extreme forms. The system of chattel slavery that existed in colonial America and in the United States for two and a half centuries was most certainly violence. But the continuation of racist practices today under other names is also violence. Social practices which proscribe set roles for women and limit their opportunities are examples of violence. Social structures that impose poverty are violent. Such forms as racism, sexism, and poverty are frequently referred to as systemic violence. It is necessary to keep all these forms of violence in mind, from direct violence of bodily injury and killing through psychological abuse and the multiple forms of systemic violence. Each of these forms of violence appears at some point in the discussion of atonement images to follow. One important dimension of violence is the way it is assumed and used in the criminal justice system. As was already noted, the prevailing assumption behind the criminal justice system is that to do justice means to inflict punishment, with the intensity of punishment dependent on the seriousness of the misdeed. In theory then, the death penalty differs quantitatively but not qualitatively from lesser punishments. But recognizing the assumption that justice means punishment shows that a very pervasive use of violence surrounds us in the criminal justice system, a use of violence whose commonness renders it virtually invisible. The assumed violence of justice as punishment will appear at several stages in the discussion of atonement, particularly in the context of feminist and womanist arguments and in the arguments of the defenders of Anselm in Chapter 7.
+While narrative Christus Victor displays continuity with classic Christus Victor, it differs from the classic view in many important ways, and it deals with a number of issues not usually included in the discussion of atonement. 
 
-If "violence" covers a variety of issues, "nonviolence" also covers a spectrum of stances and actions ranging from passive nonresistance at one end to active nonviolent resistance at the other. In this regard, it is very important to distinguish violence defined as harm or damage from nonviolence as force or social coercion that respects bodily integrity. Since we have no term that carries the specific meaning of coercion used positively, I will describe it here as identifying a spectrum or continuum of acts stretching from persuasion to physical coercion. Persuasion attempts to affect and guide the action of others without denying their freedom or harming their person. At a low level of intensity, it includes the gentle coercion of parents who restrain children from disruptive behavior and teachers who require pupils to raise their hands and wait for permission to speak in class. At a high level of intensity at the other end of the spectrum, positive coercion that constrains or compels the acts of others through pressure would include such actions as social ostracism, public marches and protests, and eventually strikes and economic boycotts. Examples of physical force used positively or in a way to prevent an act that an individual wants to perform might include some forms of punishment for children, physically restraining children from running into the street, knocking a person out of the path of a vehicle, and physically restraining a person attempting suicide.'
+The working assumption in development of this model is that the rejection of violence, whether the direct violence of the sword or the systemic violence of racism or sexism, should be visible in expressions of Christology and atonement. 
 
-One specific point to make clear about nonviolence is that it does resist violence in any of its forms. The question is not whether nonviolent Christians should resist. It is rather how Christians should resist. And the answer is to resist nonviolently. As the treatment of the story of Jesus in the following chapter demonstrates, Jesus engaged in nonviolent resistance.
+Developing an understanding shaped by nonviolence then lays bare the extent to which satisfaction atonement is founded on violent assumptions. Thus proposing narrative Christus Victor as a nonviolent atonement motif also poses a fundamental challenge to and ultimately a rejection of satisfaction atonement.
+
+Since violence covers a multitude of sins and issues, examining biblical and historical material from a "nonviolent perspective" requires definitions for both violence and nonviolence. 
+
+I am using "violence" to mean harm or damage, a definition given more specificity by Glen Stassen and Michael Westmoreland-White. 
+
+They describe two dimensions of violence: 
+
+> "(1) destruction to a victim and (2) by overpowering means. Violence is destruction to a victim by means that overpower the victim's consent." 
+
+This definition obviously includes killing in war, in murder, and in capital punishment. 
+
+Violence as harm or damage includes physical harm or injury to bodily integrity. It incorporates a range of acts and conditions that include damage to a person's dignity or self-esteem. 
+
+Abuse comes in psychological and sociological as well as physical forms: parents who belittle a child and thus nurture a person without self-worth, teachers who brand a child a failure and destroy confidence to learn, a husband who continually puts down his wife, and more. 
+
+Killing is not the sole instance of violence but one of its more extreme forms. 
+
+The system of chattel slavery that existed in colonial America and in the United States for two and a half centuries was most certainly violence. But the continuation of racist practices today under other names is also violence. 
+
+Social practices which proscribe set roles for women and limit their opportunities are examples of violence. 
+
+Social structures that impose poverty are violent. 
+
+Such forms as racism, sexism, and poverty are frequently referred to as systemic violence. It is necessary to keep all these forms of violence in mind, from direct violence of bodily injury and killing through psychological abuse and the multiple forms of systemic violence. 
+
+Each of these forms of violence appears at some point in the discussion of atonement images to follow. 
+
+One important dimension of violence is the way it is assumed and used in the criminal justice system. As was already noted, the prevailing assumption behind the criminal justice system is that to do justice means to inflict punishment, with the intensity of punishment dependent on the seriousness of the misdeed. 
+
+In theory then, the death penalty differs quantitatively but not qualitatively from lesser punishments. But recognizing the assumption that justice means punishment shows that a very pervasive use of violence surrounds us in the criminal justice system, a use of violence whose commonness renders it virtually invisible. 
+
+The assumed violence of justice as punishment will appear at several stages in the discussion of atonement, particularly in the context of feminist and womanist arguments and in the arguments of the defenders of Anselm in Chapter 7
+
+If "violence" covers a variety of issues, "nonviolence" also covers a spectrum of stances and actions ranging from passive nonresistance at one end to active nonviolent resistance at the other. 
+
+In this regard, it is very important to distinguish violence defined as harm or damage from nonviolence as force or social coercion that respects bodily integrity. 
+
+Since we have no term that carries the specific meaning of coercion used positively, I will describe it here as identifying a spectrum or continuum of acts stretching from persuasion to physical coercion. Persuasion attempts to affect and guide the action of others without denying their freedom or harming their person. At a low level of intensity, it includes the gentle coercion of parents who restrain children from disruptive behavior and teachers who require pupils to raise their hands and wait for permission to speak in class. 
+
+At a high level of intensity at the other end of the spectrum, positive coercion that constrains or compels the acts of others through pressure would include such actions as social ostracism, public marches and protests, and eventually strikes and economic boycotts. 
+
+Examples of physical force used positively or in a way to prevent an act that an individual wants to perform might include some forms of punishment for children, physically restraining children from running into the street, knocking a person out of the path of a vehicle, and physically restraining a person attempting suicide.'
+
+One specific point to make clear about nonviolence is that it does resist violence in any of its forms. 
+
+The question is not _whether_ nonviolent Christians should resist. 
+
+It is rather _how_ Christians should resist. And the answer is to resist nonviolently. As the treatment of the story of Jesus in the following chapter demonstrates, Jesus engaged in nonviolent resistance.
 
 [...]
 
