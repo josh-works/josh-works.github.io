@@ -152,7 +152,7 @@ When i try to think of the beginning of the story of my exit from evangelicalism
 I read an unassuming, short little book titled [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist). It ruined me. Changed the trajectory of my life.
 
 
-## The Dangerous Books I Read
+# The Dangerous Books I Read
 
 So, lets just discuss the books directly. 
 
@@ -176,16 +176,16 @@ People change when the cost of not-changing is greater than the cost of changing
 
 Here's the books (and a paper), in the order in which I read them:
 
-- [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
-- [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
-- [The Naked Anabaptist](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
-- [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
-- [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
-- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+1. [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
+1. [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
+1. [The Naked Anabaptist](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
+1. [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
+1. [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
+1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
 
 Boom. That was it. At the end of these books, and the paper, I was firmly outside of the evangelical tradition, and never able to be brought back. 
 
-## Where I started
+# where i finished
 
 I was "an evangelical", despite how much I disliked the political conservativism that tends to come with it.[^anarchist]
 
@@ -202,7 +202,7 @@ In other words, I was raised White, though the closest I'll identify now with wh
 [^white-passing]: I now view 'whiteness' as a stand-in for 'culturally alientated from any meaningful roots'. Whiteness tends to look like a mix of consumption, colonialism, imperialism, emotional numbness, and cultural vacuousness. Or at least, even if some white people don't explicitely embody those values, they are comfortable in ecosystems hospitable to those values. I don't find 'race' to be a useful construct, and am suspicious of those who do. That said, I am a privileged white-passing male from America, and would have to be stupid to pretend that this doesn't drag behind it a lot of potential power. It's been fun to see what this power gains me access to. If you call me 'white', I'll correct you and say something like "I reject the lable, but I forgive you for thinking it. I'm 'White-passing'."
 
 
-## Where I ended up
+# Where I am now
 
 After reading those books, some of them more than once, and much conversation (and painful lack of conversation) with others, I strongly and clearly de-identified with Christianity, christians, america/americanism, and all forms of evangelicalism and christendom.
 
@@ -247,8 +247,7 @@ Next, after reading the three books above about anabaptism, I kept reading 'the 
 1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
 
 
-## Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism
-
+# Book 1: Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism
 
 So, this all started with my brother-in-law's Christmas gift to me. I read a lot[^read-a-lot], and every Christmas and birthday, tend to be given at least a few books. (Thank you, everyone who's ever gotten me a book!) 
 
@@ -298,7 +297,7 @@ So, that book kicked off my normal 'reading of the canon'.[^read-the-canon]
 
 I ordered another five or six books on the topic from Amazon, and read through them all. 
 
-## The Politics of Jesus
+# Book 2: The Politics of Jesus
 
 I ended up reading _The Politics of Jesus_, and... that was it. 
 
@@ -330,7 +329,7 @@ This is fine - if you wanna believe in theological naturalism, IDGAF, but don't 
 
 The  book makes a great point - to all the people showing up to the execution of the person known as Jesus, most of them recognized him as nothing more interesting then a legitimate threat to the established order of the church and the state, because of the things that he said and did. He was a politically dangerous person, and the powers that be do what they've always done - maneuvered the world to eliminate a threat. Plain and simple.
 
-### Justification & the Atonement
+## Justification & the Atonement
 
 Here's a copy of most of chapter 11 from _The Politics of Jesus_
 
@@ -356,7 +355,7 @@ Some of you might not realize that making this assertion takes me into the realm
 
 Also, if you're not faithful to Jesus' ethic, you're not 'justified'. A willingness to violence is sufficient to make one ineligible for justification. All forms of interpersonal violence (physical, verbal, emotional) destroy the availability of 'justification'.
 
-### Romans 13
+## Romans 13 - "the state"
 
 My journey was still unfolding. I didn't realize I was moving into the 'outer darkness' relative to my religious community. I was just following interesting threads. Printing out papers, reading reading reading. Satisfying my special interests. I was feeling such progress and conceptual compressions coalescing out of the woodwork.
 
@@ -375,7 +374,7 @@ There are plenty more bombs carefully contained in that text. I'd encourage you 
 Modern evangelicalsm is... well, basically politically powerful white people coopting language of moral authority to justify a regime of domination. This is all in the context of Americanism, or westernism. The intellectual throught that emerged in Europe after the advent of the printing press, related to Calvin, Luther, catholicism, and more, is basically all the same. 
 
 
-## The Non-Violent Atonement
+# Book 3: The Non-Violent Atonement
 
 As soon as I read the title of this book, I smashed the ['buy now' button on Amazon](https://www.amazon.com/Nonviolent-Atonement-J-Denny-Weaver/dp/0802849083), as quickly as I could navigate to the page on my phone.
 
@@ -400,7 +399,7 @@ First, he paints some words about the 'satisfaction' motif of atonement, also kn
 
 ----------------------------
 
-### A brief sketch of the violent atonement
+## A brief sketch of the violent atonement
 
 [...]
 
@@ -430,7 +429,7 @@ I had concluded that Anselmian atonement was an abstract legal transaction that 
 
 [...]
 
-### Definition of Narrative Christus Victor 
+## Definition of Narrative Christus Victor 
 
 _"The" alternative to the anselmian/violent/atonement atonement, from the next page of the introduction:_
 
