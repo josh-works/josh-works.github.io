@@ -10,28 +10,27 @@ image: /images/title_image.jpg
 issue_id: 64 
 ---
 
-# Content warning
+# Content warning & summary
 
 This paper talks about ethics, ethical behavior, violence, abuse, complicency, domination and oppression. It's a condimnation of evangelicalism, but not, necessarily, any particular evangelical. There are those within evangelicalism who are ethical, behave ethically, etc. 
 
 Some of you, reading this, who find yourselves in the camp of evangelicals, but who have sometimes felt that something was not quite right about it, you're the people I'm writing to.
 
-a brief summary of some of the information i'll present below about the intellectual origin of modern evangelicalism:
+Here's a brief summary of some of the information i'll present below about the intellectual origin of modern evangelicalism:
 
-The theological underpinnings of modern evangelicalism are two-fold:
-
-First, a guy named Anselm, in like 1100 AD, invented a theological justification for and support of nobility and chivalry known as the 'satisfaction theory of atonement'. 
-
-Second, the puritans (john calvin, martin luther, others of that 1500s ilk) openly advocated actual genocide against certain other groups of christians who wanted to be left alone, but committed the offense of being insufficiently deferential to religious and political authorities. This "poisons the well", in my mind, of any resource associated with them, or downstream of them. 
-
-Therefore, everything associated with Calvinism/the puritans or the satisfaction view of atonment is completely polluted with murder, violence, and domination.[^burden-of-proof] The evangelical church in america, and the southern baptists in particular, accommodated their theology to best support the ethics of chattel slavery. 
+> The theological underpinnings of modern evangelicalism are two-fold:
+>
+> First, a guy named Anselm, in like 1100 AD, invented a theological justification for and support of [nobility](https://en.wikipedia.org/wiki/Nobility) and [chivalry](https://en.wikipedia.org/wiki/Chivalry) known as the 'satisfaction theory of atonement'. 
+> 
+> Second, the puritans (john calvin, martin luther, others of that 1500s ilk) openly advocated _actual genocide_ against certain other groups of christians who wanted to be left alone, but committed the offense of being insufficiently deferential to certain religious and political authorities. This "poisons the well", in my mind, of any resource associated with them, or downstream of them. 
+> 
+> Therefore, everything associated with Calvinism/the puritans or the satisfaction view of atonment is completely polluted with murder, violence, and domination.[^burden-of-proof] The evangelical church in america, and the southern baptists in particular, _openly modified their theology to best accomodate the ethics of chattel slavery._, and those modifications persist today.
 
 [^burden-of-proof]: Some readers will understandibly protest this 'discard' I'm advocating for. Throwing away "the puritans" and the satisfaction view of atonement? Yes, that's what I'm advocating for, and the burden of proof is on _you_ for why something so odious as a theological justification for nobility, or a theological justification for domination and violence, shouldn't be discarded.
 
-"Modern christians" don't resort to physical violence as quickly as their intellectual forebearers (slavers), for example, but they instantly reach for tools of psychological and verbal coercion as soon as they see something that looks "out of line". 
+"Modern christians" don't resort to physical violence quite as quickly as their intellectual forebearers (slavers), but they instantly reach for tools of psychological and verbal coercion as soon as they see something that looks "out of line". 
 
-Those willing to use verbal and psychological coercion, in justifying that coercion, find themselves as bedfellows with those who use physical violence, and the spawn of that union is demonic. America's global military empire (and its _domestic_ military empire) is firmly rooted in the logical extension of this verbal and psychological coercion. Police yelling "stop resisting!" and the US military's message of "accept our democracy" lives close to the message parents coerce on their children, which is "you will do whatever I tell you, and i will psychologically torture you until you comply."
-
+Those willing to use verbal and psychological coercion, in justifying that coercion, find themselves as bedfellows with those who use physical violence, and the spawn of that union is demonic. America's global military empire (and its _domestic_ military empire) is firmly rooted in the logical extension of this verbal and psychological coercion. Police yelling at a black man to "stop resisting!" and the US military's message to brown people of "accept our democracy" lives close to the message parents coerce on their children, which is "you will do whatever I tell you, and i will psychologically torture you until you comply."
 
 
 # Who this post is for/who might find this interesting
@@ -52,7 +51,7 @@ This is love letter to an earlier and younger version of myself.
 
 I experienced difficulty of many shades, because I was trying hard to fit into, and live according to, a system and regime that I thought was capable of absorbing my energy and giving me back something worthwhile, something that would justify what I was giving it. 
 
-I eagerly pursued safety for myself, relative to caretakers around me, and with the naïvety only children can embody, tried (unsuccessfully) to obtain safety from them while maintaining an individuated sense of self. I clung to this regime of thought through much of my early adulthood, drafting off the fumes of my childhood. 
+I eagerly pursued safety for myself, relative to caretakers around me, and with the naïvety only children can embody, tried (unsuccessfully) to obtain safety from them while maintaining an individuated sense of self. I clung to this regime of thought through much of my early adulthood. 
 
 I relied on this regime of religiosity to intermediate all sorts of relationships. Relationships with my family, friends, and myself. This religieosity wasn't capable of intermediating these relationships healthfully, and I experienced pain and harm as a result, without ever understanding why the pain was so poingant, the hurt so profound, the loneliness and abandonment so bottomless.[^empty]
 
@@ -66,9 +65,9 @@ The world needs soulful, lively people. Some of you have been raised in toxic an
 
 I'm basically writing this document as a mix of an "impassioned open letter", and "a list of resources and concepts that I wish I'd encountered years earlier in my life."
 
-From birth through my early 30s, my parents had me firmly ensconced in the evangelical church traditions. 
+From birth, my parents had me firmly ensconced in the evangelical church traditions. 
 
-I was raised in an abusive and neglectful household (physical, emotional, verbal), more akin to a cult than anything else. Because I was surrounded by others from the same cult, and it took a long time to get far enough from it that I could see it clearly. [^no-speaking]
+I was raised in an abusive and neglectful household (physical, emotional, verbal), more akin to a cult than anything else. Because I was surrounded by others from the same cult, it took a long time to get far enough from it that I could see it clearly. [^no-speaking]
 
 [^no-speaking]: Some members of the cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. I've been pressured to comply without speaking, and certainly not to  explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', but, true to the way in which I was raised, and the ways unhealthy systems handle dissidence, those requests were ignored/denied. 
 
@@ -76,17 +75,17 @@ This post is an explanation of how, without ever intending to, I found myself to
 
 [^barbarian]: To borrow from James C. Scott's [Against the Grain](https://www.goodreads.com/book/show/34324534-against-the-grain), I may be revealing myself to be something of a theological barbarian and savage, but I vastly prefer this version of myself than who I was several years ago.
 
-From my own point of view of myself on my own change, there is a coherent line of thought, way of being, intellectual purity, a clear adherence to a firm ethical standard, and a reasonable causal chain from "there" (thinking evangelicalism was true, and a source of good in the world) to "here" (viewing evangelicalism as akin propaganda, viewing it as a primary source of ongoing harm in the world).
+From my own point of view of myself on my own change, there is a coherent line of thought, way of being, intellectual purity, a clear adherence to a firm ethical standard, and a reasonable causal chain from "there" (thinking evangelicalism was true, and a source of good in the world) to "here" (viewing evangelicalism and adjacent structures as simple propaganda to support harmful power structures, and viewing it as a primary source of historical and ongoing violence and abuse in the world).
 
 I've recovered a much more actionable, robust, and firm understanding of the person of Jesus Christ (and the things he said and did, and why) than I ever had in the decades leading up to now. [^narrative-christus-victor]
 
-[^narrative-christus-victor]: Since we're throwing out the 'satisfaction atonement' and 'christendom', it's reasonable to ask "what else *is* there?". The answer is 'narrative christus victor' and 'being rightly aligned to others by faithfully embodying Jesus' specific social ethic.'
+[^narrative-christus-victor]: Since we're throwing out the 'satisfaction atonement' and 'christendom', it's reasonable to ask "what else *is* there?". The answer is 'narrative christus victor' and 'being rightly aligned to others by faithfully embodying Jesus' specific social ethic.' Read the books I recommend below for a fuller understanding, specifically _The Politics of Jesus_ and _The Non-Violent Atonement_
 
-I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of that religious tradition. 
+I don't use the labels 'deconstruction' or 'exvangelical'. I simply matured and refined my understanding of a certain religious tradition (cult) that I was once a part of, and have 'grown' into a much more comfortable, peaceful, enjoyable  version of a different religious tradition, which shares some interesting similarities and differences.
 
-Despite my justified anger about my experiences as a child, adolescent, and adult, related to evangelicalism (and abuse and neglect sanctioned by 'evangelical intellectual traditions'), I warmly extend an invite to this greener side of the fence, to anyone who currently finds themselves still a member of any religious tradition that looks like evangelicalsm. It's way, way more peaceful and enjoyable 'out here'. 
+Despite my justified anger about my experiences of abuse and neglect as a child, adolescent, and adult, related to evangelicalism (and abuse and neglect sanctioned by 'evangelical intellectual traditions'), I warmly extend an invite to this greener side of the fence, to anyone who currently finds themselves still a member of any religious tradition that looks like evangelicalsm. It's way, way more peaceful and enjoyable 'out here'. 
 
-While my current "place" would horrify some from the religious communities in which I was raised, I've actually internalized (some of) the words they spoke over me: "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me and others, to control us.) This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.
+While my current "place" would horrify some from the religious communities in which I was raised, I've actually internalized (some of) the words they spoke over me, like "love others, act justly, walk humbly." (they said, as they poured violence, anger, shame, condemnation, and credible threats of abandonment into me and others, to control us.) This is why I've cut them out of my life, and why I have been freely encouraging other children of emotionally immature parents to consider doing the same, if it would be protective\healing.
 
 I sometimes manage to find words that are extremely offensive, which in some ways I'm proud of, and in other ways I am disappointed and saddened by. I also am inclined to hide explosive intellectual ideas behind a veil of words, to screen out those who hide behind the veil of functional illiteracy. 
 
