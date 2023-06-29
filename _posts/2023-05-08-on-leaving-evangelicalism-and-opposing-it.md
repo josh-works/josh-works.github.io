@@ -576,6 +576,37 @@ Here's some books, and some academic essays, if you read them, you _might_ feel 
 - [https://josh.works/quotes-from-complex-ptsd#chapter-5-what-if-i-was-never-hit](https://josh.works/quotes-from-complex-ptsd#chapter-5-what-if-i-was-never-hit)
 
 
+## FAQ
+
+### So are you now an athiest or agnostic?
+
+Some might be surprised, some might find it blindingly obvious - I wouldn't at all identify with atheism or agnosticism.
+
+### Are you still a Christian?
+
+short answer: 
+
+> No!*
+
+Longer answer:
+
+> Could you give a paragraph of specific assertions of what you mean when you say 'a christian', and I can give a more nuanced response, because in _my mind_ when I think of 'christian', I think of 'christendom', which is a clearly-identify political/religious thread through history, from ~300AD/Constantinople to today, and that overall edifice of institutions and individuals and lenses on the world. THIS thing I indeed do not identify with.
+
+Often evangelicalism and christianity overlap, and I reject all of that overlap, and lots of the non-overlapping bits of Christianity.
+
+### So what are you?
+
+Great question. The loose-knit group of people who considered themselves to be following in the religious/ethical traditions of Jesus called themselves 'followers of the way', or didn't call themselves much of anything. 
+
+So, I consider Jesus Christ to be important, and overall, the things that are written about him matthew, mark, luke, and john close enough to true, including his aparent miricles.
+
+I'd consider reading 'the nonviolent atonement' and 'the politics of jesus'. A few other things. I don't yet know exactly what I am. I've endured much more fragmentation of my sense of self lately, vs. growth in coherence and integration. 
+
+### 
+
+
+
+
 ## Footnotes 
 
 
