@@ -1,13 +1,16 @@
 ---
-layout: page
+layout: post
 title: Let Me Fix [some of] Your Parking Problems
 published: true
 description: "For many reasons, your parking and parking lots are not as good as they could be, at least some of the time. And at other times, the parking might be acutely bad. I'll help you fix it all the time."
 image: 'parking-fix.jpg'
+tags: [parking]
 permalink: 'get-more-from-your-parking-lots'
 ---
 
-Your parking lots do much more than hold parked cars - they also move people from their parked cars to access your business. 
+# Let's look at some parking lots together
+
+Your parking lots do much more than hold parked cars - they also move people from their parked cars to access your business. We spend a lot of time and energy every day dealing with parking lots. Let's make them a bit nicer and a bit more efficient, together. 
 
 Here's some of the parking lots I've looked at lately:
 
