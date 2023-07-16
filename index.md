@@ -6,6 +6,6 @@ description: "I'm Josh. I give myself permission to put whatever I want on this 
 
 👋, I'm Josh.
 
-My website serves as scratch pad for my ideas and words.
+This website serves as scratch pad for my ideas and words.
 
 I value coherence, meaningfulness, compassion, and kindness.

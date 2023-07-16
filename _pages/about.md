@@ -11,31 +11,31 @@ This entire page is a work-in-progress, but until then, here's a bit more about 
 
 Here's some of my interests, around which I could some aspects of "expert knowledge":
 
-- improving the portions of a built environment that is allocated to vehicle movement and storage 🚗🚛🛻🏍️ [you can hire me to do this for you](https://josh.works/fix-your-parking)
-- riding scooters, scooters as personal mobility tools 🛵
+- improving the portions of a built environment that is allocated to vehicle movement and storage 🚗🚛🛻🏍️ [you can hire me to do this for you](https://josh.works/get-more-from-your-parking-lots)
 - [climbing](https://josh.works/tags#climbing) 🧗‍♀️. My main 'jams' are bouldering, and sport climbing. I'm currently obsessed with moonboarding, and helping others learn to no longer feel fear while lead climbing, so they can have tons of fun climbing at their physical limit, and can most quickly and safely grow their skills, so they can have _more_ fun doing _harder_ rock climbs. 
-- [programming](https://josh.works/tags#programming) 🧑‍💻, most specifically web app development with Ruby/Rails. Here's my most recent project: [an app that renders on a map all the places in the world I've ridden my scooter](https://josh-strava-heatmap.herokuapp.com/)
-- [urbanism](https://josh.works/tags#urbanism) 🌆. I'm the guy that sometimes shows up at random tuesday afternoon meetings about rezoning neighborhoods, and asks the local planners if they know about the lurid history of systemic racism in american city planning. 
+- [programming](https://josh.works/tags#programming) 🧑‍💻 Here's a recent project: [an app that renders on a map all the places in the world I've ridden my scooter](https://mobility-data.herokuapp.com/)
+- [urbanism](https://josh.works/tags#urbanism) 🌆. I'm the guy that sometimes shows up at random tuesday afternoon meetings about rezoning neighborhoods, and asks the local planners if they know about the lurid history of racism in american city zoning.  
 - streets and mobility networks 🚋. I want them to be good-enough, for the same reason you want your seatbelt to work good-enough, or a website to work good-enough.
 - I've travelled a lot over the years. I like how it's shaped me. 
 - I like to travel around on my scooter. All around Denver, of course, and [I once rode my scooter from Denver to British Columbia, then to Seattle, and back to Denver.](https://photos.google.com/share/AF1QipN8q_LjvazfURfQUjnI21GQz23_PqlznCQ2fYC6OYCy15AIypU47XTi5S_mPdtaMw?key=N29iaXpDYXI5X2pFVjBUTGpQQmE5TmZTSnYyci1R)
 - I like traffic throughput improvement experiments, with nothing more than traffic cones. It's unconventional, but certainly not illegal; I have recorded a conversation between me and the city engineer of Golden, and the mayor, where they both gave me permission to more-or-less "do whatever I wanted" from a traffic calming/experiment perspective. I soak this for all its worth. 
+- I record experiments and my attempts at sometimes capturing beautiful drone videos on *sigh* tiktok. For example: [a video of using cones to shape an intersection](https://www.tiktok.com/@josh_exists/video/7249752983481732394), [a random drone video](https://www.tiktok.com/@josh_exists/video/7251366162033069358)
 
 
 ## Where else I exist on the internet
 
-- [@josh_exists](https://www.tiktok.com/@josh_exists) (tiktok - lots about scooters, and time-lapsed drone footage)
-- [@josh_works](https://twitter.com/josh_works) (twitter)
+- [@josh_exists](https://www.tiktok.com/@josh_exists) tiktok - lots about scooters, and time-lapsed drone footage, and mobility conversations
+- [@josh_works](https://twitter.com/josh_works) twitter
 - [goodreads](https://www.goodreads.com/user/show/27372191-josh-thompson)
 - [strava](https://www.strava.com/athletes/38072598) (follow me on strava for the most up-to-date info about travel, trips, mobility networks, and more)
-- [this custom web app that shows a lot of where I've been in the last few years](https://josh-strava-heatmap.herokuapp.com/). 
+- [this custom web app that shows a lot of where I've been in the last few years](https://mobility-data.herokuapp.com/). 
 
 
 ## I do useful things
 
 - I've written useful guides to help people do difficult things. My guides have helped dozens-to-hundreds of people better learn software development, mostly via the Turing school, but they're all public and free for anyone. If you happen to be considering back-e d software development, [here's a starting point](https://josh.works/turing-backend-prep-01-intro). [more examples]
 - I have helped some people make huge gains in their climbing abilities, mostly by improving the technical and mental skills around lead belaying and lead climbing. It's a slippery slope from "getting really good at belaying" to "trying hard at 5.12 and 5.13"
-- Almost all of what I'm good at is because I'm sensitive emotionally, to myself and others, and am able to easily adopt the perspective of someone else. (Nice thing about growing up nearly always feeling like an outsider)
+- Almost all of what I'm good at is because I'm relatively attuned emotionally, to myself and others, and am able to easily adopt the perspective of someone else. 🤷‍♂️
 
 ## This is nothing but a slice of who I am
 
