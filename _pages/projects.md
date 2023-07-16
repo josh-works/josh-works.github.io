@@ -7,48 +7,123 @@ permalink: projects
 image: ""
 ---
 
-Originally, this page contained exclusively links to software projects/resources I'd made. Some of them were under active development, but I am working full-time again, _and_ have a baby, so my discretionary free time is diminished.
+Originally, this page contained exclusively links to active software projects/resources I'd made. It now also includes no-longer-active projects.
 
-Some of this is out of date, some of these projects take place entirely off-line, etc. Some of this is work related, some of it is purely for the challenge and edification of trying to bring something into existance.
+Some of these projects take place entirely off-line. Some of this is work related, some of it is purely for the challenge and edification of trying to bring something into existance. Some of these projects function as a 'friend-and-work catcher'. 
 
-I have a _very_ high number of small things I've built/experimented with, that have "failed". I've also got a lot of meaningful, "real" projects I've worked on, tried to bring to fruition, and some of them certainly have, some of them have absolutely failed.
+I have small and large projects that have worked, and failed. I have learned from all of them, and learning is one of the main things I optomize for. [^learn]
 
-### 'Gardening' around Golden
+[^learn]: Technically, we all optomize for something like learning, and [when we're doing so in a healthy way, we're having a really good time](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity). 
 
-This project is the hardest to define. My wife and I recently bought a rather old house for a rather large amount of money. We are really psyched on *Golden*, and this neighborhood and what we're close to and how fun it is to be here.[^other-reasons]
+## Making hard-to-see data visible
 
-[^other-reasons]: there's lots of reasons to live in Golden. The finances of it right now are strange, bad for everyone, and probably you shouldn't try to live in Golden until it feels "cheap" and "right-sized" in meaningful ways.
+_2021-current_
 
-I'm trying many different small experiments, riding the trade-off between "costs little" in time, effort, and/or money and "guaranteed to be of high quality/solve the exact problem".
+I built a little app to visualize certain mobility data I've collected as 'activities' in Strava, which I then can pull out via Strava's API.
 
-I'm drawn inexorably to attend to "the largest problems" in my life, so _currently_ the largest problems I face in Golden are:
+What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding, and I get almost all of it. 
 
-1. Unsafe/inadequate mobility networks ("dangerous streets" and "congestion/traffic")
-2. Issues downstream of "housing is extremely expensive"
+So, this data is in large part a map of everywhere I've been, for several years. The data is both rather personal and semi-pseudo-obfuscated. Some of that is due to me not being able to easily-enough add that functionality in the time I've given this, some of it is a willful choice. 
 
-I also spend time pursuing "having fun with friends", and that looks like lots of shared meals, or the occasional back-yard outdoor movie-night. (🤞 for more of that).
+current iteration: [https://mobility-data.herokuapp.com/](https://mobility-data.herokuapp.com/)
 
-### Placeholder for [big ongoing investment in Golden that needs a lot of explaining]
+_pictures/gifs to come. It's worth a click, I think_
 
-It's a long story. It starts with Robert Moses. Ends with me agreeing to spend a meaningful amount of money every month ($1575) to prevent next-door neighbors from getting evicted.
+an older iteration: [https://josh-strava-heatmap.herokuapp.com/](https://josh-strava-heatmap.herokuapp.com/)
 
-Felt like the right thing to do then, and it still feels like the right thing to do now. More on this later.
+## Explaining that there are alterative land use governance models
 
-### Living an as-enjoyable-as-possible existence
+_2023-current_
 
-The last few years have been _profoundly_ difficult, for everyone. Even before the pandemic, myself, family, and close friends were greatly affected by death and disease, and how quickly lives can change, with a diagnoses, a heart attack, an accident. I enjoy "banking joy", and am attuned to what kinds of things lead to joy, satisfaction, rest, laughter, peace, appreciation, and beauty.
+Of course, it's a substack:
 
-I enjoy physical activity, and anything that feels like "gardening" in/around Golden/Denver. Small investments that might grow into something beautiful.
+[Zoning Very Different Than Ours](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
 
-### I am deeply concerned about beauty
+## 'Gardening' around Golden 
 
-Ugh. I need to expand on this in more depth. I care a lot about it. Beauty corresponds with so many good things (healthy ecosystems tend to be beautiful, for example) it's worth always pursuing along side whatever else you've got going on.
+_2017-2022_
 
-Create beauty, yes, but first be able to recognize it. [Beauty is closely related to wonder and curiosity](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity). Christopher Alexander cares a lot about it, expands on the concepts in [A Pattern Language: Towns, Buildings, Construction](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199) and [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=pd_bxgy_sccl_1/144-1216185-6526842?pd_rd_w=DshvC&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=V2PSNKFRV1FHPZP3H4BW&pd_rd_wg=qOa8d&pd_rd_r=a46fbe02-fb2f-49e9-a3e8-cc8277ff3b66&pd_rd_i=0195024028&psc=1).
+This project is the hardest to define. 
 
-These are "primary motivating concerns" for me. I'm happy to spend time and effort on projects related to beauty, across large swaths of time. 
+I lived in Golden from 2016-2022, first renting a condo, and at another point owning a rather old house for a rather large amount of money, and was enthusiastic on various projects in and around Golden. I poured myself hard into a bunch of projects around the city, and still consider it to be time well spent. 
 
-## Software projects
+As explained later, I care about beautiful places, and Golden is a *beautiful* place. As beautiful (in my opinion) as any place in the USA, and in many ways a delightful place to live.
+
+In other ways, it was a frustrating place to live, especially when it came to trying to get the municipal government to stop coercing terrible solutions to solvable problems, on everyone/everything that interacts with Golden. [^other-reasons]
+
+[^other-reasons]: there's lots of reasons to live in Golden. The finances of it right now are ~strange~ expensive, bad for everyone, and probably you shouldn't try to live in Golden until it feels "cheap" and "right-sized" in meaningful ways.
+
+I tried many different small experiments, riding the trade-off between "costs little-enough" in time, effort, and/or money and "likely-enough to be of high quality/solve at least part of the problem".
+
+This constant evaluation of experiments and trade offs first became visible when I ran for city council in 2017. I had long thought about making things different or better, and my understandings and experiences, and the context of the time, made that a fun use of time. [^golden-city-council]
+
+[^golden-city-council]: I told people, when they said "why are you running for city council?":
+
+    > well, I just finished a trade school, so i'm taking some time to get my first job, turns out the rules of the city say I'm eligible, and this is more entertaining to me than sitting on the couch in my boxers playing video games, not that there's anything wrong with that. 
+
+I kept iterating. 
+
+I didn't get on city council, but what about becoming friends with the folks who *were* on city council? The city staff themselves? Random people around Golden? I took a sabbatical from work and sorta took on a journalist or academic internship path. 
+
+Eventually, once we owned a house in the city, my meandering got even more focused, and I started observing a rather dangerous street that went right the house - I got to life a full life just a few meters from a 'standard arterial' in America, and believe you me, I was not a passive and unobservant participant in the street traffic. 
+
+This all materialized as me caring a lot about:
+
+1. inadequately-performant mobility networks[^performant-mobility-network]
+2. issues upstream of "housing generally feels expensive".
+
+[^performant-mobility-network]: An adequate network would accomplish two things:
+
+    1. being safe-enough to the users of said network (dangerous streets/vehicle accidents)
+    2. being consistent-enough for those users (congestion/traffic)
+
+
+I also spent time pursuing "having fun with friends", and that looks like lots of shared meals, or the occasional back-yard outdoor movie-night. (🤞 for more of that).
+
+_I ended up moving out of Golden in 2021. I could see returning some day. 'Interesting things' continue to happen, continuously, all over Golden and Denver._
+
+## Living an as-enjoyable-as-possible existence
+
+_2020-present_
+
+The last few years have been _profoundly_ difficult, for everyone. Even before the pandemic, myself, family, and close friends were greatly affected by death and disease, and how quickly lives can change, with a diagnoses, a heart attack, an accident. I enjoy "banking joy", and am attuned to what kinds of things lead to joy, satisfaction, rest, laughter, peace, appreciation, and beauty. 
+
+## being interested in, and inhabiting, 'beautiful places'
+
+_2018-present_
+
+This became a visible, legible goal to me in 2018, when a few of the last pieces clicked into my brain about healthy and beautiful places, at least as a conceptual compression for 'other legible and less-legible good things'.
+
+
+I care about places, primarly. I don't mind ugly ones, but I'd rather be able to influence and nudge it towards beauty.
+
+For example, beautiful cities, beautiful trees, beautiful parks, beautiful buildings, beautiful paths. Of course, beautiful indoor places. 
+
+I give myself permission to care so much without shame, because a place being beautiful corresponds with so many other good things. healthy ecosystems tend to be beautiful, for example. it's worth always pursuing along side whatever else you've got going on.
+
+For a lot of my life, I couldn't really articulate why I felt so strongly about beauty, but then I got better words. Then I got better at perceiving it.
+
+If you wanted to expend energy getting better at perceiving it, you might start by reading the paper discussed here: [Beauty is closely related to wonder and curiosity](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity)
+
+Next, as beauty relates to outdoor and indoor spaces, that which is beautiful is often an elegant solution to a problem faced in that particular place, one could and should spend some time with the late Christopher Alexander's "pattern language" concepts. 
+
+1. [A Pattern Language: Towns, Buildings, Construction](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199)
+2. [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=pd_bxgy_sccl_1/144-1216185-6526842?pd_rd_w=DshvC&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=V2PSNKFRV1FHPZP3H4BW&pd_rd_wg=qOa8d&pd_rd_r=a46fbe02-fb2f-49e9-a3e8-cc8277ff3b66&pd_rd_i=0195024028&psc=1)
+
+Perhaps grossly oversimplified, he says things that could be boiled down to:
+
+- iterative planning processes can properly solve all of the physical problems encountered in the area. 
+- if the whole problem seems intractable, perhaps start by agreeing to clean it up as much as feels reasonable, and then agree to spend some time _in that physical space_ across at least a few times of day and year. 
+- the more problems we solve in physical space, the more the space approximates 'a beautiful place'
+
+These are "primary motivating concerns" for me. I'm happy to spend time and effort on projects related to physical spaces becoming beautiful.[^beauty]
+
+[^beauty]: Incidentally, I don't consider myself to be super strong at "creating beauty", but I am pretty good at making places clean, appropriately and enjoyably and easily illuminated, and safe enough for at least a youngish-kid to exist inside of and be easily kept safe by a responsible adult. Once this has all been accomplished, there tends to be at least the outline of beauty emerging, and it's a good-enough start towards making something actually beautiful, like a quirky piece of art, or a specific garden/installation of something natural
+
+    Additionally, I perceive danger from vehicles like cars and trucks, and generally do not find vehicle infrastructure to be beautiful. 
+
+
+# Software projects
 
 Here's a long list of links! Loosely ordered.
 
@@ -61,20 +136,20 @@ This page is inspired by Tom Critchlow's [The Importance of Launching](https://t
 These are ordered by recency, magnitude, or interestingness to myself. You might find archived/no-longer-active projects
 
 
-### Mapping my strava activity data (primarily scooter rides)
-
-I've got big plans with this concept. It's going to be an app that displays my full activity data from Strava, and will show exactly where I've ridden my scooter, and will auto-update daily. It currently doesn't auto-update:
-
-[https://josh-strava-heatmap.herokuapp.com/](https://josh-strava-heatmap.herokuapp.com/)
 
 
-### Intermediate Ruby
+
+## Intermediate Ruby
+
+_2020-2021_
 
 Are you an early-career software developer? Working on getting your first job, or you've been working for less than two years? I'll help you level up your software development skills.
 
 👉 [https://intermediateruby.com/](https://intermediateruby.com/)
 
-### How to Integrate Stripe and a Static Site
+## How to Integrate Stripe and a Static Site
+
+_2019_
 
 Have you ever wanted to add a very basic payment integration for something you're selling on your static website?
 
@@ -85,6 +160,8 @@ So, I figured it out, and you can sample the course, or buy it, here:
 👉 [How to Integrate Stripe and a static site]({{ site.baseurl }}{% link _pages/stripe_course.md %})
 
 ### A Runbook for Upgrading Your Parent's Junky Old Laptop to a Chromebook
+
+_2020_
 
 I spent many, many hours doing research on how to upgrade my mother-in-law's laptop from an old nearly-unusable Windows PC to a Chromebook.
 
@@ -100,6 +177,8 @@ I'd lost many, many hours to trying to help her with poorer tools before.
 
 ### Intermediate Ruby Obstacle Course
 
+_2020_
+
 This repo contains a collection of "obstacle courses" that are laser-focused on quickly leveling up very discrete skills.
 
 👉 [Intermediate Ruby Obstacle Course](https://github.com/josh-works/intermediate_ruby_obstacle_course)
@@ -110,6 +189,8 @@ The information contained within the obstacle course is the "meat and potatoes" 
 
 ### Discover a random personal blog from Hacker News
 
+_2020_
+
 Evidence that this project does exactly what I hoped:
 
 > Every time I visit it, I find a _delightful_ personal blog that I otherwise never would have found.
@@ -118,11 +199,15 @@ Evidence that this project does exactly what I hoped:
 
 ### Sidekiq and Background Jobs for Beginners
 
+_2019_
+
 I cross-posted [this article to Medium](https://josh-works.medium.com/sidekiq-and-background-jobs-for-beginners-89c95fef786f) a while ago, and it gets a surprising amount of SEO-driven traffic. I'd like to expand this article into a short course at some point.
 
 👉 [Sidekiq and Background Jobs for Beginners]({{ site.baseurl }}{% link _posts/2018-07-30-sidekiq_background_jobs_for_beginners.md %})
 
 ### An 8-part Guide to Preparing for Turing's Backend Program
+
+_2017-2020_
 
 Dozens of Turing students have said that this guide has been the reason they've been successful at Turing. That means, conservatively, this guide has delivered tens of thousands of dollars of value. A slightly more expansive definition of value (inclusive of opportunity cost and time) means this guide has delivered _hundreds of thousands of dollars of value_.
 
@@ -131,6 +216,8 @@ I'm proud of it. It's exactly what I wish I'd had before I attended Turing.
 👉 [Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 
 ### Power Broker Quotes
+
+_2022_
 
 **Get One Quote from _The Power Broker_ in your inbox, every week**
 

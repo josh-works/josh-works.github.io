@@ -9,13 +9,16 @@ permalink: 'get-more-from-your-parking-lots'
 
 Your parking lots do much more than hold parked cars - they also move people from their parked cars to access your business. 
 
-Sometimes parking lots serve as a bit of a [third space](https://en.wikipedia.org/wiki/Third_place)
+Sometimes parking lots serve as a bit of a [third space](https://en.wikipedia.org/wiki/Third_place), or a pathway for your customers from one place (where they parked) to another (your business) and back, or for non-customers or future customers to pass by your business.
+
 
 I'd like to do a few things that relate to your parking lot, at the same time:
 
-1. Create something that feels like a third space
-2. Increase the value you and your customers and staff get from the parking lot
-3. Make it more pleasent and beautiful to use. It's _deeply_ psychologically healthy to be around beauty and nature, and I'll help your parking area feel beautiful, by injecting tiny bits of nature back into that space. 
+1. shift the vibe of your parking lot towards a third space
+2. Increase the value you and your customers and staff get from the parking lot (in terms of dollars)
+3. decrease the costs your parking lot incurs (mostly in terms of lost time, confusion, and dangerous encounters around other cars and people. Blind turns and such)
+
+
 
 # you should keep reading if:
 
