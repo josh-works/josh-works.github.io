@@ -12,15 +12,19 @@ permalink: 'get-more-from-your-parking-lots'
 
 Your parking lots do much more than hold parked cars - they also move people from their parked cars to access your business. We spend a lot of time and energy every day dealing with parking lots. Let's make them a bit nicer and a bit more efficient, together. 
 
-Here's some of the parking lots I've looked at lately:
+Here's some of the parking lots I've looked at lately. These are Tiktok videos, as I find the Tiktok phone app the easiest way I have to edit and publish video and photos I've gathered:
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7251366162033069358" data-video-id="7251366162033069358" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> <p>a bit too fast, some of the clips, I think.</p> <a target="_blank" title="♬ Vivaldi-Four Season-Summer-3 - 中国爱乐乐团" href="https://www.tiktok.com/music/Vivaldi-Four-Season-Summer-3-6853093569637386242?refer=embed">♬ Vivaldi-Four Season-Summer-3 - 中国爱乐乐团</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7193477270680522026" data-video-id="7193477270680522026" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> <a title="mobility_networks" target="_blank" href="https://www.tiktok.com/tag/mobility_networks?refer=embed">#mobility_networks</a> <a target="_blank" title="♬ Tropical, summer-like reggaeton beats(1127821) - Mushuz" href="https://www.tiktok.com/music/Tropical-summer-like-reggaeton-beats-1127821-7031703968455591937?refer=embed">♬ Tropical, summer-like reggaeton beats(1127821) - Mushuz</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 These videos are NOT intended to convey anything about how I would evaluate a parking lot, or any specific changes that might be made. They're simple examples of how I look at parking lots, and how they connect to spaces around them.
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7202264574463151403" data-video-id="7202264574463151403" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> <a title="capcut" target="_blank" href="https://www.tiktok.com/tag/capcut?refer=embed">#CapCut</a> <a target="_blank" title="♬ original sound - josh" href="https://www.tiktok.com/music/original-sound-7202264630851472174?refer=embed">♬ original sound - josh</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7246795537779838251" data-video-id="7246795537779838251" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> Denver traffic drone timelapse, again.<a title="drone" target="_blank" href="https://www.tiktok.com/tag/drone?refer=embed">#drone</a> <a title="timelapse" target="_blank" href="https://www.tiktok.com/tag/timelapse?refer=embed">#timelapse</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="denver" target="_blank" href="https://www.tiktok.com/tag/denver?refer=embed">#denver</a> <a title="mobility_network" target="_blank" href="https://www.tiktok.com/tag/mobility_network?refer=embed">#mobility_network</a> <a target="_blank" title="♬ Stuck In The Middle - Tai Verdes" href="https://www.tiktok.com/music/Stuck-In-The-Middle-6832618984580335617?refer=embed">♬ Stuck In The Middle - Tai Verdes</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+_i've not figured out how to capture the video I want and mix it into the story I want about all of this, sorry_
 
 Sometimes some of the space in or around a parking lot might serve a a [third space](https://en.wikipedia.org/wiki/Third_place), or a pathway for your customers from one place (where they parked) to another (your business) and back, or for non-customers or future customers to pass by your business.
 
@@ -104,4 +108,19 @@ the optional retainer, consulting, and implementation options will all be shared
 I'll help your parking lot fit more vehicles, i'll help your visitors spend less time looking for parking, and overall, they will all appreciate how intentional _you_ are about tending well to your whole lot.
 
 There's behavior change baked into all of this, but primarily by creating attractive paths and patterns that we most want your customers to use. I'm rather opposed to coercion, and even see the existence of some written signs and notifications as a possible failure of good design.
+
+## What sort of ideas/people/ideas are you implementing?
+
+Great question - nothing is new under the sun.
+
+Primarily, I endeavor to appropriately channel three people: Christopher Alexander, Donald Shoup, and Alain Bertaud.
+
+These individuals are all giants in the 'urbanism space', and have kindly left us detailed written resources for how they would approach a given situation or problem. 
+
+They are consummate professionals, and if you were able to hire any of _them_ to fix these problems, you'd be thrilled for their attention. One of them is no longer living, and the other two are busy, so you'll have to settle for engaging with me on this. :)
+
+Critically, if you could hang out with them, they would all convey to you a sense of:
+
+1. the issues you perceive related to your parking lot are valid
+2. the issues can be _greatly_ improved, along the way changing the spaces into something healthy, safe, and self-sustaining/supporting, financially and otherwise. 
 
