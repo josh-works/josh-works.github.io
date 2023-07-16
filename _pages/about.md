@@ -31,9 +31,9 @@ Here's some of my interests, around which I could some aspects of "expert knowle
 - [this custom web app that shows a lot of where I've been in the last few years](https://mobility-data.herokuapp.com/). 
 
 
-## I do useful things
+## I write useful things
 
-- I've written useful guides to help people do difficult things. My guides have helped dozens-to-hundreds of people better learn software development, mostly via the Turing school, but they're all public and free for anyone. If you happen to be considering back-e d software development, [here's a starting point](https://josh.works/turing-backend-prep-01-intro). [more examples]
+- I've written useful guides to help people do difficult things. My guides have helped dozens-to-hundreds of people better learn software development, mostly via the Turing school, but they're all public and free for anyone. If you happen to be considering backend software development, [here's something that could be germane to you](https://josh.works/turing-backend-prep-01-intro).
 - I have helped some people make huge gains in their climbing abilities, mostly by improving the technical and mental skills around lead belaying and lead climbing. It's a slippery slope from "getting really good at belaying" to "trying hard at 5.12 and 5.13"
 - Almost all of what I'm good at is because I'm relatively attuned emotionally, to myself and others, and am able to easily adopt the perspective of someone else. 🤷‍♂️
 
