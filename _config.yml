@@ -38,7 +38,7 @@ pages_list:
   about: '/about'
   blog: '/blog'
   ☕️ with josh: '/coffee'
-  # projects: '/projects'
+  projects: '/projects'
 
 
 # Assets
