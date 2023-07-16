@@ -4,7 +4,7 @@ title:  "On Leaving Evangelicalism And Opposing It"
 description: "A Three-year journey from inside evangelicalism to firmly outside of it"
 date:  2023-05-18 06:00:00 -0700
 categories: [theology]
-tags: [evangelicalism, jesus_christ, christianity, cults, books]
+tags: [evangelicalism, jesus_christ, christianity, books]
 permalink: on-leaving-evangelicalism
 image: /images/title_image.jpg
 issue_id: 64 
@@ -67,9 +67,9 @@ I'm basically writing this document as a mix of an "impassioned open letter", an
 
 From birth, my parents had me firmly ensconced in the evangelical church traditions. 
 
-I was raised in an abusive and neglectful household (physical, emotional, verbal), more akin to a cult than anything else. Because I was surrounded by others from the same cult, it took a long time to get far enough from it that I could see it clearly. [^no-speaking]
+I was raised in an abusive and neglectful household (physical, emotional, verbal), sharing uncomfortable similarities with a cult. Because I was surrounded by others from the same group, it took a long time to get far enough from it that I could see it clearly. [^no-speaking]
 
-[^no-speaking]: Some members of the cult have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. I've been pressured to comply without speaking, and certainly not to  explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', but, true to the way in which I was raised, and the ways unhealthy systems handle dissidence, those requests were ignored/denied. 
+[^no-speaking]: Some members of the group have been saying or implying unflattering things about me, and perhaps underappreciate my nearly-autistic tendencies to (over)intellectualize my justifications for my actions. I've been pressured to comply without speaking, and certainly not to  explain myself. I've begged, literally, members of the group to engage with me on a level fractionally approaching 'fair' or 'empathetic' or 'mutual', but, true to the way in which I was raised, and the ways unhealthy systems handle dissidence, those requests were ignored/denied. 
 
 This post is an explanation of how, without ever intending to, I found myself to have walked out of that camp of evangelicalism, and from their point of view I'm now firmly planted in "heretical theological hinterlands", and vastly better off for it.[^barbarian]
 
@@ -180,7 +180,7 @@ Here's the books (and a paper), in the order in which I read them:
 1. [The Naked Anabaptist](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
 1. [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
 1. [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
-1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://sci-hub.se/10.1017/s0017816000024779)
 
 Boom. That was it. At the end of these books, and the paper, I was firmly outside of the evangelical tradition, and never able to be brought back. 
 
@@ -243,7 +243,7 @@ Next, after reading the three books above about anabaptism, I kept reading 'the 
 
 1. [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
 1. [The Work of Jesus Christ in Anabaptist Perspective: Essays in Honor of J. Denny Weaver](https://www.amazon.com/Work-Jesus-Christ-Anabaptist-Perspective/dp/193103849X)
-1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+1. [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963 )](https://sci-hub.se/10.1017/s0017816000024779)
 
 
 # Book 1: Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism
@@ -562,7 +562,7 @@ Here's some books, and some academic essays, if you read them, you _might_ feel 
 - [The Naked Anabaptist: The Bare Essentials of a Radical Faith](https://www.goodreads.com/book/show/7943685-the-naked-anabaptist)
 - [The Politics of Jesus](https://www.goodreads.com/book/show/19133.The_Politics_of_Jesus)
 - [The Non-Violent Atonement](https://www.goodreads.com/book/show/9945.The_Nonviolent_Atonement)
-- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52)
+- [The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review, 1963)](https://sci-hub.se/10.1017/s0017816000024779)
 - [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
 - [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
 - [The Most Dangerous Superstition](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)
