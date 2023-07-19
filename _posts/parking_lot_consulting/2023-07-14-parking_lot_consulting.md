@@ -2,51 +2,170 @@
 layout: post
 title: Let Me Fix [some of] Your Parking Problems
 published: true
-description: "For many reasons, your parking and parking lots are not as good as they could be, at least some of the time. And at other times, the parking might be acutely bad. I'll help you fix it all the time."
+description: "An open letter from Josh Thompson, your local parking lot advocate"
 image: 'parking-fix.jpg'
 tags: [parking]
 permalink: 'get-more-from-your-parking-lots'
 ---
 
+Hi there! I'm Josh, and I'm your local neighborhood "parking lot advocate". 
+
+We're talking about parking lots today. Your parking lot has a job to do, and every day, every night, rain or shine, hot or cold, clear, rainy, or snowy, your parking lot does the best it can at it's job.
+
+But how well does it do it's job? What _is_ the job of a parking lot, exactly, anyway?
+
+# The jobs of a parking lot
+
+Like any potential representative of your business, at minimum, you want your parking lot to serve a certain function, around:
+
+- storing vehicles
+- finding empty spaces
+- leaving the parking lot after finishing up at the facility
+- moving people from where they parked their vehicle to an entrance to your facility
+
+And, again, like a representative of your business, you don't want it to look dirty, unclean, slovenly, or dangerous. 
+
+
+# Signs your parking lot might be broken
+
+There's a few ways you could determine if your parking lot is doing it's job well or poorly. For example, are any of the following true for you?
+
+- customers sometimes have difficulty finding open parking spaces, and instead "cruise" past many occupied spaces before finding an available space
+- heavy use of 'desire paths'[^desire-path]
+- it feels 'creepy' under certain conditions/times of day, especially at night
+- first-time guests sometimes have a hard time finding where to park, and then quickly/confidently making their way to the entrance of your facility
+- at peak times of day, members/guests/customers know that if they wanted to visit your facility, they'd have a hard time finding a parking spot
+- you sometimes have conflict with other businesses that make use of nearby parking areas. Their customers park in your parking, or your customers sometimes park in their parking, and this causes friction
+- your parking lot doesn't generate any 💰💰💰 , which pays for it's own improvements.[^pay-for-itself]
+- if your parking lot _does_ generate revenue, it leaves a bad taste in the mouths of the users who have to pay. _most_ paid parking in America is not managed at a competent level.
+
+Remember - people are creatures of habit and convenience. When we find parking lots difficult to deal with, we're vastly less likely to frequent the business attached to that parking lot. _people will subconsiously avoid parking lots completely._ [^dread-of-parking-lots]
+
+[^dread-of-parking-lots]: For example, here's a passionate complaint about a Trader Joe's parking lot. Trader Joe's is losing business because the parking lot is so bad at it's job:
+
+    [I Am a Trader Joe's Parking Lot and I am Here to Destroy You]() (finish this copy/paste from WA, add fb comment screenshots)
+
+    Here's the kinds of things people say:
+
+    > Can we all agree that [this parking lot] is the most terrible one in Boise (I mean it's like a pit of hell)?
+
+    > When I want to go to Trader Joe's I always think... 'do I really want to park in there?'
+
+    > [That parking lot] is literally the worst, and is 10,000,000% why I'll never go there again.
+
+    > It's horrible. I avoid Trader Joe's just because of the parking lot.
+
+    _add screenshots/google maps/google earth/street view data_
+
+
+[^desire-path]: A 'desire path' is an 'unofficial' path, usually made by people choosing to walk where there isn't an official path. Generally, if you want to help people get to where they want to go, a good rule of thumb is to identify all desire paths as they appear, and add some 'dressing' to the path to make it official, and safe. Desire paths often start as dirt paths, and these get muddy in the rain, dangerous in the snow, and are rarely ploughed. 
+
+# The cost of your parking lot being broken
+
+There are real costs to your parking lot not doing it's job well enough. The most obvious cost is the waste of customer good-will. While most people know that any issues with a parking lot isn't necessarily the fault of the business they're frequenting, not everyone knows this. Lots of people take their frustration on parking out directly on the business they're trying to visit, and a 'challenging' parking lot costs you customers.
+
+To repeat a quote:
+
+> [That parking lot] is literally the worst, and is 10,000,000% why I'll never go there again.
+
+So, in some cases, your parking lot costs you customers directly.
+
+Even if customers still push through the discomfort, though, clunking parking now costs your customers time, and frustration. It's extremely annoying to 'cruise' around for parking. 
+
+
+# The ROI of fixing your parking lot
+
+
+## More Customers
+
+A well-managed parking lot is an efficient parking lot. Would you like it more if every time someone came to your facility, they drove alone, or if they came as a group or two or three?
+
+If your parking is anywhere close to being full, you would want to see your visitors share cars. That takes the vehicle space consumption per person go from 300sqft of your parking lot to 150 sqft, or 100sq ft. 
+
+
+
+## A Better Experience
+
+Every time a customer or staff member feels frustration looking for parking and/or dealing with a long walk, that's a spot that could have been a moment of delight. [^walt-disney]
+
+[^walt-disney]: The Disney theme parks (Disney Land and Disney World) are famous for how 'coherent' the guest experience is. Disney understands that creating a good experience for their visitors means thinking clearly and openly and creatively about their parking areas. I seek to channel some of the Disney energy in how I approach parking lots. It is worth mentioning that Disney is _extremely_ financially successful, in part because of how pleasent the parks are to visit, and how coherent the experience is for the guests.
+
+There's different 'levels of sophistication' for your parking lot.
+
+At the top level, we have an easy-to-install vehicle counter that hooks up to a sign at the entrance and reports on how many parking spaces are available at that current moment. This improves discoverability. 
+
+Also, at the top level, the parking lot _has the option_ to not be free parking. Don't worry, I'd never suggest adding a swing arm to your parking lot. Those swing arms are like black-and-white televisions. They were good enough once, but no longer interesting.
+
+## Simple responsibility
+
+Pull up your business on google maps, in satallite view. Zoom in on your business, so your business and the parking lot fills most of your screen.
+
+In the area, how many square meters are filled by your buildings?
+
+Now, how many square meters are filled by your parking areas and approach paths?
+
+If you're like many businesses in America, for every square meter under a roof, you might have three or four square meters of space allocated to parking. 
+
+_add image of some facilities that are mostly parking_
+
+
+
+
 # Let's look at some parking lots together
 
-Your parking lots do much more than hold parked cars - they also move people from their parked cars to access your business. We spend a lot of time and energy every day dealing with parking lots. Let's make them a bit nicer and a bit more efficient, together. 
+Your parking lots do much more than hold parked cars.
 
-Here's some of the parking lots I've looked at lately. These are Tiktok videos, as I find the Tiktok phone app the easiest way I have to edit and publish video and photos I've gathered:
+Here's some of the parking lots I've looked at lately. Let's talk about some of what we see.
 
+First, here's the things I tend to notice, on first blush:
 
+1. How _big_ is the parking lot. how many spaces?
+2. What part of the parking lot is closest to the main entrance? This portion of your parking lot will be the busiest and most important part.
+3. How wide are the driving lanes? How easy is it to find available spots?
+4. Do people 'cruise' a lot when looking for parking? 
+5. How well lit is it at night. Is the lighting warm or cold?
+6. What kind of situations and dynamics exist around the junction between your parking lot and adjoining roads. Do customers have an easy and safe and protect way to get _into_ your parking lot, without having to wait a long time for a gap in traffic?
+7. When leaving your parking lot, is it easy-enough to get going the desired direction on the local roads?
+
+Here's some other data-based questions that can be answered with observation or conversations:
+
+1. How long is the longest time it took someone to find a parking spot in the last week?
+2. how common are break-ins? is there an issue of safety in the parking lot, either from people in cars, or people not in cars?
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7193477270680522026" data-video-id="7193477270680522026" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> <a title="mobility_networks" target="_blank" href="https://www.tiktok.com/tag/mobility_networks?refer=embed">#mobility_networks</a> <a target="_blank" title="♬ Tropical, summer-like reggaeton beats(1127821) - Mushuz" href="https://www.tiktok.com/music/Tropical-summer-like-reggaeton-beats-1127821-7031703968455591937?refer=embed">♬ Tropical, summer-like reggaeton beats(1127821) - Mushuz</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-These videos are NOT intended to convey anything about how I would evaluate a parking lot, or any specific changes that might be made. They're simple examples of how I look at parking lots, and how they connect to spaces around them.
+I've been getting better at getting good footage from my drone:
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7202264574463151403" data-video-id="7202264574463151403" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> <a title="capcut" target="_blank" href="https://www.tiktok.com/tag/capcut?refer=embed">#CapCut</a> <a target="_blank" title="♬ original sound - josh" href="https://www.tiktok.com/music/original-sound-7202264630851472174?refer=embed">♬ original sound - josh</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7246795537779838251" data-video-id="7246795537779838251" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> Denver traffic drone timelapse, again.<a title="drone" target="_blank" href="https://www.tiktok.com/tag/drone?refer=embed">#drone</a> <a title="timelapse" target="_blank" href="https://www.tiktok.com/tag/timelapse?refer=embed">#timelapse</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="denver" target="_blank" href="https://www.tiktok.com/tag/denver?refer=embed">#denver</a> <a title="mobility_network" target="_blank" href="https://www.tiktok.com/tag/mobility_network?refer=embed">#mobility_network</a> <a target="_blank" title="♬ Stuck In The Middle - Tai Verdes" href="https://www.tiktok.com/music/Stuck-In-The-Middle-6832618984580335617?refer=embed">♬ Stuck In The Middle - Tai Verdes</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-_i've not figured out how to capture the video I want and mix it into the story I want about all of this, sorry_
+Now, lets's stop thinking about your parking lot for a minute, and think of what a parking lot can represent at it's best.
 
-Sometimes some of the space in or around a parking lot might serve a a [third space](https://en.wikipedia.org/wiki/Third_place), or a pathway for your customers from one place (where they parked) to another (your business) and back, or for non-customers or future customers to pass by your business.
+Sometimes some of the space in or around a parking lot might serve as a [third space](https://en.wikipedia.org/wiki/Third_place), or a pathway for your customers from one place (where they parked) to another (your business) and back, or for non-customers or future customers to pass by your business. Third spaces are best when they are _beautiful_, so a defining question you can ask of your parking lot is - is it beautiful?
 
-If there ISN'T 'third space' vibes in your parking lot, this is one of the things I can eventually fix, but only in parallel with making it feel clean and safe.
+If it isn't beautiful, or at least there are not spots of beauty, then there ISN'T 'third space' vibes in your parking lot, this is one of the things I can eventually fix, but only in parallel with making it feel clean and safe.
 
-Therefore, we can work together to:
 
-1. Decide the ROI of spending any resources and energy on your parking lot, and if so, what might be the smallest/quickest/most educational first pass.
-2. Once the schedule makes sense, arrange to have the parking lot cleaned and organized, at least a little
-3. as we clean and organize it, we'll start playing with traffic flows, to reduce any pain points and 'issue hot spots'. This is where the users of the parking lot will start feeling the main improvements, so I'd like to accomplish step three fairly quickly. once we kick off the project
 
-# Signs your parking (lot) is broken, and thus in need of repair
+# How we'd fix your parking lot
 
-- not enough spaces at certain times
-- dangerous situations loading/unloading vehicles
-- customers/staff cruising (looking) for spaces
-- heavy use of desire paths
-- it feeling 'creepy' under certain conditions/times of day
+You might be intrigued, now, and inclined to investigate more. 
 
-I'm _obsessed_ with outdoor connecting spaces, parking lots all that with relates to them, and can easily bring huge improvements to most spaces, though certainly not all. We'll talk about that in the first meeting.
+The easiest next step would be to pop your email address into this form below, and you'll automatically get a few emails over the next two weeks that will make you an even more sophisticated observer and evaluator of your parking lot.
 
-# How I'd actually fix it
+_add CK form here, in the meantime [send me an email](mailto:joshthompson@hey.com) and i'll follow up from there_
+
+Here's what we'll do, when we start working on your parking lot together:
+
+## Step 1: Evaluation of what it's "job to be done" is, and how well it's doing it
+
+As you can imagine, there's lots of similarities between parking lots across America, but every parking lot is a little distinctive. Step one will be opening up the parking lot on Google maps/google earth, and seeing how it looks.
+
+## Step 2: 
+
+
 
 This service is a mix of consultation and analysis, obviously. And then making small changes, and deciding how we like things, and then developing what we like and redeveloping what we don't yet like. 
 
