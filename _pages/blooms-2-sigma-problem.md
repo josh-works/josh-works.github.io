@@ -20,7 +20,10 @@ I first encountered the "2-sigma problem" through Stripe Cofounder Patrick Colli
 
 I'd recommend reading Bloom's original paper from 1984:
 
-### [The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring (PDF)](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+👉 [The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring. Benjamin Bloom, 1984, PDF](http://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+
+
+## Slideshow and presentation on applying the 2-sigma problem to a software development training program
 
 I gave a brief presentation on this for the Turing School, back in 2020, making the case for some specific interventions, based on Bloom's 1984 research.
 
@@ -30,7 +33,7 @@ I gave a brief presentation on this for the Turing School, back in 2020, making 
 
 
 
-### Resources & Related Reading
+### Resources & Sources of Inspiration for Me
 
 - [Patrick Collison: Questions](https://patrickcollison.com/questions)
 - [On Bloom's two sigma problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction (Nintil)](https://nintil.com/bloom-sigma/)
