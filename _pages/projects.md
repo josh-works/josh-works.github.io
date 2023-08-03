@@ -82,13 +82,8 @@ I also spent time pursuing "having fun with friends", and that looks like lots o
 
 _I ended up moving out of Golden in 2021. I could see returning some day. 'Interesting things' continue to happen, continuously, all over Golden and Denver._
 
-## Living an as-enjoyable-as-possible existence
 
-_2020-present_
-
-The last few years have been _profoundly_ difficult, for everyone. Even before the pandemic, myself, family, and close friends were greatly affected by death and disease, and how quickly lives can change, with a diagnoses, a heart attack, an accident. I enjoy "banking joy", and am attuned to what kinds of things lead to joy, satisfaction, rest, laughter, peace, appreciation, and beauty. 
-
-## being interested in, and inhabiting, 'beautiful places'
+## thinking & writing about 'wonderful/beautiful places'
 
 _2018-present_
 
@@ -134,10 +129,6 @@ I try to be biased towards finishing projects. To that end, here's a list of pro
 This page is inspired by Tom Critchlow's [The Importance of Launching](https://tomcritchlow.com/2017/01/26/f-yeah-side-projects/)
 
 These are ordered by recency, magnitude, or interestingness to myself. You might find archived/no-longer-active projects
-
-
-
-
 
 ## Intermediate Ruby
 
