@@ -8,9 +8,11 @@ tags: [parking]
 permalink: 'get-more-from-your-parking-lots'
 ---
 
-Hi there! I'm Josh, and I'm your local neighborhood "parking lot advocate". 
+Hi there! I'm Josh, and I'm your local neighborhood advocate for overlooked spaces. 
 
-We're talking about parking lots today. Your parking lot has a job to do, and every day, every night, rain or shine, hot or cold, clear, rainy, or snowy, your parking lot does the best it can at it's job.
+Today, we'll be focusing on parking lots. 
+
+Your parking lot has a job to do, and every day, every night, rain or shine, hot or cold, clear, rainy, or snowy, your parking lot does the best it can at it's job.
 
 But how well does it do it's job? What _is_ the job of a parking lot, exactly, anyway?
 
@@ -84,18 +86,6 @@ If your parking is anywhere close to being full, you would want to see your visi
 
 
 
-## A Better Experience
-
-Every time a customer or staff member feels frustration looking for parking and/or dealing with a long walk, that's a spot that could have been a moment of delight. [^walt-disney]
-
-[^walt-disney]: The Disney theme parks (Disney Land and Disney World) are famous for how 'coherent' the guest experience is. Disney understands that creating a good experience for their visitors means thinking clearly and openly and creatively about their parking areas. I seek to channel some of the Disney energy in how I approach parking lots. It is worth mentioning that Disney is _extremely_ financially successful, in part because of how pleasent the parks are to visit, and how coherent the experience is for the guests.
-
-There's different 'levels of sophistication' for your parking lot.
-
-At the top level, we have an easy-to-install vehicle counter that hooks up to a sign at the entrance and reports on how many parking spaces are available at that current moment. This improves discoverability. 
-
-Also, at the top level, the parking lot _has the option_ to not be free parking. Don't worry, I'd never suggest adding a swing arm to your parking lot. Those swing arms are like black-and-white televisions. They were good enough once, but no longer interesting.
-
 ## Simple responsibility
 
 Pull up your business on google maps, in satallite view. Zoom in on your business, so your business and the parking lot fills most of your screen.
@@ -104,11 +94,9 @@ In the area, how many square meters are filled by your buildings?
 
 Now, how many square meters are filled by your parking areas and approach paths?
 
-If you're like many businesses in America, for every square meter under a roof, you might have three or four square meters of space allocated to parking. 
+If you're like many businesses in America, for every square meter under a roof, you might have 2-4 square meters of space allocated to parking. 
 
 _add image of some facilities that are mostly parking_
-
-
 
 
 # Let's look at some parking lots together
@@ -120,11 +108,11 @@ Here's some of the parking lots I've looked at lately. Let's talk about some of 
 First, here's the things I tend to notice, on first blush:
 
 1. How _big_ is the parking lot. how many spaces?
+1. how cozy is it? Is there shade anywhere during the day? How is it illuminated at night?
 2. What part of the parking lot is closest to the main entrance? This portion of your parking lot will be the busiest and most important part.
 3. How wide are the driving lanes? How easy is it to find available spots?
 4. Do people 'cruise' a lot when looking for parking? 
-5. How well lit is it at night. Is the lighting warm or cold?
-6. What kind of situations and dynamics exist around the junction between your parking lot and adjoining roads. Do customers have an easy and safe and protect way to get _into_ your parking lot, without having to wait a long time for a gap in traffic?
+6. What kind of situations and dynamics exist around the junction between your parking lot and adjoining roads? Do customers have an easy and safe and protect way to get _into_ your parking lot, without having to wait a long time for a gap in traffic?
 7. When leaving your parking lot, is it easy-enough to get going the desired direction on the local roads?
 
 Here's some other data-based questions that can be answered with observation or conversations:
@@ -148,14 +136,15 @@ Sometimes some of the space in or around a parking lot might serve as a [third s
 If it isn't beautiful, or at least there are not spots of beauty, then there ISN'T 'third space' vibes in your parking lot, this is one of the things I can eventually fix, but only in parallel with making it feel clean and safe.
 
 
-
-# How we'd fix your parking lot
+# How I'd start improving your parking lot
 
 You might be intrigued, now, and inclined to investigate more. 
 
 The easiest next step would be to pop your email address into this form below, and you'll automatically get a few emails over the next two weeks that will make you an even more sophisticated observer and evaluator of your parking lot.
 
-_add CK form here, in the meantime [send me an email](mailto:joshthompson@hey.com) and i'll follow up from there_
+_TODO for Josh: add email collection form here_
+
+_in the meantime [send me an email](mailto:joshthompson@hey.com)_
 
 Here's what we'll do, when we start working on your parking lot together:
 
@@ -163,25 +152,29 @@ Here's what we'll do, when we start working on your parking lot together:
 
 As you can imagine, there's lots of similarities between parking lots across America, but every parking lot is a little distinctive. Step one will be opening up the parking lot on Google maps/google earth, and seeing how it looks.
 
-## Step 2: 
+## Step 2: Modify the 'flow' of vehicles to make the most dangerous parts of the parking lot safe
 
+First, we'd aim to make safer spots where cars and people have dangerous interactions. In the USA, incidents involving cars striking pedestrians continue to climb, and whichever part of your parking lot feels dangerous is what we'll fix first.
 
-
-This service is a mix of consultation and analysis, obviously. And then making small changes, and deciding how we like things, and then developing what we like and redeveloping what we don't yet like. 
-
-First, we'd aim to make safer spots where cars and people have dangerous interactions. Incidents involving cars striking pedestrians continue to climb, but a little attention to any given space can make it much less likely that those accidents will happen in your parking lot. 
-
-Next, we'll decide what part of your parking lot is already the most heavily used by people, closest to gathering points, and naturally comfortable. We'll make it _more_ comfortable, and add small/cheap bits of 'street furnature' to create some outdoor spaces, by creating the feeling of semi-enclosed spaces. Maybe we'll hang some outdoor string lights on a timer to cozy up the space on those early winter evenings. 
-
-This can be accomplished by an easy arrangement of something no more fancy than a medium-sized metal planter, but can instantly change the vibe and shape of the space.
-
-Rinse, and repeat. 
 
 Here's some videos about how I've improved the safety and convenience of certain spots, with far more time spent recording the video than I spent modifying the space. 
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7240611295966268718" data-video-id="7240611295966268718" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> part 2? or 15? gosh it&#39;s a long and boring story I could tell <a title="traffic" target="_blank" href="https://www.tiktok.com/tag/traffic?refer=embed">#traffic</a> <a target="_blank" title="♬ original sound - josh" href="https://www.tiktok.com/music/original-sound-7240611323795622698?refer=embed">♬ original sound - josh</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7241670267485932843" data-video-id="7241670267485932843" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> turns out I&#39;m really into traffic cones on the (real or imaginary) center lines of roads. reduces all three sources of vehicle pollution (tailpipe emissions, brake dust, tire microplastics). <a title="mobilitynetwork" target="_blank" href="https://www.tiktok.com/tag/mobilitynetwork?refer=embed">#mobilitynetwork</a> <a title="networkanalysis" target="_blank" href="https://www.tiktok.com/tag/networkanalysis?refer=embed">#networkanalysis</a> <a title="showdonttell" target="_blank" href="https://www.tiktok.com/tag/showdonttell?refer=embed">#showdonttell</a> I have at least some explicit permission from the city engineer, the mayor, and the police! This is all for demonstration. is love to make it permanent and beautiful eventually.@josh_exists <a target="_blank" title="♬ original sound - josh" href="https://www.tiktok.com/music/original-sound-7241670290613422894?refer=embed">♬ original sound - josh</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+## Step 3: Make some affordances for the people walking back and forth through your parking lot
+
+Next, we'll decide what part of your parking lot is already the most heavily used by people, closest to gathering points, and naturally comfortable. 
+
+We'll make it _more_ comfortable, and add small/cheap bits of 'street furnature' to create some outdoor spaces, by creating the feeling of semi-enclosed spaces. 
+
+For example, we could add some outdoor string lights on a timer to cozy up the space on those dark winter evenings. 
+
+This can be accomplished by an easy arrangement of something no more fancy than a few medium-sized metal planters and some thin wood posts, but can instantly change the vibe and shape of the space.
+
+Rinse, and repeat. 
+
 
 Ready to get in touch? [send me an email](mailto:joshthompson@hey.com)
 
@@ -199,7 +192,9 @@ I've worked with city engineers, planning staff, public works officials, politic
 
 That all said, I've found that there's quite a lot of 'work that can be done' before any of that work escalates to something that would make sense to loop the city in on. So, I'll do the work for you that doesn't involve the local municipality, and then when it becomes needful to include them, i can handle much of that work as well.
 
-## Why do you talk so much about those orange traffic cones
+## Why do you talk so much about the 'flow' of traffic? What's the difference between hiring you and 'just' adding some seating outside myself?
+
+It is easy to imagine making changes to your parking lot, but it would be harmful to your business to make any changes that didn't make the experience b
 
 Because traffic cones are the first tool I use for changing how traffic flows through an area. Cars, bikes, and people 'flow' a bit like water, a bit like a gas. 
 
@@ -243,3 +238,6 @@ Critically, if you could hang out with them, they would all convey to you a sens
 1. the issues you perceive related to your parking lot are valid
 2. the issues can be _greatly_ improved, along the way changing the spaces into something healthy, safe, and self-sustaining/supporting, financially and otherwise. 
 
+## You say your work could lead to increased property values. why's that?
+
+In general, people want to live in walkable neighborhoods. We'll make the neighborhood grow increasingly walkable.
