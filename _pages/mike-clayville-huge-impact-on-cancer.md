@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mike Clayville Can Have A Huge Impact on Cancer Treatment and Prevention
+title: Mike Clayville, You Can Have A Huge Impact on Cancer Treatment and Prevention
 status: publish
 type: page
 published: true
@@ -12,6 +12,8 @@ image: "/images/2020-08-05-mike-clayville-01.jpg"
 _note: I wrote this as if I could get an email read specifically and intently by Mike Clayville. I didn't wait until I finished that I realized I have no credible/reliable delivery mechanism. I'm requesting help to get this to Mike. If you're the right person, **you can ask Mike to read this page, and he will**._
 
 _2020-08-06 update: I'm slowly going to share this with more people who might be able to get it to Mike Clayville. I will take this page down as soon as I have reason to believe Mike has seen it._
+
+_2022 update: I'm no longer allocating a certain amount of funds for Mike to take advantage of this offer, but it would still make me very happy for him to see it._
 
 Hi Mike,
 

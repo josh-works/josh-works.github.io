@@ -55,17 +55,25 @@ In other ways, it was a frustrating place to live, especially when it came to tr
 
 I tried many different small experiments, riding the trade-off between "costs little-enough" in time, effort, and/or money and "likely-enough to be of high quality/solve at least part of the problem".
 
-This constant evaluation of experiments and trade offs first became visible when I ran for city council in 2017. I had long thought about making things different or better, and my understandings and experiences, and the context of the time, made that a fun use of time. [^golden-city-council]
+This constant evaluation of experiments and trade offs was made unavoidably visible when I ran for city council in 2017. I had long thought about making things different or better, and my understandings and experiences, and the context of the time, made that a fun use of time. [^golden-city-council]
 
 [^golden-city-council]: I told people, when they said "why are you running for city council?":
 
     > well, I just finished a trade school, so i'm taking some time to get my first job, turns out the rules of the city say I'm eligible, and this is more entertaining to me than sitting on the couch in my boxers playing video games, not that there's anything wrong with that. 
 
+    I overall strongly disliked the experience, and found it to be extremely time/energy consumptive, even though I barely put time/effort into it. It felt de-dignifying to take the whole thing seriously, and I couldn't hide my contempt for the whole thing very well. For example, when reading an early draft of a campaign flier, a reviewer said "I absolutly, positively, would never let anyone ever see this.". I published it. I also was on a six-week climbing trip to the NRG during 'campaign season'. Anyway, my 10% haul on the election night is... not zero. 
+
 I kept iterating. 
 
 I didn't get on city council, but what about becoming friends with the folks who *were* on city council? The city staff themselves? Random people around Golden? I took a sabbatical from work and sorta took on a journalist or academic internship path. 
 
-Eventually, once we owned a house in the city, my meandering got even more focused, and I started observing a rather dangerous street that went right the house - I got to life a full life just a few meters from a 'standard arterial' in America, and believe you me, I was not a passive and unobservant participant in the street traffic. 
+Eventually, once we owned a house in the city, and I'd read a bit more about how [politically powerful white americans use zoning laws and road networks to enforce regimes of social control and accomplish (where necessary) ethnic cleansing](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities) my meandering got even more focused.
+
+Living in Golden, there were about 500 different manifestations of ethnic cleansing visible in the built environment around me.
+
+For example, I started observing a rather dangerous street that went right past the house I lived in - I got to life a full life just a few meters from a 'standard arterial' in America, and believe you me, I was not a passive and unobservant participant in the street traffic. 
+
+'standard arterials' were the foremost tool of eugenicists to attempt to cut off and cut through ethnic neighborhoods in urban areas in the 1950s. I hold these roads, and those who build them and support them, with a mix of contempt, disappointed sadness, and rage.
 
 This all materialized as me caring a lot about:
 
@@ -75,10 +83,10 @@ This all materialized as me caring a lot about:
 [^performant-mobility-network]: An adequate network would accomplish two things:
 
     1. being safe-enough to the users of said network (dangerous streets/vehicle accidents)
-    2. being consistent-enough for those users (congestion/traffic)
+    2. being consistent-enough for those users. congestion/traffic/safety in the normal expected conditions, like: 'night times' 'rainy times' and 'snowy times' and more
 
 
-I also spent time pursuing "having fun with friends", and that looks like lots of shared meals, or the occasional back-yard outdoor movie-night. (🤞 for more of that).
+I also spent time pursuing "having fun with friends", and that looks like lots of shared meals, or the occasional back-yard outdoor movie-night, climbing trip, book club, and more. 
 
 _I ended up moving out of Golden in 2021. I could see returning some day. 'Interesting things' continue to happen, continuously, all over Golden and Denver._
 
@@ -233,6 +241,7 @@ I also have a billion (er, actually about 200) github gists floating around. I u
 
 I rarely edit things more than once. Without further ado, here's a very non-exhaustive list of some of these posts. I'm rather proud of several of them. 
 
+- [Mike Clayville, You Can Have A Huge Impact on Cancer Treatment and Prevention (an open letter)]({{ site.baseurl }}{% link _pages/mike-clayville-huge-impact-on-cancer.md %})
 - [How To Build a Personal Website in Jekyll - A Detailed Guide For First-Timers]({{ site.baseurl }}{% link _posts/2020-08-06-setting-up-basic-jekyll-site-for-turing-backend-students.md %})
 - [Sidekiq and Background Jobs for Beginners]({{ site.baseurl }}{% link _posts/2018-07-30-sidekiq_background_jobs_for_beginners.md %})
 - [How To Take Back Your Attention On The Internet with uBlock]({{ site.baseurl }}{% link _posts/2018-01-21-take_back_your_attention.md %})

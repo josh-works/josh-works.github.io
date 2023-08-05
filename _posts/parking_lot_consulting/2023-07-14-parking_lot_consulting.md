@@ -240,4 +240,7 @@ Critically, if you could hang out with them, they would all convey to you a sens
 
 ## You say your work could lead to increased property values. why's that?
 
-In general, people want to live in walkable neighborhoods. We'll make the neighborhood grow increasingly walkable.
+In general, people strongly desire to live/work/pass through in walkable neighborhoods. We'll make the neighborhood grow increasingly walkable. This makes it safe for more foot-traffic.
+
+
+
