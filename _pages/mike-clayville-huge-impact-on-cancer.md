@@ -19,7 +19,7 @@ Hi Mike,
 
 **tl;dr: The Fred Huchison Cancer Research Institute could change the face of cancer treatment and prevention if a small fraction of it's budget is spent investigating cancer as a [Mitochondrial Metabolic Disease](https://colleenhuber.com/metabolic-theory-of-cancer-and-common-misconceptions/), which stands in contrast to the Somatic Mutation Theory of Cancer (SMT).**
 
-**These topics are extremely politically charged. The 20 hours you'll spend reading [Tripping Over the Truth: The Metabolic Theory of Cancer](https://www.goodreads.com/book/show/23496164-tripping-over-the-truth?from_search=true) could be the most impactful thing you do this year, and the rest of this page will be spent explaining why I think _you_ are uniquely positioned to encourage the Fred Hutchinson Cancer Research Center to put good-faith efforts into investigating cancer as a metabolic disease.**
+**These topics are extremely politically charged. The 10 hours you'll spend reading [Tripping Over the Truth: The Metabolic Theory of Cancer](https://www.goodreads.com/book/show/23496164-tripping-over-the-truth?from_search=true) could be the most impactful thing you do this year, and the rest of this page will be spent explaining why I think _you_ are uniquely positioned to encourage the Fred Hutchinson Cancer Research Center to put good-faith efforts into investigating cancer as a metabolic disease.**
 
 **For evidence of skin in the game, and to drive a little interest and curiosity, I'll spend $5000 getting people to read this book.**
 
