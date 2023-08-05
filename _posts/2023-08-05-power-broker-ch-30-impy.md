@@ -56,49 +56,19 @@ But Impellitteri paid it. He got full value in return.
 
 Refusing an offer of the Republican nomination (time had dimmed at least some GOP leaders' memories of 1934), Moses gave him his endorsement. "Even I, who thought that by this time I knew Bob and the lengths to which he would go, never thought he would go that far," says Lazarus. **Remonstrating, he said, "But, Bob, he hasn't any capacity for the job at all!"**
 
+Moses' response? "He laughed at that." Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almostct [...] in town. The Herald Tribune article stated: "It was not a political endorsement - Moses basing his support on his opinion that the Impellitteri administration was carrying out the city construction program as planned."
+
+
+Moses led Impellitteri around to officiate at openings of -- and share in the credit and front-page pictures for -- highways and housing projects with which to had had nothing to do except to affix his signature as Council President to documents his aides say he often had not even bothered to read. Most observers, noting that the campaign consisted mainly of charges and counter-charges of bossism and corruption, felt that the endorsement from an official characterized as "independent" and believed above corruption was an important factor -- almost as important as the decision by newspaper headline writers to call him "Impy" and thus give him a lovable public imag -- in Impellitteri's victory, the first in the city's history by a candidate running on an independent line without the support of either major party. And after his election, Impellitteri continued to pay the price-eagerly.
+
+
+Thanks to his PR men and his physical appearance-his addiction to the blue suit and the boutonniere, combined with his iron-gray hair, deeply earnest mien and stolidity that during the campaign was mistaken for dignity, made him the very model of a modern mayor; at the approach of a camera his brow would furrow, his lips would purse, his jaw would jut anditical insiders
+
 ------------------- 
 
 Sorry, the rest of the OCR got wonky, i (josh) will fix this up later.
 
-Moses' response? "He laughed at that." Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almostct [...] in town. (The Herald Tribune article stated: "It was not a political endorse- umbest voter WOud
-front
-every
-page
-pellitteri. "No o
-I, but, looking
-ed in Manhatta
-Moses basing his support on his opinion that the [Impellitteri]
-inistration was carrying out the city construction program as planned.")
-adn led Impellitteri around to officiate at openings of-and share in the
-edit and front-page pictures for-highways and housing projects with which
-to had had nothing to do except to affix his signature as Council President
-n't have to wom
-to documents his aides say he often had not even bothered to read. Most
-chservers, noting that the campaign consisted mainly of charges and counter-
-terges of bossism and corruption, felt that the endorsement from an official
-characterized as "independent" and believed above corruption was an im-
-nortant factor-almost as important as the decision by newspaper headline
-writers to call him "Impy" and thus give him a lovable public image-in Im-
-pellitteri's victory, the first in the city's history by a candidate running on an
-independent line without the support of either major party. And after his
-election, Impellitteri continued to pay the price-eagerly.
-Thanks to his PR men and his physical appearance-his addiction to
-the blue suit and the boutonniere, combined with his iron-gray hair, deeply
-many's hierarch
-king session-
-that hierarchy
-et Impelliter
-gth of his name
-dden during his
-19) as Council
-. "He voted as
-nderstand, and
-nners, politial
-it the mayr's
-earnest mien and stolidity that during the campaign was mistaken for
-dignity, made him the very model of a modern mayor; at the approach of a
-camera his brow would furrow, his lips would purse, his jaw would jut and
-itical insiders
+
 eyes
 as intently as if he understood the words written on it-Impy had run a great
 race, but once in possession of the prize he had won, he proved to have
