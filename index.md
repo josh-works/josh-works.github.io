@@ -10,7 +10,7 @@ This website serves as scratch pad for my ideas and words.
 
 I value coherence, meaningfulness, compassion, and kindness.
 
-Overall, I care a lot about "cities", the built urban form, transportation networks, and how issues of morality and ethics play out in these domains.
+Overall, I care a lot about "cities", the built urban form, transportation networks, and how issues of morality and ethics play out in these domains. 😬
 
 America is full of this:
 ![subsidized and ugly](/images_2020/subsidized.jpeg)
@@ -23,15 +23,15 @@ Pretty much all forms of human flourishing go up, and many forms of human suffer
 
 Also, the `cost per square meter` and `value per square meter` of these two competing visions are quite different.
 
-I'm currently working on nudging this ecosystem in a variety of ways, and always interested in increasing my impact. Please [email me](mailto: myfirstnamemylastname@hey.com) if you want to discuss any opportunities.
+I'm currently working on nudging this ecosystem in a variety of ways, and always interested in increasing my impact. Feel free to [email me](mailto: joshthompson@hey.com).
 
-Overall, I aim to combine/embody the influences of several distinctive persons, most specifically Alain Bertaud[^data-driven-urban-economist] and Christopher Alexander[^design-patterns]. 
+Overall, I aim to combine/embody the influences of several distinctive persons, like Alain and Marie-Agnes Bertaud[^data-driven-urban-economist], Christopher Alexander[^design-patterns], and other distinguished individuals, and figure out some small, practical 'details of the urban environment'.
 
 {% include newsletter.html %}
 
 ## Footnotes
 
-[^data-driven-urban-economist]: Alain Bertaud wrote [this book]() and [this paper](). He and Marie-Agnes are the subjects of [this podcast](). Sometimes his domain overlaps with 'american urban planning', but for a few reasons, he's not exactly been welcomed into their domain. You and I will make sure he gets welcomed into _your_ domain. 
+[^data-driven-urban-economist]: Marie-Agnes, and her partner-in-crime co-author Alain Bertaud wrote [this book](https://www.goodreads.com/book/show/39644188-order-without-design) and [this paper](https://alainbertaud.com/wp-content/uploads/2013/08/Efficiency-in-Land-Use-and-Infra-Design-Bertaud-Model_a.pdf). He and Marie-Agnes are the subjects of [this podcast](https://devonzuegel.com/tag/order-without-design-podcast). IYKYK. 
 
 [^design-patterns]:  Christopher Alexander basically formalized the concept of `design patterns`, in both architecture AND computer science!!! He reminds me of [Claude Shannon](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity#fn:shannon). 
 

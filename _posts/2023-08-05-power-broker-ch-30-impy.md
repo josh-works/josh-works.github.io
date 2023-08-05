@@ -3,23 +3,30 @@ layout: post
 title:  "The Power Broker, Chapter 30: Robert Moses and Mayor Vincent R. Impellitteri"
 description: "This chapter from the Power Broker highlights how much power Robert Moses had over the mayors of New York City. This section talks about his relationship with a single mayor. The story is important _because_ no one has heard of it."
 date:  2020-01-31 06:00:00 -0700
+published: true
 crosspost_to_medium: false
-categories: []
-tags: []
+categories: [robert_moses]
+tags: [robert_moses, power_broker, political_authority]
 permalink: power-broker-ch-30-impy
 image: /images/title_image.jpg
 ---
 
+
+_Note from Josh: The following is an excerpt of chapter 34 of the Power Broker, called "Moses and the Mayors". The chapter is about Moses' relationship with all of the mayors of NYC that overlapped with Moses' "rule" over NYC._
+
+_This excerpt covers just one of the mayors' overlap with Moses' rule, but the way Moses wields his power over the mayor is absolute, and defies summarization._
+
+_The mayor did nothing for several years but give Moses everything Moses asked for._
+
+_The following is an 11-page execerpt from **The Power Broker**, pages 787-798._
+
+_I'm cleaning the text up and adding some footnotes where it feels appropriate_
+
+_I first drafted this in 2020!_
 --------------------
-Note from Josh: The following is an excerpt of chapter 34 of the Power Broker, called "Moses and the Mayors". The chapter is about Moses' relationship with all of the mayors of NYC that overlapped with his "rule" over NYC. 
-
-This excerpt covers just one of the mayors' overlap with Moses' rule, but the way Moses wields his power over the mayor is absolute, and defies summarization. 
-
-The following is an 11-page execerpt from _The Power Broker_, pages 787-798
---------------------
 
 
-# IMPY
+# Impy
 
 All during August, Moses had been in South America, drawing up a Rockefeller-financed plan of improvements for São Paulo, utterly unaware of the events crushing in on O'Dwyer. But O'Dwyer's resignation was to place the city in his power more completely than ever before.
 
@@ -28,8 +35,7 @@ post, had never been deemed worthy of holding any job more responsible than that
 
 The nomination of this totally unknown minor Tammany ward heeler to the city's second-highest elective office, the position of succession to the mayoralty, had "staggered," in Warren Moscow's words, "even the most imaginative among political reporters." And so had the explanation of how he had obtained the nomination. At a last-minute reshuffling of the 1945 Democratic ticket, the leaders finally agreed on Lazarus Joseph for Comptroller, and then realized that since O'Dwyer was Irish and from Brooklyn, while Joseph was Jewish and from the Bronx, the slate could have ethnic and geographic balance only if its third member was an Italian from Manhattan-and were unable to think of a single Manhattan Italian official they could trust. After hours of impasse, one leader reasoned that since legal secretaryships to State Supreme Court justices carried a respectable salary for which little or no work was required, they would have been given oply "safest" of Democratic workers. 
 
-Pulling out a little "Green Book," the official directory of city employees, he turned to the list of legal secretaries, ran his finger down it looking for a name that even the dumbest voter be able to tell was Italian-and came to Vincent R. Impellitteri, "No one
-knew who the hell he was," Reuben Lazarus was to recall, but, looking up Impellitteri's address, the leaders determined that he lived in Manhattan, telephoned his district leader and were assured: "You don't have to worry about him. He's a good boy."
+**Pulling out a little "Green Book," the official directory of city employees, he turned to the list of legal secretaries, ran his finger down it looking for a name that even the dumbest voter be able to tell was Italian - and came to Vincent R. Impellitteri,** "No one knew who the hell he was," Reuben Lazarus was to recall, but, looking up Impellitteri's address, the leaders determined that he lived in Manhattan, telephoned his district leader and were assured: "You don't have to worry about him. He's a good boy."
 
 Although attested to privately by members of Tammany's hierarchy (and by Moses, whose presence at the crucial ticket-making session - he was the only "outsider" there - reveals his standing with that hierarchy), this explanation seemed almost unbelievable - until one met Impellitteri. 
 
@@ -40,29 +46,21 @@ Amiable but slow-witted, he was a joke among political insiders. But now he was 
 Impellitteri's wits may have been slow, but he had two fast wits - ex-O'Dwyer aide Bill Donoghue and a young sharpie named Sydney S. Baron -- as PR men. 
 
 Impellitteri had to run in a special election in November if he wanted to hold the office he had fallen into, which meant that he had less than ten weeks in which to create an image and a record, and his PR men quickly hit on two ways to do it: 
+
 - first, take advantage of the fact that no one knew him, that he was therefore not identified with any political bosses, that his opponent, Ferdinand Pecora, was backed by Tammany boss DeSapio and that unable to get Impellitteri the Democratic nomination, the clique in Tammany that pulled his strings had him running as an independent, and portray him as the "anti-boss," "anti-politician," "anti-corrupttion" candidate (one of Baron's better lines: "If Pecora is elected, Frank Costello will be your mayor. But the voice will be that of Pecora"); 
 - second, identify him with Robert Moses.
 
-The price of that identification came high, both in specifics - Moses
+The price of that identification came high, both in specifics - Moses made Impellitteri pledge publicly that if he was elected, he would not re-appoint Finkelstein - and in generalities: Impellitteri privately promised Moses even more of a free hand than he had enjoyed under O'Dwyer in setting all city construction policies. 
 
-------------------------
+But Impellitteri paid it. He got full value in return. 
 
-made Impellitteri pledge publicly that if he was elected, he would not re-
-appoint Finkelstein - and in generalities: Impellitteri privately promised
-Moses even more of a free hand than he had enjoyed under O'Dwyer in
-setting all city construction policies. But Impellitteri paid it. He got full
-value in return. Refusing an offer of the Republican nomination (time had
-dimmed at least some GOP leaders' memories of 1934), Moses gave him his
-endorsement. "Even I, who thought that by this time I knew Bob and the
-lengths to which he would go, never thought he would go that far," says
-Lazarus. Remonstrating, he said, "But, Bob, he hasn't any capacity for the
-job at all!"
+Refusing an offer of the Republican nomination (time had dimmed at least some GOP leaders' memories of 1934), Moses gave him his endorsement. "Even I, who thought that by this time I knew Bob and the lengths to which he would go, never thought he would go that far," says Lazarus. **Remonstrating, he said, "But, Bob, he hasn't any capacity for the job at all!"**
 
-Moses' response? "He laughed at that." Publicly, the Coordinator
-declared that Impellitteri "has shown extraordinary courage and indepen-
-dence." And, as always, a Moses endorsement made almostc
-in town. (The Herald Tribune article stated: "It was not a political endorse-
-umbest voter WOud
+------------------- 
+
+Sorry, the rest of the OCR got wonky, i (josh) will fix this up later.
+
+Moses' response? "He laughed at that." Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almostct [...] in town. (The Herald Tribune article stated: "It was not a political endorse- umbest voter WOud
 front
 every
 page
