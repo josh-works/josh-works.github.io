@@ -308,4 +308,4 @@ In the next section we will explore examples of how children are driven into the
 #### Footnotes
 
 
-[^spankings]: I was spanked extensively; for a long time I didn't consider this "hitting", though it was a form of physical abuse. That is no longer my view. To clarify, though, I have long labelled spanking as 'simple punitive/retalitory violence', despicable, unfit behavior for one who claims to love another or him/herself. As it is with any act of violence, it's nothing I would ever do to someone I loved, at least not without apologizing and repairing the damage my violence would do to the relationship. I now _do_ label spanking as hitting, though the emotional impact still isn't the same for me as what I imagine it might be if the violence looked like my parent(s) hitting me in the face.
+[^spankings]: As is common in certain slices of the American population, hitting one's children for retributive vengeance of a perceived slight ("spanking") was common in my house. I don't remember ever being supportive of the institution, but only recently have I begun to label it as 'simple' physical abuse.  
