@@ -8,7 +8,7 @@ description: Lets grab a ☕️!
 permalink: /coffee
 ---
 
-# ☕️ or Zoom with Josh
+# ☕️ or Zoom
 
 Back before Covid happened, I would regularly grab a coffee or lunch with people I didn't know.
 
