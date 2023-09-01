@@ -37,7 +37,7 @@ include: ['_pages', '.well-known']
 pages_list:
   about: '/about'
   blog: '/blog'
-  ☕️: '/coffee'
+  # ☕️: '/coffee'
   projects: '/projects'
 
 

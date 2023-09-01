@@ -15,6 +15,31 @@ I have small and large projects that have worked, and failed. I have learned fro
 
 [^learn]: Technically, we all optomize for something like learning, and [when we're doing so in a healthy way, we're having a really good time](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity). 
 
+### Robert Moses Hype Man
+
+Robert Moses is a rather under-appreciated figure in American history. He's why American cities look the way they look, and he's responsible for lots of behavior that's amounted to 'regimes of ethnic cleansing'. 
+
+The best starting point is an incredible book titled "The Power Broker: Robert Moses and the Fall of New York"
+
+I wrote a page about him, and some quotes from the book, here:
+
+👉 [Indulge me for a minute while I try to convince you to spend a few minutes deciding if you'll read this book or not](https://josh.works/robert-moses)
+2. Seeing more detail in the world around you (like being able to recognize the signs of urban renewal and redlining, at a glance)
+3. A good-enough handle on various forms of ethnic cleansing and supremacy thinking
+
+
+
+_2022_
+
+As I work on email sending infrastructure professionally, I wanted a little playground to replicate some of the message sending infrastructure used at many, many organizations, like `rails`, `redis`, `sidekiq`, `twilio/sendgrid`.
+
+One of my favorite books is _The Power Broker_ by Robert Caro. (I've written extensively about this book [here]({{ site.baseurl }}{% link _pages/robert-moses.md %}))
+
+Anyway, the project is rapidly evolving, but there's a code-a-long available in the `readme`, from `rails new` to here.
+
+- [https://github.com/josh-works/power-broker-quotes](https://github.com/josh-works/power-broker-quotes)
+- Here's [an exceprt of _The Power Broker_, chapter 30]({{ site.baseurl }}{% link _posts/2023-08-05-power-broker-ch-30-impy.md %}), about Moses' casual exertion of total control of a NYC Mayor that you've (probably) never heard of. Is it relevant? You tell me.
+
 ## Making hard-to-see data visible
 
 _2021-current_
@@ -214,18 +239,6 @@ I'm proud of it. It's exactly what I wish I'd had before I attended Turing.
 
 👉 [Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 
-### Power Broker Quotes
-
-_2022_
-
-As I work on email sending infrastructure professionally, I wanted a little playground to replicate some of the message sending infrastructure used at many, many organizations, like `rails`, `redis`, `sidekiq`, `twilio/sendgrid`.
-
-One of my favorite books is _The Power Broker_ by Robert Caro. (I've written extensively about this book [here]({{ site.baseurl }}{% link _pages/robert-moses.md %}))
-
-Anyway, the project is rapidly evolving, but there's a code-a-long available in the `readme`, from `rails new` to here.
-
-- [https://github.com/josh-works/power-broker-quotes](https://github.com/josh-works/power-broker-quotes)
-- Here's [an exceprt of _The Power Broker_, chapter 30]({{ site.baseurl }}{% link _posts/2023-08-05-power-broker-ch-30-impy.md %}), about Moses' casual exertion of total control of a NYC Mayor that you've (probably) never heard of. Is it relevant? You tell me.
 
 # Miscellaneous Guides and Tutorials
 

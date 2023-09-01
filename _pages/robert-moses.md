@@ -7,14 +7,22 @@ permalink: /robert-moses
 image: images/mugshot.jpeg
 ---
 
+Do you know the story of New York City? 
 
-### Josh's introduction to Robert Moses
+How about Henry Hudson Parkway? How about the story of America
 
-Robert Moses is massively important. You'll understand ways that the world works, if you read _The Power Broker_, and you'll understand why sometimes things seem so broken.
+![henry hudson parkway](/images/hh_parkway.jpg)
 
-If you're new here, read this other thing I wrote about Robert Moses first:
+The person single handidly responsible for building that highway is powerful indeed. This person built many other highways, and displaced about 250,000 people, almost completely comprised of ethnic groups Moses considered undesirable.
 
-[Robert Moses and the Fall of New York](https://ckarchive.com/b/27u2hohnplq6)
+Read what is said about the author of Robert Moses' incredible biography:
+
+> As a reporter for Newsday in the early 1960s, Caro wrote a long series about why a proposed bridge across Long Island Sound from Rye to Oyster Bay, championed by Robert Moses, would have been inadvisable. It would have required piers so large as to disrupt tidal flows in the sound, among other problems. Caro believed that his work had influenced even the state's powerful governor Nelson Rockefeller to reconsider the idea, until he saw the state's Assembly vote overwhelmingly to pass a preliminary measure for the bridge.
+> 
+> "That was one of the transformational moments of my life," Caro said years later. It led him to think about Moses for the first time. "I got in the car and drove home to Long Island, and I kept thinking to myself: 'Everything you've been doing is baloney. You've been writing under the belief that power in a democracy comes from the ballot box. But here's a guy who has never been elected to anything, who has enough power to turn the entire state around, and you don't have the slightest idea how he got it.'"
+
+This biography is long. If you're like me and you're thrilled to find a long book that you'll love, you'll be happy to know his biography is almost as long as all of the harry potter book series. 
+
 
 ### A review of _The Power Broker_
 
@@ -166,8 +174,19 @@ The price of that identification came high, both in specifics - Moses made Impel
 
 Moses' response? "He laughed at that." 
 
-Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almost
--------------
+Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almost every front page in town. (The Herald Tribune article stated: "It was not a political endorsement, Mr. Moses basing his support on his opinion that the Impellitteri administration was carrying out the city construction program as planned.") 
+
+Moses led Impellitteri around to officiate at openings of -- and share in the credit and front-page pictures for -- highways and housing projects with which he had had nothing to do except to affix his signature as Council President to documents his aides say he often had not even bothered to read. 
+
+Most observers, noting that the campaign consisted mainly of charges and counter-charges of bossism and corruption, felt that the endorsement from an official characterized as "independent" and believed above corruption was an important factor almost as important as the decision by newspaper headline writers to call him "Impy" and thus give him a lovable public image-in Impellitteri's victory, the first in the city's history by a candidate running on an independent line without the support of either major party. And after his election, Impellitteri continued to pay the price eagerly.
+
+Thanks to his PR men and his physical appearance - his addiction to the blue suit and the boutonniere, combined with his iron-gray hair, deeply earnest mien and stolidity that during the campaign was mistaken for dignity, made him the very model of a modern mayor; at the approach of a camera his brow would furrow, his lips would purse, his jaw would jut and his eyes would focus on whatever piece of paper happened to be handy just as intently as if he understood the words written on it - Impy had run a great race, but once in possession of the prize he had won, he proved to have not the slightest idea of what to do with it.
+
+He disclaimed any influence over the Board of Estimate, telling reporters, "All I have is three votes on it, you know." Mayors were always telling reporters that but City Hall insiders soon realized, to their astonish- ment, that this mayor believed it. Says one of his aides, Victor F. Condello: "Impy never understood that he had any power at all." Once Condello suggested that the Mayor call the five borough presidents to an executive session to discuss a thorny issue. "Yeah," the Mayor said, "that's a good idea." Pause. "You think they'll come?"
+
+He was too timid to confront even his own subordinates. Once, a newspaper leveled detailed charges against one. The next time they met, the Mayor asked him if the charges were true. Of course not, the appointee said
+
+
 
 [...]
 
