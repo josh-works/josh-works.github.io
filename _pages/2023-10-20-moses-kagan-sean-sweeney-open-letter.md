@@ -8,9 +8,15 @@ permalink: /open-letter-moses-kagan-sean-sweeney
 
 Hi Sean, Hi Moses,
 
+_I wrote you a long letter because I didn't have time to write you a short one_
+
 I've followed both of you on Twitter for a while, and wanted to drop something of a letter in your respective email, or DM you on Twitter/X, but have found the constraints of that format + the inability to edit it + a bunch of other constraints to be overly limiting.
 
-I'll say a bit more about me and why I am the best person to work with on what I'm proposing, but first, lets get to the proposal. 
+Also, I want to get something in front of _both_ of you, with the explicit goal of 'we all work together on this', and a DM doesn't do the trick. I'm sending this URL to the both of y'all, and ideally we'll all work on this a bit, in a way that respects your time, energy, appetite for risk, etc.
+
+I also am always trying to ride the line between 'skimmable content, able to quickly process it' and 'giving enough depth that someone can go deep if they want'. 
+
+I'll say a bit more about me and why I am the best person to work with on what I'm proposing below, but first, lets get to the proposal. 
 
 You both are _firmly_ rooted in real estate. Sean, you develop commercially, buying land and building on it, and Moses, you buy (and hold) properties. You both seem to be skilled at what you do. 
 
@@ -37,23 +43,35 @@ I mentioned a conspiracy, but before I get there, let me explain what I'm hoping
 - more two-wheeled vehicles (bicycles and motor scooters)
 - more generational wealth
 
-> God damn josh, that's a tall order. How do you think you'll accomplish this?
+> Gosh, Josh, that's a tall order. How do you think you'll accomplish this?
 
 Well, first, I want to talk about some of the barriers to these kinds of things. 
 
-## The biggest problem: The Legacy, and complicated constellation of systems, created by Robert Moses
+## The biggest problem: The Legacy, and Complicated Constellation of Systems, Created by Robert Moses
 
 Lets talk about Robert Moses - he's arguably the most politically powerful person who's ever lived, and he shaped nearly every aspect of the modern world. I'd recommend you read the pulitzer prize winning biography about him, [The Power Broker: Robert Moses and the Fall of NYC](https://www.goodreads.com/book/show/1111.The_Power_Broker). I wrote a bit more about him here: [https://josh.works/robert-moses](https://josh.works/robert-moses). It's a huge book, and if we work together, you'll both receive annotated copies for your own reference from me. 😁
 
-He was a complicated person. He was also singlehandedly responsible for how roads got built in America. He also popularized a specific zoning regime that became known as 'euclidean zoning'. He also invented the federal highway administration, and directed most of it's spending. He built parks, and highways, and morphed public authorities into a 4th branch of government, modeled after himself. He built highway after highway after highway, and all of the bridges connecting NYC with the surrounding area. He hated the kinds of people that used trains, and black people, and jewish people, and puerto ricans. 
+He was a complicated person. He was also singlehandedly responsible for how roads got built in America. He also popularized a specific zoning regime that became known as [Euclidean zoning](https://sites.bu.edu/dome/2018/07/19/the-problems-with-euclidean-zoning/). He also invented the federal highway administration, and directed most of it's spending. 
 
-He also never learned to drive a car - he had a full-time _team_ of chaouffers manning a fleet of vehicles to take him from wherever he was to wherever he wanted to go. He ruined the careers of hundreds of people who dared oppose him, at all. His hold on power was absolute. Powerful people who's names you know (FDR, La Guardia) tried to dislodge him from power, and failed. If you watch the opening scene of Edward Norton's [Motherless Brooklyn](https://www.amazon.com/Motherless-Brooklyn-Edward-Norton/dp/B07ZP8K398), you'll see a film adaptation of the opening scene of _The Power Broker_. It's worth the ten minutes. 
+He didn't invent, but expanded and created in its modern form emminent domain, and 'slum clearence'. He displaced a quarter million people in NYC, legally.
+
+He built parks, and highways, and morphed public authorities into a 4th branch of government, modeled after himself. 
+
+He built highway after highway after highway, and all of the bridges connecting NYC with the surrounding area. He hated the kinds of people that used trains, and black people, and jewish people, and puerto ricans. Los Angeles (and its road network) was built by people who travelled to NYC to learn from him, and they brought it back to LA. Ditto for Minneapolis. Robert Moses pioneered how to destroy streetcar networks, and cities across America did just that.
+
+He also never learned to drive a car - he had a full-time _team_ of chauffeur manning a fleet of vehicles to take him from wherever he was to wherever he wanted to go. 
+
+He ruined the careers of hundreds of people who dared oppose him, at all. 
+
+His hold on power was absolute. Powerful people who's names you know (FDR, La Guardia) tried to dislodge him from power, and failed. If you watch the opening scene of Edward Norton's [Motherless Brooklyn](https://www.amazon.com/Motherless-Brooklyn-Edward-Norton/dp/B07ZP8K398), you'll see a film adaptation of the opening scene of _The Power Broker_. It's worth the ten minutes. 
 
 He also died a long time ago, and most of the people operating his systems today don't even know his name. 
 
-Anyway, without a good causal understanding of how things got the way they did (design reviews, setbacks, floor-area-ratio maximums, maximum dwelling units per acre, set backs, prohibitions on commercial/residential overlap, parking minimums, apartment size minimums, height restrictions, and so much more) its hard to chart a path out of that sticky mess. 
+Anyway, without a good causal understanding of how things got the way they did (design reviews, setbacks, floor-area-ratio maximums, maximum dwelling units per acre, prohibitions on commercial/residential overlap, parking minimums, apartment size minimums, height restrictions, and so much more) its hard to chart a path out of that sticky mess. 
 
-There's other problems, but most of the shit in land use is downstream of Robert Moses. He was wildly popular around the world, and a supremacist, so his ideas got spread not just around the USA but around the world. 
+There's other problems, but most of the crap in american land use norms is downstream of Robert Moses. He was wildly popular around the world (well, he wasn't popular with the people who's lives he ruined, but they couldn't do anything to resist him).
+
+Oh, and of course, he was a supremacist.
 
 ## The antidotes
 
@@ -128,17 +146,14 @@ I want to draw inspiration from [Conspiracy: Peter Thiel, Hulk Hogan, Gawker, an
 
 I don't want to invent anything 'new', whole-cloth. I simply want to 'import' better norms. My inspiration is [Legal Systems Very Different from Ours](https://www.amazon.com/Legal-Systems-Very-Different-Ours/dp/1793386722).
 
-I've got big goals, obviously, but my gosh this is fun to work on. I'd like y'all to partner with me to move in this direction.
-
-
 
 # Conclusion
 
+I've got big goals, obviously, but my gosh this is fun to work on. I'd like y'all to partner with me to move in this direction. For a bunch of reasons, some partially related to 'brokerage', having a few involved people leads to more serendipetously beneficial outcomes. I'm highly autonomous and independent, but I strongly prefer to work on a team, where we all share the goals and celebrate the wins. 
+
+I have never done super well with strong authoritarian hierarchy (which is precisely why I have no respect for existing political institutions, I blame childhood trauma). I have often achieved incredible results on teams because I'm extremely sensitive to consent, enthusiasm, and everyone having fun, even if we're metephorically or literally shoveling shit. (Er, mucking horse stalls)
 
 Well, by myself, I won't. But with a small, oddly motivated coalition, and some time, nearly any obstacle can be overcome. 
-
-
-
 
 ## FAQ
 
@@ -156,6 +171,45 @@ I became friends with some movers and shakers in the space, and then my then-wif
 
 There's a lot more on this website and others going way deeper into all that, maybe we'll talk about it some day. Here's a starting point: [https://josh.works/full-copy-of-1922-atlanta-zone-plan](https://josh.works/full-copy-of-1922-atlanta-zone-plan)
 
+### Why do you think you are a good fit?
+
+I will 'broker' social technologies.
+
+There's compelling research that good innovation is based not in novel ideas, but in conveying a concept or principal that is banal and conventional in one domain into a new domain, where it's unexpected and surprising.
+
+This paper expands on it, in excruciating detail: [https://josh.works/structural-holes-and-good-ideas](https://josh.works/structural-holes-and-good-ideas)
+
+There's a lot of good, healthy norms of 'building small end-to-end proofs of concept' that comes from the software development/development operations space. 
+
+I've done a _lot_ of teaching and training in both the software space and the rock climbing space. These are two domains where attending to the emotional experience of the people doing the learning is paramount. 
+
+Enough people have told me I'm something like 'extremely emotionally intelligent' or 'the safest person they've met', and I can tie these attributes back to why I think I'm the right person for this.
+
+I understand how to exploit systems, as well. I worked in the software security space for a few years, and... exploiting systems, both technical and social, was a big part of our day to day. When I see a problem that seems intractable and resistant to change, I get excited and begin to hunger for time and resources to 'go get it'. 
+
+Here's a quote from someone:
+
+> Josh combines his unrivaled work ethic and technical aptitude with deep, genuine empathy and self-awareness that is unique and has made him an indispensable ally.
+
+I work hard, and I work creatively, and I love _not_ working, too. Another quote:
+
+> Have people ever asked you how you have so much energy to get things done?
+
+Also, I _love people_. I've done plenty of technical stuff, alone, but i'm at my best when I'm working with/for people. I love to love. I have a daughter, I love her mom, I love my community, my chosen family, and more. I make friends out of book authors, CEOs, janitorial staff, homeless people, AirBnB hosts, AirBnb guests, couchsurfers, service providors, etc. It's all born out of easily perceiving the dignity of every single person. 
+
+For example, here's me and Alain Bertraud, author of [Order without Design: How Markets Shape Cities](https://www.goodreads.com/book/show/39644188-order-without-design)
+
+![josh and alain](images/josh-alain.jpeg)
+
+I have taken out to lunch most of the planning staff at the City of Golden, and lots of other 'figures' in the city. I didn't get what I wanted before moving out of Golden, but I learned a lot about process. 
+
+
+### What's your vibe? I wanna see how you are in public/in person
+
+Great. totally get it. I've done enough public speaking and such, I historically give 'confident and relaxed/relaxing'. Here's a talk I gave to software developers. Half technical, half stand-up comedy: [https://josh.works/boulder_ruby_group](https://josh.works/boulder_ruby_group)
+
+Here's another software-related public artifact. I talked about safety, judgement, risk, supporting early-career people: [https://www.greaterthancode.com/safety-science-and-failure-as-an-opportunity](https://www.greaterthancode.com/safety-science-and-failure-as-an-opportunity)
+
 
 ### Why did you write this as a web page instead of something like a DM?
 
@@ -172,7 +226,15 @@ This is understandably unconventional. I propose that the unconventionality be c
 
 For next steps, I'd say lets do a phone call, to do a bit more of a vibe check. 
 
-I basically want you to both pay me a reasonable going rate for 'consultation' around this space, and i'll tell you what else I need. (Executive support, some budget for whatever project we pick off first). It'll be a lose arrangement. I won't be your employee, I'll be a consultant, and we'll all have some plausible deniability for what everyone is doing. 
+I basically want you to both pay me a reasonable going rate for 'consultation' around this space, and we'll spend a day or two together so I can load up on context. I'll travel to MN and LA, respectively. 
+
+I'll send you both annotated books, sketching out a few months of efforts, and we'll start making things happen. I'm here for a long time, not necessarily a fun time. My capacity for work regularly stuns those who are close enough to see it happen, but I don't believe exclusively in the value of hard work. I'm an 'effortless excellence' kind of person, too.
+
+If we decide to move forward, the things I'll query you for will be:
+- Executive support
+- some budget for whatever project we pick off first
+
+It'll be a lose arrangement. I won't be your employee, I'll be a consultant, and we'll all have some plausible deniability for what everyone is doing. We'll sign a statement of work + project proposal, and start a monthly 'subscription' to my services. Basically a retainer, and I'll be on-site where needed on top of that. 
 
 I am sensitive to risk, but also to upside. 'what got us here won't get us there' and all. 
 
@@ -185,3 +247,22 @@ I'm most available via email or whatsapp. I'm in Indonesia right now, and want t
 `joshthompson@hey.com`
 
 `+1 2404832952`
+
+### Out with it. Tell me some of the ideas you have. The more unconventional the better
+
+OK, fine. I'd give you a stack of books two feet tall, if you requested, backing the wisdom of all of these ideas. Also, I view my own life sorta the way a VC would view a portfolio - they don't all have to work, but a high rate of experimentation + proper risk management gets upside exposure.
+
+First, Moses, I like what you suggested here:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[Warning: Non-real estate post]<br><br>Have been thinking a lot about 21st Century media platforms recently. <br><br>Here&#39;s how I think you can build a pretty valuable one with ~zero $, from a cold start:<br><br>1. Identify an emerging field which is growing in importance but about which there is…</p>&mdash; Moses Kagan (@moseskagan) <a href="https://twitter.com/moseskagan/status/1714721612623474827?ref_src=twsrc%5Etfw">October 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+We want intellectual cover for what we're doing? Great, among other things, lets make the media platform happen. If either of you are reading this, you'll beleive me when I say I could cold-email some folks and get 'em going on podcasts, so that's an avenue we could pursue, with some explicit goals like 'drive legal change around euclidean zoning', or 'convince municipalities to drop parking minimums' or 'convince real estate developers to feel responsible for the streets adjacent to their properties'
+
+- claim authority in/on streets adjacent to your properties, 'garden' the street/sidewalk, from intersection to intersection, add lighting, fix sidewalks, add bollards, make it a walkable and lovely place. I promise good things would come. 
+- particular to LA, spend real money on food and shelter for the unhoused population, where there is 'trouble' generated by them, in certain ways, rather than enforcement mechanisms. the first american police departments were [deputized slave patrols](https://open.spotify.com/show/2ejvdShhn5D9tlVbb5vj9B), my ethical framework procludes ever relying on state-sponsored violence.
+- Sponsor lots of art, all over the place. Art from professionals, art from residents, art from _you both_. There's lots of ways of co-creating art, without anyone having any 'art skills', this is a reasonable plan. Make art, not war. 
+- 'play dirty' via newspapers, tiktok, bloggers, podcasters, a-la [Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.amazon.com/Trust-Me-Lying-Confessions-Manipulator/dp/1591846285)
+- travel, personally, to places with wholly alternative land-use norms. I would love for the both of you (and your families) to visit Ubud, Bali, Indonesia, to experience the insane beautiy and affordability of the indonesian family compound. It's completely opposite of American land use norms, and functions beautifully. Also, Bali's motor scooter game is nop notch. I'd like to see America (and your properties) embrace motor scooters, to free up space for buildings without minimizing access to gasoline-powered vehicles at all. 
+- Embrace heavy mediation and paying off nay-sayers. I have hung out with angry neighbors blocking development proposals, and *ahem* they are easy to win over. I'm a charming, privileged, white-passing guy. I cannot win over everyone, but I can win over enough.
+- have access to lawyers who 'get it', and can help municipal staff make the right decisions, via incentives and political cover. 
+- avoid open conflict as much as possible with all parties. 
