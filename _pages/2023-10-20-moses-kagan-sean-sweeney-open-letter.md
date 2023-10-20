@@ -174,3 +174,14 @@ For next steps, I'd say lets do a phone call, to do a bit more of a vibe check.
 
 I basically want you to both pay me a reasonable going rate for 'consultation' around this space, and i'll tell you what else I need. (Executive support, some budget for whatever project we pick off first). It'll be a lose arrangement. I won't be your employee, I'll be a consultant, and we'll all have some plausible deniability for what everyone is doing. 
 
+I am sensitive to risk, but also to upside. 'what got us here won't get us there' and all. 
+
+Making movement on rail, on sane parking management, and undermining euclidean zoning is each the kind of improvement that leads to order-of-magnitude improvements. Order-of-magnitude improvement is analagous to a state change. It's hard to forecast what the world will look like on the other side of that kind of change, but we can all expect it to look nice. 
+
+What say you?
+
+I'm most available via email or whatsapp. I'm in Indonesia right now, and want to eventually import balinese land use norms to the USA, but that means i'm exactly 12 hours off of the east coast of the USA.
+
+`joshthompson@hey.com`
+
+`+1 2404832952`

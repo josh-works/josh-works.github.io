@@ -24,49 +24,24 @@ The best starting point is an incredible book titled "The Power Broker: Robert M
 I wrote a page about him, and some quotes from the book, here:
 
 👉 [Indulge me for a minute while I try to convince you to spend a few minutes deciding if you'll read this book or not](https://josh.works/robert-moses)
-2. Seeing more detail in the world around you (like being able to recognize the signs of urban renewal and redlining, at a glance)
-3. A good-enough handle on various forms of ethnic cleansing and supremacy thinking
 
+If I'm ever talking about parking, zoning, car culture, or urban renewal in America, I'm channeling knowledge and strongly-felt feelings about Robert Moses. He's shaped more of my and your day-to-day than anyone else I'm aware of. He's single-handedly responsible for systems that led to the car you drive and the roads you drive upon within the USA, and he's affected lots of roads outside the USA too.
 
-
-_2022_
-
-As I work on email sending infrastructure professionally, I wanted a little playground to replicate some of the message sending infrastructure used at many, many organizations, like `rails`, `redis`, `sidekiq`, `twilio/sendgrid`.
-
-One of my favorite books is _The Power Broker_ by Robert Caro. (I've written extensively about this book [here]({{ site.baseurl }}{% link _pages/robert-moses.md %}))
-
-Anyway, the project is rapidly evolving, but there's a code-a-long available in the `readme`, from `rails new` to here.
-
-- [https://github.com/josh-works/power-broker-quotes](https://github.com/josh-works/power-broker-quotes)
-- Here's [an exceprt of _The Power Broker_, chapter 30]({{ site.baseurl }}{% link _posts/2023-08-05-power-broker-ch-30-impy.md %}), about Moses' casual exertion of total control of a NYC Mayor that you've (probably) never heard of. Is it relevant? You tell me.
+Here's [an exceprt of _The Power Broker_, chapter 30]({{ site.baseurl }}{% link _posts/2023-08-05-power-broker-ch-30-impy.md %}), about Moses' casual exertion of total control of a NYC Mayor that you've (probably) never heard of. Is it relevant? I think so. 
 
 ## Making hard-to-see data visible
 
-_2021-current_
+What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding and rendering it on this map: [https://mobility-data.herokuapp.com/](https://mobility-data.herokuapp.com/)
 
-I built a little app to visualize certain mobility data I've collected as 'activities' in Strava, which I then can pull out via Strava's API.
-
-What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding, and I get almost all of it. 
-
-So, this data is in large part a map of everywhere I've been, for several years. The data is both rather personal and semi-pseudo-obfuscated. Some of that is due to me not being able to easily-enough add that functionality in the time I've given this, some of it is a willful choice. 
-
-current iteration: [https://mobility-data.herokuapp.com/](https://mobility-data.herokuapp.com/)
-
-_pictures/gifs to come. It's worth a click, I think_
-
-an older iteration: [https://josh-strava-heatmap.herokuapp.com/](https://josh-strava-heatmap.herokuapp.com/)
+Click over, and then zoom out. You'll be entertained!
 
 ## Explaining that there are alterative land use governance models
-
-_2023-current_
 
 Of course, it's a substack:
 
 [Zoning Very Different Than Ours](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
 
 ## 'Gardening' around Golden 
-
-_2017-2022_
 
 This project is the hardest to define. 
 
@@ -117,8 +92,6 @@ _I ended up moving out of Golden in 2021. I could see returning some day. 'Inter
 
 
 ## thinking & writing about 'wonderful/beautiful places'
-
-_2018-present_
 
 This became a visible, legible goal to me in 2018, when a few of the last pieces clicked into my brain about healthy and beautiful places, at least as a conceptual compression for 'other legible and less-legible good things'.
 
