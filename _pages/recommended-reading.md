@@ -59,11 +59,13 @@ For example, women have experienced "the male gaze", non-whites have experienced
 
 We police ourselves, sometimes, to avoid harm and to try to earn affection and love and safety from caretakers around us, and we police ourselves with a similar energy to "the master's gaze". 🤮
 
-It's worth remembering that [early american police forces were nothing but eisting slave patrols given badges](https://open.spotify.com/show/2ejvdShhn5D9tlVbb5vj9B), and the role of a slave patrol in society was to harrass the often-majority slave population, find the most 'willful' slaves, and humiliate and degrade them (without killing them, of course. their labor had value) so that they would serve as a reminder to the other slaves, with their broken bodies and souls, of the cost of resistance. 
+It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). 
+
+When the white, slaveholding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
+
+The role of a slave patrol in a slaving society was to harass the majority population, find the most 'willful' slaves, and humiliate and degrade them (without killing them, of course. their labor had value) so that they would serve as a reminder to the other slaves, with their broken bodies and souls, of the cost of resistance. 
 
 A dog maiming the legs of an 'uppity' slave, or a load of birdshot fired across the arms of a slave that wasn't sufficiently defferential would leave scars, and any _other_ slave that saw the scars would know what had happened.
-
-When the white, slaveholding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions. Shame, if you can get it to take root early enough and deeply enough, gives you an upper hand in population control.
 
 In some counties in the slave-holding south, 15% was white, 85% was black. The white people were _terrified_ of the threat of the slaves accruing power to themselves and taking action to improve their situation.
 
