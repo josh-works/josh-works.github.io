@@ -47,9 +47,9 @@ On that note, here's the books. There's 13 books in total I'm about to recommend
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary-ebook/dp/B00HZ1E5BM/ref=sr_1_1?crid=1W733XLM0RA2Z&keywords=parenting+from+the+inside+out&qid=1698413876&s=digital-text&sprefix=parenting+from+the+%2Cdigital-text%2C344&sr=1-1)
 - [the adult children of emotionally immature parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
 
-### deconstructing religious shame
+### deconstructing religious and/or cultural shame
 
-Enough of us have been raised in religious institutions, so if that's you, there might be another layer of work to be done. America sorta pioneers this sense of individualistic, moralistic shame that sorta attaches itself to children being raised by parents who 'just want them to be successful'. 
+Enough of us have been raised in religious institutions, so if that's you, there might be another layer of work to be done. America pioneers this sense of individualistic, moralistic shame that attaches itself to children being raised by parents who 'just want them to be successful'. Be better, work harder, achieve more, perform better. Earn, strive, function.
 
 Additionally, there's a thread for both men and women of 'the shame of not being enough' or 'not making enough of oneself based off of the opportunities one was given' or 'my parents sacrificed so much so I could have {blank}'. 
 
@@ -59,7 +59,7 @@ For example, women have experienced 'the male gaze', non-whites have experienced
 
 We police ourselves, sometimes, to avoid harm and to try to earn affection and love and safety from caretakers around us. 
 
-It's worth remembering that early american police forces were nothing but eisting slave patrols given badges, and the role of a slave patrol in society was to harrass the often-majority slave population, find the most 'willful' slaves, and humiliate and degrade them (without killing them, of course. their labor had value) so that they would serve as a reminder to the other slaves, with their broken bodies and souls, of the cost of resistance. 
+It's worth remembering that [early american police forces were nothing but eisting slave patrols given badges](https://open.spotify.com/show/2ejvdShhn5D9tlVbb5vj9B), and the role of a slave patrol in society was to harrass the often-majority slave population, find the most 'willful' slaves, and humiliate and degrade them (without killing them, of course. their labor had value) so that they would serve as a reminder to the other slaves, with their broken bodies and souls, of the cost of resistance. 
 
 A dog maiming the legs of an 'uppity' slave, or a load of birdshot fired across the arms of a slave that wasn't sufficiently defferential would leave scars, and any _other_ slave that saw the scars would know what had happened.
 
