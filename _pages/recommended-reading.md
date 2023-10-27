@@ -21,7 +21,7 @@ I have a sort of archived, different version of this page [here](https://josh.wo
 - [Order Without Design: How Markets Shape Cities](https://www.goodreads.com/book/show/39644188-order-without-design) Want to hear the author and his late wife/partner in crime on a podcast? You'll be mega entertained: https://devonzuegel.com/post/owd-0-welcome-to-order-without-design
 
 
-## Books related to trauma and self-concept
+## 13 Books related to trauma, self-concept, and existing in the western world
 
 I "read the canon" of any given topic that climbs high enough on my list of priorities to learn about. The topic of dealing with inadequate parents and abusive intimates has, at times, been a topic high on my list of priorities to learn about. 
 
@@ -55,15 +55,15 @@ Additionally, there's a thread for both men and women of 'the shame of not being
 
 Along with this guilt, for some of us, we're 'observed' and 'watched' by what feels like our own conciousnesses. 
 
-For example, women have experienced 'the male gaze', non-whites have experienced 'the white man's gaze', black people have experienced 'the policeman's gaze'. These are all downstream of, and related to, 'the (slave)master's gaze'. 
+For example, women have experienced "the male gaze", non-whites have experienced "the white man's gaze", black people have experienced "the policeman's gaze". These are all downstream of, and related to, "the (slave)master's gaze". 
 
-We police ourselves, sometimes, to avoid harm and to try to earn affection and love and safety from caretakers around us. 
+We police ourselves, sometimes, to avoid harm and to try to earn affection and love and safety from caretakers around us, and we police ourselves with a similar energy to "the master's gaze". 🤮
 
 It's worth remembering that [early american police forces were nothing but eisting slave patrols given badges](https://open.spotify.com/show/2ejvdShhn5D9tlVbb5vj9B), and the role of a slave patrol in society was to harrass the often-majority slave population, find the most 'willful' slaves, and humiliate and degrade them (without killing them, of course. their labor had value) so that they would serve as a reminder to the other slaves, with their broken bodies and souls, of the cost of resistance. 
 
 A dog maiming the legs of an 'uppity' slave, or a load of birdshot fired across the arms of a slave that wasn't sufficiently defferential would leave scars, and any _other_ slave that saw the scars would know what had happened.
 
-When the white, slaveholding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
+When the white, slaveholding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions. Shame, if you can get it to take root early enough and deeply enough, gives you an upper hand in population control.
 
 In some counties in the slave-holding south, 15% was white, 85% was black. The white people were _terrified_ of the threat of the slaves accruing power to themselves and taking action to improve their situation.
 
@@ -75,7 +75,7 @@ Please see, again, Samuel Cartwright's stunning contribution to the psychologica
 
 Of course, supremacy thinking wasn't just "white over black", it was also "men over women", "parents over children", "fathers over the entire family", and more. 
 
-Lots of the modern world of hierarchical, authoritative structures are nothing but insane white people doing incredible logical leaps to convince themselves and their victims that the oppression in a given society was good, inevitable, ordained by God and logic. 
+Lots of the modern world of hierarchical, authoritative structures are nothing but insane white people doing incredible leaps of logic to convince themselves and their victims that the oppression in a given society was good, inevitable, ordained by God and logic. 
 
 These kinds of people are dangerous to the children that they raise, the people that they 'help'. 
 
