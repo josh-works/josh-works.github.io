@@ -86,17 +86,12 @@ If your parking is anywhere close to being full, you would want to see your visi
 
 
 
-## Simple responsibility
 
-Pull up your business on google maps, in satallite view. Zoom in on your business, so your business and the parking lot fills most of your screen.
+## Nudge towards walkability
 
-In the area, how many square meters are filled by your buildings?
+Parking lots are never the destination - it's the place that drivers go once they've parked their vehicle. 
 
-Now, how many square meters are filled by your parking areas and approach paths?
-
-If you're like many businesses in America, for every square meter under a roof, you might have 2-4 square meters of space allocated to parking. 
-
-_add image of some facilities that are mostly parking_
+If we work together, we'll make sure to make certain appropriate places of your parking lot start to feel like the destination instead of the forgettable part. Converting a small portion of your lot from a revenue drain to a revenue generator could be, as you can imagine, meaningful. 
 
 
 # Let's look at some parking lots together
@@ -225,22 +220,15 @@ There's behavior change baked into all of this, but primarily by creating attrac
 
 ## What sort of ideas/people/ideas are you implementing?
 
-Great question - nothing is new under the sun.
+I endeavor to appropriately channel four people: Christopher Alexander, Donald Shoup, and Alain Bertaud, and Caroline Criado Perez.
 
-Primarily, I endeavor to appropriately channel three people: Christopher Alexander, Donald Shoup, and Alain Bertaud.
+Christopher Alexander wrote [A Pattern Language](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199) and [The Timeless Way of Building](https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028/ref=d_m_crc_dp_lf_d_t1_sccl_3_1/145-4080801-7828331?pd_rd_w=LL7qd&content-id=amzn1.sym.5d471845-5073-424b-b27b-c0676f48a016&pf_rd_p=5d471845-5073-424b-b27b-c0676f48a016&pf_rd_r=G3ME55JJPFQECNN134C4&pd_rd_wg=6JBDV&pd_rd_r=efa20171-626b-408d-aeef-866fb49a7079&pd_rd_i=0195024028&psc=1).
 
-These individuals are all giants in the 'urbanism space', and have kindly left us detailed written resources for how they would approach a given situation or problem. 
+Donald Shoup wrote [The High Cost of Free Parking](https://www.amazon.com/High-Cost-Parking-Updated-Edition/dp/193236496X/ref=as_li_ss_tl?ie=UTF8&qid=1332084228&sr=8-1&linkCode=ll1&tag=markeurban-20&linkId=65aeac5942c99b794876bb2d2dc32bb0).
 
-They are consummate professionals, and if you were able to hire any of _them_ to fix these problems, you'd be thrilled for their attention. One of them is no longer living, and the other two are busy, so you'll have to settle for engaging with me on this. :)
+Alain Bertaud, urban economist, wrote [Order Without Design](https://www.goodreads.com/book/show/39644188-order-without-design).
 
-Critically, if you could hang out with them, they would all convey to you a sense of:
+Caroline Criado Perez  wrote [Invisible Women: Data Bias in a World Designed for Men](https://www.amazon.com/Invisible-Women-audiobook/dp/B07RCZ69GP/ref=sr_1_1?crid=1J6OEJ36JREQC&keywords=invisible+women+book&qid=1693600659&s=books&sprefix=invisible+wome%2Cstripbooks%2C138&sr=1-1)
 
-1. the issues you perceive related to your parking lot are valid
-2. the issues can be _greatly_ improved, along the way changing the spaces into something healthy, safe, and self-sustaining/supporting, financially and otherwise. 
-
-## You say your work could lead to increased property values. why's that?
-
-In general, people strongly desire to live/work/pass through in walkable neighborhoods. We'll make the neighborhood grow increasingly walkable. This makes it safe for more foot-traffic.
-
-
+There are many additional layers of constraints, unique to, say, Denver. There's DOTI, the right-of-way office, planning, snow removal, event coordination, enforcement. 
 

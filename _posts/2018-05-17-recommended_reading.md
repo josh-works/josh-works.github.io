@@ -5,7 +5,7 @@ date:  2018-05-17 06:00:00 -0700
 crosspost_to_medium: false
 categories: [reading]
 tags: [books, reading]
-permalink: recommended-reading
+permalink: recommended-reading-part-two
 ---
 
 
