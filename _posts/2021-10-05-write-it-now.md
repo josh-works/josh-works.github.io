@@ -76,5 +76,5 @@ It's passive voice, it's just a link to a goodreads page for a book. It doesn't 
 
 > In [The Slaughter of Cities: Urban Renewal as Ethnic Cleansing](https://www.fidelitypress.org/book-products/the-slaughter-of-cities) we read the many ways American urban renewal programs in the 1950s and 60's were run to create ghettos and perpetuate acts of ethnic cleansing. Those people attacked essentially every non-white ethnic group they encountered, and the relevence of all this is very much in the room with us right now, in most ways that matter.'
 
-
+I find writing to be trivially easy, I find writing _well_, however defined, to be hard. Does it spark joy? Does it record something in a way that allows someone to save time in the future? A friend recently sent me a whatsapp message that they were googling something and the top google result was an article I wrote, which indeed contained something useful to them [Testing Rake Tasks in Rails](https://josh-works.medium.com/testing-rake-tasks-in-rails-6573f7185a0a). Lots around here is technical, I lean hard on 'software norms' for all that I do. 
 
