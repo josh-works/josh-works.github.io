@@ -64,20 +64,17 @@ Read around the internet, viewed as permission/empathy:
 
 ### 2022-06-15
 
-I periodically re-visit and update things I've written in the past. This post is one of them. Sometimes I modify my writing substantially - I sorta publish and edit in public, so most of what you see around here could be considered in some form of draft. This inclination stands in contrast with a writing style/content that can sometimes be considered 'spicy', for some definitions of spicy.
+I periodically re-visit and update things I've written in the past. This post is one of them. Sometimes I modify my writing substantially - it's simply text files in a git repository, therefore all of what you see around here could be considered in some various form of draft. 
 
-Additionally, I am often wearing my software developer hat, in which it's trivially easy (and a common part of our job) to see what prior versions of text files contained, and to make additional changes to files of text. There's an ethos in the community[^pretentious] of `software people` around adopting norms like 'working in public' and 'publish early and often'.
+I've considered adding links to every page on my website that say "click here to see prior versions of this file". I perceive a feeling of some obligation to the reader to note every time there's been an edit, or at least _some_ of the time when I might edit things. But obviously fixing typos doesn't need to be called out in detail. 
 
-I've considered adding links to every page on my website that say "see prior versions of this file", so if I wrote something contentious, like: `ethnic cleansing is everywhere and ongoing and its a Big Problem.` and when you text a link to your friend saying `josh is a turd look what he said...`, and  open up the page and see something like:
+Additionally, it's sometimes fun to bury hot takes in walls of text. For example, does the following text seem sort of dry, and academic to you? It's intentional, if it does:
 
-[^pretentious]: Does that wording feel pretentious to you? Does to me. Can't think of a better way to say it. Sorry.
+> In [The Slaughter of Cities](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities), the author tells a compelling tale of how one ethnic group sucessfully perpetuated ethnic cleansing upon other ethnic groups.
 
-> In [The Slaughter of Cities](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities), Jones tells a compelling tale of how regimes of systems and people involved in 'urban renewal', was the primary tool used by certain ethnic groups to displace other ethnic groups from certain geographic places.
+It's passive voice, it's just a link to a goodreads page for a book. It doesn't sound as provocative as it otherwise could. So if it does/does not get the intended result, one could turn it up or down a bit. For example, how does this phrasing compare?
 
-That second one seems... boring, right? Or at least... muted. It's passive voice, it's just a link to a goodreads page for a book. It doesn't seem to say quite the same thing, and yet... it still does. It's "just" muted, hidden, or at least boring. Few people would click the link to see that the full title of the book is `The Slaughter of Cities: Urban Renewal as Ethnic Cleansing`, but some of you that did click through would understand what I'm saying.
+> In [The Slaughter of Cities: Urban Renewal as Ethnic Cleansing](https://www.fidelitypress.org/book-products/the-slaughter-of-cities) we read the many ways American urban renewal programs in the 1950s and 60's were run to create ghettos and perpetuate acts of ethnic cleansing. Those people attacked essentially every non-white ethnic group they encountered, and the relevence of all this is very much in the room with us right now, in most ways that matter.'
 
-I sometimes bore myself with my own writing, so I'd believe your claim of boringness. I also sometimes write exclusively for my own purposes, or perhaps I am trying to squeeze a lot into as few words as possible. Regardless, my writing reflects various degrees of doneness and structure.
 
-A lot of people wouldn't click the link (clickthrough rates, lol) and who knows how many of them would come back. Those that do would see a Goodreads page for an almost 700 page... what? Amazon doesn't even have it in stock! The "buy on Amazon" link is broken. and if you do what i did - search manually for it (sounds like you're on a keyboard and not on your phone reading while you're going to the bathroom...) you'll see that it doesn't even have a listing on Amazon!
 
-Anyway, you're not going to get the book, no matter how provocative the title is. (Unless you buy it [straight from the publisher](https://www.fidelitypress.org/book-products/the-slaughter-of-cities), which is like the 4th google result, and is how I got my copy.)
