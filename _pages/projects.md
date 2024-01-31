@@ -65,15 +65,13 @@ For example, on a whim I ran for city council in 2017. I had long thought about 
 
     > well, I just finished a trade school, so i'm taking some time to get my first job, turns out the rules of the city say I'm eligible, and this is more entertaining _to me_ than sitting on the couch in my boxers playing video games, not that there's anything wrong with that. 
 
-I overall strongly disliked the experience, and found it to be time/energy consumptive, even though I _tried_ to manage it's impact on my life. It felt de-dignifying to take the whole thing seriously, and I couldn't hide my contempt for the whole thing very well. For example, when reading an early draft of a campaign flier, a reviewer said "I absolutly, positively, would never let anyone ever see this.". I published it. I also was on a six-week climbing trip to the NRG during 'campaign season'. Anyway, my 10% haul on the election night is... not zero. 
+I overall strongly disliked the experience, and found it to be time/energy consumptive, even though I _tried_ to manage it's impact on my life. It felt de-dignifying to take the whole thing seriously, and I couldn't hide my contempt for the whole thing very well. For example, when reading an early draft of a campaign flier, a reviewer said "I absolutly, positively, would never let anyone ever see this." I used it anyway. 😁 I also was on a six-week climbing trip to the New River Gorge, KY during 'campaign season'/climbing season. Anyway, I got 10% of the vote. ¯\\\_(ツ)_/¯ 
 
-I kept iterating. 
+I didn't get on city council, obviously, but I kept iterating. what about becoming friends with the folks who *were* on city council? The city staff themselves? Random people around Golden that have been there forever, seem to know everyone, and wield some sort of soft power? I took a sabbatical from work and sorta took on a project that might seem famialiar for a journalist or academic, and I found it as enjoyable as I found various blockers frustrating.  
 
-I didn't get on city council, but what about becoming friends with the folks who *were* on city council? The city staff themselves? Random people around Golden? I took a sabbatical from work and sorta took on a journalist or academic internship path. 
+Eventually, once we owned a house in the city, and I'd read a lot more about how [politically powerful white americans use zoning laws and road networks to enforce regimes of social control and accomplish (where necessary) ethnic cleansing](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities) my meandering got more focused.
 
-Eventually, once we owned a house in the city, and I'd read a bit more about how [politically powerful white americans use zoning laws and road networks to enforce regimes of social control and accomplish (where necessary) ethnic cleansing](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities) my meandering got even more focused.
-
-Living in Golden, there were about 500 different manifestations of ethnic cleansing visible in the built environment around me.
+Living in Golden, there were about 500 different manifestations of ethnic cleansing visible in the built environment around me, 
 
 For example, I started observing a rather dangerous street that went right past the house I lived in - I got to life a full life just a few meters from a 'standard arterial' in America, and believe you me, I was not a passive and unobservant participant in the street traffic. 
 
