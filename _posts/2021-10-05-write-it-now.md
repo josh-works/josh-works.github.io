@@ -78,3 +78,39 @@ It's passive voice, it's just a link to a goodreads page for a book. It doesn't 
 
 I find writing to be trivially easy, I find writing _well_, however defined, to be hard. Does it spark joy? Does it record something in a way that allows someone to save time in the future? A friend recently sent me a whatsapp message that they were googling something and the top google result was an article I wrote, which indeed contained something useful to them [Testing Rake Tasks in Rails](https://josh-works.medium.com/testing-rake-tasks-in-rails-6573f7185a0a). Lots around here is technical, I lean hard on 'software norms' for all that I do. 
 
+## Jan 2024
+
+[Write Faster (sashachapin.substack.com)](https://sashachapin.substack.com/p/write-faster-130)
+
+> Humans are naturally sense-making, story-telling creatures. We’re wired to explain ourselves and the universe, to ourselves and to each other. We’re naturally ingenious fabulists, shrewd reporters, idiosyncratic word-painters. Basically all of us have this facility.
+>
+> But this ability disappears when it's subjected to excessive scrutiny. When we start reflecting at length on what kind of story we should tell, or what kind of writer we should be, we become lost in the sea of data our senses provide us, and lose the brio of playfulness. It's like how when you think about how you're walking, you start walking stupid. You've just got to trust that you know what you're doing: that, as a sense-making creature, you will largely make sense. 
+
+We can also be our own 'excessive scrutinizers'. Something like this undoubtedly influences those who describe themselves as perfectionistic. 
+
+Something I love hanging out with kids is how easily they embody 'uninhibited self-expression'. I find it healing and enthusiasm-engendering, because you can take delight in someone else taking delight and interest in their environment, experience, activity.
+
+I've noticed, at times, when I simply would imagine an act of spontaneous self-expression, I would pre-emptively shut it down by imagining either vocalizable reactionary criticism or a non-response, a shun, withdrawal. The topics would span from technical (feeling embarrassed about asking something, admitting that I don't know/couldn't figure out something) or casual/mundane. (a comment about something in the environment, etc)
+
+So, some of the 'write it now' energy I propose you/me capture is something that moves towards a healthy form of 'uninhibited self-expression'. 
+
+Ironically, I can 'hear' a criticsm in my mind:
+
+> But doesn't some of the worst parts of the internet seem to typify 'uninhibited self-expression'? 
+
+I think of a quote I've heard on the expression of anger. It can be paraphrased as:
+
+> Anger is fully 'valid', to feel, full stop. Suppressing it, or expecting others to suppress it, is foolish. It's as natural and healthy as sadness, or joy, or any of the other many things that we feel as people. 'anger' becomes a problem if it's expressed _abusively_ or harmfully towards others, and even in this case the issue isn't the anger, it's the abusive expression of it. 
+
+Someone who hits when angry doesn't have an anger problem, they have a hitting/violence problem. 
+
+So, if one person is being cruel to someone else, via 'uninhibited self-expression', the problem is not the uninhibited self-expression, it's the cruelty. 
+
+Here's the last thing - I think good uninhibited self-expression is best experienced when you know whoever you're expressing to feels similarly about such things. Someone needs to point towards you something that feels like a steady-enough message of 'you are fundamentally acceptable to me, as are the ways you move through the world'. This feels like a high bar, but I don't really think it is that hard to achieve.
+
+
+## Links and additional reading
+
+- [Two kinds of writing (herman.bearblog.dev)](https://herman.bearblog.dev/the-two-kinds-of-writing/)
+- [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til)
+- [Write Faster (sashachapin.substack.com)](https://sashachapin.substack.com/p/write-faster-130)

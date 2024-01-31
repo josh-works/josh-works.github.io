@@ -6,7 +6,7 @@ description: "There's much more to life than books, but if you're going to read 
 permalink: /recommended-reading
 ---
 
-I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending often.
+I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending often. Periodically, I refresh this list. It's changed over the years years.x
 
 These are the books I cannot un-read, which shape me today. Many of the books are "difficult". I often tell people I'm a slut for books - I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it?
 
@@ -17,8 +17,6 @@ I also used a Kindle Paperwhite, and am pretty good with my library card/Libby, 
 I have a sort of archived, different version of this page [here](https://josh.works/recommended-reading-part-two)
 
 
-- [The Slaughter of Cities: Urban Renewal as Ethnic Cleansing](https://www.fidelitypress.org/book-products/the-slaughter-of-cities)
-- [Order Without Design: How Markets Shape Cities](https://www.goodreads.com/book/show/39644188-order-without-design) Want to hear the author and his late wife/partner in crime on a podcast? You'll be mega entertained: https://devonzuegel.com/post/owd-0-welcome-to-order-without-design
 
 
 ## 13 Books related to trauma, self-concept, and existing in the western world

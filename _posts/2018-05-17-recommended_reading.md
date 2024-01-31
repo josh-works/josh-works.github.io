@@ -259,7 +259,7 @@ Anyway this book is good. You'll heal from some of your own stuff, learn some ne
 
 [Goodreads](https://www.goodreads.com/book/show/10266902-selfish-reasons-to-have-more-kids)
 
-This book gets the notable distinction of being why Kristi and I want to have kids in the near term. It had a profound and measurable impact on our plans and thinking. Enough said.
+This book gets the notable distinction of being why my partner and I finally transitioned from not wanting to have kids, to wanting to have kids in the near term. It had a profound and measurable impact on our plans and thinking. Enough said.
 
 ### The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It
 

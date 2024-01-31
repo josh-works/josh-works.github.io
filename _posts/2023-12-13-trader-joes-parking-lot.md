@@ -87,3 +87,4 @@ TJ's is obviously operating with different constraints than municipal planners, 
 
 - [I Am a Trader Joe’s Parking Lot and I Am Here to Destroy You (A Short Imagined Monologue)](https://www.mcsweeneys.net/articles/i-am-a-trader-joes-parking-lot-and-i-am-here-to-destroy-you)
 - [https://josh.works/parking-in-golden](On Parking in Golden)
+- [Trader Joe’s explains why their parking lots are so small (r/traderjoes)](https://www.reddit.com/r/traderjoes/comments/1426yd3/trader_joes_explains_why_their_parking_lots_are/)

@@ -5,7 +5,6 @@ published: true
 permalink: /golden
 ---
 
----------
 
 ### How Done Is This Page?
 

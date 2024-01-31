@@ -31,19 +31,23 @@ Here's [an exceprt of _The Power Broker_, chapter 30]({{ site.baseurl }}{% link 
 
 ## Making hard-to-see data visible
 
-What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding and rendering it on this map: [https://mobility-data.herokuapp.com/](https://mobility-data.herokuapp.com/)
+What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding and rendering it on this map: [https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=15&latlng=18.785264,%2098.992305](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=15&latlng=18.785264,%2098.992305)
 
 Click over, and then zoom out. You'll be entertained!
+
+It's a little mix of python/flask + writing/reading Strava activity data + maps. It's a lot of data, I _promise_ you've not seen something like it before. 
+
+👉 [A all-at-once global rendering of 3+ years of Josh's mobility data, rendered at an insanely detailed scale](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=12&latlng=39.731482,%20-105.064316)
 
 ## Explaining that there are alterative land use governance models
 
 Of course, it's a substack:
 
-[Zoning Very Different Than Ours](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
+👉 [Zoning Very Different Than Ours](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
 
-## 'Gardening' around Golden 
+## 'gardening'-esque projects around Golden, Colorado
 
-This project is the hardest to define. 
+This project is the hardest to define, and lasted approximately 2016-2022, with many twists and turns to the story.
 
 I lived in Golden from 2016-2022, first renting a condo, and at another point owning a rather old house for a rather large amount of money, and was enthusiastic on various projects in and around Golden. I poured myself hard into a bunch of projects around the city, and still consider it to be time well spent. 
 
@@ -53,15 +57,15 @@ In other ways, it was a frustrating place to live, especially when it came to tr
 
 [^other-reasons]: there's lots of reasons to live in Golden. The finances of it right now are ~strange~ expensive, bad for everyone, and probably you shouldn't try to live in Golden until it feels "cheap" and "right-sized" in meaningful ways.
 
-I tried many different small experiments, riding the trade-off between "costs little-enough" in time, effort, and/or money and "likely-enough to be of high quality/solve at least part of the problem".
+I tried many different small experiments, riding the trade-off between "costs little-enough" in time, effort, and/or money and "likely-enough to be of high quality/solve at least part of the problem". 
 
-This constant evaluation of experiments and trade offs was made unavoidably visible when I ran for city council in 2017. I had long thought about making things different or better, and my understandings and experiences, and the context of the time, made that a fun use of time. [^golden-city-council]
+For example, on a whim I ran for city council in 2017. I had long thought about making things different or better, and my understandings and experiences, and the context of the time, made that a fun use of time. [^golden-city-council]
 
 [^golden-city-council]: I told people, when they said "why are you running for city council?":
 
-    > well, I just finished a trade school, so i'm taking some time to get my first job, turns out the rules of the city say I'm eligible, and this is more entertaining to me than sitting on the couch in my boxers playing video games, not that there's anything wrong with that. 
+    > well, I just finished a trade school, so i'm taking some time to get my first job, turns out the rules of the city say I'm eligible, and this is more entertaining _to me_ than sitting on the couch in my boxers playing video games, not that there's anything wrong with that. 
 
-    I overall strongly disliked the experience, and found it to be extremely time/energy consumptive, even though I barely put time/effort into it. It felt de-dignifying to take the whole thing seriously, and I couldn't hide my contempt for the whole thing very well. For example, when reading an early draft of a campaign flier, a reviewer said "I absolutly, positively, would never let anyone ever see this.". I published it. I also was on a six-week climbing trip to the NRG during 'campaign season'. Anyway, my 10% haul on the election night is... not zero. 
+I overall strongly disliked the experience, and found it to be time/energy consumptive, even though I _tried_ to manage it's impact on my life. It felt de-dignifying to take the whole thing seriously, and I couldn't hide my contempt for the whole thing very well. For example, when reading an early draft of a campaign flier, a reviewer said "I absolutly, positively, would never let anyone ever see this.". I published it. I also was on a six-week climbing trip to the NRG during 'campaign season'. Anyway, my 10% haul on the election night is... not zero. 
 
 I kept iterating. 
 
@@ -188,11 +192,15 @@ The information contained within the obstacle course is the "meat and potatoes" 
 
 _2020_
 
-Evidence that this project does exactly what I hoped:
+Evidence that this project does exactly what I hoped, I sent the link around, kept getting feedback like:
 
-> Every time I visit it, I find a _delightful_ personal blog that I otherwise never would have found.
+> This is fascinating. Every time I visit it, I find a _delightful_ personal blog that I otherwise never would have found.
 
-👉 [Discover a random personal blog from Hacker News](https://random-hn-blog.herokuapp.com/)
+👉 [Discover a random personal blog from Hacker News](https://github.com/josh-works/ruby_web_scraping/tree/main)
+
+(the sinatra app isn't running anymore, but [here's the list of links getting served](https://github.com/josh-works/ruby_web_scraping/blob/main/links.txt))
+
+
 
 ### Sidekiq and Background Jobs for Beginners
 
