@@ -6,7 +6,7 @@ date:  2023-12-13 06:00:00 -0700
 published: true
 crosspost_to_medium: false
 categories: [parking]
-tags: [parking, ]
+tags: [parking]
 permalink: trader-joes-parking
 image: /images/title_image.jpg
 ---
