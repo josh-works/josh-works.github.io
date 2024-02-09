@@ -5,7 +5,7 @@ date:  2017-12-26 06:00:00 -0700
 crosspost_to_medium: false
 categories: [deliberate_practice]
 tags: [programming, deliberate_practice]
-permalink: this-post-url
+permalink: deliberate-practice-in-programming
 ---
 
 For the last year or two, I've been obsessed with the idea of deliberate practice.
