@@ -10,7 +10,7 @@ This website serves as scratch pad for my ideas and words.
 
 I value coherence, meaningfulness, compassion, and kindness.
 
-Overall, I care a lot about "cities", the built urban form, transportation networks, and how issues of morality and ethics play out in these domains. 😬
+Overall, I care a lot about "cities", the built urban form, transportation networks, and how issues of ethics play out in these domains. 😬
 
 America is full of this:
 ![subsidized and ugly](/images_2020/subsidized.jpeg)
@@ -19,7 +19,7 @@ I desire to nudge the ecosytem towards producing more of this:
 
 ![illegal but beautiful](/images_2020/illegal.jpg)
 
-Pretty much all forms of human flourishing go up, and many forms of human suffering become less, when the landscape looks more like what is labeled as 'illegal in charleston'.
+Pretty much all forms of human flourishing go up, and many forms of human suffering become less, when the landscape looks more like what is labeled above as 'illegal in charleston'.
 
 Also, the `cost per square meter` and `value per square meter` of these two competing visions are quite different.
 
