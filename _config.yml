@@ -31,7 +31,7 @@ twitter_username:   "josh_works"
 github_username: 'josh-works'
 
 # pages in nav bar
-include: ['_pages', '.well-known']
+include: ['_pages', '.well-known', '_redirects']
 # pages across header
 # seems to need `jekyll build` to catch updates on localhost
 pages_list:
