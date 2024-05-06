@@ -27,12 +27,15 @@ Unsurprisingly, there's some books I'd like to interject here, that amount to so
 - [The Case against Sugar](https://www.amazon.com/Case-Against-Sugar-GARY-TAUBES/dp/184627639X/) hilarious and sad, I read it in ~2017
 - [It Starts with the Egg: How the Science of Egg Quality Can Help You Get Pregnant Naturally, Prevent Miscarriage, and Improve Your Odds in IVF](https://www.amazon.com/Starts-Egg-Pregnant-Naturally-Miscarriage/dp/0999676180) Read this in 2020. Turns out 'egg quality' at least partially boils down to 'healthy and available mitochondrial energy generation pathways', which is completely coherent with the above 3 links. 
 
-_Tripping Over The Truth_ is the most impactful book here, to me. It outlines a common feature among all cancers - the cell energy generation pathway common to healthy cells breaks and the mitochondria start to generate energy via fermenting environmentally available sugar (blood glucose).
+_Tripping Over The Truth_ is the most impactful book here, to me. It outlines a common feature among all cancers - that the cellular energy generation pathway in normal cells breaks and the mitochondria start to generate energy via fermenting environmentally available sugar (blood glucose). Virtually all cancer cells obtain energy via this alternative energy generation pathway.
 
-There's *ahem* several upstream/downstream implications. These books all are coherent with each other around things like:
+There's *ahem* several upstream/downstream implications. 
 
-- Sugar interacts with the body's endocrine system, thus it has the same effects on the human body as hormones. You know how when children hit puberty, they change in ways unrelated to how much food they are or are not eating? Sugar has a close-enough effect at any chronic level
-- Mitochondria _and_ one's gut bacteria all sorta... matter. And can be healthy or unhealthy. 
+These books all are coherent with each other around things like:
+
+- Sugar interacts with the body's endocrine system, thus it has the same effects on the human body as hormones. You know how when children hit puberty, they change in ways unrelated to how much food they are or are not eating? Sugar has a close-enough effect at any chronic level.
+- half of the dry weight of your body is mitocondria
+- Mitochondria _and_ one's gut bacteria all sorta... matter. And can be healthy or unhealthy.
 
 This layers on top of a change I made to my life in 2015 - I read the NerdFitness guide to Intermittent Fasting, and jived with it. I stopped eating breakfast, started doing the 16/8 'intermittent fasting' plan; I stopped eating breakfast, and moved my breakfest omelette + veggies to my lunchtime meal. Everything else stayed the same.
 
@@ -62,7 +65,7 @@ The sensor helps me see how quickly and how much my body responds to the presenc
 
 ## Strong Defaults Will Win
 
-My two key food defaults:
+Three key food defaults:
 
 1. My first meal of the day is not until after noon, and I usually stop eating by 8p, so I get daily '16 hour fasts'. I don't count the time immediately after eating and while sleeping 'fasting', so really I just push my first meal of the day several hours to lunch time or the afternoon, at the 'cost' of occasionally being able to detect the physiological sensation of hunger, which passes _always_ in just a few minutes. 
 2. That meal, which is one of two I'll eat that day, is usually: brocolli, mushroom, spinach, eggs, sardines, lots of olive oil, salt, pepper, maybe tumeric. It's pure healthy fat, enough but not too much protein. No carbs. 
@@ -86,26 +89,26 @@ It's a one-dish meal, of course, and there's zero cleanup. [I have a very refine
 
 Effortless ease and excellence is all I want. I encourage you to read the books I mentioned above.
 
-## If you're curious to nudge
+## How I nudge myself into full-on 'zero carbs' when I want
 
 It looks pretty bonkers, the way I eat, when I'm doing something strange, if you were to be there looking over my shoulder the whole time.
 
-But, I've nudged my eating profile in this direction for a long time, and I love it. If you were curious for easy places to start experimenting with the best of this way of being:
+But, I've nudged my eating profile in this direction for a long time, and I love it. If you were curious for easy places to start experimenting with the best of this way of being. This is how I sorta nudged myself in this direction, and how I outline this to others:
 
-1. Start maxing out olive oil and coconut oil consumption. It's possible that coconut oil, swished around your mouth for a few minutes, is good for reducing the nutrients available to the bacteria that contribute to bad breath and caveties. So, once or twice a day, spoon a few grams of coconut oil straight into your mouth, swish it around for a bit, then eat it. Two nice things for the price of 1. Use regular olive oil for cooking, and atop every meal you eat, pour as much olive oil as you can until the amount gets 'excessive'. Free, delicious, satiating fats. 
-2. Add almonds, olives, and hard cheeses to your kitchen, and start transitioning snacking to those items. All are very portable, perfectly delicious, satiating. filling. 
+1. Start maxing out olive oil and coconut oil consumption. It's possible that coconut oil, swished around your mouth for a few minutes, is good for reducing the nutrients available to the bacteria that contribute to bad breath and caveties. So, once or twice a day, spoon a few grams of coconut oil straight into your mouth, swish it around for a bit, then eat it. Two nice things for the price of 1. Use regular olive oil for cooking, and atop every meal you eat, pour as much olive oil as you can until the amount gets 'excessive'. Free, delicious, satiating fats. A few heavy drizzles is like 25 g of the good stuff.
+2. Add almonds, olives, and hard cheeses to your kitchen, and start _starting_ snacking with those items. All are very portable, perfectly delicious, satiating. filling. Don't even stop snacking on other stuff, just when you go for a snack, have at least some of the above. Maybe stop other kinds of snacks eventually.
 3. Add and practice and refine a meal of sauteed mushrooms, broccoli, 3 eggs, LOTS of extra virgin olive oil, and almonds. Get canned sardines and sometimes add them to that meal. Feed a friend or two with the meal, store some in a tupperware for later. This meal will do a lot of heavy lifting for you. Rotate in zuccini, cucumber, riced cauliflour, artichoke hearts. Anything cruciferous, go all in on. And olive oil.
-3. Don't try to eliminate any food stuffs from your routine! Don't think about stopping eating anything that you're regularly eating. At best perhaps be less quick to replenish finished supplies. If you're drinking sugar, though, I think it's worth cutting that immediately. 
+3. Don't try to eliminate any food stuffs from your routine! Don't think about stopping eating anything that you're regularly eating. At best perhaps be less quick to replenish finished supplies of things like ice cream, crackers, frozen meals, processed stuff. If you're drinking sugar, though, I think it's worth cutting that immediately. 
 4. See what it's like to stop eating at 8p, rather than eating late into the night. 
-5. Try a single 'don't eat anything besides coffee or coconut oil until noon' day. 
+5. Try a single 'don't eat anything besides coffee/tea or coconut oil until noon' day. 
 6. Combine the last 2 points. Stop eating at 8, don't start until the next day at noon, x1. Evaluate. If you managed OK, do it for 2 days. 
-7. at this point, you are good at that vegetarian-ish keto meal, and you're intermittent fasting. If you slip that meal in as the first meal of the day, even if you don't change anything else about your eating, you'll now be managing to spend most of your life with very low blood glucose, and will experience small 'fasting' moments often-enough. 
+7. at this point, you are good at that vegetarian-ish keto meal, and you're intermittent fasting. If you slip that meal in as the first meal of the day, even if you don't change anything else about your eating, you'll now be managing to spend most of your life with very low blood glucose, and will experience small 'fasting' moments often-enough. huzzah.
 
 If you wanna do the full keto thing, here's how I do it, cobbled together from all the various internet sources, reddit, my own experience, proclivities, idiosyncracies.
 
 1. vegetarian boullioun cubes (have a cup of broth once or twice a day, or more. As much as you want, have the broth, it's extremely nice.)
 2. Mortons lite salt (supposedly electrolyte demands go up when not eating any carbs), add some to water with a Mio b-vitimine electrolyte supplement, mix this with your water
-3. almonds and olives and olive oil and coconut oil will be a perceivable fraction of your nutrition
+3. almonds and olives and olive oil and coconut oil will be a perceivable fraction of your nutrition. I have like 100g, combined, of the above w/most meals
 4. Push your lunch meal to a bit later like 1 or 2p, sometimes. Or let it happen. Since I'm very pro-fasting, and low-hunger-queue, often enough I'll find myself not eating for the day until _quite_ late in the afternoon. I always feel an odd sense of accomplishment when this happens. Sorta patting my nutritianal and digestive and metabolic systems on the head. *pat pat* nice work there, I see what you did. *pat pat*
 
 I don't have tips or strategies for eating meals out with others and not completely violating the above norms. So, usually I just eat whatever looks good to me, don't sweat what happens temporarily to my blood glucose, and then resume my normal nutritional pattern at the next regularly occuring meal. If I eat out for lunch, I eat my big veggie omelette for dinner. 
