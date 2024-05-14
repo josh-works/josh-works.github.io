@@ -56,13 +56,13 @@ It was sooooo obvious.
 
 Skip forward a few years. Other than the story of how inadequate the American medial system is, I didn't think about the tongue tie thing for a year or so. then I remembered, in the conversations, people saying "it's heritable", and then I looked up a functional test for myself, and failed it, hard.
 
-Here's an example self assessment: 
+Here's an example self-assessment youtube video. Also google `tongue tie self-assessment` and hunt around. There's different ways the tongue and lips can have extra tissue hanging out, and as you explore you'll find those ways.
 
-[Think you're tongue tied? Quick Self-Assessment Test to...](https://www.youtube.com/watch?v=JfW2RwIgIoU)
+[Tongue Tie Test: Quick Self-Test to see if you are secretly Tongue Tied! (FOR SINGERS)](https://www.youtube.com/watch?v=AKywlBeblXk)
 
 I obviously had one, next read [Tongue-Tied: How a Tiny String Under the Tongue Impacts Nursing, Speech, Feeding, and More](https://www.amazon.com/Tongue-Tied-String-Impacts-Nursing-Feeding/dp/1732508208).
 
-After reading that, I was fully committed to the procedure, just needed to line up the details. It's not trivial.
+After reading that, I was fully committed to the procedure, just needed to line up the details. It's not trivial, but not difficult or complicated.
 
 I called around American dentists, to see if they did it, and wasn't inspired to confidence. Eventually I found the Colorado Tongue Tie center and was _instantly_ onboard. They're trustworhty, you can read the reviews. They said: 
 
@@ -85,7 +85,7 @@ My personal life is full of stories of things like:
 - sometimes sounding like I'm choking in my sleep (I don't remember these episodes the next day)
 - obviously limited tongue mobility
 
-Buuuut... I also "seemed fine". I can eat, I can talk, I sleep, blah blah blah...
+BuuUUuut... I also "seemed fine". I can eat, I can talk, I sleep, blah blah blah...
 
 I spent time in Thailand and Indonesia and thought about getting the procedure done there, but thankfully my sister convinced me to consider myofunctional therapy before just getting the release done.
 
@@ -129,6 +129,10 @@ I stand differently, and I've had a HORRIBLE lingering back issue for a while, t
 
 After six weeks of tongue strengthening and stretching, I'm very aware of my own mouth. I spend SO MUCH time now exploring the inside of my own mouth with my tongue, or exploring the movement of my throat, soft pallet, throat/hyoid bone, and tongue, all in relation to each other. I notice that I can open my throat in a different way, that is much more comfortable.
 
+## Driving and scooting
+
+My head sits differently on top of my spine, and I can turn my head easily, farther, as I mentioned. This manifests in more ease while driving and scooting. I can easily tell the difference. A helmet is heavy, so a slight correction to head posture lets the weight of the helmet be more easily carried on top of my spine. It's comfy. I can quickly turn my head far too the side to check blind spots, as needed. 
+
 ## My emotional state
 
 Pete Walker says, basically, 
@@ -154,13 +158,13 @@ I'm writing this whole damn post because I want to write down the profound and m
 
 ## Colorado Tongue Tie Center 
 
-The procedure was done by Dr. Chad, he was exceptional, it was chill, easy, pain was non-existant (during the procedure) and minimal during the post-procedure repair time. (I ended up with six sutures after the procedure, so went heavy on ibuprophen and tylenal for a few days, and took a light dose of narcatics the first night to sleep, drank TONS of salty broth)
+The procedure was done by Dr. Chad, he was exceptional, it was chill, easy, pain was non-existent (during the procedure) and minimal during the post-procedure repair time. (I ended up with six sutures after the procedure, so went heavy on ibuprofen and tylenol for a few days, and took a light dose of narcotics the first night to sleep, drank TONS of salty broth)
 
 It's ~$1500 on a credit card, some health insurance agencies will reimburse you, and if the health insurance company won't, the dental insurance company might. Or no one might. 
 
 ## Megan Dewalt, OMT
 
-[Megan](https://www.advancedmyofunctionaltherapy.com/) was (is) my guide through the whole process. We did a few pre-procedure meetings, a few weeks apart, where I'd get exercises to build tongue strenght and propreoception so I can know where my tongue is/isnt. To make sure I mouth breath, etc. Then I did the procedure, she'd given me notes ahead of time with the stretches to do throughout the rehab. (super light immediately after, light/medium until sutures dissolve, then go hard after)
+[Megan](https://www.advancedmyofunctionaltherapy.com/) was (is) my guide through the whole process. We did a few pre-procedure meetings, a few weeks apart, where I'd get exercises to build tongue strength and proprioception so I can know where my tongue is/isn't. To make sure I mouth breath, etc. Then I did the procedure, she'd given me notes ahead of time with the stretches to do throughout the rehab. (super light immediately after, light/medium until sutures dissolve, then go hard after)
 
 Dr. Chad at the Tongue Tie Center said it was easy to do my procedure, as it's always easy to do the procedures for Megan's clients, because I had plenty of musculature in my tongue, which made it easy for him to find the tissue to remove, vs. the tissue to not remove. 
 
@@ -175,13 +179,13 @@ I spent ~$1k on the pre-op prep, and about $1k on the post-op rehab, spread acro
 
 [Daniel Lopez, DO](inspireosteopathydenver.com) very useful bodywork, bc turns out the tongue/hyoid bone/top of the spine all can be incorrectly bound together, and when the tongue is released, there's so much new movement potential. Dr. Lopez did grand work on me, from the cranium through the sternum (and even worked on a back injury that is now dramatically better, bc my head sits on my spine differently, so i don't have to compensate/over-compensate elsewhere in the spinal column)
 
-I did my first appointment ($300) the day after my release. I kept having nearly tears in my eyese as I could feel the 'unclenching' of various portions of my body and musculature, in the days following the release.
+I did my first appointment ($300) the day after my release. I kept having nearly tears in my eyes as I could feel the 'unclenching' of various portions of my body and musculature, in the days following the release.
 
 ## Nasal Breathing
 
-A big part of a tongue tie is it's contribution to things like sleep apnea. A big part of sleep apnea is snoring. It's 'super unhealthy' to breath through the nose exlcusively, or majority, or much at all. Oops, RIP my entire childhood. Tongue ties also relate to teeth grinding, which I did, so I wore a mouth guard, which pushed my mouth open even more, so I was 100% mouth breathing when I slept, even though when awake I'm aware of how dry the air in denver is and would close my mouth.
+A big part of a tongue tie is it's contribution to things like sleep apnea. A big part of sleep apnea is snoring. It's 'super unhealthy' to breath through the mouth exclusively, or majority, or much at all. Oops, RIP my entire childhood. Tongue ties also relate to teeth grinding, which I did, so I wore a mouth guard, which pushed my mouth open even more, so I was 100% mouth breathing when I slept, even though when awake I'm aware of how dry the air in denver is and would close my mouth.
 
 Fixed it all with tape. A little strip of athletic tape, across the lips, and I instantly was sleeping better, waking up with the inside of my mouth feeling rested instead of dried out. 
 
-Consider reading [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615) by James Nestor. It's sorta pop-sciency, but if it gets you to start taping your mouth at night and nasal breathing when awake, good enough.
+Consider reading [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615) by James Nestor. It's sorta pop-sciencey, but if it gets you to start taping your mouth at night and nasal breathing when awake, good enough.
 
