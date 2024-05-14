@@ -14,7 +14,7 @@ permalink: tongue-tie
 
 'tongue tie' was something I'd heard discussed (the little bit of fiber under a tongue) as the child we now know as Eden was incubating inside of Kristi's womb. I didn't think much of it then.
 
-Cut forward to 5 days post Eden's birth, we get our first at-home lactation consultant visit, from a lactation consultat affiliated with [The Mamahood](). She was amazing. Eden was at the minimum threshold for how much weight is normal for babies to lose after being born. 
+Cut forward to 5 days post Eden's birth, we get our first at-home lactation consultant visit, from a lactation consultant affiliated with [The Mama' hood](https://www.themamahood.com/). She was amazing. Eden was at the minimum threshold for how much weight is normal for babies to lose after being born. 
 
 I didn't know until then that whatever weight a baby is born at, it'll lose 10% as it's diet and nutrition and metabolism cut over from 'being fed via umbilical cord from mom' to 'being ved via milk and digesting and eliminating waste'. It's fascinating, but I totally get why weight would be lost but it's not good to lose too much.
 
