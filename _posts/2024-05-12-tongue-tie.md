@@ -28,7 +28,9 @@ That's something of an emergency state, as you could imagine. Kristi and Eden be
 2. After eden would finish a defined few minutes of nursing, I'd feed her breast milk from other mothers with extra milk, obtained via friend networks and online mothers-supporting-mothers groups
 3. Kristi's milk needed the stimulus of nursing to come in, so using a electric pump, she'd pump. We'd freeze it to later give to Eden.
 
-We tracked everything to the nearest 5 or 10 ml, at the very beginning. After a weekend of this, and a weigh-in at the pediatrician's office, we could see that she was gaining weight, and we all collectively breathed a sigh of relief. It was exhausting.
+And all of this happens every two hours, start-to-start. We'd spend an hour feeding, rest a bit, and then another hour would pass and we'd start it all over again. 
+
+We tracked everything to the nearest 5 or 10 ml, at the very beginning. After a weekend of this, and a weigh-in at the pediatrician's office, we could see that Eden was gaining weight, and we all collectively breathed a sigh of relief.
 
 I said something about the proposed tongue tie to the pediatrician, he said:
 
@@ -93,7 +95,7 @@ The reasoning makes tons of sense, as soon as she says it:
 
 (My words, not hers)
 
-Right she was. I made it back to colorado, found [Colorado Tongue Tie Center](https://www.coloradotonguetie.com/) (I just live in google maps, so here's [their listing/the reviews]())
+Right she was. I made it back to colorado, found [Colorado Tongue Tie Center](https://www.coloradotonguetie.com/) (I just live in google maps, so here's [their listing/the reviews](https://www.google.com/maps/place/Colorado+Tongue+Tie+Center/@39.7824903,-105.0641157,17z/data=!3m1!4b1!4m6!3m5!1s0x876b873cd8a814bf:0x3b84c143c2f3ebac!8m2!3d39.7824903!4d-105.0615408!16s%2Fg%2F11gv034nh5?entry=ttu))
 
 # ✨ My Post-surgery experience ✨
 
@@ -107,7 +109,7 @@ Post-op, no pain. It was amazing.
 
 Next I noticed indeed that my head sat a bit higher/differently on my neck. The tongue tie (in my mind) caused a bit of tugging on the top of my spine, so to keep things comfortable I was compensating in posture. This was plainly visible to the therapist/doctor, but I'd never noticed and couldn't really see it, until after the procedure. 
 
-i felt differences in my sternum, diagram. shoulders. neck. throat. voice. swallowing became less burdensom. 
+i felt differences in my sternum, diagram. shoulders. neck. throat. voice. swallowing became less burdensome. 
 
 And this was all still while my tongue and mouth was in quite a bit of pain, because it had just gotten rather er... opened up. 
 
