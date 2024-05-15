@@ -133,15 +133,15 @@ Soooooo experiment! see how things go.
 
 ## FAQ
 
-> Does the little thing in your arm hurt?
+### Does the little thing in your arm hurt?
 
 No. Not when 'installing it', or after. I can sometimes detect a slight tug, if I turn or push in a certain way. I rock climb, even with all that movement I usually don't feel a thing. Not while sleeping, or showering. I forget I'm wearing it, quickly enough.
 
-> You're so strange. This seems odd.
+### You're so strange. This seems odd.
 
 You don't know the half of it.
 
-> But my body needs...
+### But ✨my✨ body needs...
 
 Great, this is for me, not for you. I still think I'm right, and I can be obnoxious about it, but at least now I can just give you a web page instead of sputtering at you about books and "just because it's dominant doesn't mean it's right" theories of human health. And colonialism, and white supremacy. 
 
