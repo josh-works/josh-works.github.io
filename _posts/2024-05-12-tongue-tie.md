@@ -8,6 +8,7 @@ published: true
 categories: [biology]
 tags: [health, nutrition, fitness]
 permalink: tongue-tie
+issue_id: 67
 ---
 
 # "tongue tied" (my first time hearing the word, my newborn's experience)
@@ -189,3 +190,16 @@ Fixed it all with tape. A little strip of athletic tape, across the lips, and I 
 
 Consider reading [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615) by James Nestor. It's sorta pop-sciencey, but if it gets you to start taping your mouth at night and nasal breathing when awake, good enough.
 
+
+# Misc Sources
+
+Here's some internet rabbit trails to follow:
+
+- [Just had my tongue tie (functional frenectomy) release 10 days ago, here's what changed with my TMJ / body (reddit)](https://www.reddit.com/r/TMJ/comments/pwnjjy/just_had_my_tongue_tie_functional_frenectomy/)
+- [Tongue-Tied: How a Tiny String Under the Tongue Impacts Nursing, Speech, Feeding, and More](https://www.amazon.com/Tongue-Tied-String-Impacts-Nursing-Feeding/dp/1732508208)
+- [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615)
+- [Megan Dewalt (works via zoom, available anywhere in USA/world)](https://www.advancedmyofunctionaltherapy.com/)
+- [Colorado Tongue Tie Center (based in Denver)](https://www.coloradotonguetie.com/)
+- [Daniel Lopez, DO (based in Denver)](inspireosteopathydenver.com)
+- [Self-Advocacy in Birth, and Tongue and Lip Tie with Michelle Odoerfer](https://evidencebasedbirth.com/self-advocacy-in-birth-and-tongue-and-lip-tie-with-michelle-odoerfer/)
+- [Are Tongue-Ties and Lip-Ties Linked to Postpartum Depression?](https://tonguetieal.com/are-tongue-ties-and-lip-ties-linked-to-postpartum-depression/)
