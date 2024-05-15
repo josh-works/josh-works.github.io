@@ -20,7 +20,7 @@ It's a tiny wearable device that uses adhesion to stick to your arm for two week
 
 A continuous blood glucose monitor is an improved tool on the finger-prick blood-draw glucose monitor technology that will be intimately familiar to anyone with type 1 or type 2 diabetes. I have neither kind of diabetes, but have used the finger prick monitors before.
 
-Unsurprisingly, there's some books I'd like to interject here, that amount to something like 'an internally consistent perspective of human matabolism'. Books are just books, anyone can write anything in a book, so I'm not saying these books ought to count as anything like 'evidence' to you, simply that they were compelling for me. 
+Unsurprisingly, there's some books I'd like to interject here, that amount to something like 'an internally consistent perspective of human metabolism'. Books are just books, anyone can write anything in a book, so I'm not saying these books ought to count as anything like 'evidence' to you, simply that they were compelling for me. 
 
 - [Beginner's Guide to Intermittent Fasting (nerdfitness.com)](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/) I read this in 2015
 - [Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X) I read this in ~2017
@@ -34,16 +34,16 @@ There's *ahem* several upstream/downstream implications.
 These books all are coherent with each other around things like:
 
 - Sugar interacts with the body's endocrine system, thus it has the same effects on the human body as hormones. You know how when children hit puberty, they change in ways unrelated to how much food they are or are not eating? Sugar has a close-enough effect at any chronic level.
-- half of the dry weight of your body is mitocondria
+- half of the dry weight of your body is mitochondria
 - Mitochondria _and_ one's gut bacteria all sorta... matter. And can be healthy or unhealthy.
 
-This layers on top of a change I made to my life in 2015 - I read the NerdFitness guide to Intermittent Fasting, and jived with it. I stopped eating breakfast, started doing the 16/8 'intermittent fasting' plan; I stopped eating breakfast, and moved my breakfest omelette + veggies to my lunchtime meal. Everything else stayed the same.
+This layers on top of a change I made to my life in 2015 - I read the NerdFitness guide to Intermittent Fasting, and jived with it. I stopped eating breakfast, started doing the 16/8 'intermittent fasting' plan; I stopped eating breakfast, and moved my breakfast omelette + veggies to my lunchtime meal. Everything else stayed the same.
 
-I dropped so much hassle, food prep, cleaning time from my life, and got nothing but upsides. At the time my partner and I were travelling a lot, and there was substantial mental overhead to prepping meals in constantly novel houses, often while trying to do so quietly to avoid waking anyone up. I then could simply wake up, make my coffee, and be fully ready for the day. 
+I dropped so much hassle, food prep, cleaning time from my life, and got nothing but upsides. At the time my partner and I were traveling a lot, and there was substantial mental overhead to prepping meals in constantly novel houses, often while trying to do so quietly to avoid waking anyone up. I then could simply wake up, make my coffee, and be fully ready for the day. 
 
 I've been doing this for ten years, so it's habit now. When I eat breakfast (very rarely, only when with others who want to eat breakfast) I always think "wow, I couldn't imagine doing this every day." and then usually skip lunch and eat again at dinner time.
 
-I still binge eat sometimes. I've definately got a partially disordered relationship with food, always did since childhood. I think many people use food to deal with emotional loneliness, and sometimes that is still a thing for me, but that falls outside this exact article. 
+I still binge eat sometimes. I've definitely got a partially disordered relationship with food, always did since childhood. I think many people use food to deal with emotional loneliness, and sometimes that is still a thing for me, but that falls outside this exact article. 
 
 I like the idea of semi-regularly doing a 24-36 hour fast, but only occasionally do _maybe_ 22 hour fasts. Dinner one day, don't eat again until about dinner the next day, these are never planned just sometimes happen. When I'm not eating carbs regularly, _i very rarely experience the sensation of hunger_. 
 
@@ -143,7 +143,7 @@ You don't know the half of it.
 
 > But my body needs...
 
-Great, this is for me, not for you. I still think I'm right, and I can be obnoxious about it, but at least now I can just give you a web page instead of sputtering at about books and "just because it's dominant doesn't mean it's right" theories of human health.
+Great, this is for me, not for you. I still think I'm right, and I can be obnoxious about it, but at least now I can just give you a web page instead of sputtering at you about books and "just because it's dominant doesn't mean it's right" theories of human health. And colonialism, and white supremacy. 
 
 ## Misc Resources
 
