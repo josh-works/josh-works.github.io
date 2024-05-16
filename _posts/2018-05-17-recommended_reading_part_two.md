@@ -303,7 +303,7 @@ The right amount of money is "enough".
 
 ### Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence
 
-_meh, i'm less down than I once was with books that sorta strongly end up supporting capitalism as an american. It's a little icky when so much of success can be tied closely to subtle interactions with banking systems 'going well'. [example reference 1: The 30-Year Mortgage is an Intrinsically Toxic Product](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), [example reference 2: This dissertation by Sarah Lehman Quinn is a very good overview of the history of US housing policy, which puts many of this century’s developments in context. It closes with a revisionist view of the accounting reasons for Fannie’s privatization](https://digitalassets.lib.berkeley.edu/etd/ucb/text/Quinn_berkeley_0028E_10881.pdf)_
+_meh, i'm less down than I once was with books that sorta strongly end up supporting capitalism as an american. It's a little icky when so much of success can be tied closely to subtle interactions with banking systems 'going well'. [example reference 1: The 30-Year Mortgage is an Intrinsically Toxic Product](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), [example reference 2: This dissertation by Sarah Lehman Quinn is a very good overview of the history of US housing policy, which puts many of this century’s developments in context. It closes with a revisionist view of the accounting reasons for Fannie’s privatization](https://escholarship.org/uc/item/7sq3f6xk)_
 
 [Goodreads](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life)
 
