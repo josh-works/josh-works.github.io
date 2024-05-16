@@ -8,20 +8,26 @@ permalink: /recommended-reading
 
 I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending often. Periodically, I refresh this list. It's changed over the years years.
 
-_this list is partially reworked here: [josh.works/recommended-reading-part-two]({{ site.baseurl  }}{% link _posts/2018-05-17-recommended_reading_part_two.md %})_
+_the list you are about to read is heavily reworked, based off this older list: [josh.works/recommended-reading-original-list]({{ site.baseurl  }}{% link _posts/2018-05-17-recommended_reading_original_list.md %})_
 
-These are the books I cannot un-read, which shape me today. Many of the books are "difficult". I often tell people I'm a slut for books - I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it?
+These are the books I cannot un-read, which shape me today. Many of the books are "difficult". I often tell people I'm a slut for books - I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it? Can I sift and find something, _anything_ that is helpful to me? That increases my understanding or imagination, or is an engaging-enough story?
 
-If I can, I'm pleased with the experience. I read quickly - I don't sound out individual words, nor do I sound any words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has.
+If I can, I'm pleased with the experience. I can read English texts quickly, by the way. 
 
-I also used a Kindle Paperwhite, and am pretty good with my library card/Libby, and enjoy reading for sometimes purely dissociative purposes. This isn't a homework list, consider it to be a menu of delicious entries, and IF any of them seem suitably energizing to you, choose them.
+I don't sound out individual words, nor do I sound _any_ words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has. I can capture large fractions of lines of text 'at once' and process a page quite fast. Not everyone reads quickly, obviously. Literacy and hyper-literacy are... complicated. 
+
+Anyway, plunge into a book only if reading seems pleasant-enough to make the effort worthwhile. No sweat either way, you'll get a sense of some things just by surfing book titles, I'm 'just' surfacing a list, one or two of which might catch your eye, and if it does and you click through to amazon or good reads or the library and find a review that seems 🤓🧐 and you have a nice few hours of reading, congrats to us both. 🎉
+
+I also used a [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-16-GB-adjustable/dp/B09TMZKQR7) with a nice magnetic cover (easy to transport, read while waiting around, I carry it in my purse/hip bag/fanny pack), and am pretty good with my library card/Libby, and enjoy reading for sometimes purely dissociative purposes. 
+
+This isn't a homework list, consider it to be a menu of potentially delicious entries, and IF any of them seem suitably energizing to you, choose them.
 
 
 ## 13 Books related to trauma, self-concept, and existing in the western world
 
-I read the canon of any given topic that climbs high enough on my list of priorities to learn about. The topic of dealing with inadequate parents and abusive intimates has, at times, been a topic high on my list of priorities to learn about. 
+I read the canon of any given topic that climbs high enough on my list of priorities to learn about. For a variety of reasons, dealing with the complexities of parents (having and being) and finding good terrain for partnerships and intimacy, are generally important to me, possibly you. 
 
-I have also spent time, money, and energy on no small number of therapists. I evaluate about half of that time as neither helpful nor hurtful, but concumptive of opportunity cost, and 1/2 of the rest as actively detrimental and harmful, and the last 25% as marginally helpful.
+I have also spent time, money, and energy on no small number of therapists. I evaluate about half of that time as neither helpful nor hurtful, but consumptive of opportunity cost, and 1/2 of the rest as actively detrimental and harmful, and the last 25% as marginally helpful.
 
 So, instead of you spending thousands of dollars on therapy but not knowing which ones will help you, hurt you, or be wasted, I encourage you to do some bibliotherapy. I would want to talk about some of these books with therapists, and generally, they read few-to-none of the books I wanted to discuss, and would decline to 
 
@@ -45,19 +51,23 @@ On that note, here's the books. There's 13 books in total I'm about to recommend
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary-ebook/dp/B00HZ1E5BM/ref=sr_1_1?crid=1W733XLM0RA2Z&keywords=parenting+from+the+inside+out&qid=1698413876&s=digital-text&sprefix=parenting+from+the+%2Cdigital-text%2C344&sr=1-1)
 - [the adult children of emotionally immature parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
 
-### deconstructing religious abuse/shame, and colonialism
+### parsing yours/others religious abuse/shame, and the vast overlap with the conditions fostering colonialism
 
-This is all in the context of 'modern america'. I am a 35 year old white-passing 
+This is all in the context of 'modern america'. I am a 35 year old white-passing male. 
 
-I was raised in a a high-control religeous cult, and was told, from a very young age, that everything about myself was foul, disgusting, unacceptible. It's a form of emotional or mental colonialism, and relied heavily upon guilt, shame, and avoidance. Figureing out how to repair the damage isn't trivial. To that end, here's some books, about evangelicalsm, whiteness, colonialsm, and the willingness to coerce.
+I was raised in a a high-control religious cult, and was told, from a very young age, that everything about myself was foul, disgusting, unacceptable. 
 
-It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (grimmace) that evangelicals support slave patrols. 
+It's a form of emotional or mental colonialism, supplanting the will/social attitude that _was_ there with something preferred by the authorities.
 
-When the white, slaveholding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
+The tooling for installing the 'package' was physical assault, and then shame and threats, along with subtle presence and absence of warmth-approximating attitudes. Figuring out how to repair the damage isn't trivial. To that end, here's some books, about Evangelicalism, whiteness, colonialsm, and _the willingness to coerce_.
+
+It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (😬) that evangelicals support slave patrols. 
+
+When the white, slave-holding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
 
 The role of a slave patrol in a slaving society was to harass the majority population, find the most 'willful' slaves, and humiliate and degrade them (without killing them, of course. their labor had value) so that they would serve as a reminder to the other slaves, with their broken bodies and souls, of the cost of resistance. 
 
-A dog maiming the legs of an 'uppity' slave, or a load of birdshot fired across the arms of a slave that wasn't sufficiently defferential would leave scars, and any _other_ slave that saw the scars would know what had happened.
+A dog maiming the legs of an 'uppity' slave, or a load of birdshot fired across the arms of a slave that wasn't sufficiently deferential would leave scars, and any _other_ slave that saw the scars would know what had happened.
 
 In some counties in the slave-holding south, 15% was white, 85% was black. The white people were _terrified_ of the threat of the slaves accruing power to themselves and taking action to improve their situation.
 
@@ -75,7 +85,7 @@ These kinds of people are dangerous to the children that they raise, the people 
 
 That means, though, that when you want to undo some of the damage they did to your soul, it's best to 'go to the source' and see what kinds of things white people said about their own domination when they were not embarrassed or ashamed by it, but actively colluded with other white people to furtheir their domination over their victims. 
 
-#### the books that might aid in deconstructing religeous/cultural shame
+#### the books that might aid in deconstructing religious/cultural shame
 
 To that end, consider reading any the following, if they look interesting to you:
 
@@ -83,7 +93,7 @@ To that end, consider reading any the following, if they look interesting to you
 - [The History of White People](https://www.goodreads.com/book/show/6919721-the-history-of-white-people)
 - [They Were Her Property: White Women as Slave Owners in the American South](https://www.goodreads.com/book/show/40887375-they-were-her-property?ac=1&from_search=true&qid=hpCcgRkOGN&rank=1)
 
-There's also lots of propoganda around the 'privilege' of being part of a state (as long as you've achieved sufficient status within that state). If you sometimes find status games dedignifying, read:
+There's also lots of propaganda around the 'privilege' of being part of a state (as long as you've achieved sufficient status within that state). If you sometimes find status games de-dignifying, read:
 
 - [Against the Grain: A Deep History of the Earliest States](https://www.amazon.com/Against-Grain-History-Earliest-States/dp/0300182910)
 - [seeing like a state: how certain schemes to improve the human condition have failed](https://www.amazon.com/Seeing-Like-State-James-C-Scott-audiobook/dp/B07D2HZXB4/ref=sr_1_1?crid=2FHVDG0449OQY&keywords=seeing+like+a+state&qid=1698414800&s=books&sprefix=seeing+like+a+sta%2Cstripbooks%2C369&sr=1-1)
