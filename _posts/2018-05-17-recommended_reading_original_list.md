@@ -297,13 +297,14 @@ There's so much I could say about this book, I don't have time to say it here. S
 
 ## Money
 
-Money is... complicated. It's easy to have too little, to have too much, or to not manage wisely the money you do have. It's an emotionally charged topic, and there's not a lot of good examples out there of people having a good relationship with it. Plenty of examples of people with a deeply unhealthy relationship with money.
+_note from a few years later:_ Meh, i'm less down than I once was with books that sorta strongly end up supporting capitalism as an american. 
 
-The right amount of money is "enough".
+It's a little icky when so much of success can be tied closely to subtle interactions with banking systems 'going well'. example reference 1: ["The 30-Year Mortgage is an Intrinsically Toxic Product" by Byrne Hobart](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), example reference 2: [`Government Policy, Housing, and the Origins of Securitization, 1780 - 1968` by Sarah Lehman Quinn tells the story of 'regimes and attempted regimes of social control via housing<>financial policy`, which puts many of this century’s financial tooling developments in an interesting context](https://escholarship.org/uc/item/7sq3f6xk)
+
 
 ### Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence
 
-_meh, i'm less down than I once was with books that sorta strongly end up supporting capitalism as an american. It's a little icky when so much of success can be tied closely to subtle interactions with banking systems 'going well'. [example reference 1: The 30-Year Mortgage is an Intrinsically Toxic Product](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), [example reference 2: This dissertation by Sarah Lehman Quinn is a very good overview of the history of US housing policy, which puts many of this century’s developments in context. It closes with a revisionist view of the accounting reasons for Fannie’s privatization](https://escholarship.org/uc/item/7sq3f6xk)_
+feels to capitalistic and 'play along' in 2024, but still maybe a worthwhile read. 
 
 [Goodreads](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life)
 

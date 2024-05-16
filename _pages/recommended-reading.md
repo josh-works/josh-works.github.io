@@ -22,6 +22,20 @@ I also used a [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-16-GB
 
 This isn't a homework list, consider it to be a menu of potentially delicious entries, and IF any of them seem suitably energizing to you, choose them.
 
+## Housing as a regime of social control
+
+These two links are not books but desperately worth the read.
+
+It's a little icky when so much of success can be tied closely to subtle interactions with banking systems 'going well'. 
+
+["The 30-Year Mortgage is an Intrinsically Toxic Product" by Byrne Hobart](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), 
+
+And
+
+[`Government Policy, Housing, and the Origins of Securitization, 1780 - 1968` by Sarah Lehman Quinn](https://escholarship.org/uc/item/7sq3f6xk) tells the story of 'regimes and attempted regimes of social control via housing<>financial policy`, which puts many of this century’s financial tooling developments in an interesting context.
+
+Interestingness-per-page of both is... distinctive.
+
 
 ## 13 Books related to trauma, self-concept, and existing in the western world
 
