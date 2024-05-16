@@ -11,7 +11,7 @@ permalink: recommended-reading-original-list
 
 I like to read, and I often recommend books to others. I used to have a very different list of recommended books, but they come and go with time. This list is sorta 'older', circa 2021. [^books-change] A newer/different list is available [here]({{ site.baseurl  }}{% link _pages/recommended-reading.md %})
 
-[^books-change]: I've read a few thousand books over my ~33 years on this planet. Here's the ones that have shaped me. I created this page in 2018, and the books on that list have gone mostly out of date. [Here's the git history for how this page has changed across time](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2018-05-17-recommended_reading.md).
+[^books-change]: I've read a few thousand books over my ~33 years on this planet. Here's the ones that have shaped me. I created this page in 2018, and the books on that list have gone mostly out of date. [Here's the git history for how this page has changed across time](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2018-05-17-recommended_reading_original_list.md).
 
 These are a collection of books that come up in conversation more often than others. 
 

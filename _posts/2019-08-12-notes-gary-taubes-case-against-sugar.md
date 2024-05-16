@@ -13,7 +13,7 @@ In the last few weeks, I read [The Case Against Sugar](https://www.goodreads.com
 
 I found it to be compelling (more on that in a moment) and _I want to be impacted by them_. I want the daily decisions that I make to be subtly influenced by this author and these books. 
 
-Related but in a different vein, Nat Ellison has his [collection of book notes](https://www.nateliason.com/notes). Derek Sivers [has his](https://sivers.org/). Patrick Collison has [a list](https://patrickcollison.com/bookshelf) of books he recommends. I've got [my own list of recommended books]({{ site.baseurl }}{% link _posts/2018-05-17-recommended_reading.md %}), but I've wanted to dive a bit deeper on some of them. So, like Nat Ellison and others, I'm grab-bagging quotes (helpfully brought over from highlights on my Kindle) and some thoughts interspersed between. 
+Related but in a different vein, Nat Ellison has his [collection of book notes](https://www.nateliason.com/notes). Derek Sivers [has his](https://sivers.org/). Patrick Collison has [a list](https://patrickcollison.com/bookshelf) of books he recommends. I've got [my own list of recommended books]({{ site.baseurl }}{% link _posts/2018-05-17-recommended_reading_original_list.md %}), but I've wanted to dive a bit deeper on some of them. So, like Nat Ellison and others, I'm grab-bagging quotes (helpfully brought over from highlights on my Kindle) and some thoughts interspersed between. 
 
 I've not settled (yet) on a format I like, but as in most things, this is an iterative process. These notes may be useful to others (at least to help them decide if the book is worth reading) but primarily this is a helpful process _to me_. 
 
