@@ -6,26 +6,26 @@ description: "There's much more to life than books, but if you're going to read 
 permalink: /recommended-reading
 ---
 
-I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending often. Periodically, I refresh this list. It's changed over the years years.x
+I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending often. Periodically, I refresh this list. It's changed over the years years.
+
+_this list is partially reworked here: [josh.works/recommended-reading-part-two]({{ site.baseurl  }}{% link _posts/2018-05-17-recommended_reading_part_two.md %})_
 
 These are the books I cannot un-read, which shape me today. Many of the books are "difficult". I often tell people I'm a slut for books - I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it?
 
-If I can, I'm pleased with the experience. I read quickly - I don't sound out individual words, nor do I sound any words out, in my head, as I read. I also have [aphantasia](https://www.facebook.com/notes/2862324277332876/), so I can read _explicitely_ for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has.
+If I can, I'm pleased with the experience. I read quickly - I don't sound out individual words, nor do I sound any words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has.
 
 I also used a Kindle Paperwhite, and am pretty good with my library card/Libby, and enjoy reading for sometimes purely dissociative purposes. This isn't a homework list, consider it to be a menu of delicious entries, and IF any of them seem suitably energizing to you, choose them.
-
-I have a sort of archived, different version of this page [here](https://josh.works/recommended-reading-part-two)
-
-
 
 
 ## 13 Books related to trauma, self-concept, and existing in the western world
 
-I "read the canon" of any given topic that climbs high enough on my list of priorities to learn about. The topic of dealing with inadequate parents and abusive intimates has, at times, been a topic high on my list of priorities to learn about. 
+I read the canon of any given topic that climbs high enough on my list of priorities to learn about. The topic of dealing with inadequate parents and abusive intimates has, at times, been a topic high on my list of priorities to learn about. 
 
-I have also spent time, money, and energy on no small number of therapists. I evaluate about half of that time as neither helpful nor hurtful, 1/2 of the rest as actively detrimental and harmful, and the last 25% as marginally helpful.
+I have also spent time, money, and energy on no small number of therapists. I evaluate about half of that time as neither helpful nor hurtful, but concumptive of opportunity cost, and 1/2 of the rest as actively detrimental and harmful, and the last 25% as marginally helpful.
 
-So, instead of you spending thousands of dollars on therapy but not knowing which ones will help you, hurt you, or be wasted, I encourage you to do some bibliotherapy. You can get all/most of these books on [Libby](https://www.overdrive.com/apps/libby) (a library app) and can send them for free to your [kindle paperwhite](https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249), anywhere in the world. 
+So, instead of you spending thousands of dollars on therapy but not knowing which ones will help you, hurt you, or be wasted, I encourage you to do some bibliotherapy. I would want to talk about some of these books with therapists, and generally, they read few-to-none of the books I wanted to discuss, and would decline to 
+
+You can get all/most of these books on [Libby](https://www.overdrive.com/apps/libby) (a library app) and can send them for free to your [kindle paperwhite](https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249), anywhere in the world. 
 
 Some of these books I've got physical copies of, some I bought electronic copies, because I've used a kindle paperwhite for many years, others I got the audio book version, some I got all three. Some of these I've gotten from the library, either a physical copy or a digital copy via Libby/overdrive. If your library doesn't have the book, google `[library system] request book form`. I've asked Jefferson County Library Systems to add at least ten books, and I think almost all were easily added. One didn't have an ebook option, and I didn't re-request for a physical version.
 
@@ -45,19 +45,13 @@ On that note, here's the books. There's 13 books in total I'm about to recommend
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary-ebook/dp/B00HZ1E5BM/ref=sr_1_1?crid=1W733XLM0RA2Z&keywords=parenting+from+the+inside+out&qid=1698413876&s=digital-text&sprefix=parenting+from+the+%2Cdigital-text%2C344&sr=1-1)
 - [the adult children of emotionally immature parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
 
-### deconstructing religious and/or cultural shame
+### deconstructing religious abuse/shame, and colonialism
 
-Enough of us have been raised in religious institutions, so if that's you, there might be another layer of work to be done. America pioneers this sense of individualistic, moralistic shame that attaches itself to children being raised by parents who 'just want them to be successful'. Be better, work harder, achieve more, perform better. Earn, strive, function.
+This is all in the context of 'modern america'. I am a 35 year old white-passing 
 
-Additionally, there's a thread for both men and women of 'the shame of not being enough' or 'not making enough of oneself based off of the opportunities one was given' or 'my parents sacrificed so much so I could have {blank}'. 
+I was raised in a a high-control religeous cult, and was told, from a very young age, that everything about myself was foul, disgusting, unacceptible. It's a form of emotional or mental colonialism, and relied heavily upon guilt, shame, and avoidance. Figureing out how to repair the damage isn't trivial. To that end, here's some books, about evangelicalsm, whiteness, colonialsm, and the willingness to coerce.
 
-Along with this guilt, for some of us, we're 'observed' and 'watched' by what feels like our own conciousnesses. 
-
-For example, women have experienced "the male gaze", non-whites have experienced "the white man's gaze", black people have experienced "the policeman's gaze". These are all downstream of, and related to, "the (slave)master's gaze". 
-
-We police ourselves, sometimes, to avoid harm and to try to earn affection and love and safety from caretakers around us, and we police ourselves with a similar energy to "the master's gaze". 🤮
-
-It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). 
+It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (grimmace) that evangelicals support slave patrols. 
 
 When the white, slaveholding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
 

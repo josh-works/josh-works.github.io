@@ -15,6 +15,14 @@ I have small and large projects that have worked, and failed. I have learned fro
 
 [^learn]: Technically, we all optomize for something like learning, and [when we're doing so in a healthy way, we're having a really good time](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity). 
 
+### Useful Book Advocate
+
+I read a lot, and have various lists floating around. I've not figured out the One True List for myself yet, but there you go. 
+
+📚📖📓👨🏻‍🏫 👉 [josh.works/recommended_reading]({{ site.baseurl  }}{% link _pages/recommended-reading.md %})
+
+
+
 ### Robert Moses Hype Man
 
 Robert Moses is a rather under-appreciated figure in American history. He's why American cities look the way they look, and he's responsible for lots of behavior that's amounted to 'regimes of ethnic cleansing'. 
