@@ -6,7 +6,7 @@ date:  2024-05-24 06:00:00 -0700
 crosspost_to_medium: false
 published: true
 categories: [cities]
-tags: [ethnic_cleansing, authority]
+tags: [ethnic_cleansing, authority, ethnic_conflict, people, groups]
 permalink: jaywalking
 issue_id: 68
 ---
