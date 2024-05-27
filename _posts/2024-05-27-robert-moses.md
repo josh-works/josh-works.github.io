@@ -3,10 +3,17 @@ layout: post
 title: Robert Moses - The Most Important Person You've Never Heard Of
 published: true
 description: "Robert Moses has shaped your life, today, in dozens of way. You've never heard of him, either. Lets make an introduction, shall we?"
-permalink: /robert-moses
+date:  2025-05-24 06:00:00 -0700
+crosspost_to_medium: false
+published: true
+permalink: robert-moses
+categories: [robert_moses]
+tags: [cities, urbanism, ethnic_cleansing]
+issue_id: 70
 image: images/mugshot.jpeg
 ---
 
+_this was originally posted a few years ago, republishing as a blog post as I organize stuff around here. 🧹_
 
 Here's a big dumping ground for some resources on robert moses I've got floating around. 
 
@@ -26,7 +33,7 @@ Read what is said about the author of Robert Moses' incredible biography:
 This biography is long. If you're like me and you're thrilled to find a long book that you'll love, you'll be happy to know his biography is almost as long as all of the harry potter book series. 
 
 
-### A review of _The Power Broker_
+# A review of _The Power Broker_
 
 Next, please read the \#1 GoodReads review of [_The Power Broker: Robert Moses and the Fall of New York_](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1).
 
@@ -75,7 +82,7 @@ I will never be able to write as well as this reviewer, and I believe this is a 
 > It has those stupid New Yorker dots, which the book thankfully does not, but otherwise is kind of like a miniaturized version of _The Power Broker_ and gives a much better sense than I just did of what it’s all about.
 
 
-### An Interview with Robert Caro
+# An Interview with Robert Caro
 
 Here's a 1h45m Audible "short" with Robert Caro, the man who wrote _The Power Broker_
 
@@ -100,7 +107,7 @@ Here's the audible summary:
 ----
 
 
-### A Sense of Scale - The Cross-Bronx Expressway
+# A Sense of Scale - The Cross-Bronx Expressway
 
 What do you think of when someone says "The Bronx"?
 
@@ -136,9 +143,9 @@ What do you think it looked like to cleave such a deep cut through a heavily bui
 
 -----------------
 
-## Excerpts from _The Power Broker_
+ Excerpts from _The Power Broker_
 
-### Chapter 34: Moses and The Mayors
+# Chapter 34: Moses and The Mayors
 
 _Note from Josh: The following is an excerpt of chapter 34 of the Power Broker, called "Moses and the Mayors". The chapter is about Moses' relationship with all of the mayors of NYC that overlapped with his "rule" over NYC._
 
@@ -149,7 +156,7 @@ _The following is an 11-page excerpt from **The Power Broker**, pages 787-798._
 --------------------
 
 
-#### IMPY
+## IMPY
 
 All during August, Moses had been in South America, drawing up a Rockefeller-financed plan of improvements for São Paulo, utterly unaware of the events crushing in on O'Dwyer. But O'Dwyer's resignation was to place the city in his power more completely than ever before.
 
@@ -194,7 +201,7 @@ He was too timid to confront even his own subordinates. Once, a newspaper levele
 
 More to come
 
-### Chapter 36: The Meat Ax
+# Chapter 36: The Meat Ax
 
 I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](https://somuchtoread.wordpress.com/the-power-broker/). That website doesn't have deep-linking to the page, so it's easier to stash notes here:
 
@@ -212,26 +219,35 @@ I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](http
 
 
 
-## Gowanus
+# Gowanus
 
 Gowanus is a neighborhood that I've never visited, but I've a friend in NYC who mentioned it off-hand.
 
-I've listened to the [Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html) podcast series, which I remember ending, then "the next episode" the host was like "wow y'all after I finished up reporting this crazy cycle started up again and I watched in rapt awe as it played out again lets follow along"
+I've listened to the [Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html) podcast series, which I remember ending, then "the next episode" the host was like "wow y'all after I finished up reporting this crazy cycle started up again and I watched in rapt awe as it played out again lets follow along".
 
-I wasn't surprised, because I'd read _The Power Broker_ and remembered sections about what Robert Moses did to that neighborhood.
+I wasn't surprised, because I'd read _The Power Broker_ and followed along in rapt fascination. She basically expressed shock watching the effects of _de facto_ segregation playing out, again. 
 
 _de facto_ segregation, not _de jure_[^defacto]
 
-[^defacto]: old legal texts like to use magical words with special meaning. "de facto" means "the express written goal of the act" while "de jure" means "it just sorta happened as a byproduct", and some of the 'american narrative' relies on structural support from the projection that 'segregation' was a 'byproduct' of something else going on at the time. 'de facto' means 'nope, the thing you're calling byproduct segregation was actually the point and everyone at the time knew it'. 
+[^defacto]: old legal texts like to use magical words with special meaning. "de facto" means "the express written goal of the act" while "de jure" means "it just sorta happened as a byproduct", and some of the 'american narrative' relies on structural support from the projection that 'segregation' was a 'byproduct' of something else going on at the time. 'de facto' means 'nope, the thing you're calling `byproduct segregation` was actually the point and everyone at the time knew it'. 
 
     [The Color of Law: A Forgotten History of How Our Government Segregated America](https://www.goodreads.com/book/show/32191706-the-color-of-law) gets into it more. 
 
 Anyway, it was the 'school of international studies' for a time. The school in `Nice White Parents`. 
 
-From [a great story about Robert Moses](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648)
+From [a great story about Robert Moses](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648):
 
+> The construction of the Gowanus Parkway, laying a concrete slab on top of lively, bustling Third Avenue, buried the avenue in shadow, and when the parkway was completed, the avenue was cast forever into darkness, and gloom, and its bustle and life were forever gone. 
+>
+> And through that shadow, down on the ten-lane surface road beneath the parkway, rumbled (from before dawn until after dark after the opening of Brooklyn–Battery Tunnel flooded the area with freight traffic) regiments, brigades, divisions of huge tractor-trailer trucks, engines gunning and backfiring, horns blasting, brakes screeching, so that a tape recording of Third Avenue at midday could have been used as the soundtrack for a movie of a George Patton tank column. 
+>
+> And from above, from the parkway itself, came the continual surging, dull, surf-like roar, punctuated, of course, by more backfires and blasts and screeches, of the cars passing overhead. 
+>
+> Once Third Avenue had been friendly. Now it was frightening. (…) Once the avenue had been a place for people; Robert Moses had made it a place for cars.
 
-## Misc Related Resources
+Denver, Colorado, has it's own version of Gowanus and the International School like the Nice White Parents pod, the Denver Center for International Studies. It's right next to a HUGE 5-line one-way insanely bad road. 
+
+# Misc Related Resources
 
 - [Twitter convo between me and Matt Swanson about this book](https://mobile.twitter.com/josh_works/status/1344145495501893638)
 - [Robert Moses and re-making the political machine](https://lancemartin.substack.com/p/the-power-broker)
@@ -244,4 +260,5 @@ From [a great story about Robert Moses](https://medium.com/re-form/in-the-footst
 - [The Power Broker notes (nateliason.com)](https://www.nateliason.com/notes/the-power-broker)
 - [In the Footsteps of Robert Moses: Roadtripping across the bridges, highways, and parks of America’s most controversial urban planner](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648)
 
-## Footnotes
+# Footnotes
+
