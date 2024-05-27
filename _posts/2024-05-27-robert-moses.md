@@ -7,13 +7,15 @@ permalink: /robert-moses
 image: images/mugshot.jpeg
 ---
 
-Do you know the story of New York City? 
 
-How about Henry Hudson Parkway? How about the story of America
+Here's a big dumping ground for some resources on robert moses I've got floating around. 
+
+Obviously, this has grown to an unweildy sizy and less would be asked of you if I organized it a bit better. Instead, I invite you to click around or scroll, in particular scroll through the bottom section, #
+
 
 ![henry hudson parkway](/images/hh_parkway.jpg)
 
-The person single handidly responsible for building that highway is powerful indeed. This person built many other highways, and displaced about 250,000 people, almost completely comprised of ethnic groups Moses considered undesirable.
+The person single handily responsible for building that highway is powerful indeed. This person built many other highways, and displaced about 250,000 people, almost completely comprised of ethnic groups Moses considered undesirable.
 
 Read what is said about the author of Robert Moses' incredible biography:
 
@@ -210,8 +212,26 @@ I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](http
 
 
 
+## Gowanus
 
-### Resources
+Gowanus is a neighborhood that I've never visited, but I've a friend in NYC who mentioned it off-hand.
+
+I've listened to the [Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html) podcast series, which I remember ending, then "the next episode" the host was like "wow y'all after I finished up reporting this crazy cycle started up again and I watched in rapt awe as it played out again lets follow along"
+
+I wasn't surprised, because I'd read _The Power Broker_ and remembered sections about what Robert Moses did to that neighborhood.
+
+_de facto_ segregation, not _de jure_[^defacto]
+
+[^defacto]: old legal texts like to use magical words with special meaning. "de facto" means "the express written goal of the act" while "de jure" means "it just sorta happened as a byproduct", and some of the 'american narrative' relies on structural support from the projection that 'segregation' was a 'byproduct' of something else going on at the time. 'de facto' means 'nope, the thing you're calling byproduct segregation was actually the point and everyone at the time knew it'. 
+
+    [The Color of Law: A Forgotten History of How Our Government Segregated America](https://www.goodreads.com/book/show/32191706-the-color-of-law) gets into it more. 
+
+Anyway, it was the 'school of international studies' for a time. The school in `Nice White Parents`. 
+
+From [a great story about Robert Moses](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648)
+
+
+## Misc Related Resources
 
 - [Twitter convo between me and Matt Swanson about this book](https://mobile.twitter.com/josh_works/status/1344145495501893638)
 - [Robert Moses and re-making the political machine](https://lancemartin.substack.com/p/the-power-broker)
@@ -222,3 +242,6 @@ I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](http
 - [Robert Moses and the Cross-Bronx Expressway](https://blogs.baruch.cuny.edu/his3460fall2013/?p=217)
 - [The Power Broker by Robert Caro: Summary & Notes](https://willemharmsen.com/notes/the-power-broker/)
 - [The Power Broker notes (nateliason.com)](https://www.nateliason.com/notes/the-power-broker)
+- [In the Footsteps of Robert Moses: Roadtripping across the bridges, highways, and parks of America’s most controversial urban planner](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648)
+
+## Footnotes
