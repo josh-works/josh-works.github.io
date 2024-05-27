@@ -91,6 +91,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   pry
   rake
+  rexml (~> 3.2)
   webrick
 
 RUBY VERSION

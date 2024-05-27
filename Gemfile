@@ -18,3 +18,5 @@ group :jekyll_plugins do
    gem 'jekyll-twitter-plugin'
   gem 'jekyll-postfiles'
 end
+
+gem "rexml", "~> 3.2"
