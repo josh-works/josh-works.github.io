@@ -65,17 +65,24 @@ I obviously had one, next read [Tongue-Tied: How a Tiny String Under the Tongue 
 
 After reading that, I was fully committed to the procedure, just needed to line up the details. It's not trivial, but not difficult or complicated.
 
-I called around American dentists, to see if they did it, and wasn't inspired to confidence. Eventually I found the Colorado Tongue Tie center and was _instantly_ onboard. They're trustworhty, you can read the reviews. They said: 
+I called around American dentists, to see if they did it, and wasn't inspired to confidence. Eventually I found the [Colorado Tongue Tie center](https://www.coloradotonguetie.com/) and was _instantly_ onboard. They're trustworthy, you can read the reviews. They said: 
 
 > we don't do the procedure until it's recommended by the myofunctional therapist you're working with. here's some we recommend...
 
-I ended up calling and working with [megan dewalt](https://www.advancedmyofunctionaltherapy.com/), who is exceptional. If all you do is read this blog post, read the book, and then set up a intake/evaluation call with her, and do what she tells you, _and you have a tongue tie_, your life is about to be transformed. :)
+I ended up calling and working with [Megan Dewalt](https://www.advancedmyofunctionaltherapy.com/), who is exceptional. 
 
-contacted a past dentist to see if they agreed, in case I needed a referral, and they said 
+If all you do is read this blog post, read the book, and then set up a intake/evaluation call with her, and do what she tells you, _and you have a tongue tie_, your life is about to be transformed. :)
 
-> We agree that the patient _might_ have a tongue tie that _might_ benefit from release, obviously up to the wisdom of the involved medical professional.
+by the way, I contacted my dentist to see what notes/records they had on this. 
 
-Good enough.
+They have spent plenty of time looking in my mouth, and I've had a LOT of dental work done, tons of caveties, and braces twice as a kid bc my pallet wasn't shaped right _because my tongue wasn't working right_. I didn't expect them to say anything, but they gave me a Formal Letter on Formal Letterhead:
+
+
+> Based on our ntoes, we agree that the patient _might_ have a tongue tie that _might_ benefit from release, obviously up to the wisdom of the involved medical professional, we refuse/are unable to make an assessment.
+
+not surprising. 
+
+(Each time I saw someone in person about this, they said "oh, yeah, that's an intense tongue tie, no doubt." It's 'diagnosable'.)
 
 My personal life is full of stories of things like:
 
@@ -110,7 +117,7 @@ Post-op, no pain. It was amazing.
 
 Next I noticed indeed that my head sat a bit higher/differently on my neck. The tongue tie (in my mind) caused a bit of tugging on the top of my spine, so to keep things comfortable I was compensating in posture. This was plainly visible to the therapist/doctor, but I'd never noticed and couldn't really see it, until after the procedure. 
 
-i felt differences in my sternum, diagram. shoulders. neck. throat. voice. swallowing became less burdensome. 
+i felt differences in my sternum, diaphragm. shoulders. neck. throat. voice. swallowing became less burdensome. 
 
 And this was all still while my tongue and mouth was in quite a bit of pain, because it had just gotten rather er... opened up. 
 
@@ -148,7 +155,7 @@ I could say more but this was written in a single session, _and_ i lost a bunch 
 
 I've gone all the way around with [depression]({{ site.baseurl  }}{% link _posts/2021-07-28-depression.md %}), need to do an update to that post, but would posit that an emotional state and inner physical tension can have a relationship. I prefer the version of my body post-tongue-tie-release than pre.
 
-My climbing partner was subjected to near endless exclamations to myself about my own mouth. "I love my new mouth!" "I love taking my new mouth rock climbing!" "wow, that thing I said earlier about breathing and my diagram applies to breathing while climbing, too! Amazing!"
+My climbing partner was subjected to near endless exclamations to myself about my own mouth. "I love my new mouth!" "I love taking my new mouth rock climbing!" "wow, that thing I said earlier about breathing and my diaphragm applies to breathing while climbing, too! Amazing!"
 
 I could say more.
 
