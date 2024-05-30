@@ -69,33 +69,32 @@ I called around American dentists, to see if they did it, and wasn't inspired to
 
 > we don't do the procedure until it's recommended by the myofunctional therapist you're working with. here's some we recommend...
 
-I ended up calling and working with [Megan Dewalt](https://www.advancedmyofunctionaltherapy.com/), who is exceptional. 
+I ended up calling and working with [Megan Dewalt](https://www.advancedmyofunctionaltherapy.com/), who is exceptional. Megan is based in Denver, thus the recommendation by the Colorado Tongue Tie Center, but all communication is zoom/email/text.
 
-If all you do is read this blog post, read the book, and then set up a intake/evaluation call with her, and do what she tells you, _and you have a tongue tie_, your life is about to be transformed. :)
+If all you do is read this blog post, read the book, and then set up a intake/evaluation call with her, and do what she tells you, _and you have a tongue tie_, your life is about to be transformed. :) 
 
 by the way, I contacted my dentist to see what notes/records they had on this. 
 
-They have spent plenty of time looking in my mouth, and I've had a LOT of dental work done, tons of caveties, and braces twice as a kid bc my pallet wasn't shaped right _because my tongue wasn't working right_. I didn't expect them to say anything, but they gave me a Formal Letter on Formal Letterhead:
+They have spent plenty of time looking in my mouth, and I've had a LOT of dental work done, tons of cavities, and braces twice as a kid bc my pallet wasn't shaped right _because my tongue wasn't working right_. I didn't expect them to say anything, but they gave me a Formal Letter on Formal Letterhead:
 
-
-> Based on our ntoes, we agree that the patient _might_ have a tongue tie that _might_ benefit from release, obviously up to the wisdom of the involved medical professional, we refuse/are unable to make an assessment.
+> Based on our notes, we agree that the patient _might_ have a tongue tie that _might_ benefit from release, obviously up to the wisdom of the involved medical professional, we refuse/are unable to make an assessment.
 
 not surprising. 
 
-(Each time I saw someone in person about this, they said "oh, yeah, that's an intense tongue tie, no doubt." It's 'diagnosable'.)
+Each time I saw someone in person about this, they said "oh, yeah, that's an intense tongue tie, no doubt." It's 'diagnosable'.
 
 My personal life is full of stories of things like:
 
-- signs of sleep apnea
+- some stuff that sounds like sleep apnea (minor snoring, sometimes nighttime airway obstructions)
 - night time teeth grinding
 - braces (and pallet expanders) as a kid
 - adhd? sleep issues, for sure, in various ways.
-- sometimes sounding like I'm choking in my sleep (I don't remember these episodes the next day)
+- sometimes sounding like I'm choking in my sleep (reported to me, and I don't remember these episodes upon waking)
 - obviously limited tongue mobility
 
 BuuUUuut... I also "seemed fine". I can eat, I can talk, I sleep, blah blah blah...
 
-I spent time in Thailand and Indonesia and thought about getting the procedure done there, but thankfully my sister convinced me to consider myofunctional therapy before just getting the release done.
+I spent time recently in East Asia and thought about getting the procedure done there, but thankfully my sister convinced me to consider myofunctional therapy before "just" getting the release done. 
 
 The reasoning makes tons of sense, as soon as she says it:
 
@@ -103,7 +102,9 @@ The reasoning makes tons of sense, as soon as she says it:
 
 (My words, not hers)
 
-Right she was. I made it back to colorado, found [Colorado Tongue Tie Center](https://www.coloradotonguetie.com/) (I just live in google maps, so here's [their listing/the reviews](https://www.google.com/maps/place/Colorado+Tongue+Tie+Center/@39.7824903,-105.0641157,17z/data=!3m1!4b1!4m6!3m5!1s0x876b873cd8a814bf:0x3b84c143c2f3ebac!8m2!3d39.7824903!4d-105.0615408!16s%2Fg%2F11gv034nh5?entry=ttu))
+Right she was. By then, I made it back to colorado, found [Colorado Tongue Tie Center](https://www.coloradotonguetie.com/)
+
+I live in google maps, here's [their listing/the reviews](https://www.google.com/maps/place/Colorado+Tongue+Tie+Center/@39.7824903,-105.0641157,17z/data=!3m1!4b1!4m6!3m5!1s0x876b873cd8a814bf:0x3b84c143c2f3ebac!8m2!3d39.7824903!4d-105.0615408!16s%2Fg%2F11gv034nh5?entry=ttu)
 
 # ✨ My Post-surgery experience ✨
 
@@ -166,7 +167,11 @@ I'm writing this whole damn post because I want to write down the profound and m
 
 ## Colorado Tongue Tie Center 
 
-The procedure was done by Dr. Chad, he was exceptional, it was chill, easy, pain was non-existent (during the procedure) and minimal during the post-procedure repair time. (I ended up with six sutures after the procedure, so went heavy on ibuprofen and tylenol for a few days, and took a light dose of narcotics the first night to sleep, drank TONS of salty broth)
+The procedure was done by Dr. Chad, he was exceptional, it was chill, easy, pain was non-existent (during the procedure) and minimal during the post-procedure repair time. 
+
+It was like an hour in the office, and 30 minutes in the chair. It felt akin to some minor dental work. I rode my scooter back home after, and other than being ginger with my mouth, there wasn't any issues.
+
+I ended up with six sutures after the procedure, so went heavy on ibuprofen and tylenol for a few days, and took a light dose of narcotics the first night to sleep, drank TONS of salty broth.
 
 It's ~$1500 on a credit card, some health insurance agencies will reimburse you, and if the health insurance company won't, the dental insurance company might. Or no one might. 
 
