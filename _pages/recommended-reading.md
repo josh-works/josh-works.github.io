@@ -162,7 +162,7 @@ _Something that is undoubtedly true is 'supremacy/oppressor cultures are entirel
 
 _or, supremacy culture is institutionalized emotional trauma, cptsd + an embodied belief in the legitimacy of authority/political authority_
 
-Not sure how to introduce this post, other than... it's worth a read: [Three Hundred Ways It Can Hurt to Be a Man — Introduction](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to). I agree with the author on _a lot_
+Not sure how to introduce this post, other than... it's worth a read: [Three Hundred Ways It Can Hurt to Be a Man — Introduction](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to). 
 
 The way power dynamic exploitation gets encoded in certain male-ish 'norms' in culture is brutal. Self-sabotaging, all the way down. I only recently found a book written in 2006 titled: [Self-Made Man: One Woman's Year Disguised as a Man](https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised/dp/0143038702). It was an instant download-and-read. 
 
