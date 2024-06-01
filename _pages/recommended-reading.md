@@ -48,6 +48,28 @@ I lived in Golden 2015-2022. Even ran for city council in 2017, then did another
 - [Citizen Coors: A Grand Family Saga of Business, Politics, and Beer](https://www.amazon.com/Citizen-Coors-Family-Business-Politics/dp/0060959460)
 - [Hooded Empire: The Ku Klux Klan in Colorado](https://www.goodreads.com/book/show/3101191-hooded-empire) was hard to get, library didn't have a copy, used prospector + interlibrary loan to get it. 
 
+Denver (as did every other municipality ) fully implemented the zoning document outlined in [The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %})
+
+In the above blog post, I reference this twitter thread:
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">1/20 Thoughts on Denver&#39;s zoning and systemic racism. <br><br>Here&#39;s a screenshot from <a href="https://twitter.com/CityofDenver?ref_src=twsrc%5Etfw">@CityofDenver</a>&#39;s zoning map on <a href="https://t.co/Tzx271JS8u">https://t.co/Tzx271JS8u</a>.<br><br>This is textbook Euclidean Zoning, AKA &quot;Single-Use Zoning&quot;.<br><br>The problems of this form of zoning are well-known:<a href="https://t.co/WqiklxjB4h">https://t.co/WqiklxjB4h</a> <a href="https://t.co/7RDaFJlttS">pic.twitter.com/7RDaFJlttS</a></p>&mdash; Josh (@josh_works) <a href="https://twitter.com/josh_works/status/1294726871574179840?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+The existence of r-1 and r-2 housing, which 'in industry' is widely known to mean 'single family housing' and 'possible multi-family, like adus, condos, etc' _will cause your blood to boil_.
+
+The guy that invented r-1 housing originally called it 'r-1: white'. R-2, he designated "colored". 
+
+The system has shifted a little since then, but it's clear as can be that the plan from the 1922 'atlanta zone plan' is what got 'ratified' by the supreme court in [1926, ambler v. euclid](https://supreme.justia.com/cases/federal/us/272/365/), and it's what hums along in America today.  
+
+it's why this whole regime is called 'euclidean zoning'. It isn't a reference to [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry), it's a reference to euclid, ohio. They're saying the quiet part out loud, and drafting on fake science terms for propagandistic value. 
+
+Euclidean zoning sounds so scientific. 🤢 It's implementing a plan with a simple goal:
+
+> The above race zoning is essential in the in interest of the public peace, order and security and will promote the welfare and prosperity of both the white and colored race. Care has been taken to prevent discrimination and to provide adequate space for the expansion of the housing areas of each race without encroaching on the areas now occupied by the other.
+
+r1 zoning, single family zoning goes hand-in-hand with a certain road design, and 'commercial', 'industrial', 'residential' segregation, in order to create race segregation. 
+
+It's such a fragile system of belief and reasoning. Even most of the people inside, propping it all up, must be so tired of it. 
+
 
 ## Housing as a regime of social control
 
@@ -57,6 +79,9 @@ It's a little icky when so much of success can be tied closely to subtle interac
 
 1. ["The 30-Year Mortgage is an Intrinsically Toxic Product" by Byrne Hobart](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), 
 2. [`Government Policy, Housing, and the Origins of Securitization, 1780 - 1968` by Sarah Lehman Quinn](https://escholarship.org/uc/item/7sq3f6xk) tells the story of 'regimes and attempted regimes of social control via housing<>financial policy`, which puts many of this century’s financial tooling developments in an interesting context.
+3. All the "money" comes from/goes to [the banking fraud of treating customer's deposits as loans](https://mises.org/library/book/money-bank-credit-and-economic-cycles). It's not really money, it's mis-allocated real resources, the misallocation of which has real world consequences that self-correct the original error. ('the economic cycle')
+
+
 
 
 ## 13 Books related to trauma, self-concept, and existing in the western world
@@ -141,7 +166,7 @@ Coercion is often rooted in entitlement. If there's a power dynamic involved, it
 
 - [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://www.goodreads.com/en/book/show/29363252-conflict-is-not-abuse)
 - [The Verbally Abusive Relationship: How to Recognize It and How to Respond](https://www.goodreads.com/book/show/402366.The_Verbally_Abusive_Relationship)
-- [list of characteristics of white supremacy cultur (pdf)](https://www.whitesupremacyculture.info/uploads/4/3/5/7/43579015/okun_-_white_sup_culture.pdf)
+- [list of characteristics of white supremacy culture (pdf)](https://www.whitesupremacyculture.info/uploads/4/3/5/7/43579015/okun_-_white_sup_culture.pdf)
 
 ## Emotionality and gender issues 
 
@@ -171,7 +196,7 @@ _Something that is undoubtedly true is 'supremacy/oppressor cultures are entirel
 
 [^her_property]: I maintain [They Were Her Property: White Women as Slave Owners in the American South](https://www.goodreads.com/book/show/40887375-they-were-her-property) is indispensible for understanding broad swaths of American culture, and western culture. (slavery was rooted in the enlightenment, and of course systems of slavery shaped the world around themselves, then to now)
 
-_or, supremacy culture is institutionalized emotional trauma, cptsd + an embodied belief in the legitimacy of authority/political authority_
+_or, 'supremacy culture is institutionalized emotional trauma, cptsd + an embodied belief in the legitimacy of authority/political authority'_
 
 Not sure how to introduce this post, other than... it's long, but might be worth a skim: [Three Hundred Ways It Can Hurt to Be a Man — Introduction](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to). 
 
@@ -179,9 +204,17 @@ The way power dynamic exploitation gets encoded in certain american/western/male
 
 [^not-normal]: it's not normal, how many things are done in the USA. That a settler-colonialist mindset baked into social structures would have many harmful, visible effects on a society is a given. men/women dynamics. parent/child. authority/obedient, nobility/peasant, english-speaking/non-english-speaking, white-passing/non-white-passing. Bleh.
 
-Also, to overly-focus on _adult_ issues is a bummer. Children are an oppressed class. I thought it was self-evident to everyone, based on them having been a child, but I see now that this isn't the case - lots of adults internalize the bad things they experienced, normalize it, and push it down on the children around them. I overhear it in adult/child interactions all the time, especially now that I have a young child. 
+Also, to overly-focus on _adult_ issues is a bummer. 
 
-I find the [taking children seriously](https://twitter.com/TCSparents) twitter account (and [website](https://takingchildrenseriously.com/)) to be a good resource for appreciating children as a class, seeing/witnessing them better. 
+Children are an oppressed class. 
+
+I thought it was self-evident to more people than this seems evident to.
+
+lots of adults internalize the bad things they experienced, normalize it, and push it down on the children around them. I overhear it in adult/child interactions all the time, especially now that I have a young child. 
+
+I find the [taking children seriously](https://twitter.com/TCSparents) twitter account (and [website](https://takingchildrenseriously.com/)) to be a good resource for appreciating children as a class, seeing/witnessing them better. Witnessing _us_ better. 
+
+I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (roads. school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
 
 
 
@@ -212,14 +245,23 @@ I usually look up the movie on Wikipedia before I watch it, to help contextualiz
 
 He said things like:
 
-> Our Danube is like their Missisisppi!
+> Our Danube is like their Mississippi!
 
 referring to the american expulsion of native people across the mississippi, to Oklahoma. (well, [until oil was discovered there, then 'america' wanted the land back](https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(book)))
 
 Henry Ford was a HUGE fan of Hitler, and Hitler had a poster of Ford in his office! Henry Ford bought the second largest daily periodical in America and ran a 40-part, daily series about "The Jewish Problem"!!!!!! 
 
-The white people running the government of the USA, via the department of state, and other means, tried it's hardest to keep those pesky undesirables from eastern europe out of it's shores and away from it's women. If there were not so many jews stuck in germany when hitler started _really_ killing them (as he was collabing with Ford to get help in doing), less _everyone_ would have died. 
+The white people running the government of the USA, + the wealthy white people not in the government, via the department of state, and other means, tried it's hardest to keep those pesky undesirables from eastern europe out of it's shores and away from it's women. If there were not so many jews stuck in germany when hitler started _really_ killing them (as he was collabing with Ford to get help in doing), less _everyone_ would have died. 
 
 "anti immigration laws" were the anvil, pinning those people in place for hitler's hammer. 
 
-Everyone was down with 'regimes of social control', and the current manifestation I've been noodling is road networks and zoning. I have stuff going at [substack](https://zoningverydifferentthanours.substack.com/), or [write about it here sometimes]({{ site.baseurl  }}tags#ethnic_cleansing ).
+43 states in the USA had laws ON THE BOOKS "requiring" (justifying) the forced sterilization of people deemed 'unfit' [by wealthy white eugenicists]. the last vestige of these laws were removed from the books in 2014.
+
+People that say "protect our neighborhood character" are drafting on the exact same eugenicists in the 1910s, advocating for a program of eugenics, saying "protect our race and our women from _them_!"
+
+They wrote books like "The Passing of the Great Race", saying "if we don't act now, and quickly, our great race will be destroyed, especially by these uncouth asiatic non-white jews!"
+
+Everyone was down with 'regimes of social control', and the current manifestation I've been noodling is road networks and zoning. I have stuff going at [substack](https://zoningverydifferentthanours.substack.com/), or [write about it here sometimes]({{ site.baseurl  }}tags#ethnic_cleansing ). 
+
+I strongly recommend []()
+
