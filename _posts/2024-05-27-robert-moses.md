@@ -13,7 +13,7 @@ issue_id: 70
 image: images/mugshot.jpeg
 ---
 
-_this was originally posted a few years ago, republishing as a blog post as I organize stuff around here. 🧹_
+_this was originally posted a few years ago, republishing as a blog post as I organize stuff around here._
 
 Here's a big dumping ground for some resources on robert moses I've got floating around. 
 
@@ -259,6 +259,7 @@ Denver, Colorado, has it's own version of Gowanus and the International School l
 - [The Power Broker by Robert Caro: Summary & Notes](https://willemharmsen.com/notes/the-power-broker/)
 - [The Power Broker notes (nateliason.com)](https://www.nateliason.com/notes/the-power-broker)
 - [In the Footsteps of Robert Moses: Roadtripping across the bridges, highways, and parks of America’s most controversial urban planner](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648)
+- [The History of Denver’s Streetcars and Their Routes](https://denverurbanism.com/2017/08/the-history-of-denvers-streetcars-and-their-routes.html#) Robert Moses hated the kinds of people who used street cars and trains for travel, so he hated their trains, easily managed to run the train companies out of business. Look at what Denver could have had, but for Robert Moses and supremacy thinking.
 
 # Footnotes
 

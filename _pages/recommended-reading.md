@@ -20,7 +20,7 @@ Anyway, plunge into a book only if reading seems pleasant-enough to make the eff
 
 I also used a [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-16-GB-adjustable/dp/B09TMZKQR7) with a nice magnetic cover (easy to transport, read while waiting around, I carry it in my purse/hip bag/fanny pack), and am pretty good with my library card/Libby, and enjoy reading for sometimes purely dissociative purposes. 
 
-This isn't a homework list, consider it to be a menu of potentially delicious entries, and IF any of them seem suitably energizing to you, choose them.
+This isn't a homework list, consider it to be a menu of potentially delicious entries, and IF any of them seem suitably energizing to you, choose them. This list is not organized in any particular way.
 
 ## General food things
 
@@ -47,7 +47,6 @@ I lived in Golden 2015-2022. Even ran for city council in 2017, then did another
 
 - [Citizen Coors: A Grand Family Saga of Business, Politics, and Beer](https://www.amazon.com/Citizen-Coors-Family-Business-Politics/dp/0060959460)
 - [Hooded Empire: The Ku Klux Klan in Colorado](https://www.goodreads.com/book/show/3101191-hooded-empire) was hard to get, library didn't have a copy, used prospector + interlibrary loan to get it. 
-
 
 
 ## Housing as a regime of social control
@@ -124,23 +123,35 @@ That means, though, that when you want to undo some of the damage they did to yo
 
 To that end, consider reading any the following, if they look interesting to you:
 
-1. The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity?from_search=true&from_srp=true&qid=RxApdAuNZo&rank=1)
-1. The History of White People](https://www.goodreads.com/book/show/6919721-the-history-of-white-people)
-1. They Were Her Property: White Women as Slave Owners in the American South](https://www.goodreads.com/book/show/40887375-they-were-her-property?ac=1&from_search=true&qid=hpCcgRkOGN&rank=1)
+1. [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity?from_search=true&from_srp=true&qid=RxApdAuNZo&rank=1)
+1. [The History of White People](https://www.goodreads.com/book/show/6919721-the-history-of-white-people)
+1. [They Were Her Property: White Women as Slave Owners in the American South](https://www.goodreads.com/book/show/40887375-they-were-her-property?ac=1&from_search=true&qid=hpCcgRkOGN&rank=1)
 
 There's also lots of propaganda around the 'privilege' of being part of a state (as long as you've achieved sufficient status within that state). If you sometimes find status games de-dignifying, read:
 
-1. Against the Grain: A Deep History of the Earliest States](https://www.amazon.com/Against-Grain-History-Earliest-States/dp/0300182910)
-1. seeing like a state: how certain schemes to improve the human condition have failed](https://www.amazon.com/Seeing-Like-State-James-C-Scott-audiobook/dp/B07D2HZXB4/ref=sr_1_1?crid=2FHVDG0449OQY&keywords=seeing+like+a+state&qid=1698414800&s=books&sprefix=seeing+like+a+sta%2Cstripbooks%2C369&sr=1-1)
+1. [Against the Grain: A Deep History of the Earliest States](https://www.amazon.com/Against-Grain-History-Earliest-States/dp/0300182910)
+1. [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/Seeing-Like-State-James-C-Scott-audiobook/dp/B07D2HZXB4/ref=sr_1_1?crid=2FHVDG0449OQY&keywords=seeing+like+a+state&qid=1698414800&s=books&sprefix=seeing+like+a+sta%2Cstripbooks%2C369&sr=1-1)
 
 Aver reading some of, or all of, these books, you'll be able to more naturally engage in de-shaming thought patterns, and might be able to find a bit more peace inside your own mind, a sense of solace from the 'toxic inner critic', or 'colonizer's voice' that our parents often force into our heads at a tender age.
+
+## Recognizing coercion
+
+Coercion is often rooted in entitlement. If there's a power dynamic involved, it devolves into abuse or neglect. Can be salient. Mixed in with coercion are often beliefs about authority, obedience, 'the right way to do it'. 
+
+
+- [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://www.goodreads.com/en/book/show/29363252-conflict-is-not-abuse)
+- [The Verbally Abusive Relationship: How to Recognize It and How to Respond](https://www.goodreads.com/book/show/402366.The_Verbally_Abusive_Relationship)
+- [list of characteristics of white supremacy cultur (pdf)](https://www.whitesupremacyculture.info/uploads/4/3/5/7/43579015/okun_-_white_sup_culture.pdf)
 
 ## Emotionality and gender issues 
 
 
-I'm not sure how to introduce these books. In my opinion, it's easy to say they're essential reading if you find yourself to be a women (or female-passing, or feminine, or not sporting a penis) in the modern world. Read the list, you might see why I say this:
+I'm not sure how to introduce these books. In my opinion, it's easy to say they're essential reading if you find yourself to be a women (or female-passing, or feminine, or not sporting a penis) in the modern world. 
 
-- [Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power](https://www.amazon.com/Emotional-Labor-Invisible-Shaping-Lives-ebook/dp/B09XL76CVF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698414876&sr=1-1)
+Really, though, I see it as 'systemic ways that the hierarchical power structure + violence common in the world known as patriarchy hurts everyone, here's how to recognize it and ways to try to respond'.
+
+Read the list, you might see why I say this:
+
 - [Invisible Women: Data Bias in a World Designed for Men](https://www.amazon.com/Invisible-Women-Data-World-Designed-ebook/dp/B07N1N6VKT/ref=sr_1_1?crid=1INU1SSL2WTSO&keywords=invisible+women&qid=1698414937&s=digital-text&sprefix=invisible+w%2Cdigital-text%2C607&sr=1-1)
 - [Women Don't Ask: Negotiation and the Gender Divide](https://www.amazon.com/Women-Dont-Ask-Negotiation-Gender-ebook/dp/B08CR5GGZL/ref=sr_1_1?crid=3NDIVA561FH2R&keywords=women+don%27t+ask&qid=1698414974&s=digital-text&sprefix=women+don%27t+a%2Cdigital-text%2C369&sr=1-1)
 
@@ -152,9 +163,9 @@ If you have women in your life, that you care about, these books might put you i
 
 ----------------------------
 
-_uggg even using english dictates a certain frame on gender issues. I dislike anything that feels like [frame control](https://knowingless.com/2021/11/27/frame-control/)._
+_uggg even using english dictates a certain frame on gender issues. I dislike anything that feels like [frame control](https://knowingless.com/2021/11/27/frame-control/), and things that sound like fabricated conflict._
 
-_a lot of 'modern stuff' feels distinctly american, and what happens when settler colonialism + nobility/purity culture gets 'buried' or hidden in something like intellectualism, over-intellectualism, self justification._
+_a lot of 'modern stuff' feels distinctly american, and what happens when settler colonialism + nobility/purity culture gets 'buried' or embedded in something like intellectualism, over-intellectualism, self justification._
 
 _Something that is undoubtedly true is 'supremacy/oppressor cultures are entirely devoid, necessarily, of the capacity to recognize and hold space for grief visible in the world around them, else they would necessarily self-correct_'[^her_property]
 
@@ -162,9 +173,11 @@ _Something that is undoubtedly true is 'supremacy/oppressor cultures are entirel
 
 _or, supremacy culture is institutionalized emotional trauma, cptsd + an embodied belief in the legitimacy of authority/political authority_
 
-Not sure how to introduce this post, other than... it's worth a read: [Three Hundred Ways It Can Hurt to Be a Man — Introduction](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to). 
+Not sure how to introduce this post, other than... it's long, but might be worth a skim: [Three Hundred Ways It Can Hurt to Be a Man — Introduction](https://elodes.substack.com/p/three-hundred-ways-it-can-hurt-to). 
 
-The way power dynamic exploitation gets encoded in certain male-ish 'norms' in culture is brutal. Self-sabotaging, all the way down. I only recently found a book written in 2006 titled: [Self-Made Man: One Woman's Year Disguised as a Man](https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised/dp/0143038702). It was an instant download-and-read. 
+The way power dynamic exploitation gets encoded in certain american/western/male-ish 'norms' in culture is brutal. I only recently found a book written in 2006 titled: [Self-Made Man: One Woman's Year Disguised as a Man](https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised/dp/0143038702). It was an instant download-and-read. It shows how bad the emotional landscape is for a vast swath of people living in the USA. '[^not-normal]
+
+[^not-normal]: it's not normal, how many things are done in the USA. That a settler-colonialist mindset baked into social structures would have many harmful, visible effects on a society is a given. men/women dynamics. parent/child. authority/obedient, nobility/peasant, english-speaking/non-english-speaking, white-passing/non-white-passing. Bleh.
 
 Also, to overly-focus on _adult_ issues is a bummer. Children are an oppressed class. I thought it was self-evident to everyone, based on them having been a child, but I see now that this isn't the case - lots of adults internalize the bad things they experienced, normalize it, and push it down on the children around them. I overhear it in adult/child interactions all the time, especially now that I have a young child. 
 
@@ -172,4 +185,41 @@ I find the [taking children seriously](https://twitter.com/TCSparents) twitter a
 
 
 
+# Movies and TV Shows
 
+I was forced to watch war movies growing up, and as an adult. It is extremely rare that I am in a mood for any sort of depiction of violence in a movie. Most movies made in the USA openly support statist, militaristic, imperialistic narratives. I did a lot of long flights in the last year, watched/observed many different movies being watched around me. Even kids movies feature, regularly, jaw-dropping amounts of violence. Gotta start the propaganda young! 
+
+Here's some things I've watched, enjoyed, would re-watch. This list will probably grow with time.
+
+## Anything/Everything by Studio Ghibli
+
+I didn't even hear of Studio Ghibli until I was quite old, and am now happily working on watching [the entire 25 piece anthology](https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films). I've seen maybe half. As you might imagine, there's lots Eden loves about these shows.
+
+Studio Ghibli is a production studio that made animated movies, starting in 1984, based in Japan. It's refreshingly non-western. 
+
+Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. I prefer them in the original japanese, with english subtitles. Sometimes I'll tell Eden what's being said, when we're watching together, if she wants me to, and we're watching together. 
+
+HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture: The Nature and Future of Creativity](https://www.goodreads.com/book/show/72011.Free_Culture), thus after suffering through HBO max and forced english dubs and UI changes for a while, I 'gave up' and torrented at least some of the entire collection, so I can have fine-grained control over subtitles and audio tracks via [vlc](https://www.videolan.org/vlc/), and didn't have to navigate crappy smart TV menus again. 
+
+I usually look up the movie on Wikipedia before I watch it, to help contextualize/orient myself to time/place/context in which the movie was created. 
+
+------------
+
+[The way of the househusband (20 Non–Violent Anime Series That Are Highly Addictive)](https://movieweb.com/non-violent-anime-series-that-are-highly-addictive/#the-way-of-the-househusband-2021)
+
+
+[The U.S. and the Holocaust](https://kenburns.com/films/the-u-s-and-the-holocaust/) Documentary by Ken Burns, I watched via Amazon Prime Video. Vast swaths of the US population, and the world, openly supported hitler in his supremacist ethnic cleansing of 'his' lands. _he openly approved of how the native, black, and homosexual populations in the USA were 'being handled' by the american people. (ethnic cleansing, ethnic cleansing, and trait cleansing, respectively, via all possible means of social control). 
+
+He said things like:
+
+> Our Danube is like their Missisisppi!
+
+referring to the american expulsion of native people across the mississippi, to Oklahoma. (well, [until oil was discovered there, then 'america' wanted the land back](https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(book)))
+
+Henry Ford was a HUGE fan of Hitler, and Hitler had a poster of Ford in his office! Henry Ford bought the second largest daily periodical in America and ran a 40-part, daily series about "The Jewish Problem"!!!!!! 
+
+The white people running the government of the USA, via the department of state, and other means, tried it's hardest to keep those pesky undesirables from eastern europe out of it's shores and away from it's women. If there were not so many jews stuck in germany when hitler started _really_ killing them (as he was collabing with Ford to get help in doing), less _everyone_ would have died. 
+
+"anti immigration laws" were the anvil, pinning those people in place for hitler's hammer. 
+
+Everyone was down with 'regimes of social control', and the current manifestation I've been noodling is road networks and zoning. I have stuff going at [substack](https://zoningverydifferentthanours.substack.com/), or [write about it here sometimes]({{ site.baseurl  }}tags#ethnic_cleansing ).

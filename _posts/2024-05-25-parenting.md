@@ -11,9 +11,11 @@ permalink: parenting
 issue_id: 69
 ---
 
-As many of us are or might be, I "am a parent", or I "have a child", or something like that.
+As some of us are or might be, I "am a parent", or I "have a child", or something like that.
 
-This is complex for me to write and engage with, because something that is _certainly true for all of us_ is that _we_ "have a parent" or we "have been a child". Also the status of 'child' is quite temporary _in society_, and then perhaps less so in different structures.  
+This is complex for me to write and engage with, because something that is _certainly true for all of us_ is that we "have a parent" or we "have been a child". To talk about any of it is to talk about all of it.
+
+Also the status of 'child' is quite temporary _in society_, and then perhaps less so in different structures. Also, to be a child in America is to be a member of an oppressed class. I entirely oppose the energy
 
 I think a helpful frame might be
 
