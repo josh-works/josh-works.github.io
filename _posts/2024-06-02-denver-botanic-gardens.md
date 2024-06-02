@@ -9,7 +9,7 @@ published: true
 permalink: botanic-gardens
 categories: [denver]
 tags: [cities, denver, scooting]
-issue_id: 71
+issue_id: 74
 image: /images/dbg.jpg
 ---
 
