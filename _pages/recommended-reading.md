@@ -249,7 +249,9 @@ He said things like:
 
 referring to the american expulsion of native people across the mississippi, to Oklahoma. (well, [until oil was discovered there, then 'america' wanted the land back](https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(book)))
 
-Henry Ford was a HUGE fan of Hitler, and Hitler had a poster of Ford in his office! Henry Ford bought the second largest daily periodical in America and ran a 40-part, daily series about "The Jewish Problem"!!!!!! 
+Henry Ford was a HUGE fan of Hitler, and Hitler had a poster of Ford in his office! 
+
+Henry Ford bought a newspaper with the second-highest distribution in the USA, a weekly periodical in America and ran a 90 part weekly series about "The International Jew: The World's Foremost Problem"!!!!!! 
 
 The white people running the government of the USA, + the wealthy white people not in the government, via the department of state, and other means, tried it's hardest to keep those pesky undesirables from eastern europe out of it's shores and away from it's women. If there were not so many jews stuck in germany when hitler started _really_ killing them (as he was collabing with Ford to get help in doing), less _everyone_ would have died. 
 
@@ -262,6 +264,4 @@ People that say "protect our neighborhood character" are drafting on the exact s
 They wrote books like "The Passing of the Great Race", saying "if we don't act now, and quickly, our great race will be destroyed, especially by these uncouth asiatic non-white jews!"
 
 Everyone was down with 'regimes of social control', and the current manifestation I've been noodling is road networks and zoning. I have stuff going at [substack](https://zoningverydifferentthanours.substack.com/), or [write about it here sometimes]({{ site.baseurl  }}tags#ethnic_cleansing ). 
-
-I strongly recommend []()
 
