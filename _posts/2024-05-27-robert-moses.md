@@ -17,7 +17,7 @@ _this was originally posted a few years ago, republishing as a blog post as I or
 
 Here's a big dumping ground for some resources on robert moses I've got floating around. 
 
-Obviously, this has grown to an unweildy sizy and less would be asked of you if I organized it a bit better. Instead, I invite you to click around or scroll, in particular scroll through the bottom section, #
+Obviously, this has grown to an unwieldy sizy and less would be asked of you if I organized it a bit better. Instead, I invite you to click around or scroll, in particular scroll through the bottom section, #
 
 
 ![henry hudson parkway](/images/hh_parkway.jpg)
