@@ -10,7 +10,7 @@ permalink: botanic-gardens
 categories: [denver]
 tags: [cities, denver, scooting]
 issue_id: 71
-image: images/dbg.jpg
+image: /images/dbg.jpg
 ---
 
 I recently got access to a delightful amenity, based on where I live. I've been sharing it with others as quickly as possible, because they too have access to it. 
