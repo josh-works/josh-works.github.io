@@ -10,7 +10,7 @@ permalink: robert-moses
 categories: [robert_moses]
 tags: [cities, urbanism, ethnic_cleansing]
 issue_id: 70
-image: images/mugshot.jpeg
+image: /images/hh_parkway.jpg
 ---
 
 _this was originally posted a few years ago, republishing as a blog post as I organize stuff around here._
