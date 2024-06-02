@@ -39,6 +39,8 @@ I go here by my self, with friends, with my daughter, all the time. Sometimes I 
 
 I'm writing and publishing this post from the gardens, before my laptop battery dies. 
 
+![written at the gardens](images/dbg_selfid.jpeg)
+
 # "Key Fob" Access via the Cheesman Park Gate to the Botanic Gardens
 
 It's a two-step process to get the full experience. An online purchase, then an in-person purchase.
