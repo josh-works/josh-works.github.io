@@ -45,7 +45,7 @@ I'm writing and publishing this post from the gardens, before my laptop battery 
 
 It's a two-step process to get the full experience. An online purchase, then an in-person purchase.
 
-## Become 'digital member' of the gardens
+## Step 1: Become 'digital member' of the gardens
 
 If you 'become a member' of the Denver Botanic Gardens:
 
@@ -53,13 +53,15 @@ Go to [https://www.botanicgardens.org/join-give/membership](https://www.botanicg
 
 Buy online and it's $10 less, so really $65. Renewals are less.
 
-## In person, purchase the key fob membership upgrade
+## Step 2: In person, purchase the key fob membership upgrade
 
 It's hard to find on the website, but go read here:
 
 [https://www.botanicgardens.org/membership-faq#fob-faq](https://www.botanicgardens.org/membership-faq#fob-faq)
 
 There's a service counter near the front of the gardens, tucked sort of 'behind' the Copper Door coffee shop. Go there, ask for the key fob, pay $35 for the fob, it's supposedly $15 to renew subsequent years.
+
+You'll get a little plastic key fob. Congratulations, have a wonderful time. Most days the gardens are open 8a to 8p, and that key fob seems to open the door from Cheesman even as late as 7:45p, which I didn't expect. YMMV.
 
 
 Questions? Let me know. I'll update this post as makes sense.
