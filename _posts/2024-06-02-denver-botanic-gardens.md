@@ -10,7 +10,7 @@ permalink: botanic-gardens
 categories: [denver]
 tags: [cities, denver, scooting]
 issue_id: 71
-image: images/mugshot.jpeg
+image: images/dbg.jpg
 ---
 
 I recently got access to a delightful amenity, based on where I live. I've been sharing it with others as quickly as possible, because they too have access to it. 
@@ -20,6 +20,14 @@ From here on out, when I reference "botanic gardens" or "the gardens", I'm refer
 The purchases are for a year, so it works out to $100/year. Botanic Gardens have colonialist origins, and have generally been reserved as a privilege for economic elites. 
 
 If you end up getting a key fob let me know and we'll go on a walk and I'll rant more about it _then_. 
+
+Here's where the gate is, some spots to sit when the weather is nice/not as nice:
+
+![dbg](images/dbg.jpg)
+
+The lines are where I've ridden my scooter/walked while running Strava. Long story, here's a starting point: [https://josh.works/mobility-data](https://josh.works/mobility-data)
+
+
 
 ## How I use them
 
