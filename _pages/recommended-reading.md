@@ -112,6 +112,14 @@ I was raised in a a high-control religious cult. Similar to: [Under Pressure: Wh
 
 It's a form of emotional or mental colonialism, supplanting the will/social attitude that _was_ there (or would otherwise be there) with something preferred by the authorities.
 
+Certain people tried intensely to replicate their way of thinking/being in others:
+
+- [The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World](https://www.goodreads.com/book/show/53054943-the-jakarta-method)
+- [Blowback: The Costs and Consequences of American Empire](https://www.goodreads.com/book/show/40709.Blowback)
+- [The Sorrows of Empire: Militarism, Secrecy, and the End of the Republic](https://www.goodreads.com/book/show/40718.The_Sorrows_of_Empire)
+
+the above three books are about american empire, very worth reading, but helps understand the propaganda common throughout the existence of american institutions.
+
 The tooling for installing the 'package' was physical assault, abandonment, or later shame and threats, along with subtle presence and absence of warmth-approximating attitudes. 
 
 Figuring out how to repair the damage isn't trivial. To that end, here's some books, about Evangelicalism, whiteness, colonialism, and _the willingness to coerce_.
@@ -264,4 +272,6 @@ People that say "protect our neighborhood character" are drafting on the exact s
 They wrote books like "The Passing of the Great Race", saying "if we don't act now, and quickly, our great race will be destroyed, especially by these uncouth asiatic non-white jews!"
 
 Everyone was down with 'regimes of social control', and the current manifestation I've been noodling is road networks and zoning. I have stuff going at [substack](https://zoningverydifferentthanours.substack.com/), or [write about it here sometimes]({{ site.baseurl  }}tags#ethnic_cleansing ). 
+
+
 
