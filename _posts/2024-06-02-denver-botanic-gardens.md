@@ -17,15 +17,15 @@ I recently got access to a delightful amenity, based on where I live. I've been 
 
 From here on out, when I reference "botanic gardens" or "the gardens", I'm referencing the Denver Botanic Gardens, next to Cheesman park.
 
-The purchases are for a year, so it works out to $100/year. Botanic Gardens have colonialist origins, and have generally been reserved as a privilege for economic elites. 
+The purchases are for a year, so it works out to $100/year. Botanic gardens as a thing have colonialist origins, so there's some total downsides to these particular gardens and what they represent. Also, they were built on a mass grave, and have generally been reserved as a privilege for economic elites. If you end up getting a key fob let me know and we'll go on a walk and I'll rant more about it _then_.  ¯\\\_(ツ)_/¯
 
-If you end up getting a key fob let me know and we'll go on a walk and I'll rant more about it _then_. 
+I'm happy to get this great tool/amenity into the hands of the everyperson in Denver. I've shared this info with others I live near, but manually cutting/pasting links via SMS isn't super efficient. Now this page serves as a reference for all.
 
 Here's where the gate is, some spots to sit when the weather is nice/not as nice:
 
 ![dbg](images/dbg.jpg)
 
-The lines are where I've ridden my scooter/walked while running Strava. Long story, here's a starting point: [https://josh.works/mobility-data](https://josh.works/mobility-data)
+The lines are where I've ridden my scooter/walked while running Strava. Long story, here's a starting point: [https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=18&latlng=39.740677,%20-104.968804](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=18&latlng=39.740677,%20-104.968804)
 
 
 
