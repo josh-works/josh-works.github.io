@@ -543,7 +543,7 @@ It's like walking away from white supremacy. You don't need to prove to the whit
 [^frame-control]: 
     a refusal to leave a certain frame and try on a different one is a tactic of abuse, or at least emotional immaturity. It's a blatant refusal to try on a theory of mind of someone else. Of course white supremacists are right, if you play by their rules, because their starting assumption of the world is that 'the white race' is superior, and non-white races are inferior. If they say "prove to me that non-white people are not inferior", it's embarrassing and self-abandoning to even treat that statement with seriousness. 
 
-    More on frame control: https://knowingless.com/2021/11/27/frame-control/
+    More on frame control: [https://knowingless.com/2021/11/27/frame-control/](https://knowingless.com/2021/11/27/frame-control/)
 
 Undoubtedly you're better off, leaving this whole pile of crock behind, and nothing meaningful is lost. It's like walking away from a cult, or deciding that your friends who think the earth is flat are wrong. All you 'lose' is a mental model that causes the world to keep not making sense, and getting mysteriously lost when navigating by the stars. 
 
