@@ -43,7 +43,11 @@ Once the entering wedge of this capacity for critical self-awareness had made po
 
 But let us set aside for purposes of discussion the assumption that the righteousness of God and the righteousness of humanity are most fundamentally located on the individual level. Let us make this, instead of an axiom, a hypothesis to be tested. Let us posit as at least thinkable the alternate hypothesis that for Paul righteousness, either in God or in human beings, might more appropriately be conceived of as having cosmic or social dimensions Such larger dimensions would not negate the personal character of the righteousness God imputes to those who believe; but by englobing the personal salvation in a fuller reality they would negate the individualism with which we understand such reconciliation.
 
-Krister Stendahl set about to call this axiom into question in his article "The Apostle Paul and the Introspective Conscience of the West." Stendahl demonstrates one by one that all the constitutive elements of the classic "Luther-type experience" are missing in both the experience and the thought of the apostle. Paul was not preoccupied with his guilt and seeking the assurance of a gracious God; he was rather robust of conscience and untroubled about whether God was gracious or not. He never pleads either with Jews or Gentiles to feel an anguished conscience and then receive release from that anguish in a message of forgiveness.
+Krister Stendahl set about to call this axiom into question in his article "[The Apostle Paul and the Introspective Conscience of the West](https://static1.squarespace.com/static/569543b4bfe87360795306d6/t/5a4d41fa085229a032376713/1515012617149/01Stendahl.pdf)." '[^excellent-paper]
+
+[^excellent-paper]: I found this paper ([The Apostle Paul and the Introspective Conscience of the West (pdf)](https://static1.squarespace.com/static/569543b4bfe87360795306d6/t/5a4d41fa085229a032376713/1515012617149/01Stendahl.pdf)) to be excellent, I've read it four or five times over the years, _it has changed my soul_, would strongly endorse. 
+
+Stendahl demonstrates one by one that all the constitutive elements of the classic "Luther-type experience" are missing in both the experience and the thought of the apostle. Paul was not preoccupied with his guilt and seeking the assurance of a gracious God; he was rather robust of conscience and untroubled about whether God was gracious or not. He never pleads either with Jews or Gentiles to feel an anguished conscience and then receive release from that anguish in a message of forgiveness.
 
 Second, Paul's understanding of the meaning of Hebrew law as taught is not that its function was to make people know their guilt, to prepare listeners for the message of forgiveness by deepening their awareness of their sinfulness. The law was rather a gracious arrangement the arrival of the Messiah. It is true that, once present, law makes its made by God for ordering the life of his people while they were awaiting opposite, sin, more visible; but that is not its first purpose nor its primary effect for the believer.
 
@@ -89,17 +93,39 @@ Barth has thus confirmed, beginning his analysis from another direction and deal
 
 ## The "New Creature" (This section is what I wanted to share around - it's the reason I copied down all of chapter 11)
 
-If there is any one biblical text that focuses for lay understanding the individualism of the Pietist heritage it is the statement of 2 Corinthians 5:17: "If anyone be in Christ he is a new creature" (AV). It has seemed self-evident that we were being promised here, overlapping with the language of a new birth (John 3:5-6), a metaphysical or ontological transformation of the individual person. The miracle of being made a new person has been promised in evangelistic proclamation and has served in turn to illuminate traditional understandings of the rootage of Christian social concern. It is because only a transformed individual will behave differently that some kinds of social activism are fruitless; it is because a transformed individual will definitely behave differently that the preaching of the gospel to individuals is the surest way to change society.
+If there is any one biblical text that focuses for lay understanding the individualism of the Pietist heritage it is the statement of 2 Corinthians 5:17: 
+> If anyone be in Christ _he is_ a new creature" (AV). 
 
-It is not the concern of the present study to deny that such a thrust has had a wholesome corrective impact in certain contexts in the history of Protestant thought and Protestant church life. Like Stendahl, we may concede a certain usefulness to nonbiblical thought patterns. Nor are we setting aside the "new birth" imagery of John 3 or parallel themes elsewhere. Our question is only whether this is what _Paul_ is saying in _this_ text. This becomes extremely doubtful when we look more carefully at the text itself.
+It has seemed self-evident that we were being promised here, overlapping with the language of a new birth (John 3:5-6), a metaphysical or ontological transformation of the individual person. 
 
-As the italics in the AV indicate, the words "he is" are not in the original text. Now it can regularly be necessary to add the English "is" in order to make clear a predication which in the Greek requires no copulative verb. But to add "he" (or "she"), thereby identifying an antecedent in the previous clause, is quite another matter. It is grammatically not impossible to reach back to the "anyone" earlier in the verse as the understood subject of this predication; but that is not the only interpretation, and others should be tried first.
+The miracle of being made a new person has been promised in evangelistic proclamation and has served in turn to illuminate traditional understandings of the rootage of Christian social concern. 
 
-A second shortcoming of this traditional interpretation of "the new creature" as the transformed individual personality is that the word _ketisis_, here translated "creature" or "creation," is not used elsewhere in the New Testament to designate the individual person. It in fact most often is used to designate not the object of creation but rather the act of creating (e.g., Rom. 1:20), "from the creation of the world." Secondarily it may mean the entire universe (Mark 16:15; Col. 1:15, 24; Rom. 8:19-22; Heb. 9:11). The single reference to "human creation refers to social institutions (1 Pet. 2:13). In the one other place where the phrase "new creation" is used, it is quite parallel to the "new humanity" of Ephesians 2:15, not a renewed individual but a new social reality, marked by the overcoming of the Jew/Greek barrier; "neither circumcision nor uncircumcision but a new creation" (Gal. 6:15).10
+It is because only a transformed individual will behave differently that some kinds of social activism are fruitless; it is because a transformed individual will definitely behave differently that the preaching of the gospel to individuals is the surest way to change society.
 
-Putting together these strictly linguistic observations, it becomes enormously more probable that we should lean to the kind of translation favored by the more recent translators; literally, "if anyone is in Christ, new is creation," or more smoothly, "there is a whole new world" (NEB). The accent lies not on transforming the ontology of the person (to say nothing of transforming his or her psychological or neurological equipment) but on transforming the perspective of one who has accepted Christ as life context.
+It is not the concern of the present study to deny that such a thrust has had a wholesome corrective impact in certain contexts in the history of Protestant thought and Protestant church life. 
 
-This is certainly the point of the rest of the passage in question. Paul is explaining why he no longer regards anyone from the human point of view;11 why he does not regard Jew as Jew or Greek as Greek, but rather looks at every person in the light of the new world which begins in Christ. "The old has passed away, behold the new has come," is a social or historical statement, not an introspective or emotional one.
+Like Stendahl, we may concede a certain usefulness to nonbiblical thought patterns. Nor are we setting aside the "new birth" imagery of John 3 or parallel themes elsewhere. 
+
+Our question is only whether this is what _Paul_ is saying in _this_ text. This becomes extremely doubtful when we look more carefully at the text itself.
+
+As the italics in the AV indicate, the words "he is" are not in the original text. Now it can regularly be necessary to add the English "is" in order to make clear a predication which in the Greek requires no copulative verb. But to add "he" (or "she"), thereby identifying an antecedent in the previous clause, is quite another matter. 
+
+It is grammatically not impossible to reach back to the "anyone" earlier in the verse as the understood subject of this predication; but that is not the only interpretation, and others should be tried first.
+
+A second shortcoming of this traditional interpretation of "the new creature" as the transformed individual personality is that the word _ketisis_, here translated "creature" or "creation," is not used elsewhere in the New Testament to designate the individual person. It in fact most often is used to designate not the object of creation but rather the act of creating (e.g., Rom. 1:20), "from the creation of the world." 
+
+Secondarily it may mean the entire universe (Mark 16:15; Col. 1:15, 24; Rom. 8:19-22; Heb. 9:11). 
+
+The single reference to "human creation refers to social institutions (1 Pet. 2:13). 
+
+In the one other place where the phrase "new creation" is used, it is quite parallel to the "new humanity" of Ephesians 2:15, not a renewed individual but a new social reality, marked by the overcoming of the Jew/Greek barrier; "neither circumcision nor uncircumcision but a new creation" (Gal. 6:15).10
+
+Putting together these strictly linguistic observations, it becomes enormously more probable that we should lean to the kind of translation favored by the more recent translators; literally, "if anyone is in Christ, new is creation," or more smoothly, "there is a whole new world" (NEB). '[^money-shot]
+[^money-shot]: this particular sentence hit hard when I first read it.
+
+The accent lies not on transforming the ontology of the person (to say nothing of transforming his or her psychological or neurological equipment) but on transforming the perspective of one who has accepted Christ as life context.
+
+This is certainly the point of the rest of the passage in question. Paul is explaining why he no longer regards anyone from the human point of view; why he does not regard Jew as Jew or Greek as Greek, but rather looks at every person in the light of the new world which begins in Christ. "The old has passed away, behold the new has come," is a social or historical statement, not an introspective or emotional one.
 
 ## To the Jew First but Also to the Greek
 

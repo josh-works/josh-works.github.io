@@ -31,11 +31,15 @@ The lines are where I've ridden my scooter/walked while running Strava. Long sto
 
 ## How I use them
 
-I can take about 3 minutes on my scooter to ride from where I live to where I park my scooter right next to the gate into the gardens from Cheesman. 
+I can take about 3 minutes on my scooter to ride from where I live to where I park my scooter right next to the gate into the gardens from Cheesman. I can easily walk and often do, or bring Eden - it's far enough that a stroller or jogger is best for everyone, too far for her to walk unaided, and lots of the walking is crossing dangerous streets, unfortunately.
 
-Lots of people walk to them, or ride their bike. It's virtually inaccessible via car, so I only endorse this plan if you don't plan on ever driving.
+_but once you're close enough to the gardens, it's lovely_
 
-I go here by my self, with friends, with my daughter, all the time. Sometimes I bring a frisbee and toss for a few minutes outside the gardens. I bring a kindle and laptop and pack a lunch and buy an espresso at a cafe and have a grand ol' time.
+In the winter, there's a 'conservatory' that stays warm and humid. In the summer, there's cool spaces. 
+
+Lots of people walk to them, or ride their bike. It's not super accessible via car, so I reserve my strongest endorsement for this plan only if you don't plan on ever driving.
+
+I go here by my self, with friends, with my daughter, all the time. Sometimes I bring a frisbee and toss for a few minutes outside the gardens, if I'm there with friends. I might bring a kindle and laptop and pack a lunch and buy a $1.80 espresso at a cafe and work for a bit.
 
 I'm writing and publishing this post from the gardens, before my laptop battery dies. 
 
