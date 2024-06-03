@@ -39,7 +39,7 @@ Here's [an exceprt of _The Power Broker_, chapter 30]({{ site.baseurl }}{% link 
 
 ## Making hard-to-see data visible
 
-What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding and rendering it on this map: [https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=15&latlng=18.785264,%2098.992305](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=15&latlng=18.785264,%2098.992305)
+What started as tracking marathon training eventually grew to me now tracking *most* of my scooter-riding and rendering it on this map: [https://joshs-mobility-data-54dab943ebba.herokuapp.com/](https://joshs-mobility-data-54dab943ebba.herokuapp.com/)
 
 Click over, and then zoom out. You'll be entertained!
 
