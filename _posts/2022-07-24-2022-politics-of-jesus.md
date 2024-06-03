@@ -98,11 +98,11 @@ If there is any one biblical text that focuses for lay understanding the individ
 
 It has seemed self-evident that we were being promised here, overlapping with the language of a new birth (John 3:5-6), a metaphysical or ontological transformation of the individual person. 
 
-The miracle of being made a new person has been promised in evangelistic proclamation and has served in turn to illuminate traditional understandings of the rootage of Christian social concern. 
+The miracle of being made a new person has been promised in evangelistic proclamation and has served in turn to illuminate traditional understandings of the roots of Christian social concern. 
 
-It is because only a transformed individual will behave differently that some kinds of social activism are fruitless; it is because a transformed individual will definitely behave differently that the preaching of the gospel to individuals is the surest way to change society.
+[they say that] it is because "only a transformed individual will behave differently" that some kinds of social activism are fruitless; it is because "a transformed individual will definitely behave differently" that the preaching of the gospel to individuals is the surest way to change society.
 
-It is not the concern of the present study to deny that such a thrust has had a wholesome corrective impact in certain contexts in the history of Protestant thought and Protestant church life. 
+It is not the concern of the present study to deny that such a thrust has had a wholesome, corrective impact in certain contexts in the history of Protestant thought and Protestant church life. 
 
 Like Stendahl, we may concede a certain usefulness to nonbiblical thought patterns. Nor are we setting aside the "new birth" imagery of John 3 or parallel themes elsewhere. 
 
