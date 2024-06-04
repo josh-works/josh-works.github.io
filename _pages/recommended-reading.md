@@ -10,11 +10,13 @@ I've read many books over the years. Thousands. Here's a few that I find myself 
 
 _the list you are about to read is heavily reworked, based off this older list: [josh.works/recommended-reading-original-list]({{ site.baseurl  }}{% link _posts/2018-05-17-recommended_reading_original_list.md %})_
 
-These are the books I cannot un-read, which shape me today. Many of the books are "difficult". I often tell people I'm a slut for books - I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it? Can I sift and find something, _anything_ that is helpful to me? That increases my understanding or imagination, or is an engaging-enough story?
+These are the books I cannot un-read, which shape me today. 
 
-If I can, I'm pleased with the experience. I can read English texts quickly, by the way. 
+I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it? Can I sift and find something, _anything_ that is helpful to me? That increases my understanding or imagination, or is an engaging-enough story?
 
-I don't sound out individual words, nor do I sound _any_ words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has. I can capture large fractions of lines of text 'at once' and process a page quite fast. Not everyone reads quickly, obviously. Literacy and hyper-literacy are... complicated. 
+If I can, I'm pleased with the experience. I can read English texts quickly, by the way.'[^fast-reading]
+[^fast-reading]: I don't sound out individual words, nor do I sound _any_ words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has. I can capture large fractions of lines of text 'at once' and process a page quite fast. Not everyone reads quickly, obviously. Literacy and hyper-literacy are... complicated. 
+
 
 Anyway, plunge into a book only if reading seems pleasant-enough to make the effort worthwhile. No sweat either way, you'll get a sense of some things just by surfing book titles, I'm 'just' surfacing a list, one or two of which might catch your eye, and if it does and you click through to amazon or good reads or the library and find a review that seems 🤓🧐 and you have a nice few hours of reading, congrats to us both. 🎉
 
