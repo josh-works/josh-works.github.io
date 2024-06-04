@@ -132,7 +132,7 @@ The tooling for parents to install social control 'packages' was physical assaul
 
 Figuring out how to repair the damage isn't trivial. To that end, here's some books, about Evangelicalism, whiteness, colonialism, and _the willingness to coerce_.
 
-It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (😬) that evangelicals support slave patrol, and 'patrol energy'. It's very perceivable in home environments in ways that land as shocking to those who had alternative experiences. Myself and many others often find a 'self-policing inner narrative' or 'the masters gaze' following us around. It's worth tying it straight back to the colonial 'tool' of social control, the [conceptual compression]({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %}) is best in that framing.
+It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (😬) that evangelicals support slave patrols, and 'patrol energy'. It's very perceivable in home environments in ways that land as shocking to those who had alternative experiences. Myself and many others often find a 'self-policing inner narrative' or 'the masters gaze' following us around. It's worth tying it straight back to the colonial 'tool' of social control, the [conceptual compression]({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %}) is best in that framing.
 
 When the white, slave-holding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
 
@@ -140,15 +140,15 @@ The role of a slave patrol in a slaving society was to harass the majority popul
 
 A dog maiming the legs of an 'uppity' slave, or a load of birdshot fired across the arms of a slave that wasn't sufficiently deferential, would leave scars, and a limp, and a maimed countenance, and any _other_ slave that saw the scars would know what had happened, and what might happen again.
 
-In some counties in the slave-holding american south, 15% was white, 85% was black. The white people were _terrified_ of the threat of the slaves accruing power to themselves and taking action to improve their situation.
+In some counties in the slave-holding american south, 15% was white, 85% was black. The white people were _terrified_ of the threat of the slaves accruing power to themselves and taking action to improve their situation. [Toussaint L'Ouverture and the San Domingo Revolution](https://www.goodreads.com/book/show/775985.The_Black_Jacobins) is a sobering read to help calibrate on the sort of tension that was in the air. 
 
 The attitudes these white people had towards their slaves morphed and changed over time, but still persist today, and are partially forced into the minds of all children, especially with religious dogma and shame. 
 
-For example, a common statement/belief by some european settler colonialists was: 
+For example, a common statement/belief/after-the-fact intellectual-justification for slavery by some european settler colonialists was: 
 
 > God placed the white man over the black man _for the benefit of the black man_
 
-this belief, plus the belief in the concept of authority, led to white people getting mad at black people when the black people _didn't act thankful_ for the white man's domination. 
+this embodied belief, plus the belief in the concept of authority, led to white people pretending to "get mad" at black people when the black people _didn't act thankful_ for the white man's domination. 
 
 Please see, again, Samuel Cartwright's stunning contribution to the psychological sciences with [Drapetomania](https://en.wikipedia.org/wiki/Drapetomania)
 
