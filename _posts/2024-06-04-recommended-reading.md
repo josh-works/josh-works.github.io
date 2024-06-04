@@ -110,7 +110,7 @@ What counts as a good-enough relationship with others, at various developmental 
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary-ebook/dp/B00HZ1E5BM/ref=sr_1_1?crid=1W733XLM0RA2Z&keywords=parenting+from+the+inside+out&qid=1698413876&s=digital-text&sprefix=parenting+from+the+%2Cdigital-text%2C344&sr=1-1)
 - [The Adult Children of Emotionally Immature Parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
 
-### parsing yours/others religious abuse/shame, and the vast overlap with the conditions fostering colonialism
+## parsing yours/others religious abuse/shame, and the vast overlap with the conditions fostering colonialism
 
 I was raised in a a high-control religious cult. Similar to: [Under Pressure: What is it like to be child in a Religious Authoritarian home?](https://strongwilled.substack.com/p/chapter-2-under-pressure)
 
@@ -160,7 +160,7 @@ These kinds of people are dangerous to the children that they raise, the people 
 
 That means, though, that when you want to undo some of the damage they did to your soul, it's best to 'go to the source' and see what kinds of things white people said about their own domination when they were not embarrassed or ashamed by it, but actively colluded with other white people to further their domination over their victims. 
 
-#### the books that might aid in deconstructing religious/cultural shame
+## the books that might aid in deconstructing religious/cultural shame
 
 To that end, consider reading any the following, if they look interesting to you:
 
@@ -233,13 +233,13 @@ I find the [taking children seriously](https://twitter.com/TCSparents) twitter a
 
 I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (can't play in streets. compulsory school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
 
-# Movies and TV Shows
+## Movies and TV Shows
 
 I was forced to watch war movies growing up, and as an adult. It is extremely rare that I am in a mood for any sort of depiction of violence in a movie. Most movies made in the USA openly support statist, militaristic, imperialistic narratives. I did a lot of long flights in the last year, watched/observed many different movies being watched around me. Even kids movies feature, regularly, jaw-dropping amounts of violence. Gotta start the propaganda young! 
 
 Here's some things I've watched, enjoyed, would re-watch. This list will probably grow with time.
 
-## Anything/Everything by Studio Ghibli
+### Anything/Everything by Studio Ghibli
 
 I didn't even hear of Studio Ghibli until I was quite old, and am now happily working on watching [the entire 25 piece anthology](https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films). I've seen maybe half. As you might imagine, there's lots Eden loves about these shows.
 
