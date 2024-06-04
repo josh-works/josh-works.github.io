@@ -15,12 +15,20 @@ I have small and large projects that have worked, and failed. I have learned fro
 
 [^learn]: Technically, we all optomize for something like learning, and [when we're doing so in a healthy way, we're having a really good time](https://josh.works/driven-by-compression-progress-novelty-humor-interestingness-curiosity-creativity). 
 
+## Explaining that there are alterative land use governance models
+
+[Zoning Very Different Than Hours (substack)](https://zoningverydifferentthanours.substack.com/)
+
+
+Perhaps start at the introduction:
+
+👉 [Zoning Very Different Than Ours: Introduction](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
+
 ### Useful Book Advocate
 
-I read a lot, and have various lists floating around. I've not figured out the One True List for myself yet, but there you go. 
+I read a lot, and have various lists floating around. I've not figured out the One True List for myself yet, but here's some stand-outs: 
 
 📚📖📓👨🏻‍🏫 👉 [josh.works/recommended_reading]({{ site.baseurl  }}{% link _posts/2024-06-04-recommended-reading.md %})
-
 
 
 ### Robert Moses Hype Man
@@ -31,7 +39,7 @@ The best starting point is an incredible book titled "The Power Broker: Robert M
 
 I wrote a page about him, and some quotes from the book, here:
 
-👉 [Indulge me for a minute while I try to convince you to spend a few minutes deciding if you'll read this book or not](https://josh.works/robert-moses)
+👉 [Robert Moses is a useful conceptual compression for most features of american municipalities, land development, mobility networks, and more](https://josh.works/robert-moses)
 
 If I'm ever talking about parking, zoning, car culture, or urban renewal in America, I'm channeling knowledge and strongly-felt feelings about Robert Moses. He's shaped more of my and your day-to-day than anyone else I'm aware of. He's single-handedly responsible for systems that led to the car you drive and the roads you drive upon within the USA, and he's affected lots of roads outside the USA too.
 
@@ -46,12 +54,6 @@ Click over, and then zoom out. You'll be entertained!
 It's a little mix of python/flask + writing/reading Strava activity data + maps. It's a lot of data, I _promise_ you've not seen something like it before. 
 
 👉 [A all-at-once global rendering of 3+ years of Josh's mobility data, rendered at an insanely detailed scale](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=12&latlng=39.731482,%20-105.064316)
-
-## Explaining that there are alterative land use governance models
-
-Of course, it's a substack:
-
-👉 [Zoning Very Different Than Ours](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
 
 ## 'gardening'-esque projects around Golden, Colorado
 
