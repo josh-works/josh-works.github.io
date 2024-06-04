@@ -19,7 +19,7 @@ I have small and large projects that have worked, and failed. I have learned fro
 
 I read a lot, and have various lists floating around. I've not figured out the One True List for myself yet, but there you go. 
 
-📚📖📓👨🏻‍🏫 👉 [josh.works/recommended_reading]({{ site.baseurl  }}{% link _pages/recommended-reading.md %})
+📚📖📓👨🏻‍🏫 👉 [josh.works/recommended_reading]({{ site.baseurl  }}{% link _posts/2024-06-04-recommended-reading.md %})
 
 
 
