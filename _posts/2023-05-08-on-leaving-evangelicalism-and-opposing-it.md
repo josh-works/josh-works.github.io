@@ -4,7 +4,7 @@ title:  "On Leaving Evangelicalism And Opposing It"
 description: "A Three-year journey from inside evangelicalism to firmly outside of it"
 date:  2023-05-18 06:00:00 -0700
 categories: [theology]
-tags: [evangelicalism, jesus_christ, christianity, books]
+tags: [evangelicalism, jesus_christ, books]
 permalink: on-leaving-evangelicalism
 image: /images/title_image.jpg
 issue_id: 64 

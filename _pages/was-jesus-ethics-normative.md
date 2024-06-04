@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Was Jesus' behavior normative?"
-description: "description about this post"
+title:  "Was Jesus' behavior normative? (Quotes from 'The Politics of Jesus')"
+description: "Thoughts about, and quotes from, a great book"
 date:  2020-12-04 06:00:00 -0700
 crosspost_to_medium: false
 categories: [ethics]
-tags: [anabaptists, politics_of_jesus]
+tags: [anabaptists, politics_of_jesus, ethics, evangelicalism]
 permalink: was-jesus-ethics-normative
 image: /images/title_image.jpg
 ---

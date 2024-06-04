@@ -1,12 +1,16 @@
 ---
-layout: page
+layout: post
 title: Recommended Reading
 published: true
 description: "There's much more to life than books, but if you're going to read some, here's a spot to start"
+date:  2025-06-04 06:00:00 -0700
+categories: [books]
+tags: [books]
 permalink: /recommended-reading
 ---
 
-I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending often. Periodically, I refresh this list. It's changed over the years years.
+
+I've read many books over the years. Thousands. Here's a few that I find myself referencing/recommending.Periodically, I refresh this list. It's changed over the years years.
 
 _the list you are about to read is heavily reworked, based off this older list: [josh.works/recommended-reading-original-list]({{ site.baseurl  }}{% link _posts/2018-05-17-recommended_reading_original_list.md %})_
 
@@ -14,34 +18,16 @@ These are the books I cannot un-read, which shape me today.
 
 I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it? Can I sift and find something, _anything_ that is helpful to me? That increases my understanding or imagination, or is an engaging-enough story?
 
-If I can, I'm pleased with the experience. I can read English texts quickly, by the way.'[^fast-reading]
-[^fast-reading]: I don't sound out individual words, nor do I sound _any_ words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has. I can capture large fractions of lines of text 'at once' and process a page quite fast. Not everyone reads quickly, obviously. Literacy and hyper-literacy are... complicated. 
+If I can, I'm pleased with the experience. I can read English texts quickly, by the way. [^fast-reading]
 
+[^fast-reading]: I don't sound out individual words, nor do I sound _any_ words out, in my head, as I read. I also experience my own inner world similar to the author of [this post about aphantasia](https://www.facebook.com/notes/2862324277332876/). I read for content and information without a single image passing through my imagination. I only recently learned that this is not the same experience everyone has. I can capture large fractions of lines of text 'at once' and process a page quite fast. Not everyone reads quickly, obviously. Literacy and hyper-literacy are... complicated. 
 
 Anyway, plunge into a book only if reading seems pleasant-enough to make the effort worthwhile. No sweat either way, you'll get a sense of some things just by surfing book titles, I'm 'just' surfacing a list, one or two of which might catch your eye, and if it does and you click through to amazon or good reads or the library and find a review that seems 🤓🧐 and you have a nice few hours of reading, congrats to us both. 🎉
 
 I also used a [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-16-GB-adjustable/dp/B09TMZKQR7) with a nice magnetic cover (easy to transport, read while waiting around, I carry it in my purse/hip bag/fanny pack), and am pretty good with my library card/Libby, and enjoy reading for sometimes purely dissociative purposes. 
 
-This isn't a homework list, consider it to be a menu of potentially delicious entries, and IF any of them seem suitably energizing to you, choose them. This list is not organized in any particular way.
+This list is categorized in no particular order.
 
-## General food things
-
-Did you know mitochondria constitute _half_ the dry weight of your body? The little high-school biochem drawings are also wrong - for some cells, mitochondria make up 2/3rds non-nucleic volume! I wasn't aware.
-
-- [Tripping Over The Truth](https://www.goodreads.com/en/book/show/23496164)
-- [The Case Against Sugar](https://www.goodreads.com/book/show/29874881-the-case-against-sugar)
-- [Eating Animals](https://www.goodreads.com/book/show/6604712-eating-animals)
-- [It Starts With The Egg](https://www.goodreads.com/book/show/21782260-it-starts-with-the-egg)
-
-For me, the grand conclusion of most of these books: 
-
-most days I mostly eat some sauted mushrooms, brocoli, zucchini, sardines, eggs, almonds, s&p, evoo, kimchi, sometime in the early afternoon, first meal of the day, then do 'whatever' for dinner. Black coffee or espresso, almond milk or heavy cream if needed for taste. Tea, or [veggie Bouillon cubes](https://www.amazon.com/Not-Beef-Not-Chickn-Edward-Sons-Bouillon/dp/B01BNUYTTS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1O9I0PFIHK5TL). 
-
-Salmon is the 'other' meat I eat. I eat almost zero other meat, and have not purchased for myself anything but salmon and sardines for years. 
-
-I cook on a lodge 10" cast iron pan with [this very specific dexter-russell 4"x2.5" pancake turner](https://www.amazon.com/gp/product/B0015R7P6O/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), and because I use adequate/tons of olive oil, the pan is always oiled and cleanable with the metal turner. 
-
-I can scrape it clean/flat and never even run it under water. It lives on the stove-top, I cook once or twice a day in it, and never clean it or have to put it away. It is _extremely_ low-effort, low-demand, and delicious. I've cooked for dozens of people over the years, most report to enjoy my cooking.
 
 ## Denver/Regional things
 
@@ -72,61 +58,81 @@ r1 zoning, single family zoning goes hand-in-hand with a certain road design, an
 
 It's such a fragile system of belief and reasoning. Even most of the people inside, propping it all up, must be so tired of it. 
 
+## General food things
 
-## Housing as a regime of social control
+Did you know mitochondria constitute _half_ the dry weight of your body? The little high-school biochem drawings are also wrong - for some cells, mitochondria make up 2/3rds non-nucleic volume! I wasn't aware.
 
-These two links are not books but desperately worth the read.
+- [Tripping Over The Truth](https://www.goodreads.com/en/book/show/23496164)
+- [The Case Against Sugar](https://www.goodreads.com/book/show/29874881-the-case-against-sugar)
+- [Eating Animals](https://www.goodreads.com/book/show/6604712-eating-animals)
+- [It Starts With The Egg](https://www.goodreads.com/book/show/21782260-it-starts-with-the-egg)
 
-It's a little icky when so much of success can be tied closely to subtle interactions with banking systems 'going well'. 
+For me, the grand conclusion of most of these books: 
+
+most days I mostly eat some sauted mushrooms, brocoli, zucchini, sardines, eggs, almonds, s&p, evoo, kimchi, sometime in the early afternoon, first meal of the day, then do 'whatever' for dinner. Black coffee or espresso, almond milk or heavy cream if needed for taste. Tea, or [veggie Bouillon cubes](https://www.amazon.com/Not-Beef-Not-Chickn-Edward-Sons-Bouillon/dp/B01BNUYTTS?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1O9I0PFIHK5TL). 
+
+Salmon is the 'other' meat I eat. I eat almost zero other meat, and have not purchased for myself anything but salmon and sardines for years. 
+
+I cook on a lodge 10" cast iron pan with [this very specific dexter-russell 4"x2.5" pancake turner](https://www.amazon.com/gp/product/B0015R7P6O/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), and because I use adequate/tons of olive oil, the pan is always oiled and cleanable with the metal turner. 
+
+I can scrape it clean/flat and never even run it under water. It lives on the stove-top, I cook once or twice a day in it, and never clean it or have to put it away. It is _extremely_ low-effort, low-demand, and delicious. I've cooked for dozens of people over the years, most report to enjoy my cooking.
+
+
+## Housing and finance and securitizations and bank fraud
+
+These are not all books but desperately worth the read. There's a lot more I could say/have said about this space. Is anyone surprised that a club of settler colonialists used their club privileges to maintain a position of power over non-club members?
+
 
 1. ["The 30-Year Mortgage is an Intrinsically Toxic Product" by Byrne Hobart](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), 
 2. [`Government Policy, Housing, and the Origins of Securitization, 1780 - 1968` by Sarah Lehman Quinn](https://escholarship.org/uc/item/7sq3f6xk) tells the story of 'regimes and attempted regimes of social control via housing<>financial policy`, which puts many of this century’s financial tooling developments in an interesting context.
 3. All the "money" comes from/goes to [the banking fraud of treating customer's deposits as loans](https://mises.org/library/book/money-bank-credit-and-economic-cycles). It's not really money, it's mis-allocated real resources, the misallocation of which has real world consequences that self-correct the original error. ('the economic cycle')
+4. [The Color of Law: A Forgotten History of How Our Government Segregated America](https://www.goodreads.com/book/show/32191706-the-color-of-law) I have beef with the book title. ("Our" government?) and some of the prescriptive bit, but as far as being able to build an emotional understanding of the 'land back' argument, this is a good one. 
+5. [American Municipal Zoning Codes are full of memetic copies of some social tooling that came out of Atlanta in 1922]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}). The thing outlined by the Atlanta Zone Plan was 'ratified' in the supreme court in _Euclid v. Ambler, 1926_, and carries on virtually un-noticed and un-restrained, today, in 2024.
 
 
+## Self-concept and existing in the western world
 
+I read the canon of any given topic that climbs high enough on my list of priorities to learn about. Here's the ones that keep coming up in conversation, or my own mind, on the topic of 'emotionally immature people', 'trauma', 'emotional neglect', blah blah blah. 
 
-## 13 Books related to trauma, self-concept, and existing in the western world
+I got a bit of the standard 'raised in a religious death cult' cultural package, installed from birth. You or someone you know might be better off for reading some of these books. They were a boon to me.
 
-I read the canon of any given topic that climbs high enough on my list of priorities to learn about. Here's the ones that keep coming up in conversation, or my own mind.
+You can get all/most of these books on [Libby](https://www.overdrive.com/apps/libby) (a library app) and can send them for free to your [kindle paperwhite](https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249), anywhere in the world. Or torrent the book `epub`s via the current piratebay mirror, and use [calibre](https://calibre-ebook.com/) to convert/transfer them to your kindle paperwhite. 
 
-You can get all/most of these books on [Libby](https://www.overdrive.com/apps/libby) (a library app) and can send them for free to your [kindle paperwhite](https://www.amazon.com/Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249), anywhere in the world. Or torrent the .epubs via piratebay, and use [calibre](https://calibre-ebook.com/) to convert/transfer them to your device. 
-
-If your library doesn't have the book, google `[library system] request book form`. I've asked Jefferson County Library Systems to add many books over the years, and I many were easily added. One didn't have an ebook option, and I didn't re-request for a physical version, and sometimes if they think it won't get read often enough they might say no. 
+If your library doesn't have the book, google `[library system] request book form`. I've asked the local-to-me library systems to add many books over the years, and many were easily added. One didn't have an ebook option, and I didn't re-request for a physical version, and sometimes if they think it won't get read often enough they might say no. 
 
 So, you could drop a few hundred dollars on books at the high end, or possibly spend not a single dollar on any of these. I like physical copies of books, sometimes, and will mark them up, sometimes quite heavily. But lots to be gained from ebook versions or audio book versions and library versions and more.
 
-On that note, here's the books. There's 13 books in total I'm about to recommend, I encourage sampling whatever looks most interesting, and if it doesn't grab you, engage you, or retain your interest, freely put a book down and go somewhere else. 
+What counts as a good-enough relationship with others, at various developmental stages? What counts as inadequate? What to do? These books sorta get at that topic. I might start by reading the Goodreads pages, or reviews, and seeing if anything grabs your eye.
 
-### Books directly about trauma and sense of self
-
-- pete walker, [complex ptsd: from surviving to thriving](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842)
-- pete walker, [the tao of fully feeling: harvesting forgiveness from blame](https://www.amazon.com/Tao-Fully-Feeling-Harvesting-Forgiveness-ebook/dp/B017I3NRRO?ref_=ast_author_dp) (don't be put off by the use of the word forgiveness, you don't have to forgive anyone)
-- john bradshaw [healing the shame that binds you](https://www.amazon.com/Healing-Shame-that-Binds-You-ebook/dp/B016P6GC9A/ref=sr_1_1?crid=3DT44LSD5SVSD&keywords=healing+the+shame+that+binds+you&qid=1698413851&s=digital-text&sprefix=healing+the+shame%2Cdigital-text%2C373&sr=1-1)
+- [Complex PTSD: From Surviving to Thriving](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842), Pete Walker
+- [The Tao of Fully Feeling: Harvesting Forgiveness from Blame](https://www.amazon.com/Tao-Fully-Feeling-Harvesting-Forgiveness-ebook/dp/B017I3NRRO?ref_=ast_author_dp) (don't be put off by the use of the word forgiveness, you don't have to forgive anyone), Pete Walker
+- [Healing the Shame that Binds You](https://www.amazon.com/Healing-Shame-that-Binds-You-ebook/dp/B016P6GC9A/ref=sr_1_1?crid=3DT44LSD5SVSD&keywords=healing+the+shame+that+binds+you&qid=1698413851&s=digital-text&sprefix=healing+the+shame%2Cdigital-text%2C373&sr=1-1), John Bradshaw
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary-ebook/dp/B00HZ1E5BM/ref=sr_1_1?crid=1W733XLM0RA2Z&keywords=parenting+from+the+inside+out&qid=1698413876&s=digital-text&sprefix=parenting+from+the+%2Cdigital-text%2C344&sr=1-1)
-- [the adult children of emotionally immature parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
+- [The Adult Children of Emotionally Immature Parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
 
 ### parsing yours/others religious abuse/shame, and the vast overlap with the conditions fostering colonialism
-
-This is all in the context of 'modern america'. I am a 35 year old white-passing male. 
 
 I was raised in a a high-control religious cult. Similar to: [Under Pressure: What is it like to be child in a Religious Authoritarian home?](https://strongwilled.substack.com/p/chapter-2-under-pressure)
 
 It's a form of emotional or mental colonialism, supplanting the will/social attitude that _was_ there (or would otherwise be there) with something preferred by the authorities.
 
-Certain people tried intensely to replicate their way of thinking/being in others:
+Certain people tried intensely to replicate their way of thinking/being in others. These books give a nice, dispassionate snapshot of the size of the USA's colonial footprint. At the time of authorship of one of the Chalmers Johnson books, the US had over 700 full-on military bases around the world. 
+
+It hurts so much to even think about, the size of the horrors done, in pursuit of empire around the world.
 
 - [The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World](https://www.goodreads.com/book/show/53054943-the-jakarta-method)
 - [Blowback: The Costs and Consequences of American Empire](https://www.goodreads.com/book/show/40709.Blowback)
 - [The Sorrows of Empire: Militarism, Secrecy, and the End of the Republic](https://www.goodreads.com/book/show/40718.The_Sorrows_of_Empire)
 
-the above three books are about american empire, very worth reading, but helps understand the propaganda common throughout the existence of american institutions.
+the above three books are about american empire, very worth reading, and helps clarify and make legible the layers of propaganda common around these american institutions.
 
-The tooling for installing the 'package' was physical assault, abandonment, or later shame and threats, along with subtle presence and absence of warmth-approximating attitudes. 
+So much for colonialism and supremacy abroad, lets talk about it done at home. 
+
+The tooling for parents to install social control 'packages' was physical assault, abandonment (actual or threatened), or later shame and punishment (actual or threatened), along with subtle presence and absence of warmth-approximating attitudes. 
 
 Figuring out how to repair the damage isn't trivial. To that end, here's some books, about Evangelicalism, whiteness, colonialism, and _the willingness to coerce_.
 
-It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (😬) that evangelicals support slave patrol, and 'patrol energy'. It's very perceivable in home environments in ways that land as shocking to those who had alternative experiences.
+It's worth remembering that early american police forces were nothing but deputized [slave patrols](https://en.wikipedia.org/wiki/Slave_patrol). Evangelicals usually perceive the police as friendly to them, which means (😬) that evangelicals support slave patrol, and 'patrol energy'. It's very perceivable in home environments in ways that land as shocking to those who had alternative experiences. Myself and many others often find a 'self-policing inner narrative' or 'the masters gaze' following us around. It's worth tying it straight back to the colonial 'tool' of social control, the [conceptual compression]({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %}) is best in that framing.
 
 When the white, slave-holding population is so vastly outnumbered by their slaves, it takes some creativity and sustained effort to prevent uprisings and rebellions.
 
