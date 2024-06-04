@@ -32,11 +32,11 @@ I'm inspired by people like [Robert Heaton](https://robertheaton.com/#parenthood
 
 ## Books That Have Informed Me
 
-Normal-ish books, but very written from an unselfconscious western perspective. 
-
-[Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think](https://www.goodreads.com/en/book/show/10266902-selfish-reasons-to-have-more-kids): among other things, the author expresses the concept: "the point of kids isn't kids, but to have good relationships with your adult children, because 40 years will pass in that context while maybe 16 will pass in the 'child' context. Mostly kids turn out however they're going to turn out, which is generally fine, so you can take a deep breath, pursue ease, for everyone's benefit." 
+Normal-ish books, but very written from an unselfconscious western perspective. In 2017, I read [Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think](https://www.goodreads.com/en/book/show/10266902-selfish-reasons-to-have-more-kids): among other things, the author expresses the concept: "the point of kids isn't kids, but to have good relationships with your adult children, because 40 years will pass in that context while maybe 16 will pass in the 'child' context. Mostly kids turn out however they're going to turn out, which is generally fine, so you can take a deep breath, pursue everyone's ease, for everyone's benefit." It left an impact.
 
 Contextualizing some of the idiosyncrasies of living/raising young in/around constraining structures, of which there are many. Even if everything is peaceful and healthy at home, there's a lot to trying to navigate the adult world in a coherent and peaceful way despite pretty obvious intrusive counter-efforts. 
+
+[The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It](https://www.goodreads.com/book/show/9861067-the-art-of-roughhousing)
 
 AKA I count these as 'parenting-informing' or 'parenting adjacent' even though they're obviously not a traditional parenting book. 
 

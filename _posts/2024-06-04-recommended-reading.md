@@ -184,12 +184,13 @@ Coercion is often rooted in entitlement. If there's a power dynamic involved, it
 - [The Verbally Abusive Relationship: How to Recognize It and How to Respond](https://www.goodreads.com/book/show/402366.The_Verbally_Abusive_Relationship)
 - [list of characteristics of white supremacy culture (pdf)](https://www.whitesupremacyculture.info/uploads/4/3/5/7/43579015/okun_-_white_sup_culture.pdf)
 
-## Emotionality and gender issues 
-
+## "Emotionality and gender issues and patriarchy & supremacy thinking"
 
 I'm not sure how to introduce these books. In my opinion, it's easy to say they're essential reading if you find yourself to be a women (or female-passing, or feminine, or not sporting a penis) in the modern world. 
 
-Really, though, I see it as 'systemic ways that the hierarchical power structure + violence common in the world known as patriarchy hurts everyone, here's how to recognize it and ways to try to respond'.
+Really, though, the books amount to:
+
+> ways that hierarchical power structure + violence common in the world hurts everyone, here's how to recognize it and ways to perhaps respond.
 
 Read the list, you might see why I say this:
 
@@ -198,15 +199,15 @@ Read the list, you might see why I say this:
 
 But it sounds _insane_ to say "women might want to read these books, but men, you know, just... keep on scrolling". 
 
-Presumably, if you're a man/have a penis, and reading this page, you are sensitive enough to appreciate that society is worse off to the degree that it conforms to hierarchical norms organized around a willingness to use physical violence. 
+Presumably, if you're a man/have a penis, and reading this page, you are sensitive enough to appreciate that society is worse off to the degree that it conforms to hierarchical norms organized around a willingness to use violence. 
 
-If you have women in your life, that you care about, these books might put you in a position to better care for those women, _and_ you'll learn things about yourself. I promise. Reading these books will directly benefit your relationship with everyone in your life, though like all of the books on this list, you'll find your blood boiling a bit as you read.
+Some of the ideas within these books might benefit your relationship with others, though like all of the books on this list, you'll find your blood boiling a bit as you read.
 
 ----------------------------
 
 _uggg even using english dictates a certain frame on gender issues. I dislike anything that feels like [frame control](https://knowingless.com/2021/11/27/frame-control/), and things that sound like fabricated conflict._
 
-_a lot of 'modern stuff' feels distinctly american, and what happens when settler colonialism + nobility/purity culture gets 'buried' or embedded in something like intellectualism, over-intellectualism, self justification._
+_a lot of 'modern stuff' feels distinctly american, and is "just" what happens when settler colonialism + nobility/purity culture gets 'buried' or 'stuck' somewhere._
 
 _Something that is undoubtedly true is 'supremacy/oppressor cultures are entirely devoid, necessarily, of the capacity to recognize and hold space for grief visible in the world around them, else they would necessarily self-correct_'[^her_property]
 
@@ -219,20 +220,18 @@ Not sure how to introduce this post, other than... it's long, but might be worth
 The way power dynamic exploitation gets encoded in certain american/western/male-ish 'norms' in culture is brutal. I only recently found a book written in 2006 titled: [Self-Made Man: One Woman's Year Disguised as a Man](https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised/dp/0143038702). It was an instant download-and-read. It shows how bad the emotional landscape is for a vast swath of people living in the USA. '[^not-normal]
 
 [^not-normal]: it's not normal, how many things are done in the USA. That a settler-colonialist mindset baked into social structures would have many harmful, visible effects on a society is a given. men/women dynamics. parent/child. authority/obedient, nobility/peasant, english-speaking/non-english-speaking, white-passing/non-white-passing. Bleh.
-
-Also, to overly-focus on _adult_ issues is a bummer. 
+ 
+ -------------
 
 Children are an oppressed class. 
 
-I thought it was self-evident to more people than this seems evident to.
+I used to think it was self-evident to more people than this seems evident to.
 
 lots of adults internalize the bad things they experienced, normalize it, and push it down on the children around them. I overhear it in adult/child interactions all the time, especially now that I have a young child. 
 
-I find the [taking children seriously](https://twitter.com/TCSparents) twitter account (and [website](https://takingchildrenseriously.com/)) to be a good resource for appreciating children as a class, seeing/witnessing them better. Witnessing _us_ better. 
+I find the [taking children seriously](https://twitter.com/TCSparents) twitter account (and [website](https://takingchildrenseriously.com/)) to be a good resource for appreciating children as a class, seeing/witnessing them better. Witnessing _us_ better. Ivan Illych's [Deschooling Society](https://www.goodreads.com/book/show/223403.Deschooling_Society) and [Tools for Conviviality](https://www.goodreads.com/book/show/253076.Tools_for_Conviviality) are coherent, as well.
 
-I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (roads. school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
-
-
+I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (can't play in streets. compulsory school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
 
 # Movies and TV Shows
 
