@@ -7,6 +7,18 @@ permalink: /buy-yourself-a-scooter
 image: /_pages/scooter.jpg
 ---
 
+_er, this page is in draft status, for now check out my tiktok. It's mostly scooter stuff._ I run a javascript blocker, so third-party embeds never work for me. If you want to see my tiktok and scooter videos, please click the link:
+
+[titkok.com/@josh_exists](https://www.tiktok.com/@josh_exists)
+
+or [here](https://www.tiktok.com/@josh_exists/video/7338845015361293611)
+
+Otherwise, below, you'll maybe see a sample scootering video:
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@josh_exists/video/7338845015361293611" data-video-id="7338845015361293611" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@josh_exists" href="https://www.tiktok.com/@josh_exists?refer=embed">@josh_exists</a> a lot could be said about making this route safer for all participants. and more enjoyable. some of these streets are quite unfun in traffic or when the weather is iffy. <a title="scooter" target="_blank" href="https://www.tiktok.com/tag/scooter?refer=embed">#scooter</a> <a title="denver" target="_blank" href="https://www.tiktok.com/tag/denver?refer=embed">#denver</a> <a target="_blank" title="♬ son original - 🎧🎶Clelia 🎶🎧" href="https://www.tiktok.com/music/son-original-7304311407183760160?refer=embed">♬ son original - 🎧🎶Clelia 🎶🎧</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+
 # 30 second version
 
 I'd sorta like your permission to try to entertainingly, subversively, convince you of something, or show you something, or help you experience something that might leave you thinking:
