@@ -7,7 +7,7 @@ date:  2025-06-04 06:00:00 -0700
 categories: [books]
 tags: [books]
 permalink: /recommended-reading
-image: images/shoup-and-bertaud.jpg
+image: /images/shoup-and-bertaud.jpg
 ---
 
 
