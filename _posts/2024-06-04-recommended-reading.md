@@ -292,11 +292,15 @@ HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture:
 
 I usually look up the movie on Wikipedia before I watch it, to help contextualize/orient myself to time/place/context in which the movie was created. 
 
-------------
 
-[The way of the househusband ](https://movieweb.com/non-violent-anime-series-that-are-highly-addictive/#the-way-of-the-househusband-2021)
+
+### The way of the househusband
+
+Oh my gosh I'm ruined by this show.  [The Way of the HouseHusband](https://movieweb.com/non-violent-anime-series-that-are-highly-addictive/#the-way-of-the-househusband-2021)
 
 _i watched it via netflix_
+
+extremely dignifying and clever. I'm over the moon with it, giggle to myself all the time. Former Yakuza, leaves gangs and becomes a house husband, takes himself seriously, is taken seriously. 
 
 the end of chapter 3, episode 1. 🤣 It's available via english dubs or subs, I've enjoyed it in both in different ways.
 
