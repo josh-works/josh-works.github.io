@@ -13,15 +13,19 @@ I value coherence, meaningfulness, compassion, and kindness.
 Overall, I care a lot about "cities", the built urban form, transportation networks, and how issues of ethics play out in these domains. 😬
 
 America is full of this:
-![subsidized and ugly](/images_2020/subsidized.jpeg)
+![subsidized and ugly](images_2020/subsidized-cropped.jpg)
 
 I desire to nudge the ecosytem towards producing more of this:
 
-![illegal but beautiful](/images_2020/illegal.jpg)
+![illegal but beautiful](images_2020/illegal_cropped.jpg)
 
-Pretty much all forms of human flourishing go up, and many forms of human suffering become less, when the landscape looks more like what is labeled above as 'illegal in charleston'.
+Pretty much all forms of human flourishing go up, and many forms of human suffering become less, when the landscape looks more like the former, above.
 
-Also, the `cost per square meter` and `value per square meter` of these two competing visions are quite different.
+Additionally, consider not just a block or a store-front, but what would be directly opposite that block:
+
+![crossing the street](images/crossing_street.jpeg)
+
+The `cost per square meter` and `value per square meter` of these two competing visions are quite different. 
 
 I'm currently working on nudging this ecosystem in a variety of ways, and always interested in increasing my impact. Feel free to [email me](mailto: joshthompson@hey.com).
 
