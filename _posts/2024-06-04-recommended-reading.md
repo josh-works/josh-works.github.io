@@ -301,7 +301,11 @@ the end of chapter 3, episode 1. 🤣 It's available via english dubs or subs, I
 
 My gosh I laughed at this regularly, thought it was great and very dignifying to all, and deliciously non-normative. 
 
-> You mean to tell me the ways of the yakuza and the way of the househusband are connected??? TEACH MEE!!!" (chapter 9, episode 2). You'll absolutely love it, or despise it, but you'll get a good few minutes either way. You cannot not. 
+> You mean to tell me the ways of the yakuza and the way of the househusband are connected??? TEACH MEE!!!
+
+_chapter 9, episode 2_ 
+
+You'll absolutely love it, or despise it, but you'll get a good few minutes either way. You cannot not. 
 
 ### The U.S. and the Holocaust (ken burns)
 
