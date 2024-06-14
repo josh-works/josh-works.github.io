@@ -7,6 +7,8 @@ permalink: /buy-yourself-a-scooter
 image: /_pages/scooter.jpg
 ---
 
+_if you're here via the QR code on my scooter, I think that's hilarious, and welcome, this is a tiny little experiment._
+
 _er, this page is in draft status, for now check out my tiktok. It's mostly scooter stuff._ I run a javascript blocker, so third-party embeds never work for me. If you want to see my tiktok and scooter videos, please click the link:
 
 [titkok.com/@josh_exists](https://www.tiktok.com/@josh_exists)
