@@ -223,7 +223,7 @@ The way power dynamic exploitation gets encoded in certain american/western/male
  
  
  
-# Children
+## Children
 
 Children are an oppressed class. 
 
@@ -235,7 +235,7 @@ I find the [taking children seriously](https://twitter.com/TCSparents) twitter a
 
 I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (can't play in streets. compulsory school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
 
-# Movies and TV Shows
+## Movies and TV Shows
 
 This is the catch-all for "not-books/not-reading", but my gosh obviously 'reading' is just a certain form of relating, I give non-reading works as much priority, weight, dignity, appreciation as I do books. Usually more. 
 
@@ -249,7 +249,18 @@ I didn't even hear of Studio Ghibli until I was quite old, and am now happily wo
 
 Studio Ghibli is a production studio that made animated movies, starting in 1984, based in Japan. It's refreshingly non-western. 
 
-### My Neighbor Totoro
+
+Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. 
+
+I usually prefer them in the original japanese, with english subtitles. Sometimes I'll tell Eden what's being said, when we're watching together, if she wants me to, and we're watching together. I'm exploring finding good english dubs for the best ones, turns out there might be good ones. 
+
+I had exclusively poor experiences with Ghibli + english dubs, but _My Neighbor Totoro_ in english is excellent, especially with a child, of course. 
+
+HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture: The Nature and Future of Creativity](https://www.goodreads.com/book/show/72011.Free_Culture), thus after suffering through HBO max and forced english dubs and UI changes for a while, I 'gave up' and torrented at least some of the entire collection, so I can have fine-grained control over subtitles and audio tracks via [vlc](https://www.videolan.org/vlc/), and didn't have to navigate crappy smart TV menus again. 
+
+I usually look up the movie on Wikipedia before I watch it, to help contextualize/orient myself to time/place/context in which the movie was created. 
+
+#### My Neighbor Totoro
 
 [My Neighbor Totoro (wikipedia)](https://en.wikipedia.org/wiki/My_Neighbor_Totoro)
 
@@ -276,22 +287,6 @@ the search I ran to get the options: https://thepiratebay3.co/s/?q=my+neighbor+t
 what I ended up downloading:
 
 `My Neighbor Totoro - Streamline - FOX English Dub.mp4` (update nvm, wrong dub, don't love this one)
-
-This is just what I needed.
-
------------------------
-
-
-Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. 
-
-I usually prefer them in the original japanese, with english subtitles. Sometimes I'll tell Eden what's being said, when we're watching together, if she wants me to, and we're watching together. I'm exploring finding good english dubs for the best ones, turns out there might be good ones. 
-
-I had exclusively poor experiences with Ghibli + english dubs, but _My Neighbor Totoro_ in english is excellent, especially with a child, of course. 
-
-HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture: The Nature and Future of Creativity](https://www.goodreads.com/book/show/72011.Free_Culture), thus after suffering through HBO max and forced english dubs and UI changes for a while, I 'gave up' and torrented at least some of the entire collection, so I can have fine-grained control over subtitles and audio tracks via [vlc](https://www.videolan.org/vlc/), and didn't have to navigate crappy smart TV menus again. 
-
-I usually look up the movie on Wikipedia before I watch it, to help contextualize/orient myself to time/place/context in which the movie was created. 
-
 
 
 ### The way of the househusband
