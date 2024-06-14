@@ -303,6 +303,7 @@ My gosh I laughed at this regularly, thought it was great and very dignifying to
 
 > You mean to tell me the ways of the yakuza and the way of the househusband are connected??? TEACH MEE!!!" (chapter 9, episode 2). You'll absolutely love it, or despise it, but you'll get a good few minutes either way. You cannot not. 
 
+### The U.S. and the Holocaust (ken burns)
 
 [The U.S. and the Holocaust](https://kenburns.com/films/the-u-s-and-the-holocaust/) Documentary by Ken Burns, I watched via Amazon Prime Video. Vast swaths of the US population, and the world, openly supported hitler in his supremacist ethnic cleansing of 'his' lands. _he openly approved of how the native, black, and homosexual populations in the USA were 'being handled' by the american people. (ethnic cleansing, ethnic cleansing, and trait cleansing, respectively, via all possible means of social control). 
 
