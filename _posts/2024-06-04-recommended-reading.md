@@ -221,7 +221,9 @@ The way power dynamic exploitation gets encoded in certain american/western/male
 
 [^not-normal]: it's not normal, how many things are done in the USA. That a settler-colonialist mindset baked into social structures would have many harmful, visible effects on a society is a given. men/women dynamics. parent/child. authority/obedient, nobility/peasant, english-speaking/non-english-speaking, white-passing/non-white-passing. Bleh.
  
- -------------
+ 
+ 
+# Children
 
 Children are an oppressed class. 
 
@@ -233,19 +235,58 @@ I find the [taking children seriously](https://twitter.com/TCSparents) twitter a
 
 I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (can't play in streets. compulsory school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
 
-## Movies and TV Shows
+# Movies and TV Shows
+
+This is the catch-all for "not-books/not-reading", but my gosh obviously 'reading' is just a certain form of relating, I give non-reading works as much priority, weight, dignity, appreciation as I do books. Usually more. 
 
 I was forced to watch war movies growing up, and as an adult. It is extremely rare that I am in a mood for any sort of depiction of violence in a movie. Most movies made in the USA openly support statist, militaristic, imperialistic narratives. I did a lot of long flights in the last year, watched/observed many different movies being watched around me. Even kids movies feature, regularly, jaw-dropping amounts of violence. Gotta start the propaganda young! 
 
-Here's some things I've watched, enjoyed, would re-watch. This list will probably grow with time.
+Here's some things I've watched, enjoyed, would re-watch. This list ~will probably grow with time~ has now been updated several times as additional beta is gleaned.
 
-### Anything/Everything by Studio Ghibli
+### Studio Ghibli
 
 I didn't even hear of Studio Ghibli until I was quite old, and am now happily working on watching [the entire 25 piece anthology](https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films). I've seen maybe half. As you might imagine, there's lots Eden loves about these shows.
 
 Studio Ghibli is a production studio that made animated movies, starting in 1984, based in Japan. It's refreshingly non-western. 
 
-Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. I prefer them in the original japanese, with english subtitles. Sometimes I'll tell Eden what's being said, when we're watching together, if she wants me to, and we're watching together. 
+### My Neighbor Totoro
+
+[My Neighbor Totoro (wikipedia)](https://en.wikipedia.org/wiki/My_Neighbor_Totoro)
+
+I think my daughter watched it first at ~2.5 years old, sat enraptured almost the whole way, we spoke about it extensively after.
+
+The file I torrented only included the original audio, which isn't helpful for an english-speaking toddler, even though she's gotten along pretty well in japanese-language movies, or with me voicing via subtitles a bit. 
+
+I think the best english audio is what I've found on Amazon prime - $4 to rent, $16 to buy:
+
+[https://www.amazon.com/My-Neighbor-Totoro-English-Language/dp/B08123SMCH](https://www.amazon.com/My-Neighbor-Totoro-English-Language/dp/B08123SMCH)
+
+I also found a different english dub online for free, but really dislike the voices, and find it unwatchable:
+
+[https://archive.org/details/totoro-fox-dub](https://archive.org/details/totoro-fox-dub)
+
+The latter voices the toddler in diminishing, stereotyped ways, and the dad's voice feels equally mis-fitting to the context, while the amazon dub feels 'right'. 
+
+OK, here's how I got the file with the right audio, so I can just `cmd+space` (open alfred) `[space]my n[tab][return]` file-search query `my n` focus first result, default open file in vlc. 
+
+Eden learned this routine with [the Grinch](https://en.wikipedia.org/wiki/The_Grinch_(film)) (she really liked the 2018 version, as did I, watched it many times, knows it takes no time at all to get playing. I really like the theme song, and it has lots of clever moments that )
+
+the search I ran to get the options: https://thepiratebay3.co/s/?q=my+neighbor+totoro
+
+what I ended up downloading:
+
+`My Neighbor Totoro - Streamline - FOX English Dub.mp4` (update nvm, wrong dub, don't love this one)
+
+This is just what I needed.
+
+-----------------------
+
+
+Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. 
+
+I usually prefer them in the original japanese, with english subtitles. Sometimes I'll tell Eden what's being said, when we're watching together, if she wants me to, and we're watching together. I'm exploring finding good english dubs for the best ones, turns out there might be good ones. 
+
+I had exclusively poor experiences with Ghibli + english dubs, but _My Neighbor Totoro_ in english is excellent, especially with a child, of course. 
 
 HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture: The Nature and Future of Creativity](https://www.goodreads.com/book/show/72011.Free_Culture), thus after suffering through HBO max and forced english dubs and UI changes for a while, I 'gave up' and torrented at least some of the entire collection, so I can have fine-grained control over subtitles and audio tracks via [vlc](https://www.videolan.org/vlc/), and didn't have to navigate crappy smart TV menus again. 
 
@@ -253,7 +294,15 @@ I usually look up the movie on Wikipedia before I watch it, to help contextualiz
 
 ------------
 
-[The way of the househusband (20 Non–Violent Anime Series That Are Highly Addictive)](https://movieweb.com/non-violent-anime-series-that-are-highly-addictive/#the-way-of-the-househusband-2021)
+[The way of the househusband ](https://movieweb.com/non-violent-anime-series-that-are-highly-addictive/#the-way-of-the-househusband-2021)
+
+_i watched it via netflix_
+
+the end of chapter 3, episode 1. 🤣 It's available via english dubs or subs, I've enjoyed it in both in different ways.
+
+My gosh I laughed at this regularly, thought it was great and very dignifying to all, and deliciously non-normative. 
+
+> You mean to tell me the ways of the yakuza and the way of the househusband are connected??? TEACH MEE!!!" (chapter 9, episode 2). You'll absolutely love it, or despise it, but you'll get a good few minutes either way. You cannot not. 
 
 
 [The U.S. and the Holocaust](https://kenburns.com/films/the-u-s-and-the-holocaust/) Documentary by Ken Burns, I watched via Amazon Prime Video. Vast swaths of the US population, and the world, openly supported hitler in his supremacist ethnic cleansing of 'his' lands. _he openly approved of how the native, black, and homosexual populations in the USA were 'being handled' by the american people. (ethnic cleansing, ethnic cleansing, and trait cleansing, respectively, via all possible means of social control). 
