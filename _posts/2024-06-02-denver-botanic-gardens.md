@@ -43,13 +43,11 @@ I go here by my self, with friends, with my daughter, all the time. Sometimes I 
 
 I'm writing and publishing this post from the gardens, before my laptop battery dies. 
 
-![written at the gardens](images/dbg_selfid.jpeg)
-
-# "Key Fob" Access via the Cheesman Park Gate to the Botanic Gardens
+## Steps to get "Key Fob" Access via the gate to Cheesman Park
 
 It's a two-step process to get the full experience. An online purchase, then an in-person purchase.
 
-## Step 1: Become 'digital member' of the gardens
+### Step 1: Become 'digital member' of the gardens
 
 If you 'become a member' of the Denver Botanic Gardens:
 
@@ -57,15 +55,21 @@ Go to [https://www.botanicgardens.org/join-give/membership](https://www.botanicg
 
 Buy online and it's $10 less, so really $65. Renewals are less.
 
-## Step 2: In person, purchase the key fob membership upgrade
-
-It's hard to find on the website, but go read here:
-
-[https://www.botanicgardens.org/membership-faq#fob-faq](https://www.botanicgardens.org/membership-faq#fob-faq)
+### Step 2: In person, purchase the key fob membership upgrade
 
 There's a service counter near the front of the gardens, tucked sort of 'behind' the Copper Door coffee shop. Go there, ask for the key fob, pay $35 for the fob, it's supposedly $15 to renew subsequent years.
 
-You'll get a little plastic key fob. Congratulations, have a wonderful time. Most days the gardens are open 8a to 8p, and that key fob seems to open the door from Cheesman even as late as 7:45p, which I didn't expect. YMMV.
+Information about this on the website wasn't hard to find, once I knew what I was looking for:
 
+[https://www.botanicgardens.org/membership-faq#fob-faq](https://www.botanicgardens.org/membership-faq#fob-faq)
+
+You'll get a little plastic key fob. For me and my friends, it's active and working as soon as they hand it to you, even though they say it might take a day to activate. 
+
+Congratulations, have a wonderful time. Most days the gardens are open 8a to 8p, and that key fob seems to open the door from Cheesman even as late as 7:45p, which was later than I expected.
 
 Questions? Let me know. I'll update this post as makes sense.
+
+## Additional Beta
+
+- I hear the key fob doesn't work on days/times there are concerts in the gardens, but your membership gets you some sort of discount on a ticket at the main entrance, if you still want to go inside.
+- there's not great bike parking besides locking it to a bench or the fence. As usual, because my scooter is heavy enough it's considered "locked" just with the handlebar lock, I can park it right next to the main entrance, on a little dedicated piece of asphalt, in a very convenient manner. I'll add a photo soon. 
