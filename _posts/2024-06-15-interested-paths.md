@@ -17,7 +17,7 @@ this page serves as a placeholder for various paths I'm interested in.
 I hope to bring attention to "linear parks", or a park that functions more in size and shape to a street, crossing blocks of distance, but maintaining park vibes throughout. 
 
 
-## Path Segment One: Vodoo <> Cheesman, down Franklin
+## Path Segment One: Voodoo <> Cheesman, down Franklin
 
 Pardon my language. "segments"? "paths"? I'm referring explicitly to places that connect places, so it's sorta hard to think about the 'place' directly, especially as a path. [^paths-are-places]
 
@@ -45,7 +45,7 @@ If it could be moved a few meters, and backfilled with something everyone agrees
 
 ### To make the spreadsheet people happy
 
-Heavy foot traffic corresponds with great business, all the time. More and more of Vodoo's business would come from people who walk to it, from the park, or walk to it, on their way to the park. 
+Heavy foot traffic corresponds with great business, all the time. More and more of Voodoo's business would come from people who walk to it, from the park, or walk to it, on their way to the park. 
 
 I can do some magic number work + video footage of foot traffic, to show the value of someone walking/biking vs how much space someone takes when they drive, and fill a whole parking space for 30 minutes or an hour. 
 
@@ -56,11 +56,11 @@ _footage inbound, I've flown my drone around the area a bunch and am going to pu
 
 # Thoughts about these two segments
 
-These paths, Vodoo to Cheesman, and Cheesman to Ideal, are paths that I use, personally, all the time, some days more than once a day. Take a look at my activity/mobility data, noting where these two paths overlay that data:
+These paths, Voodoo to Cheesman, and Cheesman to Ideal, are paths that I use, personally, all the time, some days more than once a day. Take a look at my activity/mobility data, noting where these two paths overlay that data:
 
 ![two_paths](images/just_two_segments.jpg)
 
-My actual map with the data overlay is devoid of labels, but if you can find Cheesman Park, you can find the segments I'm talking about. You can see in the data where I've walked all around the Ideal Market building, and the Vodoo Donuts building.
+My actual map with the data overlay is devoid of labels, but if you can find Cheesman Park, you can find the segments I'm talking about. You can see in the data where I've walked all around the Ideal Market building, and the Voodoo Donuts building.
 
 [https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=16&latlng=39.735985, -104.971018](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=16&latlng=39.735985,%20-104.971018)
 
@@ -80,7 +80,7 @@ my guesstimates of people associated with entities that could ostensibly have al
 I come most recently from the software/computing/networking industry, some of my default ways of sharing information and building consensus might strike others as distinctive. :)
 
 - Pando x2
-- Vodoo x1
+- Voodoo x1
 - Avanti x4
 - Ideal/Wholefoods x2
 - Cornerstone x >15
