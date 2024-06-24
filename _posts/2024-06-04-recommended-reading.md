@@ -245,10 +245,9 @@ Here's some things I've watched, enjoyed, would re-watch. This list ~will probab
 
 ### Studio Ghibli
 
-I didn't even hear of Studio Ghibli until I was quite old, and am now happily working on watching [the entire 25 piece anthology](https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films). I've seen maybe half. As you might imagine, there's lots Eden loves about these shows.
+I didn't even hear of Studio Ghibli until I was quite old, and am now happily working on watching [the entire 25 piece anthology](https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films). I've seen maybe half. As you might imagine, there's lots a certain sub-three-year-old might love about these productions.
 
-Studio Ghibli is a production studio that made animated movies, starting in 1984, based in Japan. It's refreshingly non-western. 
-
+Studio Ghibli is a production studio that made/makes animated movies, starting in 1984, based in Japan. It's refreshingly non-western. Haio Miyazaki was the founder/director. I've *ahem* managed to find a collection of all the works with the original japanese audio and english subtitles, but some of the pieces I've gone 
 
 Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. 
 
@@ -264,7 +263,7 @@ I usually look up the movie on Wikipedia before I watch it, to help contextualiz
 
 Delightful. [Wikipedia entry for Ponyo (2008)](https://en.wikipedia.org/wiki/Ponyo). The literal title is _Ponyo on the Cliff_.
 
-The english dubs are adequate, and there is only one english dub floating around out there. 
+The english dubs are great, I thought, and there is only one english dub floating around out there. My evaluation of at least one toddler's experience of the movie (on the first, second, n-th experience) is that she very much likes it, and it engages a lot of her imagination and enjoyment, at least in the ways we've experienced it. 
 
 
 #### My Neighbor Totoro
