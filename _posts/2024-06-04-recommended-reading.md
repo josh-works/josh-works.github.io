@@ -2,7 +2,7 @@
 layout: post
 title: Recommended Reading
 published: true
-description: "There's much more to life than books, but if you're going to read some, here's a spot to start"
+description: "There's much more to life than books and movies and such, but if you're going to read some, here's a spot to start"
 date:  2025-06-04 06:00:00 -0700
 categories: [books]
 tags: [books]
@@ -111,11 +111,11 @@ What counts as a good-enough relationship with others, at various developmental 
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary-ebook/dp/B00HZ1E5BM/ref=sr_1_1?crid=1W733XLM0RA2Z&keywords=parenting+from+the+inside+out&qid=1698413876&s=digital-text&sprefix=parenting+from+the+%2Cdigital-text%2C344&sr=1-1)
 - [The Adult Children of Emotionally Immature Parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents-ebook/dp/B00TZE87S4?ref_=ast_author_dp) (and the other 4 books by Lindsay C. Gibson, as it feels right.) This book is so short it could be read in a single sitting, almost, but it's _dense_, so I wouldn't recommend it. 
 
-## parsing yours/others religious abuse/shame, and the vast overlap with the conditions fostering colonialism
+### parsing religious abuse/shame, and the vast overlap with the conditions upstream/downstream of supremacy and colonialism
 
-I was raised in a a high-control religious cult. Similar to: [Under Pressure: What is it like to be child in a Religious Authoritarian home?](https://strongwilled.substack.com/p/chapter-2-under-pressure)
+I was raised in a a high-control religious cult, a religious authoritarian home. For example, this author's description is  descriptive of my experience: [Under Pressure: What is it like to be child in a Religious Authoritarian home?](https://strongwilled.substack.com/p/chapter-2-under-pressure)
 
-It's a form of emotional or mental colonialism, supplanting the will/social attitude that _was_ there (or would otherwise be there) with something preferred by the authorities.
+It's a form of emotional or mental colonialism, tied to a form of social control to defend certain gains, and to gain other perceived desired outcomes. The will/social attitude that _was_ there in the society, in the children, (or would otherwise be there) is coercively replaced or suppressed in favor of something preferred by the authorities, which usually relates to a certain form of emotional comfort. 
 
 Certain people tried intensely to replicate their way of thinking/being in others. These books give a nice, dispassionate snapshot of the size of the USA's colonial footprint. At the time of authorship of one of the Chalmers Johnson books, the US had over 700 full-on military bases around the world. 
 
@@ -161,7 +161,7 @@ These kinds of people are dangerous to the children that they raise, the people 
 
 That means, though, that when you want to undo some of the damage they did to your soul, it's best to 'go to the source' and see what kinds of things white people said about their own domination when they were not embarrassed or ashamed by it, but actively colluded with other white people to further their domination over their victims. 
 
-## the books that might aid in deconstructing religious/cultural shame
+### the books that might aid in appreciating the many manifestations of religious/cultural shame
 
 To that end, consider reading any the following, if they look interesting to you:
 
@@ -221,18 +221,17 @@ Not sure how to introduce this post, other than... it's long, but might be worth
 The way power dynamic exploitation gets encoded in certain american/western/male-ish 'norms' in culture is brutal. I only recently found a book written in 2006 titled: [Self-Made Man: One Woman's Year Disguised as a Man](https://www.amazon.com/Self-Made-Man-Womans-Year-Disguised/dp/0143038702). It was an instant download-and-read. It shows how bad the emotional landscape is for a vast swath of people living in the USA. '[^not-normal]
 
 [^not-normal]: it's not normal, how many things are done in the USA. That a settler-colonialist mindset baked into social structures would have many harmful, visible effects on a society is a given. men/women dynamics. parent/child. authority/obedient, nobility/peasant, english-speaking/non-english-speaking, white-passing/non-white-passing. Bleh.
- 
- 
+
  
 ## Children
 
 Children are an oppressed class. 
 
-I used to think it was self-evident to more people than this seems evident to.
+I used to think this was self-evident.
 
-lots of adults internalize the bad things they experienced, normalize it, and push it down on the children around them. I overhear it in adult/child interactions all the time, especially now that I have a young child. 
+enough/too many adults internalize the bad things they experienced, normalize it, and push it down on the children around them. I overhear it in adult/child interactions all the time, especially now that I have a young child. 
 
-I find the [taking children seriously](https://twitter.com/TCSparents) twitter account (and [website](https://takingchildrenseriously.com/)) to be a good resource for appreciating children as a class, seeing/witnessing them better. Witnessing _us_ better. Ivan Illych's [Deschooling Society](https://www.goodreads.com/book/show/223403.Deschooling_Society) and [Tools for Conviviality](https://www.goodreads.com/book/show/253076.Tools_for_Conviviality) are coherent, as well.
+I find the [taking children seriously](https://twitter.com/TCSparents) twitter account (and [website](https://takingchildrenseriously.com/)) to be a good resource for appreciating the plight of children as a class, seeing/witnessing them better. Witnessing _us_ better. Ivan Illych's [Deschooling Society](https://www.goodreads.com/book/show/223403.Deschooling_Society) and [Tools for Conviviality](https://www.goodreads.com/book/show/253076.Tools_for_Conviviality) are coherent, as well.
 
 I was a child, not so long ago, and can still easily access enjoyable, child-like ways of being. I prize and guard and protect this part of myself, as the world is devastatingly cruel to children. (can't play in streets. compulsory school. war, capitalism, supremacy, it takes parents and friends from them, temporarily or permanently.)
 
@@ -261,6 +260,13 @@ HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture:
 
 I usually look up the movie on Wikipedia before I watch it, to help contextualize/orient myself to time/place/context in which the movie was created. 
 
+#### Ponyo
+
+Delightful. [Wikipedia entry for Ponyo (2008)](https://en.wikipedia.org/wiki/Ponyo). The literal title is _Ponyo on the Cliff_.
+
+The english dubs are adequate, and there is only one english dub floating around out there. 
+
+
 #### My Neighbor Totoro
 
 [My Neighbor Totoro (wikipedia)](https://en.wikipedia.org/wiki/My_Neighbor_Totoro)
@@ -288,6 +294,14 @@ the search I ran to get the options: https://thepiratebay3.co/s/?q=my+neighbor+t
 what I ended up downloading:
 
 `My Neighbor Totoro - Streamline - FOX English Dub.mp4` (update nvm, wrong dub, don't love this one)
+
+### Howl's Moving Castle
+
+Howl's Moving Castle, released in 2004, is nice. Strong anti-war themes, reflect's Miyazaki's opposition to the American Empire attacking Iraq in 2003. [Wikipedia](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)).
+
+I'd like to read [the novel it's based on](https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(novel)) some day.
+
+Can be watched for free with english dubs (and downloaded) [here on the Internet Archive](https://archive.org/details/jnjnjnjnjnjnjnjn)
 
 
 ### The way of the househusband
