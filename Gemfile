@@ -19,4 +19,4 @@ group :jekyll_plugins do
   gem 'jekyll-postfiles'
 end
 
-gem "rexml", "~> 3.2"
+gem "rexml", "~> 3.3"
