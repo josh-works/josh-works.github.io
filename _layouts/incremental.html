@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="{{ site.baseurl }}/d3/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/incremental-css/styles01.css">
   </head>
 
   <body>
@@ -22,5 +22,38 @@
      <script src="https://d3js.org/d3.v5.min.js"></script>
      <script src="/d3/script.js" type="module" defer></script>
      
+
+    <script>
+      
+      console.log("hi there")
+      document.getElementById("startOver").addEventListener("click", startOver); 
+
+      var html = document.querySelector('html');
+      var stepLinks = document.getElementsByClassName('step')
+      var sections = document.querySelectorAll('section')
+
+      for (var i = 0; i < stepLinks.length; i++) {
+        stepLinks[i].addEventListener("click", nextStep)
+      }
+
+      function nextStep() {
+        
+        var currentStep = this.dataset.step
+        var nextStep = parseInt(currentStep) + 1
+        sections[nextStep].classList.remove("hidden")
+        html.classList.add("step" + nextStep.toString())
+      }
+
+      var firstSection = sections[0]
+
+      function startOver() {
+        console.log('started...')
+        
+        for (var i = 0; i < sections.length; i++) {
+          sections[i].classList.add("hidden")
+        }
+        firstSection.classList.remove("hidden")
+      }
+    </script>
   </body>
 </html>
