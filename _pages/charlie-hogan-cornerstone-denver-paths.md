@@ -82,3 +82,6 @@ My favorite way to talk about things is while walking, either in person or separ
 connectedness has lots of implications across many domains. We'd start by finding ways to improve the experience of people using strollers/joggers, either as the vehicle operator, or the passenger. 
 
 Let's meet up? 
+
+I'm working on a more public post, "paths around denver in which I am interested". ~It's not published yet but i'll update this when it's up.~ its live at [https://josh.works/interested-paths]({{ site.baseurl  }}{% link _posts/2024-06-15-interested-paths.md %}), probably.
+
