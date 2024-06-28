@@ -1,0 +1,84 @@
+/* Global/initial settings */
+.hidden {
+  display: none;
+}
+
+/* 00 Start */
+
+
+
+/* 01 Centering */
+
+html.step1 #centering {
+  display: block;
+}
+
+html.step1 header,
+html.step1 main {
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+/* 02 Text Styling */
+
+html.step2 #font-family {
+  display: block;
+}
+
+html.step2 body {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+/* 03 Spacing */
+
+html.step3 body {
+  line-height: 1.5;
+  padding: 4em 1em;
+}
+
+html.step3 h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+/* 04 Contrast for code blocks */
+
+html.step4 code, 
+html.step4 pre {
+  background: #eee;
+}
+
+html.step4 code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+html.step4 pre {
+  padding: 1em;
+}
+
+/* 05 style links */
+
+html.step5 a {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+html.step5 a:hover,
+html.step5 a:focus  {
+  text-decoration: underline;
+}
+
+/* 06 style code a bit more */
+
+html.step6 code,
+html.step6 pre {
+  background: #f5f7f9;
+  border-bottom: 1px solid #d8dee9;
+  color: #a7adba;
+}
+
+html.step6 pre {
+  border-left: 2px solid #69c;
+}
+

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="{{ site.baseurl }}/js_adventure_center/styles01.css">
+  </head>
+
+  <body>
+
+    <div class="container content">
+      <header class="masthead">
+      </header>
+
+      <main>
+        {{ content }}
+       
+      </main>
+      {% include footer.html %}
+    </div>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+  </body>
+</html>
