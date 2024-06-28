@@ -61,9 +61,6 @@ I still think that helping nudge fl a rather audacious feat I've already accompl
 [^i-value-your-attention]: Part of why I can promise that time here will be better spent than {blank} is because I absolutely care about your attention. I value it, in some ways maybe more than you even value it. I'm hoping to get you to upgrade your assessment of your own attention, though, and then we'll _both_ value it highly!
 
 
-
-
-
 I know the internet is a strange place, and there's a certain form of "content" that does well, and this isn't that, mostly. These pages are word-heavy, and I use footnotes regularly. 
 
 I'm going to try to move you one notch down on the "scooter overton window", between:
@@ -86,26 +83,26 @@ There are many, many steps between those two spots.
 
 # What I (josh) don't like about scooters
 
+There is very little I don't like about scooters. They're less fun in rain and bitter cold, than cars, usually.
+
 # What I (josh) like about scooters
+
+so many things, around ease of moving around when I'm using it, and ease of storing it when I'm not using it. Check the tiktok for more. 
 
 # How you might explore if you like or don't like them
 
+consider taking a motor cycle riders training class. I did mine [here](https://www.motorcycleridertrainingcenter.com/). The website is crusty, but you learn good stuff.
+
 # You like one? Want to buy one?
+
+Get a snell-approved full-face helmet. Armored riding gloves. A cell phone holder so you can see google maps while scooting. 
+
+I got comprehensive insurance (collision, theft, damage, uninsured motorist coverage) via a local State Farm insurance agent for $60/month. I wasn't able to get theft coverage via Progressive (I got everything but theft through them, but they wouldn't do comprehensive coverage on my scooter, which was odd, so I switched to State Farm)
 
 # You own one and now you can ride it whenever you want? How the heck do you do it in a way that feels safe?
 
-------------------
+ugh, so much to say about this. More on it later.
 
-When it comes to changing your physical location from one spot to another, in most situations, a scooter outperforms a car in the following ways:
-
-- cost
-- speed of travel
-- management when in use
-- storage when not in use
-
-
- 
-- cheaper-faster-funner-safer way to get around a specific area
 
 # two-minute version
 
