@@ -8,5 +8,29 @@ layout: default
 
 </article>
 
+<script>
+  
+  // https://gomakethings.com/how-to-modify-a-url-without-reloading-the-page-with-vanilla-javascript/
+  let url = new URL(window.location.href);
+
+  // Get the referrer, if there is one
+  let ref = url.searchParams.get('ref');
+  console.log("checking params, found " + ref)
+  let qrCodeSubstring = 'qr'
+  // If there's a referrer...
+  if (ref.toLowerCase().includes(qrCodeSubstring)) {
+    console.log('substring found')
+    // store their ID as a cookie
+    // document.cookie = `affiliate_id=${ref}; path=/; max-age=${60 * 60 * 24 * 28};`;
+
+    // Remove the query string parameter from the URL
+    sleep(0.5)
+    url.searchParams.delete('ref');
+    history.replaceState(history.state, '', url.href);
+  }
+</script>
+
 {% include footer.html %}
+
+
 
