@@ -7,6 +7,26 @@ permalink: /buy-yourself-a-scooter
 image: /_pages/scooter.jpg
 ---
 
+<script>
+  // https://gomakethings.com/how-to-modify-a-url-without-reloading-the-page-with-vanilla-javascript/
+  console.log("hah")
+  let url = new URL(window.location.href);
+
+  // Get the referrer, if there is one
+  let ref = url.searchParams.get('ref');
+  let qrCodeSubstring = 'qr'
+  // If there's a referrer...
+  if (ref.toLowerCase().includes(qrCodeSubstring)) {
+    console.log('substring found')
+    // store their ID as a cookie
+    // document.cookie = `affiliate_id=${ref}; path=/; max-age=${60 * 60 * 24 * 28};`;
+
+    // Remove the query string parameter from the URL
+    url.searchParams.delete('ref');
+    history.replaceState(history.state, '', url.href);
+  }
+</script>
+
 _if you're here via the QR code on my scooter, I think that's hilarious, and welcome, this is a tiny little experiment._
 
 _er, this page is in draft status, for now check out my tiktok. It's mostly scooter stuff._ I run a javascript blocker, so third-party embeds never work for me. If you want to see my tiktok and scooter videos, please click the link:
