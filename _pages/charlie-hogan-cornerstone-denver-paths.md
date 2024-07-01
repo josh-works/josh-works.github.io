@@ -7,15 +7,21 @@ permalink: /charlie-hogan-cornerstone-connects-places-together
 image: images/cheesman_area.jpg
 ---
 
-_i'm trying to get this in front of Charlie Hogan, I've got my normal array of options 📧📫🚶‍♀️🎙️but historically I work in software, and 'sending someone a link to an organic document' is super conventional, takes no time at all, so... I'm trying to nerd snipe charlie here._
+_i'm trying to get this in front of Charlie Hogan, I've got my normal array of options 📧📫🚶‍♀️🎙️but historically I work in software, and `send someone a link to an organic document` is conventional in the industry, takes no time at all, so I am using the same energy to try to attract the attention of Charlie here._[^capture-interest]
 
-_believe it or not, this isn't the first time I've done something like this, successfully! (and a few times less so, nbd, I get what I want no matter what.)_
+[^capture-interest]: there's a few different ways one can 'attract attention'. [one of my favorite webcomics](https://xkcd.com/356/) talks about how ones attention can be derailed by a sufficiently engaging question, and this is an energy I carry around with me all the time. "what's so interesting that it cannot be ignored"_
+
+_believe it or not, this isn't the first time I've done something like this, successfully! Ask me about it if you'd like._
 
 ## The long version 
 
-I just moved to the neighborhood, after living elsewhere in Denver, Golden, and the world, since 2015. 
+I just moved to the cheesman park neighborhood in February. I've lived in Golden 2015-2022, elsewhere in Denver since then. I'm familiar with the area, but most notably started riding a scooter (like a small motorcycle, but not actually one in crucial ways, also not a motor bike, not a lime scooter, etc).
 
-A long time ago, for reasons not important right now, I started a data gathering project on my own traveling around the city.
+A long time ago, for reasons not important right now, I started a data gathering project on my own traveling around the city. For example:
+
+[here's my mobility data for the north side of Cheesman park](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=18&latlng=39.736296,%20-104.96843)
+
+
 
 I go on walks, recording them in strava, for example this one:
 
