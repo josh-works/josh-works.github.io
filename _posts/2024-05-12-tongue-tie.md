@@ -190,9 +190,9 @@ I spent ~$1k on the pre-op prep, and about $1k on the post-op rehab, spread acro
 
 ## Bodywork from Daniel Lopez
 
-[Daniel Lopez, DO](inspireosteopathydenver.com) very useful bodywork, bc turns out the tongue/hyoid bone/top of the spine all can be incorrectly bound together, and when the tongue is released, there's so much new movement potential. Dr. Lopez did grand work on me, from the cranium through the sternum (and even worked on a back injury that is now dramatically better, bc my head sits on my spine differently, so i don't have to compensate/over-compensate elsewhere in the spinal column)
+[Daniel Lopez, DO](https://inspireosteopathydenver.com). My first time ever getting 'body work' done, but I was so thrilled for the nudge. Turns out the tongue connects to the soft pallet which moves up and down in coordination with the hyoid bone. That thing feels connected to the top of the spine, and all this can be incorrectly bound together, and when the tongue is released, there's so much new movement potential. Dr. Lopez did grand work on me, from the cranium through the sternum (and even worked on a back injury that is now dramatically better, bc my head sits on my spine differently, so i don't have to compensate/over-compensate elsewhere in the spinal column)
 
-I did my first appointment ($300) the day after my release. I kept having nearly tears in my eyes as I could feel the 'unclenching' of various portions of my body and musculature, in the days following the release.
+I did my first appointment ($300) the day after my release. I kept having nearly tears in my eyes as I could feel the 'unclenching' of various portions of my body and musculature, in the days following the release. I sorta wish I had done one session before the release, and one after. Alas, it was all exceptional, none the less. 
 
 ## Nasal Breathing
 
