@@ -4,47 +4,48 @@ title: "A little CSS goes a long way"
 permalink: js-adventure-01
 ---
 
-<html>
 <style>
-#container {
-  width: 400px;
-  height: 400px;
-  position: relative;
-  background: yellow;
-}
-#animate {
+ #outer {
+  background: cyan;
+  width: 500px;
+  height: 500px;
+  position:relative;
+ }
+ #inner {
+  background:yellow;
   width: 50px;
-  height: 50px;
-  position: absolute;
-  background-color: red;
-}
+  height:50px;
+  position:absolute;
+ }
 </style>
+
+
 <body>
+  <div id="outer">
+    <div id="inner"></div>
+  </div>
+  <p><button onClick="moveThis()">click me</button></p>
 
-<p><button onclick="myMove()">Click Me</button></p> 
+  <script>
+    function moveThis(){
+      let id = null;
+      let element = document.getElementById('inner');
+      let position = 0;
+      id = setInterval(frame, 5);
 
-<div id ="container">
-  <div id ="animate"></div>
-</div>
-
-<script>
-function myMove() {
-  let id = null;
-  const elem = document.getElementById("animate");   
-  let pos = 0;
-  clearInterval(id);
-  id = setInterval(frame, 5);
-  function frame() {
-    if (pos == 350) {
-      clearInterval(id);
-    } else {
-      pos++; 
-      elem.style.top = pos + "px"; 
-      elem.style.left = pos + "px"; 
+      function frame(){
+        if(position == 460) {
+          clearInterval(id)
+        } else {
+          element.style.top = position + 'px';
+          element.style.left = position + 'px';
+          position ++
+        }
+      }
     }
-  }
-}
-</script>
-
+  </script>
 </body>
-</html>
+
+<p>in which I copy a very basic js animation from w3 schools.</p>  
+<p>final 'from scratch' time was 3:40, blank document to finished/working.</p>
+<a href="https://josh.works/javascript_playground">go to main list of js exercises</a>
