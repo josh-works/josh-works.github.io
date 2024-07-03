@@ -17,21 +17,20 @@ I have small and large projects that have worked, and failed. I have learned fro
 
 ## Explaining that there are alterative land use governance models
 
-[Zoning Very Different Than Hours (substack)](https://zoningverydifferentthanours.substack.com/)
-
+[Zoning Very Different Than Uurs (substack)](https://zoningverydifferentthanours.substack.com/)
 
 Perhaps start at the introduction:
 
 👉 [Zoning Very Different Than Ours: Introduction](https://zoningverydifferentthanours.substack.com/p/introduction-land-use-regimes-very)
 
-### Useful Book Advocate
+## Useful Book Advocate
 
 I read a lot, and have various lists floating around. I've not figured out the One True List for myself yet, but here's some stand-outs: 
 
 📚📖📓👨🏻‍🏫 👉 [josh.works/recommended_reading]({{ site.baseurl  }}{% link _posts/2024-06-04-recommended-reading.md %})
 
 
-### Robert Moses Hype Man
+## Robert Moses Hype Man
 
 Robert Moses is a rather under-appreciated figure in American history. He's why American cities look the way they look, and he's responsible for lots of behavior that's amounted to 'regimes of ethnic cleansing'. 
 
@@ -55,9 +54,9 @@ It's a little mix of python/flask + writing/reading Strava activity data + maps.
 
 👉 [A all-at-once global rendering of 3+ years of Josh's mobility data, rendered at an insanely detailed scale](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=12&latlng=39.731482,%20-105.064316)
 
-## 'gardening'-esque projects around Golden, Colorado
+## 'gardening'-esque projects around Denver
 
-This project is the hardest to define, and lasted approximately 2016-2022, with many twists and turns to the story.
+This project is the hardest to define, and and started approximately in 2017, with many twists and turns along the ways.
 
 I lived in Golden from 2016-2022, first renting a condo, and at another point owning a rather old house for a rather large amount of money, and was enthusiastic on various projects in and around Golden. I poured myself hard into a bunch of projects around the city, and still consider it to be time well spent. 
 
@@ -156,9 +155,10 @@ Are you an early-career software developer? Working on getting your first job, o
 
 👉 [https://intermediateruby.com/](https://intermediateruby.com/)
 
-## How to Integrate Stripe and a Static Site
 
-_2019_
+## How to Integrate Stripe and a Static Site 
+
+_2019, no longer active_
 
 Have you ever wanted to add a very basic payment integration for something you're selling on your static website?
 

@@ -94,7 +94,12 @@ I'm claiming that I can directly 'engineer' the creation of "Walkable neighborho
 
 Denver's walkability is shit, but I want to fix it, and I think you'd prefer to live in a neighborhood where this issue was fixed, so I'd want to do that too.
 
-Currently, the streets are not managed adequately, but it takes surprisingly little pressure, if it's correctly applied, to get dramatic improvements. The smaller the intervention, the easier it is to accomplish. [consider this interview with Wes Marshall, just published _Killed by a Traffic Engineer_, lives here in Denver. He worked/works with DOTI and teaches at CU Denver](https://www.youtube.com/live/26LuHqFQ0bY).
+Currently, the streets are not managed adequately, but it takes surprisingly little pressure, if it's correctly applied, to get dramatic improvements.'[^pressure]
+
+[^pressure]: Wes Marshall talked a lot about the exact process DOTI follows to make changes, two bits jumped to mind: 1) whoever has more data wins, and 2) engineers are allowed to do whatever they think is best, with or without documenting their decision. 
+
+ 
+The smaller the intervention, the easier it is to accomplish. [consider this interview with Wes Marshall, just published _Killed by a Traffic Engineer_, lives here in Denver. He worked/works with DOTI and teaches at CU Denver](https://www.youtube.com/live/26LuHqFQ0bY).
 
 Good connections are safe and reliable in most regularly-occurring, expectable conditions. There's ways to know when this has occurred, and for reasons that root long before anyone today was born, Denver has inefficient connections between places.
 
@@ -102,14 +107,12 @@ I don't know the best way to spark interest for you.
 
 I see Cornerstone signs everywhere, since I've moved to the Cheesman Park area recently, and my mouth waters at the possibility of working, in a reasonable way, to better connect your buildings (and thus the lives of the people who currently live, or will live, in Cornerstone properties) with local amenities.
 
-My favorite way to talk about things is while walking, either in person or separately, on the phone. I assume you spend time in Denver, would you care to go on a walk from Cheesman park sometime? I live three blocks away, would love to discuss this more.
+My favorite way to talk about things is while walking, either in person or while on the phone. I assume you spend time in Denver, would you care to go on a walk from Cheesman park sometime? I live three blocks away.
 
-connectedness has lots of implications across many domains. We'd start by finding ways to improve the experience of people using strollers/joggers, either as the vehicle operator, or the passenger. 
+lets chat. I'm +12404832952, or `joshthompson@hey.com`
 
-Let's meet up? 
+- Josh
 
-I'm working on a more public post, "paths around denver in which I am interested". <strike>It's not published yet but i'll update this when it's up.</strike> its live at [https://josh.works/interested-paths]({{ site.baseurl  }}{% link _posts/2024-06-15-interested-paths.md %}).
-
-
+PS: I'm working on a more public post, "paths around denver in which I am interested". <strike>It's not published yet but i'll update this when it's up.</strike> its live at [https://josh.works/interested-paths]({{ site.baseurl  }}{% link _posts/2024-06-15-interested-paths.md %}).
 
 ## Footnotes
