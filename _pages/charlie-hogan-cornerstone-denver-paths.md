@@ -9,9 +9,7 @@ image: images/cheesman_area.jpg
 
 _i'm trying to get this in front of Charlie Hogan, I've got my normal array of options 📧📫🚶‍♀️🎙️but historically I work in software, and `send someone a link to an organic document` is conventional in the industry, takes no time at all, so I am using the same energy to try to attract the attention of Charlie here._[^capture-interest]
 
-[^capture-interest]: there's a few different ways one can 'attract attention'. [one of my favorite webcomics](https://xkcd.com/356/) talks about how ones attention can be derailed by a sufficiently engaging question, and this is an energy I carry around with me all the time. "what's so interesting that it cannot be ignored"_
-
-_believe it or not, this isn't the first time I've done something like this, successfully! Ask me about it if you'd like._
+[^capture-interest]: there's a few different ways one can 'attract attention'. [this is one of my favorite web comics](https://xkcd.com/356/), it shows a way that someone's attention can be _strongly_ engaged. this is an energy I carry around with me all the time. "what's so interesting that it cannot be ignored?"_
 
 ## The short version 
 
