@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Charlie Hogan - Cornerstone Is Well Positioned To Do Something Innovative Regarding Mobility Infrastructure
 published: true
 description: "I'd like to convince Charlie Hogan, via an easily-updatedable-document, easily sharable and linkable to internal spots, that Cornerstone could/should benefit enormously from doing some fixing of easy-to-fix, overlooked issues"
@@ -13,9 +13,9 @@ _i'm trying to get this in front of Charlie Hogan, I've got my normal array of o
 
 _believe it or not, this isn't the first time I've done something like this, successfully! Ask me about it if you'd like._
 
-## The long version 
+## The short version 
 
-I just moved to the cheesman park neighborhood in February. I've lived in Golden 2015-2022, elsewhere in Denver since then. I'm familiar with the area, but most notably started riding a scooter (like a small motorcycle, but not actually one in crucial ways, also not a motor bike, not a lime scooter, etc).
+I just moved to the cheesman park neighborhood in February. I've lived in Golden from 2015-2022, elsewhere in Denver since then. Just moved to this area quite recently, and I *love* the amenity of Cheesman Park and the Botanic Gardens. (I don't like how sparce markets are. more on that later)
 
 A long time ago, for reasons not important right now, I started a data gathering project on my own traveling around the city. For example:
 
@@ -23,11 +23,7 @@ A long time ago, for reasons not important right now, I started a data gathering
 
 _tap the image above to get a view of very custom data - very specific path data of where I've been while carrying my phone and recording my activity via Strava_
 
-I go on walks, recording them in strava, for example this one. You'll have to request to follow me on Strava to see it. Most people don't have a strava account, even if they do it's unweildy:
-
-[https://www.strava.com/activities/11651893494](https://www.strava.com/activities/11651893494)
-
-Looks like this:
+I go on walks, like this one, and think about how well the mobility network functions to provide ease and safety for myself and loved ones, as I use the network.
 
 ![eden walk](images/eden_trip.jpg)
 
@@ -62,9 +58,7 @@ If you visit that link, or click this picture, you'll  be able to see a bunch of
 
 ## The Long Version
 
-I'd like to dramatically improve some specific bits of the neighborhood, especially in line with the experience of all parties in a situation like:
-
-> walking around with a toddler in a stroller
+I'd like to work with Cornerstone, and with Cornerstone resources to dramatically improve some specific bits of the neighborhood, especially in line with the experience of all parties in a situation like `walking around with a toddler in a stroller`
 
 If one gets these things right, one happens to also have gotten a bunch of other details right. 
 
@@ -114,5 +108,25 @@ lets chat. I'm +12404832952, or `joshthompson@hey.com`
 - Josh
 
 PS: I'm working on a more public post, "paths around denver in which I am interested". <strike>It's not published yet but i'll update this when it's up.</strike> its live at [https://josh.works/interested-paths]({{ site.baseurl  }}{% link _posts/2024-06-15-interested-paths.md %}).
+
+## Linear Parks, Pedestrianized Streets
+
+As I've walked around (sometimes alone, sometimes with my daughter) I'll talk to different Cornerstone employees - I always really, seriously thank the people cleaning up alleys and trash. I _love_ alleys, would love to see them made beautiful, first-class walking paths for people. That's where I think the work should start.
+
+I am seriusly proposing the creation of creating pedestrian streets, car-free areas, that still function perfectly for deliveries and such. I talk about where I think this could be started (not that it matters _where_ so much) here: [linear parks, deep link to the half-way point of a substack article I wrote](https://zoningverydifferentthanours.substack.com/i/145216039/i-use-cheesman-park-and-the-botanic-gardens-quite-often-probably-at-least-every-other-day)
+
+Another lense of the same idea: [paths in which I am interested](https://josh.works/interested-paths). 
+
+Would this be of interest to you? If you could arbitrarily create a pedestrianized street or linear park in the Cheesman Park area, does any particular location stick out to you?
+
+I think the simple intellectual/emotional exercise of getting this thing done (even if it's just a few blocks) would be deeply instructive and enjoyable to watch, and would lead to more of the same.
+
+All of this would be easily accomplished. It's not been done already because of long, historic issues around the way streets are 'managed' in the USA.
+
+I just recently encountered Wes Marshall - DOTI traffic engineer, he just wrote [Killed by a Traffic Engineer](https://www.youtube.com/live/26LuHqFQ0bY) getting at the pseudoscience behind how 'streets departments' do their thing. He is writing about _American_ road design, but happens to live in Denver. He includes information about how exactly to side-step the dumb decision making encouraged by modern traffic engineering, and this is what I wanna work with Cornerstone on.
+
+Basically, fixing the dangerous road network around Cheesman park, entirely without the concept of 'enforcement', but with the concept of 'environmental design'. 
+
+Thats it until next time.
 
 ## Footnotes
