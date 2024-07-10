@@ -17,7 +17,7 @@ I have small and large projects that have worked, and failed. I have learned fro
 
 ## Explaining that there are alterative land use governance models
 
-[Zoning Very Different Than Uurs (substack)](https://zoningverydifferentthanours.substack.com/)
+[Zoning Very Different Than Ours (substack.com)](https://zoningverydifferentthanours.substack.com/)
 
 Perhaps start at the introduction:
 
