@@ -4,16 +4,16 @@ title:  "Parenting: A Place for Sources And Stories"
 description: "I happen to quite like the experience of having the responsibility of 'parent'."
 date:  2024-05-25 06:00:00 -0700
 crosspost_to_medium: false
-published: false
+published: true
 categories: [parenting]
 tags: [people, parenting, adults]
 permalink: parenting
-issue_id: 69
+issue_id: 79
 ---
 
 As some of us are or might be, I "am a parent", or I "have a child", or something like that.
 
-This is complex for me to write and engage with, because something that is _certainly true for all of us_ is that we "have a parent" or we "have been a child". To talk about any of it is to talk about all of it.
+This is complex for me to write and engage with, because something that is _certainly true for all of us_ is that we "have a parent" or we "have been a child". To talk about any of it is to talk about all of it. 
 
 Also the status of 'child' is quite temporary _in society_, and then perhaps less so in different structures. Also, to be a child in America is to be a member of an oppressed class. I entirely oppose the energy
 
@@ -32,23 +32,10 @@ I'm inspired by people like [Robert Heaton](https://robertheaton.com/#parenthood
 
 ## Books That Have Informed Me
 
-Normal-ish books, but very written from an unselfconscious western perspective. In 2017, I read [Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think](https://www.goodreads.com/en/book/show/10266902-selfish-reasons-to-have-more-kids): among other things, the author expresses the concept: "the point of kids isn't kids, but to have good relationships with your adult children, because 40 years will pass in that context while maybe 16 will pass in the 'child' context. Mostly kids turn out however they're going to turn out, which is generally fine, so you can take a deep breath, pursue everyone's ease, for everyone's benefit." It left an impact.
-
-Contextualizing some of the idiosyncrasies of living/raising young in/around constraining structures, of which there are many. Even if everything is peaceful and healthy at home, there's a lot to trying to navigate the adult world in a coherent and peaceful way despite pretty obvious intrusive counter-efforts. 
-
-[The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It](https://www.goodreads.com/book/show/9861067-the-art-of-roughhousing)
-
-AKA I count these as 'parenting-informing' or 'parenting adjacent' even though they're obviously not a traditional parenting book. 
-
-[Against the Grain: A Deep History of the Earliest States](https://www.goodreads.com/book/show/34324534-against-the-grain)
-
-A great take on what sort of structures (social and otherwise) existed in the ecosystem as some groups of people were organizing this thing called 'states'. Sorta city-state-ish, in today's parlance. There was a whole lot of acquisition and dependence on behalf of the state, and when the state 'failed' (aka "the person chiseling tables of counts of people, cattle, and grain stopped showing up to work") it mostly looked like the various 'acquired' populations walking out of town back to wherever they'd been acquired from. 
-
-It's a bit of a subversive read. ¯\\\_(ツ)_/¯
-
-[The Secret of Our Success](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success?ref=nav_sb_ss_1_18)
-
-Hard to summarize myself, so here's [scott alexander's book review](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
+- [The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It](https://www.goodreads.com/book/show/9861067-the-art-of-roughhousing)\
+- [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary/dp/039916510X)
+- [Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think](https://www.goodreads.com/en/book/show/10266902-selfish-reasons-to-have-more-kids)
+- [The Secret of Our Success](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success?ref=nav_sb_ss_1_18), one of the best books I've ever read. Hard to summarize myself, so here's [scott alexander's book review](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
 
 Many western parenting tropes rely quite a bit on coercion and a punishment-informed mindset. When pointed out, a reactionary defense of 'what other options do I have' is sometimes offered up. 
 
@@ -56,35 +43,20 @@ Besides indicating that the speaker has an operating belief in the entitlement t
 
 [^entitlement]: It's worth noting when there's an energy of entitlement operating, because to not name it is to slip into a weaker frame. "What other way do I have of making my child go to school than heaping punishments on them?" belies an _entitlement_. Entitlement sounds like: "it seems appropriate to me to dominate someone in this situation, so I'm simply looking for the easiest-way-for-both-of-us to accomplish that domination. I'm willing to do a light touch if they make it easy enough." 
 
-This book is [Legal Systems Very Different from Ours](https://www.goodreads.com/en/book/show/30066446). [Also available for free, chapter by chapter, on the author's website](http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm)[^publish].
+    This book is [Legal Systems Very Different from Ours](https://www.goodreads.com/en/book/show/30066446). [Also available for free, chapter by chapter, on the author's website](http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm)[^publish].
 
 [^publish]: Would you believe the author uses different 'intellectual property' norms than the american publishing system?
 
-
-
-## Ideas That Play(ed) A Big Role
-
-### Tacit knowledge exists
-
-[Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/tacit-knowledge-is-a-real-thing/)
-
-I cannot express the various ways these ideas have slipped into my life, the ideas of tacit knowledge, and [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). It makes me usually fun to go on walks with, even at the speed of a toddler. 
-
-I wrote more about it introducing an experimental 'learn-along' series: [intro to a series on an open-source contribution, intermediateruby.com](https://www.intermediateruby.com/make-oss-contributions-part-0-introduction)
-
-I [find interestingness everywhere]({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %}), it's a useful foundation for constructing a 'bridge' towards someone or a place, in empathy or skill. 
 
 ### Elimination Communication
 
 This was perhaps responsible for _most_ of the early-stage 'this child seems extremely chill' vibes. I'm perhaps trying to cover too much in a single post, sorry.
 
-Western diaper culture, esp disposable diapers, is not how it's always been done. Eastern cultures were aware of the rythems of children/infants, built routines of baby-wearing + 'easy' aided waste elimination, so from a young age the person is simply eliminating into the ground or a suitable container _by default_ instead of defaulting into soiled diapers.
+Western diaper culture, esp disposable diapers, is not how it's always been done. Eastern cultures were aware of the rhythms of children/infants, built routines of baby-wearing + 'easy' aided waste elimination, so from a young age the person is simply eliminating into the ground or a suitable container _by default_ instead of defaulting into soiled diapers.
 
 This is also the first move of learning to be non-coercive towards children. Observe, study, learn to communicate, use your adult brain/skills to bridge towards their brain and skills. Their skills grow so quickly in healthy environments. 
 
-Baby sign language, and recognizing/helping-into regulated nervous system states. 
-
-
+Baby sign language, and recognizing/helping-into regulated nervous system states. [Go Diaper Free: A Simple Handbook for Elimination Communication](https://www.amazon.com/Go-Diaper-Free-Elimination-Communication/dp/0692445056)
 
 ## On people meeting
 
@@ -102,9 +74,7 @@ Not her, not me, but that plant, that person over there, the thing. A step to th
 
 To pick from one of several available frames, it's a little bit of a projection of a role onto someone, while that same person steps into their own projection of their own role. 
 
-> This is a child, a girl, who must like girly things and be feminine and childish and incapable and sub-consciousness, and I am used to eliciting a certain reaction, and that makes me feel good/safe/in control/dominant, which i like.
-
-It's usually a pretty namable energy, every/anyone can see it, Eden will name it to me, sometimes before or after. "I didn't like that person", she might say, or other things like it. 
+Eden feels the projection of the role, and doesn't like it. It's usually a pretty namable energy, every/anyone can see it, Eden will name it to me, sometimes before or after. "I didn't like that person", she might say, or other things like it. 
 
 A nice alternative energy is something more akin to:
 
@@ -122,9 +92,17 @@ The kinds of people who script social interactions and believe they're entitled 
 
 I've often-enough/too-often informed others of a norm for interacting with eden: 
 
-> we do not put words in edens mouth, or demand her to place our words in her mouth.
+> we do not put words in edens mouth, or demand her to place your words in her mouth.
 
-To the credit of many, i perceive this norm to have been well received.
+To the credit of some, i perceive this norm to have been well received. Adults "tell" kids to do or perform something all the time.
+
+My parents attacked me as a child when I didn't look happy enough for them. "Have a good attitude, Josh". "Put on your happy face". "We do all things for the Lord, and He wants you to be happy." I spent enough of my life around people who heavily suppress the emotions of people around them, and I no longer permit it from other adults, when I am present. 
+
+When Eden would cry, I've seen adults turn to her and say "you're not upset" or "don't be upset" or "here's a distraction", instead of allowing her whatever is going on, attending to the environment ("oh, you have to go to the bathroom? thanks for letting me know!"), and supporting her with their own regulated nervous system. 
+
+Unhealthy adults need to suppress the emotions of other people if they are unable to access their own sense of that emotion. Grief and sadness and anger is heavily suppressed in evangelical/white cultures, so those are the ones children raised by them tend to not have easy access to. 
+
+I make sure Eden knows her grief and sadness and anger do not cause me trouble, and I'm happy to support her through it all. 
 
 ## "Shy" isn't a helpful question or label
 
@@ -136,7 +114,7 @@ They perhaps think she doesn't understand what they're saying, or isn't able to 
 
 I say some version of:
 
-> That framing makes useful conversation less accessible, rather than more. Eden knows that she doesn't 'need' to 'give' anyone any sort of concession, just because someone thinks they're entitled to it, nor does she need to perform for people. It's inappropriate for an adult to demand a certain kind of interaction from a child. 
+> That framing makes useful conversation less accessible, rather than more. Eden knows that she doesn't 'need' to 'give' anyone any sort of concession, just because that person thinks they're entitled to it, nor does she need to perform for people. It's inappropriate for an adult to demand a certain kind of interaction from a child. 
 
 I usually figure out how to be diplomatic about it, and fortunately 'shy' as a concept is sort of fading out of society, I think.
 
@@ -148,13 +126,19 @@ So, sometimes Eden pointedly refuses to even turn her face towards someone. Some
 
 Others cannot see it, or refuse to act on it, and instead keep stepping closer and trying to get in her face, to get her to look at them and say hello or something. Or to say "thank you" as they make an evaluation of some aspect of her physical appearance. 
 
-broadly, it's possibly appropriate to comment on thinking someone made distinctive choices in picking out an item of clothing or displayed prowess in judgment or skill. "sick rainbow shoes.", "that thing you did looked tricky, and skillful." Does anything _need_ to be said.
+Broadly, it's possibly appropriate to comment on thinking someone made distinctive choices in picking out an item of clothing or displayed prowess in judgment or skill. "sick rainbow shoes.", "that thing you did looked tricky, and skillful." 
 
-I obviously use my adult skills and abilities to advocate on Eden's behalf, and this sort of behavior gets stopped almost immediately, whenever I'm there to witness. 
+### What not to say
 
-Eden is also _quite_ happy to stare at a something with intense focus. Sometimes it's a dog, or a bug, or a person. If the person is close enough, and notices, and feels self-conscious, they might call it a _withering intensity_. It's distinctive enough that complete strangers often commented on it, even at a really young age. I proffer it's maybe the look of someone who's totally focused on what they are looking at, they're not performing 'social softening' of the gaze. As a toddler, she'll turn her head to look at something as it or she passes by, in a way that is identical to when she was an infant, and I presume is motivated out of a similar-enough inner state.
+I don't like to make it sound like a child's entire existence is already the same as an adult slaving away. 
 
-She's permitted to look at something as hard as she wants, or not at all, and I perceive that some adults are unaccustomed to be looked at in such an evaluator-like, non-apologetic way, by such a young child. And, when she doesn't look at an adult, I can also see some some adults are not sure what to do with it.
+References to jobs, and work, are not interesting to me, so "good job" and "nice work" are not phrases in my lexicon. "That looked interesting" and "what did you like about that?" or "did that feel tricky?" 
+
+Eden is also _quite_ happy to stare at a something with intense focus. Sometimes it's a dog, or a bug, or a person. If the person is close enough, and notices, and feels self-conscious, they might call it a _withering intensity_. 
+
+It's distinctive enough that complete strangers often commented on it, even at a really young age. I proffer it's maybe the look of someone who's totally focused on what they are looking at, they're not performing 'social softening' of the gaze. As a toddler, she'll turn her head to look at something as it or she passes by, in a way that is identical to when she was an infant, and I presume is motivated out of a similar-enough inner state.
+
+She's permitted to look at something as hard as she wants, or not at all, and I perceive that some adults are unaccustomed to be looked at in such an evaluator-like, non-apologetic way, by such a young child. 
 
 ## On Beauty
 
@@ -172,8 +156,6 @@ This feels insanely delicate to write even a few paragraphs about. I want to thr
 It feels vastly under-appreciated in 'normal' society how total of a regime of social control chattel slavery represented, and how fundamentally and totally the dehumanization that occurred affected the mind of the oppressor, the consciousness of the classes and races, that "it" sorta created. 
 
 It's manifestly obvious when at least some streams of it reach out to touch Eden, and I don't like it.
-
-
 
 ## Misc Resources
 
