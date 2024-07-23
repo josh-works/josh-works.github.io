@@ -153,7 +153,9 @@ This feels insanely delicate to write even a few paragraphs about. I want to thr
 - [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.amazon.com/Origins-Proslavery-Christianity-Evangelicals-Antebellum/dp/0807858773)
 - [They Were Her Property](https://www.goodreads.com/book/show/40887375-they-were-her-property)
 
-It feels vastly under-appreciated in 'normal' society how total of a regime of social control chattel slavery represented, and how fundamentally and totally the dehumanization that occurred affected the mind of the oppressor, the consciousness of the classes and races, that "it" sorta created. 
+It feels vastly under-appreciated in 'normal' society how total of a regime of social control chattel slavery represented, and how fundamentally and totally the dehumanization that occurred affected the mind of the oppressor, the consciousness of the classes and races, that "it" created. 
+
+Race isn't real. Ethnicity is. White people get angry when you call their conflict 'inter-ethnic-group conflict' but that's all it is. Settler colonialism was 'white' people showing up and using violence to displace some, enslave others, and they used english, books, and authoritarian language to justify it, instead of saying "meh, we like people like us, are willing to kill the rest."
 
 It's manifestly obvious when at least some streams of it reach out to touch Eden, and I don't like it.
 
