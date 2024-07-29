@@ -17,7 +17,19 @@ _this was originally posted a few years ago, republishing as a blog post as I or
 
 Here's a big dumping ground for some resources on robert moses I've got floating around. 
 
-Obviously, this has grown to an unwieldy sizy and less would be asked of you if I organized it a bit better. Instead, I invite you to click around or scroll, in particular scroll through the bottom section, #
+Obviously, this has grown to an unwieldy sizy and less would be asked of you if I organized it a bit better. 
+
+Here's some starting points, perhaps. 
+
+# 1-hour Vimeo documentary about Robert Moses
+
+I _just_ found this link. It's the first time I've seen so much footage of Moses himself talking, and his acolytes talking about him.
+
+[THE WORLD THAT MOSES BUILT (vimeo)](https://vimeo.com/340060890)
+
+The reflexive love so many people had of his high modernism/authoritarianism/supremacy is on full display. 
+
+# Appreciate the kind of person that could be 'responsible' for the Henry Hudson Parkway
 
 
 ![henry hudson parkway](/images/hh_parkway.jpg)
@@ -33,9 +45,9 @@ Read what is said about the author of Robert Moses' incredible biography:
 This biography is long. If you're like me and you're thrilled to find a long book that you'll love, you'll be happy to know his biography is almost as long as all of the harry potter book series. 
 
 
-# A review of _The Power Broker_
+# The best book review ever, a book review of _The Power Broker_
 
-Next, please read the \#1 GoodReads review of [_The Power Broker: Robert Moses and the Fall of New York_](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1).
+A book review of [_The Power Broker: Robert Moses and the Fall of New York_](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1).
 
 I will never be able to write as well as this reviewer, and I believe this is a criminally under-appreciated block of text, so I'm quoting it in full below: [^with-annotations]
 
