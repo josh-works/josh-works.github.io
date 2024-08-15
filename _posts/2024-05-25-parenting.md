@@ -34,7 +34,7 @@ I'm inspired by people like [Robert Heaton](https://robertheaton.com/#parenthood
 
 - [The Art of Roughhousing: Good Old-Fashioned Horseplay and Why Every Kid Needs It](https://www.goodreads.com/book/show/9861067-the-art-of-roughhousing)\
 - [Parenting from the Inside Out: How a Deeper Self-Understanding Can Help You Raise Children Who Thrive](https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary/dp/039916510X)
-- [Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think](https://www.goodreads.com/en/book/show/10266902-selfish-reasons-to-have-more-kids)
+- [Selfish Reasons to Have More Kids: Why Being a Great Parent Is Less Work and More Fun Than You Think](https://www.goodreads.com/en/book/show/10266902-selfish-reasons-to-have-more-kids) (less enthusiastically recommended today than say 2017)
 - [The Secret of Our Success](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success?ref=nav_sb_ss_1_18), one of the best books I've ever read. Hard to summarize myself, so here's [scott alexander's book review](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
 
 Many western parenting tropes rely quite a bit on coercion and a punishment-informed mindset. When pointed out, a reactionary defense of 'what other options do I have' is sometimes offered up. 
@@ -49,6 +49,8 @@ Besides indicating that the speaker has an operating belief in the entitlement t
 
 
 ### Elimination Communication
+
+This concept, this _possibility_ was groundbreaking to me when I crossed paths with it. 
 
 This was perhaps responsible for _most_ of the early-stage 'this child seems extremely chill' vibes. I'm perhaps trying to cover too much in a single post, sorry.
 
@@ -104,6 +106,11 @@ Unhealthy adults need to suppress the emotions of other people if they are unabl
 
 I make sure Eden knows her grief and sadness and anger do not cause me trouble, and I'm happy to support her through it all. 
 
+Possible word swaps:
+
+- "good job/nice work" becomes "that looked interesting/tricky" or "was that interesting to you? what was something interesting about that?"
+
+
 ## "Shy" isn't a helpful question or label
 
 Sometimes an adult acts entitled to obtaining a certain reaction from Eden. 
@@ -142,7 +149,7 @@ She's permitted to look at something as hard as she wants, or not at all, and I 
 
 ## On Beauty
 
-I dislike the energy that old white people have, when they insert themselves into me and Eden's day to pronounce that they find her physical form appealing. It's _very_ strange to have grown adults continuously talking about the pleasing physical form of a child. (settler colonialism! Seeing children as possessions/nationalism) 
+I dislike the energy that some people have, when they insert themselves into me and Eden's day to pronounce that they find her physical form appealing. It's _very_ strange to have grown adults continuously talking about the "pleasing physical form" of a child. (settler colonialism! Seeing children as possessions/nationalism) 
 
 Sometimes it's very visible that an interlocutor has an internal values system that is coherent with white/american/western/racialized beauty norms, and that they see in Eden an attribute that seems coherent with their norms, it feels like they're playing a role in supporting those beauty norms. Taking anyone seriously necessitates at least being able to refrain from stating objectifying statements, or trying to. 
 
