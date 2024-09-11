@@ -18,56 +18,61 @@ This post should be interesting to programmers and non-programmers alike. A poly
 Here's what the polyline looks like, raw:
 
 <pre>
-w_qqFxyt_SDJ?EAHBGAEABBC@FEB?G?BEDAH@JDHLBZC\FNHJ@J?^KPAPB
-f@?r@BH@FDBJ?tADzA@bAEtEGrBApADn@DxC@zBBzACpA@hBDd@LZJHJBz
-@Kl@BbCCXBf@G|@Ct@@rACfADDDzAEh@Dh@EfCAVBDBFTArCC`@BtA?x@C
-p@En@FfBCrBD|AA|A@pGGX?tAKv@I|AEXDt@@pHGlJF|@@bAEvEF`DAtAF
-jDCjBCJAADvA?fBBHCf@CNGLJZAnFMr@IL]^e@`@uC`B{@t@CAIFITAN?~
-@RjDFBl@Cj@ETE\IXSXKnAcAh@WTGTAr@B`AV^@FBFHD`@@rCFRJHHBTBV
-Cd@@jCGv@BDb@CxCFvGBNHH`@H~@@bCCpC@tBAjBBLN@P@|D@f@@HDBbBC
-l@E`@DbACn@HJDL@t@GfBC`CBJF@PG|AD@LAD@DFFXFj@HTDDF?PEJF@DA
-?E?BMA?@WCQ?BKBFABBG?MY?F?GC@AE@CE@AACb@B^AFIPMBaCEmAF}@?w
-AE}@B}A@iBEICOQCYA}B@}@?_HDGJGzB@bBE^BBCNAPMDWCoAGEMJEX@DH
-@ASGQECGFJHEICB@DKCDBEC?@?ABBCAB@CCBBECB?C@@EAD@GC?DPEA?CB
-?A?M@?GLK?RADACA@ACE?FFEGBDBACICDAEBBCC@BAC@BAADBEEBFFFAE@
-XESDDEG?HACB@@MBBC??B?A?BAAAP?K@L?KCFEAA@Fb@@IAJ@GM?BFHCEB
-?@BEC@@?@FCA@EAF?C??CAFEEFB_@EKBEAACBHE?^D[GX@MFOAG@DCEDW@
-??HLCBCCIEAU?KJG@CCSCuBCa@Gc@Fe@CEGEw@E]BIDa@CIi@BOGIAKGWD
-KC@HIDg@AED]AWEC??BIA]Ie@BCAGQMGA@@@@A?DMBCBKBM?Ie@?CCEF?G
-M@DCC@@AEBFCADFAAE?BCDD?EAAB@AFDEA@?CAFAC?@EEA@?CBCBBCPCF?
-FLN?RNJP@DBVCR?F@BZA`BBD`@CHDLIVABD\?DBXB^Of@AZJJALEb@E@CX
-DJATJFABE^FXE?BPBV@RC@Bf@CJDX@HRD@?KAABDCBACHC?CHNG?CDEEBD
-BCC?KN[QE@ENH@JJAN@JDFABECB??C?BAM@LAe@EGBOEKDEL@?DBABCAQC
-H@B?CIDBA?DABF??@B@IADQHE@@Pa@@U?{AD[CYCaBBgAGyA?oA@g@ASCG
-GC]?e@C{CBs@CECCDsA@sBEaA@a@D[A[D}BAs@DoBAs@GcDRU?c@Ag@EII
-EO?iAFm@@k@GcBFqDGs@WeAG{@@qBC}A@sAGgABu@Ay@BOCq@FYImCAwBC
-OGIQIgBAmAGq@ACCEKASBaBEqAB_@DI@??HCW?mBCk@@_@Aw@@MGqDDiAE
-eAAmCBgBCq@?SLc@Fc@Bs@HK@GGmAAyABcFDgBCg@?UG_@DmB?iEBQBIGo
-AAsKCgAF{ACSAoB@eAES?IHMAQBEIs@Cq@D{CCoDC]IEmCiABiAAGCCGCA
-kAJwBEgCLyAAsBDg@Ai@@KKDBBCGCBDIDGGEOA{@CKGCIHMFY?QE]DMKEI
-?uAFGCMKICKIAKBa@RI?UQG?MDEAKBCMCC@BBC@U?B?AIMHK?MC@@@BA?@
-?A?EIMC??CAAKJ@RIFA?AEJFSKK?UIQBACBEBA?`@JAFBHLLFA?F?IIKAJ
-HE??@@?CCF?MGCJJGLBOBFAF@UAKET@FCMB@CYBMEB?AABERFC@@AFF 
+qonqFj}z_SG@IQW?GCKQ?UGIa@AGGAKCZA@c@M_@?GIOMYIMSa@?GAUDOAGG?QDGNBAHPFJ?BCMI[B?E@HDB@JBKD@C@@AACEI
 </pre>
 
-And, converted to lat/long pairs, this makes 757 points, here's the first few:
+And, [converted to lat/long pairs](https://www.daftlogic.com/projects-convert-encoded-polyline-to-latitude-longitude-list.htm), this makes a bunch of points:
+
+_update, using a different polyline than what I started this whole thing off with - it was maybe giving me issues.
 
 ```
-39.74156,-104.96941
-39.74153,-104.96947
-39.74153,-104.96944
-39.74154,-104.96949
-39.74152,-104.96945
-39.74153,-104.96942
-39.74154,-104.96944
-39.74152,-104.96942
-39.74151,-104.96946
-39.74154,-104.96948
+39.72873,-105.00070
+39.72877,-105.00071
+39.72882,-105.00062
+39.72894,-105.00062
+39.72898,-105.00060
+39.72904,-105.00051
+39.72904,-105.00040
+39.72908,-105.00035
+39.72925,-105.00034
+39.72929,-105.00030
+39.72930,-105.00024
+39.72932,-105.00038
+39.72933,-105.00039
+39.72951,-105.00032
+39.72967,-105.00032
+39.72971,-105.00027
+39.72979,-105.00020
+39.72992,-105.00015
+39.72999,-105.00005
+39.73016,-105.00005
+39.73020,-105.00004
+39.73031,-105.00007
+39.73039,-105.00006
+39.73043,-105.00002
+39.73043,-104.99993
+39.73040,-104.99989
+39.73032,-104.99991
+39.73033,-104.99996
+39.73024,-105.00000
+39.73018,-105.00000
+39.73016,-104.99998
+39.73023,-104.99993
+39.73037,-104.99995
+39.73037,-104.99992
+39.73036,-104.99997
+39.73033,-104.99999
+39.73032,-105.00005
+39.73030,-104.99999
+39.73027,-105.00000
+39.73029,-105.00001
+39.73028,-105.00000
+39.73029,-104.99998
+39.73032,-104.99993
+
 ```
 
-
-
-One can pop it into [Google's polyline decoding utility](https://developers.google.com/maps/documentation/routes/polylinedecoder) to see it rendered. Here's what it looks like:
+One can pop the polyline into [Google's polyline decoding utility](https://developers.google.com/maps/documentation/routes/polylinedecoder) to see it rendered. Here's what the original polyline I was working with looks like:
 
 ![polyline](/images/polyline-decoder.jpg)
 
@@ -106,9 +111,14 @@ We sourced there css, then JS, then added a div for a map, did a tiny bit of sty
 
 And here's what that renders:
 
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script type="text/javascript" src="https://rawgit.com/jieter/Leaflet.encoded/master/Polyline.encoded.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
 <div id="map1"></div>
 
@@ -119,6 +129,8 @@ And here's what that renders:
 </style>
 
 There we go! It worked! A basic map. Pinch and zoom and pan. Cool, huh? Lets add the polyline next. We'll assign to to a variable, and ask Leaflet to decode it and add it to the map.
+
+_edit, that was really hard, what you're about to see is a much smaller version of what I'd planned to do. It's just a tiny fraction of the whole polyline, arbitrarily cut off at one end. I'll explain what I did below._
 
 
 
@@ -133,22 +145,101 @@ There we go! It worked! A basic map. Pinch and zoom and pan. Cool, huh? Lets add
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map1);
 
-    var map2 = L.map('map2').setView([39.742043, -104.991531], 13);
+    var map2 = L.map('map2').setView([39.736532, -104.977459], 18);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
+    maxZoom: 23,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map2);
 
 
 
-    var line = 'w_qqFxyt_SDJ?EAHBGAEABBC@FEB?G?BEDAH@JDHLBZC\FNHJ@J?^KPAPBf@?r@BH@FDBJ?tADzA@bAEtEGrBApADn@DxC@zBBzACpA@hBDd@LZJHJBz@Kl@BbCCXBf@G|@Ct@@rACfADDDzAEh@Dh@EfCAVBDBFTArCC`@BtA?x@Cp@En@FfBCrBD|AA|A@pGGX?tAKv@I|AEXDt@@pHGlJF|@@bAEvEF`DAtAFjDCjBCJAADvA?fBBHCf@CNGLJZAnFMr@IL]^e@`@uC`B{@t@CAIFITAN?~@RjDFBl@CpABj@ETE\IXSXKnAcAh@WTGTAr@B`AV^@FBFHD`@@rCFRJHHBTBVCd@@jCGv@BDb@CxCFvGBNHH`@H~@@bCCpC@tBAjBBLN@P@|D@f@@HDBbBCl@E`@DbACn@HJDL@t@GfBC`CBJF@PG|AD@LAD@DFFXFj@HTDDF?PEJF@DA?E?BMA?@WCQ?BKBFABBG?MY?F?GC@AE@CE@AACb@B^AFIPMBaCEmAF}@?wAE}@B}A@iBEICOQCYA}B@}@?_HDGJGzB@bBE^BBCNAPMDWCoAGEMJEX@DH@ASGQECGFJHEICB@DKCDBEC?@?ABBCAB@CCBBECB?C@@EAD@GC?DPEA?CB?A?M@?GLK?RADACA@ACE?FFEGBDBACICDAEBBCC@BAC@BAADBEEBFFFAE@XESDDEG?HACB@@MBBC??B?A?BAAAP?K@L?KCFEAA@Fb@@IAJ@GM?BFHCEB?@BEC@@?@FCA@EAF?C??CAFEEFB_@EKBEAACBHE?^D[GX@MFOAG@DCEDW@??HLCBCCIEAU?KJG@CCSCuBCa@Gc@Fe@CEGEw@E]BIDa@CIi@BOGIAKGWDKC@HIDg@AED]AWEC??BIA]Ie@BCAGQMGA@@@@A?DMBCBKBM?Ie@?CCEF?GM@DCC@@AEBFCADFAAE?BCDD?EAAB@AFDEA@?CAFAC?@EEA@?CBCBBCPCF?FLN?RNJP@DBVCR?F@BZA`BBD`@CHDLIVABD\?DBXB^Of@AZJJALEb@E@CXDJATJFABE^FXE?BPBV@RC@Bf@CJDX@HRD@?KAABDCBACHC?CHNG?CDEEBDBCC?KN[QE@ENH@JJAN@JDFABECB??C?BAM@LAe@EGBOEKDEL@?DBABCAQCH@B?CIDBA?DABF??@B@IADQHE@@Pa@@U?{AD[CYCaBBgAGyA?oA@g@ASCGGC]?e@C{CBs@CECCDsA@sBEaA@a@D[A[D}BAs@DoBAs@GcDRU?c@Ag@EIIEO?iAFm@@k@GcBFqDGs@WeAG{@@qBC}A@sAGgABu@Ay@BOCq@FYImCAwBCOGIQIgBAmAGq@ACCEKASBaBEqAB_@DI@??HCW?mBCk@@_@Aw@@MGqDDiAEeAAmCBgBCq@?SLc@Fc@Bs@HK@GGmAAyABcFDgBCg@?UG_@DmB?iEBQBIGoAAsKCgAF{ACSAoB@eAES?IHMAQBEIs@Cq@D{CCoDC]IEmC?iABiAAGCCGCAkAJwBEgCLyAAsBDg@Ai@@KKDBBCGCBDIDGGEOA{@CKGCIHMFY?QE]DMKEI?uAFGCMKICKIAKBa@RI?UQG?MDEAKBCMCC@BBC@U?B?AIMHK?MC@@@BA?@?A?EIMC??CAAKJ@RIFA?AEJFSKK?UIQBACBEBA?`@JAFBHLLFA?F?IIKAJHE??@@?CCF?MGCJJGLBOBFAF@UAKET@FCMB@CYBMEB?AABERFC@@AFF'
+    var line = 'wUAKET@FCMB@CYBMEB?AABERFC@@AFF'
     
-    var polyline = L.Polyline(line)
+    var latLngs = [
+[39.72873,-105.00070],
+[39.72877,-105.00071],
+[39.72882,-105.00062],
+[39.72894,-105.00062],
+[39.72898,-105.00060],
+[39.72904,-105.00051],
+[39.72904,-105.00040],
+[39.72908,-105.00035],
+[39.72925,-105.00034],
+[39.72929,-105.00030],
+[39.72930,-105.00024],
+[39.72932,-105.00038],
+[39.72933,-105.00039],
+[39.72951,-105.00032],
+[39.72967,-105.00032],
+[39.72971,-105.00027],
+[39.72979,-105.00020],
+[39.72992,-105.00015],
+[39.72999,-105.00005],
+[39.73016,-105.00005],
+[39.73020,-105.00004],
+[39.73031,-105.00007],
+[39.73039,-105.00006],
+[39.73043,-105.00002],
+[39.73043,-104.99993],
+[39.73040,-104.99989],
+[39.73032,-104.99991],
+[39.73033,-104.99996],
+[39.73024,-105.00000],
+[39.73018,-105.00000],
+[39.73016,-104.99998],
+[39.73023,-104.99993],
+[39.73037,-104.99995],
+[39.73037,-104.99992],
+[39.73036,-104.99997],
+[39.73033,-104.99999],
+[39.73032,-105.00005],
+[39.73030,-104.99999],
+[39.73027,-105.00000],
+[39.73029,-105.00001],
+[39.73028,-105.00000],
+[39.73029,-104.99998],
+[39.73032,-104.99993]
+]
+
+var polyline = L.polyline(latLngs, {color: 'red'})
+polyline.addTo(map2);
+
+map2.panTo(new L.LatLng(39.73032,-104.99993), 25);
+
  
 </script>
 
-Er, lets do it again, now with a poly line on it.
+Here's what I did:
 
-Next time, might animate a marker moving along the line, something like [https://github.com/openplans/Leaflet.AnimatedMarker?tab=readme-ov-file](https://github.com/openplans/Leaflet.AnimatedMarker?tab=readme-ov-file)
+```javascript
+var map2 = L.map('map2').setView([39.736532, -104.977459], 17);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+maxZoom: 23,
+attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map2);
+
+var latLngs = [
+    [39.72873,-105.00070],
+    [39.72877,-105.00071],
+    [39.72882,-105.00062],
+    // [lots more coordinate pairs here]
+    [39.73032,-104.99993]
+]
+
+var polyline = L.polyline(latLngs, {color: 'red'})
+polyline.addTo(map2);
+
+map2.panTo(new L.LatLng(39.73032,-104.99993), 23);
+```
+I wasn't actually able to get the whole polyline decoded into lat/long coords, to make the issue smaller I used an [online tool](https://www.daftlogic.com/projects-convert-encoded-polyline-to-latitude-longitude-list.htm) to paste the polyline in and get the coords back, then handled it as an array in javascript directly.
+
+It was super janky, but works. 
+
+I realized I wasn't sure if the polyline was working right - on this map, after panning and zooming to the last given coord, the whole line was bottomed out at like the 0/0 position of the map. 
+
+Soooo now it works.
+
+Next time, might animate a marker moving along the line, something like [https://github.com/openplans/Leaflet.AnimatedMarker?tab=readme-ov-file](https://github.com/openplans/Leaflet.AnimatedMarker?tab=readme-ov-file), or maybe make the line blink, or see if we can give a sense of which direction the movement was happening in. 
 
