@@ -30,22 +30,34 @@ Lets do just that. Like any good thing on the internet, there's others who have 
 
 These were my first sources and inspiration for this project:
 
-- https://www.markhneedham.com/blog/2017/04/29/leaflet-strava-polylines-osm/
-- https://gist.github.com/mneedham/34b923beb7fd72f8fe6ee433c2b27d73
+- [https://www.markhneedham.com/blog/2017/04/29/leaflet-strava-polylines-osm/](https://www.markhneedham.com/blog/2017/04/29/leaflet-strava-polylines-osm/)
+- [https://gist.github.com/mneedham/34b923beb7fd72f8fe6ee433c2b27d73](https://gist.github.com/mneedham/34b923beb7fd72f8fe6ee433c2b27d73)
 
-Today, lets quickly get a working auth 'thing' set up, close-enough to a copy/paste ruby script, so you can run a script or run some ruby commands in an IRB terminal, and get your data back from Strava, however you want. The goal being a polyline you can copy and paste, yourself, into a html document and get a cool map. 
+Today, I'm going to _try_ to 'quickly' get a working auth 'thing' set up, close-enough to a copy/paste ruby script, so you can run a script or run some ruby commands in an IRB terminal, and get your data back from Strava, including any activity data polyline strava has. 
+
+The goal being a polyline you can copy and paste, yourself, into a html document and get a cool map, showing off a walk or journey you went on yourself. It's _strongly_ based on Mark Needham's stuff.
 
 First, download the [Strava](https://www.strava.com) app (android/iphone whatever: https://www.strava.com/)
 
-Create an account, and then go on a ten minute walk, from wherever you're sitting right now, or a walk you take between now and when you sit down at your laptop again.
+Create an account, and then go on a ten minute walk while tracking that as an activity in the strava app. Finish the walk, end the activity. It'll upload to Strava, and now we can use the Strava API to get that activity data back out and look at.
 
-You can keep working through this guide without activity on your Strava account. If you get far enough to get [no available data] for your activities in the Strava API, you're doing great. ()
 
-Next, go to [https://www.strava.com/settings/api](https://www.strava.com/settings/api) and follow the prompts to get an API application set up.
+You can keep working through this guide without activity on your Strava account, so maybe plan on taking a ten minute walk in the next hour or so. 
+
+## Set up a 'strava application'
+
+Strava has apps, and you can give those apps permissions at a per-app basis. You'll set up an app that you'll then give permission to know certain things about your data.
+
+
+So, to make the app account, and get your account id/ key, head to the developer settings. go to [https://www.strava.com/settings/api](https://www.strava.com/settings/api) and follow the prompts to get an API application set up.
 
 When you have your `client_id` and `client_secret` available, you're ready to continue.
 
 We might use [https://github.com/dblock/strava-ruby-client](https://github.com/dblock/strava-ruby-client) at some point.
+
+## Authorize the app to access your strava data
+
+You're going to need to generate a token (a refresh token and )
 
 We're going to do some creative things. Paste this into a pry session.
 
