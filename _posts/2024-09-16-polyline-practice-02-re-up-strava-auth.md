@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Practicing with Polylines Part 2 - Get Yours From Strava
+title: Practicing with Polylines Part 2 - Get Your Data (as a polyline) From Strava
 published: true
 description: "Getting reps with polylines"
 date:  2025-09-16 06:00:00 -0700
 categories: [data-visualization]
 tags: [polylines, mobility_networks]
 permalink: /polyline-practice-again-strava-auth
-issue_id: ''
+issue_id: '86'
 ---
 
 Last time, I did a [minimum first pass]( {{ site.baseurl  }}{% link _posts/2024-09-10-polyline-practice-01.md %}) on rendering a polyline on a map. 
