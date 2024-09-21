@@ -3,7 +3,7 @@ layout: post
 title: Practicing with Polylines
 published: true
 description: "Getting reps with polylines"
-date:  2025-09-04 06:00:00 -0700
+date:  2025-09-10 06:00:00 -0700
 categories: [data-visualization]
 tags: [polylines, mobility_networks]
 permalink: /polyline-practice-again
@@ -23,7 +23,7 @@ qonqFj}z_SG@IQW?GCKQ?UGIa@AGGAKCZA@c@M_@?GIOMYIMSa@?GAUDOAGG?QDGNBAHPFJ?BCMI[B?E
 
 And, [converted to lat/long pairs](https://www.daftlogic.com/projects-convert-encoded-polyline-to-latitude-longitude-list.htm), this makes a bunch of points:
 
-_update, using a different polyline than what I started this whole thing off with - it was maybe giving me issues.
+_update, using a different polyline than what I started this whole thing off with - it was maybe giving me issues._
 
 ```
 39.72873,-105.00070
@@ -80,7 +80,7 @@ Now, lets do something interactive, close to what google is doing there under th
 
 I've used Leaflet before, and mapbox, a little, so I'm going to start with those. 
 
-Lets rander a bare map, but open it up to about where the polyline will go. I'm sorta writing this blog post top down. Lets add a map, and initialize it.
+Lets render a bare map, but open it up to about where the polyline will go. I'm sorta writing this blog post top down. Lets add a map, and initialize it.
 
 Following the [Leaflet quick start](https://leafletjs.com/examples/quick-start/) docs.
 
