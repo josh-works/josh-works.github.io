@@ -3,7 +3,7 @@ layout: post
 title: The Concept of "Punishment" is Definitionally "Abuse"
 published: false
 description: "Trying to phrase something precisely"
-date:  2025-09-04 06:00:00 -0700
+date:  2024-09-04 06:00:00 -0700
 categories: [power]
 tags: [power_dynamics, abuse, ethics]
 permalink: /the-concept-of-punishment-indicates-an-abusive-mindset

@@ -3,7 +3,7 @@ layout: post
 title: Expectations of Social Control, or "When Christians Are Around"
 published: false
 description: "Trying to phrase something strongly"
-date:  2025-07-27 06:00:00 -0700
+date:  2024-07-27 06:00:00 -0700
 categories: [evangelicalism]
 tags: [evangelicalism, ethics]
 permalink: /the-danger-of-christianity-is-all-wrapped-up-in-the-concept-of-social-control

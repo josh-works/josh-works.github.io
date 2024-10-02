@@ -3,7 +3,7 @@ layout: post
 title: Practicing with Polylines
 published: true
 description: "Getting Reps with polylines"
-date:  2025-09-10 06:00:00 -0700
+date:  2024-09-10 06:00:00 -0700
 categories: [data-visualization]
 tags: [polylines, mobility_networks]
 permalink: /polyline-practice-again

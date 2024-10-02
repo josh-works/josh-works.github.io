@@ -3,7 +3,7 @@ layout: post
 title: Recommended Reading
 published: true
 description: "There's much more to life than books and movies and such, but if you're going to read some, here's a spot to start"
-date:  2025-06-04 06:00:00 -0700
+date:  2024-06-04 06:00:00 -0700
 categories: [books]
 tags: [books]
 permalink: /recommended-reading

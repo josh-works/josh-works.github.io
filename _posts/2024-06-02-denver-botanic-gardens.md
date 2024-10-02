@@ -3,7 +3,7 @@ layout: post
 title: Denver Botanic Gardens - What, How, Why
 published: true
 description: "In some situations, certain knowledge of denver's botanic gardens will be a key upgrade to you and your friends' day to day"
-date:  2025-06-02 06:00:00 -0700
+date:  2024-06-02 06:00:00 -0700
 crosspost_to_medium: false
 published: true
 permalink: botanic-gardens

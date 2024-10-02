@@ -3,7 +3,7 @@ layout: post
 title: Paths In Which I Am Interested
 published: true
 description: "I have special interest in these paths"
-date:  2025-06-25 06:00:00 -0700
+date:  2024-06-25 06:00:00 -0700
 categories: [mobility_networks]
 tags: [cities, paths, wayfinding]
 permalink: /interested-paths

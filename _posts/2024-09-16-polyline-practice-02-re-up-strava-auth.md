@@ -3,7 +3,7 @@ layout: post
 title: Practicing with Polylines Part 2 - Get Your Data (as a polyline) From Strava
 published: true
 description: "Getting reps with polylines"
-date:  2025-09-16 06:00:00 -0700
+date:  2024-09-16 06:00:00 -0700
 categories: [data-visualization]
 tags: [polylines, mobility_networks]
 permalink: /polyline-practice-again-strava-auth
