@@ -8,50 +8,49 @@ crosspost_to_medium: false
 published: true
 permalink: robert-moses
 categories: [robert_moses]
-tags: [cities, urbanism, ethnic_cleansing]
+tags: [cities, urbanism, ethnic_cleansing, robert_moses]
 issue_id: 70
 image: /images/hh_parkway.jpg
 ---
 
-_this was originally posted a few years ago, republishing as a blog post as I organize stuff around here._
+_this was originally posted a few years ago, republishing as a blog post as I organize an increasingly large number of links and resources here._
 
 Here's a big dumping ground for some resources on robert moses I've got floating around. 
 
 Obviously, this has grown to an unwieldy sizy and less would be asked of you if I organized it a bit better. 
 
-Here's some starting points, perhaps. 
+Here's some starting points, to start conceptualizing his reach and influence, and to start appreciating how he obviously set systems up around himself, and people, which faithfully reproduced _his very specific way of being_ into the world around him. 
 
-# 1-hour Vimeo documentary about Robert Moses
+What is currently underappreciated, in the narrative of Robert Moses, is a point that I feel like I can maybe express semi-concisely now, but has been coalescing in my mind for a while. There's a few potential kinds of poeple that might find themselves reading this, so I'll state the same concept at least twice, or have to define some terms, before feeling like I've landed it. Relates to appreciating phenomina that are operating _today_, tightly linked to recent history. 
 
-I _just_ found this link. It's the first time I've seen so much footage of Moses himself talking, and his acolytes talking about him.
+1. "Urban Renewal" is a real, namable, visible process that is plainly visible within every single american city. Not only are the evidences of it clear, but the evidence is not hidden. Nearly every american municipality has a body named "{LOCAL JURISDICTION} Renewal Authority". Various similar titles are "Urban Renewal Authority". There is both a Golden Urban Renewal Authority (still running today) and a Denver Urban Renewal Authority. Prior to Colorado, I lived in Maryland. Here's [Montgomery County 'office of planning and development' 'redevelopment and revitalization efforts'](https://www.montgomerycountymd.gov/DGS/OPD/DevelopmentProjects.html). [^urban_renewal] More of the same for Prince George's County, MD:
 
-[THE WORLD THAT MOSES BUILT (vimeo)](https://vimeo.com/340060890)
-
-The reflexive love so many people had of his high modernism/authoritarianism/supremacy is on full display. 
-
-# Appreciate the kind of person that could be 'responsible' for the Henry Hudson Parkway
+![urban-renewal-pgco](images/pgco_urban_renewal.jpg)
 
 
-![henry hudson parkway](/images/hh_parkway.jpg)
 
-The person single handily responsible for building that highway is powerful indeed. This person built many other highways, and displaced about 250,000 people, almost completely comprised of ethnic groups Moses considered undesirable.
+2. "Urban Renewal" is a propagandistic phrase, those who were getting it done to them understood it to be a _cleansing_, a displacement, a relocation. All/enough parties understood it to be what it was. The people experiencing the 'renewal' understood it to be what it really was - _cleansing_. It involves efforts of one group to define, confine, and relocate, persons that can be 'pushed' into another group. 
 
-Read what is said about the author of Robert Moses' incredible biography:
+3. Urban Renewal is virtually synonymous with ethnic cleansing, and _needs to be treated as such_. [The Slaughter of Cities: Urban Renewal As Ethnic Cleansing](https://www.goodreads.com/book/show/2023854.The_Slaughter_of_Cities)
 
-> As a reporter for Newsday in the early 1960s, Caro wrote a long series about why a proposed bridge across Long Island Sound from Rye to Oyster Bay, championed by Robert Moses, would have been inadvisable. It would have required piers so large as to disrupt tidal flows in the sound, among other problems. Caro believed that his work had influenced even the state's powerful governor Nelson Rockefeller to reconsider the idea, until he saw the state's Assembly vote overwhelmingly to pass a preliminary measure for the bridge.
-> 
-> "That was one of the transformational moments of my life," Caro said years later. It led him to think about Moses for the first time. "I got in the car and drove home to Long Island, and I kept thinking to myself: 'Everything you've been doing is baloney. You've been writing under the belief that power in a democracy comes from the ballot box. But here's a guy who has never been elected to anything, who has enough power to turn the entire state around, and you don't have the slightest idea how he got it.'"
+4. Robert Moses _invented_ the social tool "urban renewal" as his "title 1" powers. He created systems around himself to duplicate his own thinking into the world around him. His was the godfather of the Federal Highway Administration, and pioneered 'innovative' ways municipal governments could work with federal governments, and how various parties could 'drive stakes' and 'whipsaw' political interests into whatever one wanted.
 
-This biography is long. If you're like me and you're thrilled to find a long book that you'll love, you'll be happy to know his biography is almost as long as all of the harry potter book series. 
+To appreciate Robert Moses and to appreciate the scale of the urban renewal programs (always aimed at maintaining the supremacy of some) is to both want to die at the scale of devestation, to weep over the ongoing harm this causes everyone _today_, and will cause _tomorrow_, and it's to appreciate a way out, perhaps. A post-robert-moses world. 
+
+God, I want to get there, out of his world. Highways? Parkways? Signal-controlled intersections? controlled-access highways? setbacks? residential zoning and commercial zoning and strip mall zoning? Parking minimums? General Motors and Ford? Robert. Bobby Moses. RM. Its your boy. 
+
+(When you read the book, you'll learn that when we was doing all these things for NYC, the country was so small that whatever NYC did eventually everyone else wanted to do the same. sorta still the same. RM was synonymous with "NYC infrastructure" and, in fact, New York infrastructure and beyond. HIS dam, the Robert Moses Power Dam, is the dam of niagra falls. 😳)
+
+<photo from powerbroker index, 'urban renewal', 'title 1'>
 
 
-# The best book review ever, a book review of _The Power Broker_
 
-A book review of [_The Power Broker: Robert Moses and the Fall of New York_](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1).
 
-I will never be able to write as well as this reviewer, and I believe this is a criminally under-appreciated block of text, so I'm quoting it in full below: [^with-annotations]
+# A review for _The Power Broker_.
 
-[^with-annotations]: With a few added line-breaks, and I've emphasized bits and pieces of the text
+In a moment, I'm going to quote extensively from a book review left on the Goodreads listing for _The Power Broker_. [Here's a link](https://www.goodreads.com/review/show/6989911?book_show_action=true&from_review_page=1) to the review itself, directly, if you'd like.
+
+I will never be able to write as well as this reviewer, and I believe so much of what they say so accurately conveys some of the experiences I had, so I'm quoting it in full below. I'll add linebreaks, and emphasize some sections:
 
 > [_The Power Broker: Robert Moses and the Fall of New York_ by Robert Caro] is definitely the greatest book that I have ever read.
 > 
@@ -90,7 +89,8 @@ I will never be able to write as well as this reviewer, and I believe this is a 
 > I definitely recommend that anyone who reads this book do as I did, and divide it with an exacto knife into four duct-tape bound commuter volumes. It’s fun to draw your own Power Broker covers on your personalized editions, and a good excuse to pull out those crayons which, as a bona fide adult, you so rarely use!
 > 
 > It occurs to me that I’ve babbled on forever but still haven’t explained at all what this book is about. If you think you might want to read it but you’re not sure, check out this article by Robert Caro:
-> [](https://web.archive.org/web/20080510135630/http://www.robertmosesnyc.com/cityshaper.html)
+> [Robert Moses: The Man Who Built New York](https://web.archive.org/web/20080804034219/http://www.robertmosesnyc.com/NYer.html)
+
 > It has those stupid New Yorker dots, which the book thankfully does not, but otherwise is kind of like a miniaturized version of _The Power Broker_ and gives a much better sense than I just did of what it’s all about.
 
 
@@ -155,64 +155,6 @@ What do you think it looked like to cleave such a deep cut through a heavily bui
 
 -----------------
 
- Excerpts from _The Power Broker_
-
-# Chapter 34: Moses and The Mayors
-
-_Note from Josh: The following is an excerpt of chapter 34 of the Power Broker, called "Moses and the Mayors". The chapter is about Moses' relationship with all of the mayors of NYC that overlapped with his "rule" over NYC._
-
-_This excerpt covers just one of the mayors' overlap with Moses' rule, but the way Moses wields his power over the mayor is absolute, and defies summarization._
-
-_The following is an 11-page excerpt from **The Power Broker**, pages 787-798._
-
---------------------
-
-
-## IMPY
-
-All during August, Moses had been in South America, drawing up a Rockefeller-financed plan of improvements for São Paulo, utterly unaware of the events crushing in on O'Dwyer. But O'Dwyer's resignation was to place the city in his power more completely than ever before.
-
-By law, the successor to a retiring mayor is the President of the City Council. By fate, the Council presidency was held in 1950 by an individual who, during the entire forty-five utterly undistinguished years of his life prior to his nomination to that $25,000-per-year post, had never been deemed worthy of holding any job more responsible than that of secretary, at $6,500 per year, to a judge named Schmuck.
-
-The nomination of this totally unknown minor Tammany ward heeler to the city's second-highest elective office, the position of succession to the mayoralty, had "staggered," in Warren Moscow's words, "even the most imaginative among political reporters." And so had the explanation of how he had obtained the nomination. At a last-minute reshuffling of the 1945 Democratic ticket, the leaders finally agreed on Lazarus Joseph for Comptroller, and then realized that since O'Dwyer was Irish and from Brooklyn, while Joseph was Jewish and from the Bronx, the slate could have ethnic and geographic balance only if its third member was an Italian from Manhattan-and were unable to think of a single Manhattan Italian official they could trust. After hours of impasse, one leader reasoned that since legal secretaryships to State Supreme Court justices carried a respectable salary for which little or no work was required, they would have been given oply "safest" of Democratic workers. 
-
-Pulling out a little "Green Book," the official directory of city employees, he turned to the list of legal secretaries, ran his finger down it looking for a name that even the dumbest voter be able to tell was Italian-and came to Vincent R. Impellitteri, "No one knew who the hell he was," Reuben Lazarus was to recall, but, looking up Impellitteri's address, the leaders determined that he lived in Manhattan, telephoned his district leader and were assured: "You don't have to worry about him. He's a good boy."
-
-Although attested to privately by members of Tammany's hierarchy (and by Moses, whose presence at the crucial ticket-making session - he was the only "outsider" there - reveals his standing with that hierarchy), this explanation seemed almost unbelievable - until one met Impellitteri. 
-
-If he had a single qualification for the job other than the length of his name and the fact that it ended in a vowel, he kept it carefully hidden during his five-year tenure (he was re-elected with O'Dwyer in 1949) as Council President. "The perfect Throttlebottom," Moscow called him. "He voted as the mayor told him to, on matters he did not necessarily understand, and spent most of his waking hours shaking hands at public dinners, political clambakes, and cornerstone layings too unimportant to merit the mayor's presence." 
-
-Amiable but slow-witted, he was a joke among political insiders. But now he was mayor - and the joke was on the city.
-
-Impellitteri's wits may have been slow, but he had two fast wits - ex-O'Dwyer aide Bill Donoghue and a young sharpie named Sydney S. Baron - as PR men. 
-
-Impellitteri had to run in a special election in November if he wanted to hold the office he had fallen into, which meant that he had less than ten weeks in which to create an image and a record, and his PR men quickly hit on two ways to do it: 
-
-- first, take advantage of the fact that no one knew him, that he was therefore not identified with any political bosses, that his opponent, Ferdinand Pecora, was backed by Tammany boss DeSapio and that unable to get Impellitteri the Democratic nomination, the clique in Tammany that pulled his strings had him running as an independent, and portray him as the "anti-boss," "anti-politician," "anti-corrupttion" candidate (one of Baron's better lines: "If Pecora is elected, Frank Costello will be your mayor. But the voice will be that of Pecora"); 
-- second, identify him with Robert Moses. 
-
-The price of that identification came high, both in specifics - Moses made Impellitteri pledge publicly that if he was elected, he would not re-appoint Finkelstein - and in generalities: Impellitteri privately promised Moses even more of a free hand than he had enjoyed under O'Dwyer in setting all city construction policies. But Impellitteri paid it. He got full value in return. Refusing an offer of the Republican nomination (time had dimmed at least some GOP leaders' memories of 1934), Moses gave him his endorsement. "Even I, who thought that by this time I knew Bob and the lengths to which he would go, never thought he would go that far," says Lazarus. Remonstrating, he said, "But, Bob, he hasn't any capacity for the job at all!"
-
-Moses' response? "He laughed at that." 
-
-Publicly, the Coordinator declared that Impellitteri "has shown extraordinary courage and independence." And, as always, a Moses endorsement made almost every front page in town. (The Herald Tribune article stated: "It was not a political endorsement, Mr. Moses basing his support on his opinion that the Impellitteri administration was carrying out the city construction program as planned.") 
-
-Moses led Impellitteri around to officiate at openings of -- and share in the credit and front-page pictures for -- highways and housing projects with which he had had nothing to do except to affix his signature as Council President to documents his aides say he often had not even bothered to read. 
-
-Most observers, noting that the campaign consisted mainly of charges and counter-charges of bossism and corruption, felt that the endorsement from an official characterized as "independent" and believed above corruption was an important factor almost as important as the decision by newspaper headline writers to call him "Impy" and thus give him a lovable public image-in Impellitteri's victory, the first in the city's history by a candidate running on an independent line without the support of either major party. And after his election, Impellitteri continued to pay the price eagerly.
-
-Thanks to his PR men and his physical appearance - his addiction to the blue suit and the boutonniere, combined with his iron-gray hair, deeply earnest mien and stolidity that during the campaign was mistaken for dignity, made him the very model of a modern mayor; at the approach of a camera his brow would furrow, his lips would purse, his jaw would jut and his eyes would focus on whatever piece of paper happened to be handy just as intently as if he understood the words written on it - Impy had run a great race, but once in possession of the prize he had won, he proved to have not the slightest idea of what to do with it.
-
-He disclaimed any influence over the Board of Estimate, telling reporters, "All I have is three votes on it, you know." Mayors were always telling reporters that but City Hall insiders soon realized, to their astonish- ment, that this mayor believed it. Says one of his aides, Victor F. Condello: "Impy never understood that he had any power at all." Once Condello suggested that the Mayor call the five borough presidents to an executive session to discuss a thorny issue. "Yeah," the Mayor said, "that's a good idea." Pause. "You think they'll come?"
-
-He was too timid to confront even his own subordinates. Once, a newspaper leveled detailed charges against one. The next time they met, the Mayor asked him if the charges were true. Of course not, the appointee said
-
-
-
-[...]
-
-More to come
-
 # Chapter 36: The Meat Ax
 
 I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](https://somuchtoread.wordpress.com/the-power-broker/). That website doesn't have deep-linking to the page, so it's easier to stash notes here:
@@ -229,11 +171,9 @@ I'm copy/pasting the summary of Chapter 36: The Meat Ax from [somuchtoread](http
 > 
 > I guess it depends on whether you live in those houses or not. So much to think about with this book.
 
-
-
 # Gowanus
 
-Gowanus is a neighborhood that I've never visited, but I've a friend in NYC who mentioned it off-hand.
+Gowanus is a neighborhood that is featured in _The Power Broker_, as an example of how Robert Moses would use highways to destroy neighborhoods. 
 
 I've listened to the [Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html) podcast series, which I remember ending, then "the next episode" the host was like "wow y'all after I finished up reporting this crazy cycle started up again and I watched in rapt awe as it played out again lets follow along".
 
@@ -259,19 +199,55 @@ From [a great story about Robert Moses](https://medium.com/re-form/in-the-footst
 
 Denver, Colorado, has it's own version of Gowanus and the International School like the Nice White Parents pod, the Denver Center for International Studies. It's right next to a HUGE 5-line one-way insanely bad road. 
 
+Everything around me is ruled by the systems Robert Moses set up. It hurts to behold. 
+
 # Misc Related Resources
 
 - [Twitter convo between me and Matt Swanson about this book](https://mobile.twitter.com/josh_works/status/1344145495501893638)
-- [Robert Moses and re-making the political machine](https://lancemartin.substack.com/p/the-power-broker)
+- [Robert Moses and re-making the political machine (substack)](https://lancemartin.substack.com/p/the-power-broker)
 - [Chapter-by-chapter summary of _The Power Broker_](http://www.bookrags.com/studyguide-the-power-broker/#gsc.tab=0)
-- [somuchtoread.com section-by-section read-through](https://somuchtoread.wordpress.com/the-power-broker/)
+- [somuchtoread.com section-by-section read-through (original site broke, now links to wayback machine copy)](https://web.archive.org/web/20141123060915/https://somuchtoread.wordpress.com/the-power-broker/). Follow the link, scroll down the website to the author's summations of `Chapters 37 and 38: One Mile and One Mile Afterward`. Or the section on the chapter "The Meat Ax", ch 36.
 - [Beware of the Robert Moses Revisionists](https://web.archive.org/web/20080510203822/http://www.robertmosesnyc.com/beware.html)
 - [The City-Shaper (by Robert Caro!)](https://web.archive.org/web/20130116164002/http://www.robertmosesnyc.com/NYer.html)
 - [Robert Moses and the Cross-Bronx Expressway](https://blogs.baruch.cuny.edu/his3460fall2013/?p=217)
 - [The Power Broker by Robert Caro: Summary & Notes](https://willemharmsen.com/notes/the-power-broker/)
 - [The Power Broker notes (nateliason.com)](https://www.nateliason.com/notes/the-power-broker)
 - [In the Footsteps of Robert Moses: Roadtripping across the bridges, highways, and parks of America’s most controversial urban planner](https://medium.com/re-form/in-the-footsteps-of-robert-moses-2780ee00a648)
-- [The History of Denver’s Streetcars and Their Routes](https://denverurbanism.com/2017/08/the-history-of-denvers-streetcars-and-their-routes.html#) Robert Moses hated the kinds of people who used street cars and trains for travel, so he hated their trains, easily managed to run the train companies out of business. Look at what Denver could have had, but for Robert Moses and supremacy thinking.
+- [The History of Denver’s Streetcars and Their Routes](https://denverurbanism.com/2017/08/the-history-of-denvers-streetcars-and-their-routes.html#) Robert Moses hated the kinds of people who used street cars and trains for travel, so he hated their trains, easily managed to run the train companies out of business. Look at what Denver could have had, but for Robert Moses and supremacy thinking. The reason Denver is currently a car-dominated hell-hole is... Robert Moses. 
+
+# Various shorter-than-the-book resources
+
+👉 [22 minute modern documentary about Robert Moses on Youtube](https://youtu.be/NenDzgLTxEU?si=GXz3aaFjanHjppVN)
+
+👉 [a 25 minute 'comedy show', episode titled "I Won't Go", youtube](https://youtu.be/OKp-8I6q1xM?si=dAUlrFED3YopYIfQ) about an entire municipality and police force evicting an old lady from her house, and her various ways of trying to remain in her own house. Episode ends with her pointing out to everyone where her house _used_ to be, under what was then turned into an approach road for one of Robert Moses' bridges. 
+
+👉 Motherless Brooklyn, 2019 movie/crime-drama, features the devastation experienced in a certain neighborhood experiencing Robert Moses-inspired ethnic cleansing. It was originally a book, Edward Norton turned it into a movie, and he also played a leading role. I didn't realize he was obsessed with _The Power Broker_ - I sorta stumbled into the movie, and was shocked when I realized the opening scene of the movie is the exact same as the opening scene of _The Power Broker_. ([wikipedia](https://en.wikipedia.org/wiki/Motherless_Brooklyn)). The rest of the movie is excellent, even if only to appreciate yet another lense through which Robert Moses' influence was being experienced. 
+
+
+## 👉 1-hour Vimeo documentary about Robert Moses
+
+I _just_ found this link. It's the first time I've seen so much footage of Moses himself talking, and his acolytes talking about him. 
+
+[THE WORLD THAT MOSES BUILT (vimeo)](https://vimeo.com/340060890)
+
+The reflexive love so many people had of his high modernism/authoritarianism/supremacy is on full display. 
+
+
+# Appreciate the kind of person that could be responsible for the Henry Hudson Parkway
+
+![henry hudson parkway](/images/hh_parkway.jpg)
+
+The person single handily responsible for building that highway is powerful indeed. This person built many other highways, and displaced about 250,000 people, almost completely comprised of ethnic groups Moses considered undesirable.
+
+Read what is said about the author of Robert Moses' incredible biography:
+
+> As a reporter for Newsday in the early 1960s, Caro wrote a long series about why a proposed bridge across Long Island Sound from Rye to Oyster Bay, championed by Robert Moses, would have been inadvisable. It would have required piers so large as to disrupt tidal flows in the sound, among other problems. Caro believed that his work had influenced even the state's powerful governor Nelson Rockefeller to reconsider the idea, until he saw the state's Assembly vote overwhelmingly to pass a preliminary measure for the bridge.
+> 
+> "That was one of the transformational moments of my life," Caro said years later. It led him to think about Moses for the first time. "I got in the car and drove home to Long Island, and I kept thinking to myself: 'Everything you've been doing is baloney. You've been writing under the belief that power in a democracy comes from the ballot box. But here's a guy who has never been elected to anything, who has enough power to turn the entire state around, and you don't have the slightest idea how he got it.'"
+
+This biography is long. If you're like me and you're thrilled to find a long book that you'll love, you'll be happy to know his biography is almost as long as all of the harry potter book series. 
+
+
 
 # Footnotes
 

@@ -62,3 +62,5 @@ Thanks to his PR men and his physical appearance - his addiction to the blue sui
 He disclaimed any influence over the Board of Estimate, telling reporters, "All I have is three votes on it, you know." Mayors were always telling reporters that but City Hall insiders soon realized, to their astonish- ment, that this mayor believed it. Says one of his aides, Victor F. Condello: "Impy never understood that he had any power at all." Once Condello suggested that the Mayor call the five borough presidents to an executive session to discuss a thorny issue. "Yeah," the Mayor said, "that's a good idea." Pause. "You think they'll come?"
 
 He was too timid to confront even his own subordinates. Once, a newspaper leveled detailed charges against one. The next time they met, the Mayor asked him if the charges were true. Of course not, the appointee said
+
+_more to come_
