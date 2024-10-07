@@ -91,13 +91,13 @@ this worked:
 
 https://www.strava.com/oauth/authorize?client_id=my_client_id&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=activity:read_all
 
-Look in the URL for "code" variable, and carry it on to the next step, where we give Strava this code, and ask for a token:
+Look in the URL for "code" variable, and carry it on to the next step, where we give Strava this code, it's treated as a 'refresh token', and if we give strava a refresh token it'll give us back a valid access token that can then be included in the request authorization of every subsequent API call, and we'll get back data for the strava account identified by that access token. This is all 'just' 'basic' auth stuff, but it can get tricky sometimes. 
 
 ```ruby
 require "uri"
 require "net/http"
 
-url = URI("https://www.strava.com/oauth/token?client_id=63764&client_secret=2e6c5168e3b97a9c0975e5377041b8a416b4fbf8&refresh_token=37c0291f7d6fd4031f5043589751adf898b6c914&grant_type=refresh_token")
+url = URI("https://www.strava.com/oauth/token?client_id=YOURCLIENTID&client_secret=CLIENT_SECRET&refresh_token=REFRESH_TOKEN&grant_type=refresh_token")
 
 https = Net::HTTP.new(url.host, url.port)
 https.use_ssl = true
@@ -107,11 +107,52 @@ request = Net::HTTP::Post.new(url)
 response = https.request(request)
 puts response.read_body
 
-
-# look at the response before continuing
+# look at the response before continuing, save the `access_token`
 
 ```
 
 In following that link, and approving the app, you've given your own app access to your Strava account data. Finish the oauth "flow" to view your data.
 
-With that code, in Postman you can now make a request 
+With that code, in Postman you can now make a request. 
+
+To see if it works, you can also paste this into an IRB session:
+
+```ruby
+require "uri"
+require "net/http"
+
+url = URI("https://www.strava.com/api/v3/activities/")
+
+https = Net::HTTP.new(url.host, url.port)
+https.use_ssl = true
+
+request = Net::HTTP::Get.new(url)
+request["Authorization"] = "Bearer ACCESS_TOKEN_FROM_PRIOR_STEP"
+
+response = https.request(request)
+puts response.read_body
+
+```
+
+boom. Look at your activities! The polyline(s) might be visible now. If so, phenominal! Save them to a text file, or a CSV, manually or automatically.
+
+To get the detailed polyline, and not just the summary polyline, you need one more request:
+
+```ruby
+require "uri"
+require "net/http"
+
+url = URI("https://www.strava.com/api/v3/activities/YOUR_ACTIVITY_ID?include_all_efforts=true")
+
+https = Net::HTTP.new(url.host, url.port)
+https.use_ssl = true
+
+request = Net::HTTP::Get.new(url)
+request["Authorization"] = "••••••"
+
+response = https.request(request)
+puts response.read_body
+
+```
+
+Does that work? I hope it does. 
