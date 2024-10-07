@@ -69,7 +69,12 @@ Congratulations, have a wonderful time. Most days the gardens are open 8a to 8p,
 
 Questions? Let me know. I'll update this post as makes sense.
 
-## Additional Beta
+_other details_
 
-- I hear the key fob doesn't work on days/times there are concerts in the gardens, but your membership gets you some sort of discount on a ticket at the main entrance, if you still want to go inside.
-- there's not great bike parking besides locking it to a bench or the fence. As usual, because my scooter is heavy enough it's considered "locked" just with the handlebar lock, I can park it right next to the main entrance, on a little dedicated piece of asphalt, in a very convenient manner. I'll add a photo soon. 
+## Forage mushrooms, feed to the koi
+
+- One can usually find [button mushrooms](https://en.wikipedia.org/wiki/Agaricus_bisporus) growing in Cheeseman park, so pick a few on your way into the gardens, if you'd like. Tear them into pieces, feed to the fish! Mushroom is sorta 'chicken of the forest', and is edible to fish. I take eden to the gardens all the time, sort of stumbled across the idea. Now she always makes sure we have a mushroom with us to feed to the fish. 'here, buddies' she says, as the tosses mushrooms into the water.  It's easy to find a handful of mushrooms on the way into the gardens, every time.
+
+## Use the library
+
+There's a library inside, with a kids section, and then regular books, all appropriately themed for a library in a botanic garden. It's quite nice. 
