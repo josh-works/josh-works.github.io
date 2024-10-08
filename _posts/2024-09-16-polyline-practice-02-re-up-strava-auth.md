@@ -84,12 +84,12 @@ redirect_url = client.authorize_url(
 
 this did not work:
 
-https://www.strava.com/oauth/authorize?approval_prompt=force&client_id=63764&redirect_uri=developers.strava.com&response_type=code&scope=activity%3Aread_all&state=magic
+`https://www.strava.com/oauth/authorize?approval_prompt=force&client_id=63764&redirect_uri=developers.strava.com&response_type=code&scope=activity%3Aread_all&state=magic`
 
 
 this worked:
 
-https://www.strava.com/oauth/authorize?client_id=my_client_id&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=activity:read_all
+`https://www.strava.com/oauth/authorize?client_id=my_client_id&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=activity:read_all`
 
 Look in the URL for "code" variable, and carry it on to the next step, where we give Strava this code, it's treated as a 'refresh token', and if we give strava a refresh token it'll give us back a valid access token that can then be included in the request authorization of every subsequent API call, and we'll get back data for the strava account identified by that access token. This is all 'just' 'basic' auth stuff, but it can get tricky sometimes. 
 
@@ -155,4 +155,4 @@ puts response.read_body
 
 ```
 
-Does that work? I hope it does. 
+Does that work? I hope it does for you. It worked for me.
