@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluating "Frozen", the movie, enumerating just some of the many ways it's either trash or propaganda
-published: true
+published: false
 description: "Partially unburdening myself of the rage I feel over the confluence of factors that led to the creation of this movie"
 date:  2024-10-06 06:00:00 -0700
 categories: [american_media]
