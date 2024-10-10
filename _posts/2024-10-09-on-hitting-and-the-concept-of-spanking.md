@@ -102,12 +102,4 @@ She says "God is so big" and I say "Yep. So is that vehicle. it's sooo big! And 
 
 So, I fundamentally _vomit from my mouth_ the concept of sin. If you're coming at me about someone elses sin, I'm just clocking you as a perpetrator or victim (or both) of settler colonialism and the intellectual self-justifications they spun around themselves. 
 
-It goes like this:
 
-> Sky daddy 
-
-## Books
-
-The Nonviolent atonement
-
-Parenting from the Inside Out
