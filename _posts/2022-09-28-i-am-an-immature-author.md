@@ -24,7 +24,7 @@ I've written myself 'escape hatches', so I can run away from the blame/shame of 
 
 > Josh, this [written piece] is crap.
 
-I wrote [Write It Now](https://josh.works/write-it-now) for just this eventuality. Some of my writing is driven by moods, and timing, and the more I can manage the moods, and reduce the time it takes me to publish something, the better.
+I wrote [Write it now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) for just this eventuality. Some of my writing is driven by moods, and timing, and the more I can manage the moods, and reduce the time it takes me to publish something, the better.
 
 I also shared [Type Publish Done](https://josh.works/type-publish-done), to capture how I want my writing to be evaluated.
 

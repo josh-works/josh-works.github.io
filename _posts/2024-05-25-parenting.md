@@ -147,24 +147,89 @@ It's distinctive enough that complete strangers often commented on it, even at a
 
 She's permitted to look at something as hard as she wants, or not at all, and I perceive that some adults are unaccustomed to be looked at in such an evaluator-like, non-apologetic way, by such a young child. 
 
-## On Beauty
+## On "Beauty"
 
-I dislike the energy that some people have, when they insert themselves into me and Eden's day to pronounce that they find her physical form appealing. It's _very_ strange to have grown adults continuously talking about the "pleasing physical form" of a child. (settler colonialism! Seeing children as possessions/nationalism) 
+I dislike the energy that some people have, when they insert themselves into me and Eden's day to pronounce that they find her physical form appealing. It's _very_ strange to have grown adults continuously talking about the "pleasing physical form" of a child. (settler colonialism! Seeing children as possessions/nationalism).
 
 Sometimes it's very visible that an interlocutor has an internal values system that is coherent with white/american/western/racialized beauty norms, and that they see in Eden an attribute that seems coherent with their norms, it feels like they're playing a role in supporting those beauty norms. Taking anyone seriously necessitates at least being able to refrain from stating objectifying statements, or trying to. 
 
-This feels insanely delicate to write even a few paragraphs about. I want to throw a bunch of books out that talk about 'whiteness' or 'supremacy thinking'. There's a few energies still bandying about today rooted in the beliefs that supported chattel slavery, genocide, that sort of thing. 
+Eden doesn't like having her appearence commented upon. If you happen to notice, for instance, that her shoes are distinctive and colorful, and there's something appreciable about the pattern of an item of clothing, and told her about it, she'll probably brighten up and say "yeah! I think it's cool too!" and will talk to you about it. 
+
+But.... on the 'unwanted communication' side of things, recently someone said, in this falsetto sing-songy voice, sort of to eden, sort of to me, "Ohhh, you're such a beautiful girl". This was just as we arrived at their stand where they were selling some wares. When it's white people acting entitled, I'll usually stamp it out quickly. If one conveys the message of "doesn't it seem strange to have strangers comment so openly, their thoughts about someone's body?", it usually jostles the person a little and they refrain from more comments. I do this to _privileged, entitled, european-americans, especially if their age clocks as 'close to boomer'.
+
+This feels sensitive to write even a few paragraphs about. I want to throw a bunch of books out that talk about 'whiteness' or 'supremacy thinking'. There's a few energies still bandying about today rooted in the beliefs that supported chattel slavery, genocide, that sort of thing. 
 
 - [Fearing the Black Body](https://www.goodreads.com/book/show/42129163-fearing-the-black-body)
 - [The History of White People](https://www.goodreads.com/book/show/6919721-the-history-of-white-people)
 - [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.amazon.com/Origins-Proslavery-Christianity-Evangelicals-Antebellum/dp/0807858773)
-- [They Were Her Property](https://www.goodreads.com/book/show/40887375-they-were-her-property)
+- [They Were Her Property: White Women As Slaveowners in the American South](https://www.goodreads.com/book/show/40887375-they-were-her-property)
 
-It feels vastly under-appreciated in 'normal' society how total of a regime of social control chattel slavery represented, and how fundamentally and totally the dehumanization that occurred affected the mind of the oppressor, the consciousness of the classes and races, that "it" created. 
+It feels vastly under-appreciated in 'normal' society how total of a regime of social control chattel slavery represented, and how fundamentally and totally the dehumanization that occurred affected the mind of the oppressor, the consciousness of the classes and races, that "it" created. Often enough, this commenting on one person's beauty is an implicit statement about the not-beauty of a different person. It's inherently supremacist, demeaning to _everyone_ (yourself, the target of the assessment, anyone who hears the utterance) and would best be not said. 
 
-Race isn't real. Ethnicity is. White people get angry when you call their conflict 'inter-ethnic-group conflict' but that's all it is. Settler colonialism was 'white' people showing up and using violence to displace some, enslave others, and they used english, books, and authoritarian language to justify it, instead of saying "meh, we like people like us, are willing to kill the rest."
+> But what would I say if I cannot comment on the body of a child???
 
-It's manifestly obvious when at least some streams of it reach out to touch Eden, and I don't like it.
+I know, right? What else possibly could you say? </sarcasm>
+
+How about "hi", or "would you like me to explain what these things are?" or "The flower patterns on your shirt indicate that whoever chose it has good taste." or, _say nothing_. 
+
+Race isn't real. Ethnicity is. White people get angry when you call their conflict 'inter-ethnic-group conflict' but that's all it is. Settler colonialism in the USA was supremacist european americans showing up and using violence to displace some, enslave others, and they used english, books, and authoritarian language to justify it, instead of simply saying 
+
+> Yep, we [european americans] like people like us, we _don't_ like people who are not like us, and we're willing to kill them if they don't give us exactly what we want. or even if they do, but especially if they don't."
+
+It's manifestly obvious when at least some streams of it reach out to touch Eden, and I don't like it. We last walked through a weird little art fair in cheesman park, and she very quickly wanted to leave. I couldn't figure out why at first. She just didn't want to go in there, wanted to walk around the outskirts of where the stands were. I couldn't figure it out, then:
+
+me: "Do you notice a lot of people looking right at you, when I'm pushing you around in the stroller"
+
+kid: "Yep"
+
+me: "Do you find it to be uncomfortable?"
+
+kid: "Yep"
+
+me: "I believe it. I find that sort of eye contact to be uncomfortable _myself_ sometimes, and I'm way bigger than you, and people treat me very differently than they treat you. I'll think about how to reduce their staring at you."
+
+I usually wear a big floppy hat and sunglasses, or turn my head down and away from people as I walk by. I make vastly less eye contact with people than I less did, generally I'm happy to pass in a sorta invisible way. BUT when I'm mixing this with walking Eden around by stroller, if people can tell that by the brim of my hat _I cannot see if they're staring straight at eden_ they get _much_ more open with staring at her, compared to if they look at her, look at me, and see me staring back at them. There's less staring at eden after that. 
+
+It's all very odious to me. 
+
+## Words I do not use
+
+Here's a few words I have no use for:
+
+_obey, obedience, respect, authority, comply, compliant_
+
+I was raised by modern day settler colonialists, fully intent on replicating their view of the world on the consciousness of "their" children. My parents, _to this day_ are _obsessed_ with the notion of children being compliant with them. My dad gets violent if he smells something that feels like non-compliance, from a child _or_ an adult. His entitlement is perceivable from a mile away. (a long career in the military doesn't leave anyone _more_ in touch with their humanity or the humanity of others.)
+
+That's the language of an authoritative, domineering, person, in european american settler colonialism, this is the 'masculine' role. My mother leans into the 'feminine' side of religious authoritarianism/settler colonialism. being a good 'domestic servant', cheerful and chipper about playing the role she sees for herself, but she feels entitled to control the thought lives of 'her' children.
+
+As children, we all got attacked in various ways by our parents, who would pour messages like "you are fundamentally bad" and "every aspect of your conciousness is being picked apart by sky daddy, who hates you". 
+
+To interact with her is to be silently judged, and to be rendered unknown and unknownable, while she points a fake cheerfulness and a _utterly real_ withdrawal and avoidance from that which she doesn't approve of. Her words are full of "should" and "should not" and "if you don't do what ~I~ sky daddy says, you'll be tortured forever, alone, far from your loved ones".
+
+A few other words I don't use:
+
+- "good job/nice work" > jobs/work reference capitalism, she'll have enough of that later in her life. I want her to do things that are _interesting_ to her, for no other reason than _it's interesting to her_. 
+- "Go higher" or "try to get to the top". I am _thrilled_ that Eden knows her own physical capacities very well, and never pushes into territory while climbing or running that feels unsafe to her. 
+
+Where someone else might say "good job", upon seeing Eden do something she's proud of (which happens _all the time_), I say "oooh, that looked tricky. Did it feel tricky? Was it interesting?"
+
+## Words I Do Use
+
+Evangelical settler colonialists have in their toolset the 'weaponization of shame and guilt", and want you/themselves to strive strive strive, for a modicum of affection. Soooo the antitode to that is some words I _do_ use that are explicitly guilt/shame dispelling, in addition to being generally affirmative of someone's humanity:
+
+- "I am pleased to know you". 
+- "it's interesting to watch/observe you do the things you do." 
+- "I like how interested you are in things"
+- "i'm pleased to share with you the times that you are upset"
+- "I enjoy your company". 
+- <when Eden is feeling anger or sadness> "I am pleased to spend time with you _right now_! I am pleased and unpurturbed to witness or experience your tears or anger"
+- "It is fun to watch your skills and competencies grow". They i'll name something specific about her biking, walking, smooth/precise movement, jumping, flips, pulling, recognizing landmarks/objects/people/places, running, playing, drawing, movie-watching, sleeping, expelling metabolic byproduct.
+- "was that interesting to you?"
+- "how did you come up with that idea?"
+- "was that tricky?" 
+
+There's so much more. I'll make it it's own blog post at some point. 
+
 
 ## Misc Resources
 

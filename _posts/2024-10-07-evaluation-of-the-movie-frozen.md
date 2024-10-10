@@ -1,28 +1,33 @@
 ---
 layout: post
-title: Evaluating "Frozen", the movie, enumerating just some of the many ways it's either trash or propaganda
+title: Notes on the movie Frozen, and some related notes on Paw Patrol, Suzume, and Bluey
 published: false
-description: "Partially unburdening myself of the rage I feel over the confluence of factors that led to the creation of this movie"
+description: "Partially unburdening myself of the rage I feel over the confluence of factors that led to the creation of this movie and others like it"
 date:  2024-10-06 06:00:00 -0700
-categories: [american_media]
+categories: [movies_and_shows]
 tags: [america, propaganda, unfortunate]
-permalink: /evaluation-of-the-movie-frozen
+permalink: /notes-on-frozen-and-other-media
 issue_id: 87
 ---
 
-I have a distinct way of being with kids, especially my kid, partially as a result of my own upbringing. Duh. 
+_part of a longer series of drafts about the novel experience of being a parent, to someone currently best defined as 'a young child'. I once wrote a lot about my experiences of things, then took a break, and drafted this blog post on a few pages of yellow legal pad, by hand, brought/edited/extended for the internet here. [Write It Now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) and such._
 
-I love to watch movies with her. We've watched and enjoyed primarily the movies of [Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli).
 
-We've seen _Ponyo_ many times, and enjoyed it's dignifying view of the environment, people, children, and more. 
+I love to watch movies with Eden. We've watched and enjoyed the movies of [Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli). 
 
-More recently, Eden began to get socialized into American media, because (unfortunately) we happen to live in America, and kids references to Paw Patrol and movies like Frozen are _ubiquitous_, and those shows unfairly weaponize kids interests and attention spans into something that can begins _grooming_ them to be preyed upon by dangerous people later in their life, and it's despicable, and anyone involved ought to feel shame for their role in the creation of the piece of media.
+We've seen _Ponyo (2009)_ many times [^the-files], and enjoyed it's dignifying view of the environment, people, children, and more. We've seen many more Ghibli films than _just_ Ponyo, but Ponyo is a good example of a movie that perfectly attracts the interest of a child, _and_ an adult, and is full of beautiful themes, beautiful depictions of the world, and interesting and exciting movement of the plot through the movie. You might be able to watch it on Amazon Prime right now: [_Ponyo_ with English dubs on Amazon Prime]
+
+[^the-files]: In line with Lawrence Lessig's [Free Culture](https://www.goodreads.com/book/show/72011.Free_Culture), I generally look for shows first on a current pirate bay mirror, to download the raw files in a piecemeal way called torrenting. I've obtained media this way since limewire days, currently [https://thepiratebay3.co](https://thepiratebay3.co) resolves well enough. Not everything is available there, of course, but it's a good place to check. 
+
+More recently, Eden has begun to get socialized into American media, because (unfortunately) we happen to live in America, and kids references to _Paw Patrol_ and movies like _Frozen_ and Disney and a number of other bits of media intended of kids are _ubiquitous_.
+
+Those shows unfairly weaponize kids' interests and attention spans into something that honestly feels like _grooming_, and it's despicable, and anyone involved ought to feel shame for their role in the creation of the piece of media. Truly. I think I'd never watched the movie Frozen until watching it with Eden, and my jaw hit the floor _many times_. When someone else saw just a few minutes of the movie with us, they also routinely expressed shock at what was in the movie.
 
 > Strong words Josh, can you back that up?
 
-Oh yes. Try to keep up.
+Oh yes. Keep up.
 
-I've got a media review of paw patrol coming up. For a preview, it's worth noting that the concept of 'policing' in america first began when supremacists in the american south printed out badges and handed them to the people who were _already providing slave patrol 'services'_, and called them 'police'. 
+I've got a media review of paw patrol ~coming up~ appended to the bottom of this post. 
 
 Regarding _Frozen_, I wrote this blog post via paper, as I watched the movie with Eden. She likes to 'process' media, usually some of the interestingness she experiences is around knowing what's coming next, so she gets a lot of enjoyment from re-watching movies. Without further adeui, here's the notes, with light editing, as I captured them across multiple re-watches of _Frozen_. 
 
@@ -60,9 +65,9 @@ The "we are family" admonishment is particularly painful to see, because much of
 
 Jesus, I'm three entries into this, and I'm so angry at supremacists, evangelicals, the family system in which I was raised, in which my child's mother was raised, and the long, long legacy of chattel slavery + the ethnic cleansing of the natives/nations, all by european americans. 
 
-> _Frozen_ normalizes centering the lives of aristocracy, for no reason. It's dedignifying to children and young adults. 
+_Frozen_ normalizes centering the lives of aristocracy, for no reason. It's dedignifying to children and young adults. 
 
-This entire movie _could_ be about two people who are, in fact, not members of the nobility or aristocracy. I tell eden "believe in kings and queens and this 'ruler' stuff is a mental affliction experienced by some people who live in this country right now". 
+This entire movie _could_ be about two people who are, in fact, not members of the nobility or aristocracy. I tell eden "belief in kings and queens and this 'ruler' stuff is a mental affliction experienced by some people who live in this country right now". It's extremely annoying when Anna bullies others because she is assuming a magical authority by right of 'royalty'. 
 
 [...]
 
@@ -216,17 +221,38 @@ She enjoys naming when some part is coming. it's a form of readying herself for 
 
 # Paw Patrol
 
-oof, more notes
+oof, more notes. First, the 'patrol' obviously references police, policing, the concept of 'going on patrol', and _always_ a 'patrol' is virtually synonymous with a supremacist occupying force controlling with violence and intimidation the 'native' peoples. 
 
-statist, arrogant, high-modernist drivel. "police are helpful" the world _and nature_ desperately need A WHITE MAN TO TELL EVERYONE WHAT TO DO!!!!!
+More specifically, in the USA, where this show is being consumed (even though it's created by a canadian group), the origins of 'police departments' was to _deputize the existing slave patrols_. The very concept of deputization is _hilarious_ ("here, random person, have a stamped piece of metal. Affix to your shirt, you now have magical powers"). 
 
-each pup has a magic packpack that has a machine, claw, gun, shovel, whatever, that because it's a machine, solves a problem.
+But to see policing as an extension of slave patrolling, which filled a _desperately needed position in society_ of maintaining the suppression of 'slave rebellions', or 'people of the global majority taking minimum steps slightly reduce the daily oppression of themselves and their loved ones'. 
 
-ryder, white male, gives 100% orders for nearly every line of dialogue, is never given orders or direction, never shares/models sharing power or control. 
+So, 'slave patrol' energy is strong in American policing. BUT! In addition to slave patrolling, what other energies got rolled into American policing? Slave patrolling dealt with only one of the two primary fears of european americans. Displacing native populations was also critical to the formation/survival of the american state consciousness. 
 
-childlike love of military vehicles portrayed throughout, by the shows creators
+One of the roles a slave patrol would fill is simply _reminding_ people that violence could happen at any time, and no tactic (rebellion, passive resistance, fawning) could make any individual safe from harassment. This is why I don't like to see or hear police (or sirens in general). Every time, it's a proclamation, piercing the air and walls and consciousnesses of everyone around, that the local 'slave patrol' is on the move, getting ready to rough someone up. 
 
-v22 osprey, some ocean lander/transport thing, tanks
+I have identical contempt for fire departments. Their sirens are literally damaging to hear, disruptive, pierce the city for hundreds and hundreds of meters in all directions from their vehicle, they [drive in dangerous and entitled ways](https://www.google.com/search?q=pedestrian+hit+by+fire+truck), and RAM their way through a city with their vehicles, and like children hold to strange tropes about their own profession, and continue to resist efforts at narrower, safer streets, because they're afraid they cannot fit their giant, girthy vehicles into a small space. God forbid they demonstrate skilled driving or drive around with the kinds of vehicles used _in any other country_. 
+
+So, this show, "Paw Patrol", constantly venerating the institutions of _slave patrollers_ and _people who do not actually contribute good things to society_ (defund fire departments, fund ambulance riders. The vast majority of trips fire departments make in their huge ladder trucks are adequately served by an ambulance) annoys me. 
+
+Not only does paw patrol hold on a giant, childish pedestal the vaunted role of 'first responder', it paints a unbelievable depiction of how the world works. Because kids like animals, and kids shows that depicted (for example) the police brutalizing and assaulting an ethnic group might not do so well. So instead, the police, in Paw Patrol, are involved in things like "rescuing a narwhale that got its horn stuck" or "helping guide a sleepy/hibernating bear back to its den". 
+
+Paw Patrol features a bumbling mayor and some other sinister wanna-be mayor who plays a trope throughout the show that sparks conflict, when the show needs conflict. Eden is generally unable to appreciate that adults would pour their entire lives into hurting others and controlling them, so some of the tropes in the show goes over her head, or lands with confusion. She has no idea what a mayor is, or why someone with that title would behave in the ways depicted in this show.
+
+-------------------------
+
+_below are my notes as taken by hand, across various episodes, and days_
+
+
+
+statist, arrogant, high-modernist drivel. "police are helpful". the world _and nature_ desperately need A WHITE MAN TO TELL EVERYONE WHAT TO DO!!!!! It's an honor to be given a command and to do it joyfully, and if you do it well enough, a white man might tell you 'good job' and scratch you behind the ear _as your payment_. 
+
+each pup has a magic backpack that has a machine, claw, gun, shovel, whatever, that because it's a machine, solves a problem. high modernist, every problem just needs a technology applied to it.
+
+Ryder, a domineering white male, in nearly every line of dialogue, is issuing a command. he is never given orders or direction, even by the pups, never shares/models sharing power or control. Basically fills the authoritative role of 'god', or 'the state', or 'benevolent patriarch'. Exercises complete, unquestioning control of the city. 
+
+childlike love of military vehicles portrayed throughout, by the shows creators. Vehicles modled on v22 osprey, some ocean lander/transport thing, tanks. 
+
 
 # bluey
 
