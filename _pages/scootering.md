@@ -103,5 +103,23 @@ I can park it almost anywhere. Including sidewalks, and scooter friends can as w
 
 Free use of parking garages. You can ride around the gate or through a pedestrian access point. 
 
+## Scooters are vastly safer than bicycles
+
+I'll also mention motorcycle comparisons sometimes too, as 
+
+- all forms of signaling to other road users on a bicycle is challenging. sometimes it's nice to have a brake light and turn signals. on a bicycle, if I'm slowing and making a right-hand turn, I cannot signal to anyone else that I am slowing down, *and* I have to remove a hand from the handlebar *and* the brake lever, to wave about what direction I'm turning, and then I have to do the turn.
+- on a scooter, I can toggle the turn signal with my thumb, which stays on until I turn off the turn signal. I have automatically activated brake lights, like a car. I can signal braking and turning to everyone around without taking a hand off the handlebar, or even thinking about it, and it's extremely visible, during the entire turn, to people ahead of me and behind me, what I am doing. 
+- Scooters have a low center of gravity and more mass than a bycycle, so adding another person to a scooter feels much less challenging than a person on a bicycle. 
+- Scooters have built in headlights and high beams, and built in power systems for those lights, and they are not removable, so there's no theft risk of leaving the lights on your scooter when not at the scooter, and there's never a time when you might want to use the vehicle but won't have lights with you. 
+- Scooters can get up to speed and take space in a lane that mimics a motorcycle, and cars don't even consider trying to overtake a scooter, like is common on a bicycle.
+- Scooters have incredible stability, really hard to appreciate until riding one around and then a bicycle in short order
+- Scooters have no shifting, it's simpler than riding a bike with gears. No peddling, either. All of your attention can go to _easily_ navigating the environment, vs the complication of dealing with shifting. Motorcycle shifting is notoriously challenging (there's memes around trying to know what gear you're in, and getting it wrong), and involves three mechanisms (clutch, shifter, throttle) that need to be used in careful coordination, and getting it wrong can negatively affect your safety and comfort. 
+- Scooters carry most added weight low (backpack on floor boards, for instance), next to 12" tires, instead of high, like above the seat on 26" tires. 
+- Scooters allow for both feet to easily be placed on the ground when stationary, and you can begin applying throttle while feet are still on the ground (again, unlike a bicycle)
+- 
 
 
+
+
+
+## Scooters are vastly safer than motorcycles
