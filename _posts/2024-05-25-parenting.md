@@ -218,13 +218,14 @@ Where someone else might say "good job", upon seeing Eden do something she's pro
 Evangelical settler colonialists have in their toolset the 'weaponization of shame and guilt", and want you/themselves to strive strive strive, for a modicum of affection. Soooo the antitode to that is some words I _do_ use that are explicitly guilt/shame dispelling, in addition to being generally affirmative of someone's humanity:
 
 - "I am pleased to know you". 
-- "it's interesting to watch/observe you do the things you do." 
-- "I like how interested you are in things"
+- "it's interesting to watch/observe the things you do/how you exist." 
+- "it's fun to see how interested you are in things"
 - "i'm pleased to share with you the times that you are upset"
 - "I enjoy your company". 
-- <when Eden is feeling anger or sadness> "I am pleased to spend time with you _right now_! I am pleased and unpurturbed to witness or experience your tears or anger"
+- <when Eden is feeling anger or sadness> "I am pleased to spend time with you _right now_! I am pleased and unpurturbed to witness and experience your tears, your anger"
 - "It is fun to watch your skills and competencies grow". They i'll name something specific about her biking, walking, smooth/precise movement, jumping, flips, pulling, recognizing landmarks/objects/people/places, running, playing, drawing, movie-watching, sleeping, expelling metabolic byproduct.
 - "was that interesting to you?"
+- "I appreciate how quickly and forcefully you oppose things you do not want."
 - "how did you come up with that idea?"
 - "was that tricky?" 
 

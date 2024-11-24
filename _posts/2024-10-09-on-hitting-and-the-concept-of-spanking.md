@@ -10,6 +10,22 @@ permalink: /hitting
 issue_id: 88
 ---
 
+## A quick map of what I want to cover
+
+it's easy for me to end up on tangents, but also I want to explain things well-enough. Maybe I'll split some of these into multiple pieces. 
+
+Here's what I want to make sure I touch on:
+
+- [ ] demonstrate a coherent reframe of "suffering", transforming it from "something maybe good" to "something certainly bad and simply to be avoided"
+2. a reframe of "Jesus significance was in His death" (what evangelicals say is the central tenant of evangelicalism) to "if he mattered at all, it was because of what he did and said, so lets talk about that"
+3. reframing 'christ suffering for the sins of people' to 'self-justifying intellectual dressings for the nobility of feudal europe, which is when it was invented'
+
+there was a time that jesus' teachings were tightly bound to 'dont murder'. But church authorities needed to help raise armies for their nobles, so they decided they could "pre-forgive" en-mass, the peasents who were being dragged into armies and taken off to fight a war. 
+
+It's that easy to go from "murder is bad" to "if it's desired by the right person, it isn't murder". 
+
+Keep that in mind around this hitting/"spanking" conversation. Hitting is bad, but _spanking_ is a statement of "It isn't hitting, if the right person pre-determined the 
+
 I've recently been engaging with people who have built into their sense of self the "rightness" of adults hitting children, while at the same time rejecting the possible rightness of children hitting adults. 
 
 This was brought into _hilarious_ and tragic relief for me recently.
@@ -60,9 +76,13 @@ So, because the bible says 'the wages of sin is death', christians think 'as lon
 
 *deep breath*
 
-Discipline and punishment are inherently supremacist. Usually when someone says "discipline", they mean "punishment", and "punishment" is usually shorthand for 'retributive violence'. The theory (as it works in patriarchal/authoritative/supremacist families) is simple:
+Discipline and punishment are inherently supremacist. Usually when someone says "discipline", they mean "punishment", and "punishment" is shorthand for 'retributive violence'. The theory (as it works in patriarchal/authoritative/supremacist families) is simple:
 
-1. if a bad thing happens, someone or something is offended, completely independent of the simple effects of that bad thing. If I ask you to take out the trash, and you say no, the 'bad thing' is that the trash is still in the trash can. To a patriarchal person, that's the least of the concerns. The real concern is that the honor of the patriarch has been offended, because the property/possession of the patriarch has presumed a state of equality with the patriarch, which is the _real_ offense. So, to fix _the offended honor_ of the patriarch, a further harm needs to be obtained - pain must be extracted from the willful individual, to enforce the concept of supremacy: "There is a hierarchy here, and you damned well better understand where you sit."'[^jokes]
+1. if a bad thing happens, someone or something is offended, completely independent of the simple effects of that bad thing. 
+
+If I ask you to take out the trash, and you say no, the 'bad thing' is that the trash is still in the trash can. To a patriarchal person, that's the least of the concerns. 
+
+The real concern is that the honor of the patriarch has been offended, because the property/possession of the patriarch has presumed a state of equality with the patriarch, which is the _real_ offense. So, to fix _the offended honor_ of the patriarch, a further harm needs to be obtained - pain must be extracted from the willful individual, to enforce the concept of supremacy: "There is a hierarchy here, and you damned well better understand where you sit."'[^jokes]
 
 [^jokes]: It was said in the family in which I grew up: "I could kill you and make another one just like you." Mmm, thanks for affirming the inherent dignity of a person. I was so desirous of a modicum of affection from him that I'd pretend it was funny.
 

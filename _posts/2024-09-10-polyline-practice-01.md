@@ -209,7 +209,9 @@ console.log('omg')
 
 map2.setView(decodedPolyline._latlngs[0]);
 ```
-I'm still doing something funky to escape the escape characters in the polyline
+~I'm still doing something funky to escape the escape characters in the polyline.~ Able to get around that with `JSON.stringify()`
+
+If you'd like to see the raw html that is being used to generate this exact page, it's available in an _extremely_ hacky way [here](https://github.com/josh-works/josh-works.github.io/blob/main/_posts/2024-09-10-polyline-practice-01.md?plain=1#L179)
 
 Next time, might animate a marker moving along the line, something like [https://github.com/openplans/Leaflet.AnimatedMarker?tab=readme-ov-file](https://github.com/openplans/Leaflet.AnimatedMarker?tab=readme-ov-file), or maybe make the line blink, or see if we can give a sense of which direction the movement was happening in. 
 

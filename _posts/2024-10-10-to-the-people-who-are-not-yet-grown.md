@@ -14,9 +14,9 @@ I've got nieces and nephews who, either currently or over the next few years, wi
 
 But I'm also thinking specifically of some people who were raised in 'church groups' or who's parents would clock as 'evangelical'. 
 
-I'm thinking of _myself_ when I was 14-18 years old. \
+I'm thinking of _myself_ when I was 14-18 years old. 
 
-I'm writing to something like the children of white evangelicals, in 2024.
+I'm writing to the children of european american evangelicals, in 2024.
 
 This is tricky to get out, I'm not quite sure all the needles I'm trying to thread here. 
 
@@ -24,13 +24,13 @@ This is tricky to get out, I'm not quite sure all the needles I'm trying to thre
 
 Some folks call this the 'industrial' age, or the 'modern' age, or the 'information' age.
 
-I've been thinking it's better called the Authority age. It's shocking, how heavily the world we live in (america, evangelicalism) is OBSESSED with authority. 
+I've been thinking it's better called the Authority age. It's shocking, how heavily some parts of the world you and I live in (like America) is OBSESSED with authority. 
 
-Your parents likely believe in authority more than anything else in their lives. They think _other_ people "have authority" over them, and thus it's right for them to "have authority" over you. You, of course, don't get authority over anything. (I clock children as the most oppressed class)
+Your parents likely believe in authority more than anything else in their lives. They think _other_ people "have authority" over them, and thus it's right for them to "have authority" over you. You, of course, don't get authority over anything. (Did you know some people consider children to be the most oppressed class?)
 
-It's impossible to grow into a healthy person inside of a confining container, and the authority obsession your parents have will have crushed a portion of your soul. 
+It's impossible to grow into a healthy person inside of a confining container, and the authority obsession your parents have will have crushed a portion of your soul, your sense of self, your confidence in your own perceptions and experiences.
 
-You won't live in their house always, and once you establish financial independence, you can hold your parents at arms length, and their structures of authority, if you want.
+You won't live in the house of your parents always, and once you establish financial independence, you can hold your parents at arms length, and their structures of authority, if you want.
 
 When someone lies to you, or hurts you and lies to you about why it's happening, they are attacking you with a grievous energy, and if you're not able to defend yourself against them, you'll be injured. Lets minimize injury. 
 
