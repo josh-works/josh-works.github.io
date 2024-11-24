@@ -8,9 +8,15 @@ permalink: /scootering
 
 I pursue ease, joy, and meaningfulness. Sometimes successfully.
 
-A big part of that ease and joy comes from being able to nearly effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs. 
+A big part of that ease and joy comes from being able to nearly effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs, that is not a motorcycle.
 
-It's a scooter, and you deserve to be warned that I'm going to low-key try to convince you to buy a scooter, or move your overton window towards that being a reasonable decision. 
+It's a scooter, and you deserve to be warned that I'm going to low-key try to convince you to buy a scooter, or move your overton window towards that being a reasonable decision. For example: do you ride a bycycle? congrats, you have some of the requisite skills, AND riding a scooter can be WAY safer than riding a bike. 
+
+Do you have a deep-in-your-soul fear and distrust around nearly everything associated with motorcycles? me _toooo_. One of my favorite scooter facts is: "there is no shifting mechanism". Everything about the throttle is a twist with the right hand, no clutch, no shifting. This leads to safety, ease, peace, smoother learning processes. 
+
+Lastly, you're right to find "other people also using the road" to be the most dangerous part of using a scooter. If it was just you and empty asphalt, you'd be able to safely do anything. The danger is instantly multiplied when there are other users of the space, especially users inside of cars and car-like things. generally internal combustion engines and four tires, sometimes electric, sometimes six tires. You get the vibe. They weigh 3000-6000 lbs, can be very throttly, etc. We can talk about all of this, *and* it's the part that stresses me out the most, *and* it's rooted in supremacy in american institutions and the people who built them! Yay!
+
+In other words, some of the "norms" I've picked up 
 
 Alternatively, if you're already scooter-curious, or you already ride a bike around the city, I think you've got the skills and the disposition to go make it happen, and I'll try to help you down that path, too.
 
@@ -18,9 +24,66 @@ One of my favorite things about using a scooter in the USA, especially in cities
 
 ![scooters in denver](/images/scooters_at_rino.jpeg)
 
+click the links or previews to see some footage I took of myself while riding my scooter around Denver. 
+
+This is all on a 360 degree camera, it's the coolest thing, I've got lots of scooter randomness. Often enough a video is quite experimental, or i'm "just" trying to see what comes up with the various rounds of editing that a given bit of footage goes through. 
+
+- [](https://www.tiktok.com/@josh_exists/video/7429557626511330591)
+- [taking several bags of groceries home from the nearest trader joes in Denver, effortless on a scooter](https://www.tiktok.com/@josh_exists/video/7426456379679968542)
+- [I always get the best/closest/most-convenient parking spaces on this vehicle, at every stop of the way](https://www.tiktok.com/@josh_exists/video/7418604914928110879). all the parking at my building I've discussed with everyone involved, and they're fine with it. I end up with _free, covered parking_, at my house it's often inside a locked gate, and I leave a cover over it, for extra weather/dust protection and the 'security via obscurity' thing.
+- [there was an event downtown and traffic was super stopped... but not for scooters](https://www.tiktok.com/@josh_exists/video/7391898614563360031)
+
 I believe scooters are a tremendous and convivial vehicle class, and those who do the work of learning how to safely and comfortably operate them in a certain range of conditions can unlock shocking ease and adventure for themselves. 
 
-And interestingness. 
+In the time lapses, sometimes one can detect very conventional riding, and then less conventional, or more akin to a mountain bike than a car. (tiny u-turns, easing up and over a curb). Sometimes one can feel and perhaps be quite interesting, piecing together trips from place to place. 
+
+- [here's an early-morning weekend scoot (sorta) around this part of Denver](https://www.tiktok.com/@josh_exists/video/7399397158987828511). 
+- [throwback to a cousin doing a test ride of the first scooter I owned, right after I obtained it.](https://www.tiktok.com/@josh_exists/video/7399376513210092831) its delightful. note the full-face helmet and temp tags. I had the full-face helmet before I even bought the scooter
+- [a little about the specific scooter I have](https://www.tiktok.com/@josh_exists/video/7393201749298875679)
+
+
+## network use norms
+
+Sometimes I've told people "I have Balinese scooter norms."
+
+I've told this only to people in the USA. I'm trying to convey a sense of "every place has a distinctive way of doing something, some other places do things differently, sometimes its better". 
+
+In some parts of asia, probably 70% of the vehicle miles traveled is on a scooter. Maybe higher. Here's some examples:
+
+0. In taiwan, most intersections have a "box" painted on the ground, behind the crosswalk and ahead of where the cars and large vehicles stop, and this "box" is where all the scooter riders collect. They filter to this box through stopped traffic, and then can go in a blob when they light changes. I treat american intersections sometimes similarly. 
+1. The red lights in Taiwan often-enough blink a few times when red, before they turn green. When the light blinks, the scooters can go, then when it turns green, the large vehicles can go. I sometimes treat american intersections as if they're equipped with the same feature. Because I sometimes am so close to the front of the intersection (see prior point) I can easily see long distances in both directions.
+2. In bali, because every function of mechanized society could be done easily on scooter, on roads or not on roads, if there was space for a scooter and someone wanted to use that space or go through it, they would. Food delivery, taxi, water delivery, construction materials, and more. Entire square km were fully serviceable by a road that was, the entire length, never wider than what two scooters would need to pass slowly in opposite directions, and sometimes narrow enough that a single scooter was only centimeters from places one didn't want to go. (a narrow walled alley, in this case. There's also the "you'll fall into a rice field or something else devastating if your scooter wheels drift more than a few centimeters from the intended path.)
+
+[here's a video time lapse of me scooting a rather long trip](https://www.tiktok.com/@josh_exists/video/7415629510508399903) (far longer than usual) on a scooter, through dense areas and not dense areas. 
+
+I find scooting all over the world, and even in the USA to be relaxing and peaceful, often enough.
+
+I'd like to have some videos where I try to parse or explain some of how I move through junctions or road segments safely, but recording the video, audio, editing it all together, has thus far not really happened. I tried something like that [here](https://www.tiktok.com/@josh_exists/video/7375181945073896747), and don't love it.
+
+I've traveled nearly every city block of shocking parts of the city. I'd spent years of my life hardly going beyond Golden, CO (limited to what was bikable) then got a scooter and all of denver opened up. Then I separated from my then partner, got divorced, moved a few times, my partner and child moved, i've done work in different places, I meander _hard_ even on the best of days, and more. Zoom out, and appreciate how shocking it is, the amount of the city and front range I've travelled with this vehicle:
+
+![scooter](/images/denver_scoot_coverage.jpg)
+
+And that vehicle did this particular trip once too:
+
+![scooter a far way](/images/and-it-rode-it-a-far-way.jpg)
+
+https://joshs-mobility-data-54dab943ebba.herokuapp.com/
+
+There's gaps on this map, but not many:
+
+https://joshs-mobility-data-54dab943ebba.herokuapp.com/
+
+## not scooters, not cars
+
+
+I would love to follow a scooter rider around when I have my drone above them. I tried something similar with a group of people, some on regular bicycles, I think one on an e-bike, and maybe one on a scooter, riding along and chatting.
+
+Here it is: [take 1](https://www.tiktok.com/@josh_exists/video/7428736543289822495) [take 0](https://www.tiktok.com/@josh_exists/video/7428669616773156127)
+
+This kind of movement pattern is extremely accessible on the scooter. 
+
+
 
 ## I request to be considered a good guide in this domain
 
