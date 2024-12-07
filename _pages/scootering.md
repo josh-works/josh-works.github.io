@@ -62,13 +62,13 @@ I'd like to have some videos where I try to parse or explain some of how I move 
 
 I've traveled nearly every city block of shocking parts of the city. I'd spent years of my life hardly going beyond Golden, CO (limited to what was bikable) then got a scooter and all of denver opened up. Then I separated from my then partner, got divorced, moved a few times, my partner and child moved, i've done work in different places, I meander _hard_ even on the best of days, and more. Zoom out, and appreciate how shocking it is, the amount of the city and front range I've travelled with this vehicle:
 
-![scooter](/images/denver_scoot_coverage.jpg)
+[![scooter](/images/denver_scoot_coverage.jpg)](https://joshs-mobility-data-54dab943ebba.herokuapp.com/)
 
 And that vehicle did this particular trip once too:
 
-![scooter a far way](/images/and-it-rode-it-a-far-way.jpg)
+[![scooter a far way](/images/and-it-rode-it-a-far-way.jpg)](https://joshs-mobility-data-54dab943ebba.herokuapp.com/)
 
-https://joshs-mobility-data-54dab943ebba.herokuapp.com/
+Explore the map yourself [here](https://joshs-mobility-data-54dab943ebba.herokuapp.com/) if you'd like
 
 There's gaps on this map, but not many:
 
@@ -89,15 +89,21 @@ This kind of movement pattern is extremely accessible on the scooter.
 
 Here's a recap of my journey into scooting:
 
-1. As a kid, I had a mountain bike and rode adventurously in the neighborhood and surrounding areas. 
-2. Later, as a young adult, did bike commuting, while also using trains and busses,
-3. had a car, always a used honda or toyota, as an older adult
-4. got a city commuting bike when living in Golden, CO and spent a TON of time riding it around the city of Golden, CO, esp during Covid. 
+1. As a kid, I had a mountain bike and rode adventurously in the neighborhood and surrounding areas. built little jumps and ramps and obstacles for myself and the other kids. I'm not skilled at all compared to some people, and I'm deeply skilled on a bicycle compared to others.
+2. Later, as a young adult, did bike commuting, while also using trains and busses, Got pretty good and aware at riding around a city with a bycycle, including knowing some paths/routes at all times of day/different conditions
+3. had a car, always a used sedan by honda or toyota, as an older adult
+4. got a city commuting bike when living in Golden, CO, late 20s/early 30s and spent a TON of time riding it around the city of Golden, CO, esp during Covid. Take a look [here](https://joshs-mobility-data-54dab943ebba.herokuapp.com/?zoom=19&latlng=39.755433,%20-105.221744)  to see some of my biking (and walking/running) in Golden.
 5. eventually found myself a bit limited for getting around, especially if my destination was a bit outside of Golden, or there was nighttime or inclement weather to take into account
-6. didn't feel great about an e-bike, also didn't feel good about a motorcycle. I took a motorcycle riders training class anyway, thought I might some day want a small motorcycle but really didn't like the machines
+6. didn't feel great about an e-bike (quite expensive, and still limited to 'bicycle stuff'), also didn't feel good about a motorcycle, obviously.
+7. the first covid cancellation I had in february 2020 was my motorcycle riders training class. It was cancelled, I ended up not rescheduling for over a year.
+8. I finally took it, anyway, thought I might some day want a small motorcycle but really didn't like the machines, even the little ones they had for the course. This was sometime in 2021
 7. at a bike event in Golden, found myself chatting with an emergency room doctor, talking about his really cool cargo e-bike, that was carrying many people and things. He loved it, and it was more expensive than any car I'd ever purchased. (It was $11k!) He agreed with me about not liking motorcycles, and he suggested I consider a scooter. At that point I hadn't considered this, so this nudge was extremely helpful.
-8. I'd forgotten that I'd ridden a 50cc scooter in Greece once, as a rental to get around the island of Kalymnos for climbing, and hated how loud it was, and it didn't feel safe, especially with a passenger and a hill and their bucket style helmets. 
+8. I'd forgotten that I'd ridden a 50cc scooter in Greece once, as a rental to get around the island of Kalymnos for climbing, and hated how loud it was, and it didn't feel safe, especially with a passenger and a hill and their bucket style helmets. Hated the noise and how slow it was, especially on steep hills. Greece has plenty of steep hills, but so does Golden. 
 9. so, I drove myself to [sportique scooters](https://maps.app.goo.gl/v7ZyNbfzCBSrukMp9) and rode a few scooters around. A few days later, I purchased a brand new Genunie Buddy 125. It looked identical to the Turquoise scooter in the picture earlier in this article.
+10. I rocked that scooter for a year or so and many miles, eventually started riding it to and from Denver once or twice a week, when I got a job at a company that had the option of using an office. 
+11. Eventually it got stolen (sorta my fault) and recovered but not ridable. I replaced it with a larger scooter, and it was all over for me. This was the best vehicle I'd ever encountered, it unlocked an unbelievable amount of enjoyable experiences..
+
+Lets talk about them.
 
 That was summer of 2020, and began a huge shift for my life. 
 

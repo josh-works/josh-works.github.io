@@ -2,10 +2,10 @@
 layout: post
 title: On Hitting Smaller People, or "Spanking"
 published: false
-description: "In which I clearly state a frame on the concept of 'spanking', as it exists within evangelicalism and elsewhere"
+description: "In which I clearly state a frame on the concept some call 'spanking', as it exists within evangelicalism and elsewhere. All reasonable people are fully opposed to the concept."
 date:  2024-10-09 06:00:00 -0700
-categories: [parenting]
-tags: [parenting, abuse]
+categories: [evangelicalism]
+tags: [parenting, abuse, evangelicalism, jesus_christ]
 permalink: /hitting
 issue_id: 88
 ---
@@ -20,11 +20,19 @@ Here's what I want to make sure I touch on:
 2. a reframe of "Jesus significance was in His death" (what evangelicals say is the central tenant of evangelicalism) to "if he mattered at all, it was because of what he did and said, so lets talk about that"
 3. reframing 'christ suffering for the sins of people' to 'self-justifying intellectual dressings for the nobility of feudal europe, which is when it was invented'
 
-there was a time that jesus' teachings were tightly bound to 'dont murder'. But church authorities needed to help raise armies for their nobles, so they decided they could "pre-forgive" en-mass, the peasents who were being dragged into armies and taken off to fight a war. 
+Lastly, I sometimes manage to [write it now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) (rather than, for instance, never). _and_ I'd like to give a nod to the concept of 'frame control'. _todo, write https://josh.works/frame-control to centralize some links/concepts_. To experience 'frame control', one will be getting pushed into using a specific frame to examine an issue. Usually experienced when at least one of the conversational parties is trying to dominate (emotionally, verbally) someone else. 
 
-It's that easy to go from "murder is bad" to "if it's desired by the right person, it isn't murder". 
+there was a time that jesus' teachings were tightly bound to the literal concept 'do not murder', among other things. This particular injunction, simple enough for a child to plainly understand, got "complicated", eventually. "church" "authorities" needed to help raise armies for their nobles, so they decided they could "pre-forgive" en-mass, the peasents who were being dragged into armies and taken off to fight a war. The pesents once could avoid the draft by saying "jesus says to not kill, and war is obviously killing, so i don't have to participate in the states wars because I am also obligated to the church". 
 
-Keep that in mind around this hitting/"spanking" conversation. Hitting is bad, but _spanking_ is a statement of "It isn't hitting, if the right person pre-determined the 
+That was, as I said, inconveneient to those trying to raise an army, so the church did them a solid and said "hey, cannon fodder, i just said magic words that i've decided makes it cool for you to kill on someone elses behalf, have fun in the army, bye!!!!"
+
+It's that easy to go from "murder is bad" to "if it's desired by the right person (an _authority_, the pope or the king), it isn't murder, or it isn't bad, or it's not as bad as not-murder". 
+
+Keep that in mind around this hitting/"spanking" conversation. Hitting is bad, we all agree, but to permit someone to utter or hold the term _spanking_, one accepts (sort of) the statement: "It isn't hitting, if the right person pre-determined that you should be hit. It magically becomes 'discipline', 'punishment', a 'spanking'.
+
+So, this isn't a diatribe just on the concept of spanking, or hitting. (Yes, I think adults hitting kids is abuse, exploiting a power dynamic) but it's worse. I also contend that to "grant the validity of the idea of" something sometimes called 'discipline' or 'punishment', one is casting your lot in with the kinds of people who physically assault others. not just their own kids, but including their own kids. 
+
+I hold some rage and indignancy that I am going to say some of what I'm saying. Some people come at me with "well if I don't hit my kid, how will I..." and I want to scream in their face "especially since I learned the concept of 'emotional maturity' and 'mutuality', never not once have I felt inclined to hit a child, _especially my own child_, and I'd like to help you find an easier way of being than your current pro-abuse stance.
 
 I've recently been engaging with people who have built into their sense of self the "rightness" of adults hitting children, while at the same time rejecting the possible rightness of children hitting adults. 
 
