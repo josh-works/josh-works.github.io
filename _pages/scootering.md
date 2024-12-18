@@ -6,6 +6,8 @@ description: "Let us discuss a convivial vehicle"
 permalink: /scootering
 ---
 
+_this page is still in a bit of a draft mode_
+
 I pursue ease, joy, and meaningfulness. Sometimes successfully.
 
 A big part of that ease and joy comes from being able to nearly effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs, that is not a motorcycle.
@@ -28,7 +30,7 @@ click the links or previews to see some footage I took of myself while riding my
 
 This is all on a 360 degree camera, it's the coolest thing, I've got lots of scooter randomness. Often enough a video is quite experimental, or i'm "just" trying to see what comes up with the various rounds of editing that a given bit of footage goes through. 
 
-- [](https://www.tiktok.com/@josh_exists/video/7429557626511330591)
+- [a video from my tiktok about scooting](https://www.tiktok.com/@josh_exists/video/7429557626511330591)
 - [taking several bags of groceries home from the nearest trader joes in Denver, effortless on a scooter](https://www.tiktok.com/@josh_exists/video/7426456379679968542)
 - [I always get the best/closest/most-convenient parking spaces on this vehicle, at every stop of the way](https://www.tiktok.com/@josh_exists/video/7418604914928110879). all the parking at my building I've discussed with everyone involved, and they're fine with it. I end up with _free, covered parking_, at my house it's often inside a locked gate, and I leave a cover over it, for extra weather/dust protection and the 'security via obscurity' thing.
 - [there was an event downtown and traffic was super stopped... but not for scooters](https://www.tiktok.com/@josh_exists/video/7391898614563360031)
@@ -147,6 +149,8 @@ If you're looking at this page, it's possible you've seen my scooter parked some
 
 I plan on making a little complaints form on this page, so if something I've done with the scooter causes you consternation, I'd love to hear about it. It's possible that I believe you, and or/I agree with you, and/or I care. Regardless, there's only one way to know, so feel free to email me. 
 
+## Balinese Scooter Norms
+
 I've had a few conversations with people, explaining something about how I ride my scooter, in which I said:
 
 > I generally ride according to Balinese scooter norms.
@@ -188,7 +192,16 @@ I'll also mention motorcycle comparisons sometimes too, as
 - 
 
 
-
-
-
 ## Scooters are vastly safer than motorcycles
+
+Scooters have a continuous variable transmission, that is operated exclusively by a twist throttle on the right hand. There's no clutch, there's no shifting mechanism, there's no shifting up or down.
+
+Scooters have a very low center of gravity compared to a motorcycle. This is particularly relevant when pushing around on the scooter on legs, while getting in and out of parking spots and such. 
+
+Never does one 'speed down a highway' on a scooter on an American highway. It's unenjoyable to go above 55 mph on the size scooters I've ridden, and even that is way faster than I usually prefer.
+
+When I first started riding my scooter, it was an upgrade from my regular leg-powered bycycle, and so I rode it on the same paths and places as I rode my bicycle. I always look for things like bike infrastructure, or quiet and peaceful roads to operate my vehicle on. 
+
+Again, riding a scooter in America is a very different, much worse experience than riding a scooter in say Taipei or a city in Bali.
+
+Scooters are light and don't need to be driven quickly. The seating position is very comfortable.
