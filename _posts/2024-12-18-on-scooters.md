@@ -11,15 +11,17 @@ permalink: /scooters
 
 ## Introduction
 
-Often when I say "scooter", especially in the united states, the person thinks of something different than what I mean. Here's Denver's [Sportique Scooters](https://www.instagram.com/sportiquescooters), here's one of their recent posts:
+Often when I say "scooter", especially in the united states, the person thinks of something different than what I mean. Here's a recent post from the [Sportique Scooters](https://www.instagram.com/sportiquescooters) instagram:
 
 ![sportique](/images/sportique_insta.jpg)
 
-So _that_ is the kind of vehicle I'm talking about when I say "scooter". 
+_[source](https://www.instagram.com/p/DB44uZbsGhK/)_
 
-I once had a vehicle just like that. I note that I wore a different helmet, vastly safer - I always ride with a full motorcycle helmet. Head injuries are no joke. 
+_This_ is the kind of vehicle I'm talking about when I say "scooter". 
 
-It's my primary vehicle, and my only vehicle. In America, nearly every situation is improved by having the option of riding one of those vehicles around.
+I once had a vehicle just like this photo. The helmet I used (and still use) is not as charming as this helmet, unforunately, but it is a bit safer, and I want the best head protection I can get.[^helmet]
+
+There's more to say about this kind of vehicle, and I've tried to, a few different ways. This page currently serves as "just" a jumping off point to other scooter-related resources.
 
 ## Collections of writings about scooters
 
@@ -31,6 +33,17 @@ And some of you might say "oh, I have a bicycle, and so..."
 Scootering is also different than bicycle-ing. 
 
 👉 [https://josh.works/scootering]({{ site.baseurl  }}{% link  _pages/scootering.md %})
+
+My tiktok has lots of footage from/about scooting, but from a different perspective. [https://www.tiktok.com/@josh_exists]
+
+I've ridden scooters in countries where almost everyone is actively riding scooters, and the people that don't ride them expect the scooter users to be there anyway, and everything flows very smoothly and at an incredible number of vehicles-per-minute through given road segments. 
+
+I live in Denver, CO, and in my mind most likely that the reader of these ideas will most likely have grown up in the northern americas, where unless for some reason scooters are a part of you/your family's life, it's most likely you've never had much experience with the vehicle. Scooters are uniquitous in some parts of the world, so in some of these writings about scooters I'm trying to plug those concepts together. The scooter norms of some places combined with the car driving norms of the USA. 😬
+
+
+
+
+## Footnotes
 
 
 

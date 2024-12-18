@@ -10,7 +10,7 @@ _this page is still in a bit of a draft mode_
 
 I pursue ease, joy, and meaningfulness. Sometimes successfully.
 
-A big part of that ease and joy comes from being able to nearly effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs, that is not a motorcycle.
+some of this ease, joy, for me comes from being able to effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs, that is not a motorcycle.
 
 It's a scooter, and you deserve to be warned that I'm going to low-key try to convince you to buy a scooter, or move your overton window towards that being a reasonable decision. For example: do you ride a bycycle? congrats, you have some of the requisite skills, AND riding a scooter can be WAY safer than riding a bike. 
 
