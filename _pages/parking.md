@@ -8,12 +8,23 @@ permalink: /parking
 
 I propose that your business or building *might* be affected by "parking lots" or "parking spaces". 
 
+_Note: This particular page is very much a draft of something, or perhaps operating as a "friend-catcher"._
+
 In the greater united states, and elsewhere, the 'resource' known as 'parking spaces' is not well managed, for a variety of factors.
 
-There's room for improvement, by "importing" ideas and norms from places in the world where they are currently functioning to _your_ parking lot. 
+Some of you own buildings inside of which businesses operate, and lots of the people involved with the business make regular use of parking. 
+
+Parking meters, parking lots. Sometimes people get tickets. Sometimes they get towed. Sometimes staff are annoyed, sometimes customers. Obviously plenty of people visiting the space are not driving. They walk, they bike. They have their own collection of experiences.
+
+Things feel one way when the sun is up, and another way when it's dark.
+
+The default parking/parking lot/parking space "experience" in the USA is not great, for anyone. I'm (boldly? humbly?) proposing that it can be vastly different, dramatically better.[^dramatically-better]
+
+[^dramatically-better]: 'dramatic improvement' is an understatement.
+
+There's room for improvement, by "importing" ideas and norms from places in the world where they are currently functioning, and configuring them to work in/around your parking lot.
 
 I'd like to be that importer for you. Could we discuss on the phone?
-
 
 `joshthompson@hey.com`
 
@@ -33,7 +44,7 @@ First, parking really really is mismanaged. This is a professor who works at the
 
 [The High Cost of Free Parking](https://www.amazon.com/High-Cost-Parking-Updated-Edition/dp/193236496X?ie=UTF8&qid=1332084228&sr=8-1&linkCode=ll1&tag=markeurban-20&linkId=65aeac5942c99b794876bb2d2dc32bb0)
 
-Did you know that about 1/3rd of drivers driving around downtown at any given moment are looking for a parking spot? By implementing Donald Shoup's three-part fix, most/all of that driving would go away. 
+It's 700 academic pages. Fortunately you don't need to read the whole thing. The author has a short "too long, didn't read" implementation suggestion. Perhaps we'll discuss it. 
 
 And:
 
