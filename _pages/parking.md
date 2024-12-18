@@ -23,17 +23,17 @@ I've already written some things about parking, and the mobility networks attach
 
 👉 My Substack [Zoning Regimes Very Different Than Ours](https://zoningverydifferentthanours.substack.com/)
 
-Some of my hand-collected mobility data, gathered all over the place: [https://josh.works/mobility-data](https://josh.works/mobility-data)
+👉 [Hand-collected mobility data, gathered from all over the place]({{ site.baseurl }}/mobility-data)
 
 ## Resources I might mention
 
-If/when we talk, I'll possibly reference a few books. Why does it matter? To show defensibility of my unusuall propositions, and as a way to 'show my work'.
+If/when we talk, I'll possibly reference a few books. Why does it matter? To show defensibility of my unusual propositions, and as a way to 'show my work'.
 
 First, parking really really is mismanaged. This is a professor who works at the American Planning Association, but plenty of city staff who are 'planners' have never heard of him. 🙄 
 
 [The High Cost of Free Parking](https://www.amazon.com/High-Cost-Parking-Updated-Edition/dp/193236496X?ie=UTF8&qid=1332084228&sr=8-1&linkCode=ll1&tag=markeurban-20&linkId=65aeac5942c99b794876bb2d2dc32bb0)
 
-Did you know that about 1/3rd of drivers driving around downtown at any given moment are looking for a parking spot? By implementing Donald Shouop's three-part fix, most/all of that driving would go away. 
+Did you know that about 1/3rd of drivers driving around downtown at any given moment are looking for a parking spot? By implementing Donald Shoup's three-part fix, most/all of that driving would go away. 
 
 And:
 
@@ -45,6 +45,6 @@ I'm keen to try to accomplish this 'fix parking and some other things' project, 
 
 American parking is partially broken for the same reason that "Urban Renewal" programs in the USA in the 1960's were broken. Or, alternatively, there are some ways that when parking feels broken, it's working exactly as intended, for someone else. 
 
-Those energies are obviously tricky to deal with, but I think they're also solveable. Surprisingly so, in some situations. 
+Those energies are obviously tricky to deal with, but I think they're also solvable. Surprisingly so, in some situations. 
 
 ## Footnotes
