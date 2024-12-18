@@ -12,13 +12,17 @@ I pursue ease, joy, and meaningfulness. Sometimes successfully.
 
 some of this ease, joy, for me comes from being able to effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs, that is not a motorcycle.
 
-It's a scooter, and you deserve to be warned that I'm going to low-key try to convince you to buy a scooter, or move your overton window towards that being a reasonable decision. For example: do you ride a bycycle? congrats, you have some of the requisite skills, AND riding a scooter can be WAY safer than riding a bike. 
+It's a scooter, and you deserve to be warned that I'm going to low-key try to comvince you that it's reasonable to buy yourself a scooter. 
 
-Do you have a deep-in-your-soul fear and distrust around nearly everything associated with motorcycles? me _toooo_. One of my favorite scooter facts is: "there is no shifting mechanism". Everything about the throttle is a twist with the right hand, no clutch, no shifting. This leads to safety, ease, peace, smoother learning processes. 
+Sometimes a scooter is best contrasted to a different vehicle like a bicycle, but sometimes it's best contrasted to a vehicle like a car. I still maintain it's a class unto itself, and maybe you'll agree. I'm also terrified of motorcycle culture and fast vehicles in general. 
 
-Lastly, you're right to find "other people also using the road" to be the most dangerous part of using a scooter. If it was just you and empty asphalt, you'd be able to safely do anything. The danger is instantly multiplied when there are other users of the space, especially users inside of cars and car-like things. generally internal combustion engines and four tires, sometimes electric, sometimes six tires. You get the vibe. They weigh 3000-6000 lbs, can be very throttly, etc. We can talk about all of this, *and* it's the part that stresses me out the most, *and* it's rooted in supremacy in american institutions and the people who built them! Yay!
+A big part of this sort of vehicle usage in America is using it safely, especially given how american drivers sometimes treat bicyclists or pedestrians or other 'vulnerable' road users. With savvy, awareness, and skill one can traverse pretty much any environment unobtrusively, peacefully, quickly, even at night or in the cold, even if there is rush hour traffic.
 
-In other words, some of the "norms" I've picked up 
+Lastly, you're right to find "other people also using the road" to be the most dangerous part of using a scooter. If it was just you and empty asphalt, it would feel and would be much, must more safe. 
+
+The danger is instantly multiplied when there are other users of the space, especially users inside of cars and car-like things. generally internal combustion engines and four tires, sometimes electric, sometimes six tires. You get the vibe. They weigh 3000-6000 lbs, can be very throttly, etc. We can talk about all of this, *and* it's the part that stresses me out the most, *and* it's rooted in supremacy in american institutions and the people who built them! Yay!
+
+But this can all be navigated safely, and the bump in mobility one gets by having a scooter, even if "just" for 1-3 mile trips, is quite distinctive. It's fun and engaging, very inexpensive, and is a close-enough full replacement for a vehicle that to depend on a car but not have the option of something like a scooter _also_ feels uncomfortable to me, now. 
 
 Alternatively, if you're already scooter-curious, or you already ride a bike around the city, I think you've got the skills and the disposition to go make it happen, and I'll try to help you down that path, too.
 

@@ -19,7 +19,7 @@ _[source](https://www.instagram.com/p/DB44uZbsGhK/)_
 
 _This_ is the kind of vehicle I'm talking about when I say "scooter". 
 
-I once had a vehicle just like this photo. The helmet I used (and still use) is not as charming as this helmet, unforunately, but it is a bit safer, and I want the best head protection I can get.[^helmet]
+I once had a vehicle just like this photo. The helmet I used (and still use) is not as charming as this helmet, unforunately, but it is a bit safer, and I want the best head protection I can get. [^helmet]
 
 There's more to say about this kind of vehicle, and I've tried to, a few different ways. This page currently serves as "just" a jumping off point to other scooter-related resources.
 
@@ -45,7 +45,13 @@ I live in Denver, CO, and in my mind most likely that the reader of these ideas 
 
 ## Footnotes
 
+[^helmet]: 
 
+    I always wear a full-face helmet of the "modern" style. An integrated sun visor is ideal, along with a clear visor that can be completely closed. If you see some of my scooting videos you'll have a sense of it. These kinds of helmets are the most protective, provide the most protection from wind and sunlight and noise. I usually wear a disposable painters mask. It's a heavy-duty N95 "Odor respirator". Here's the difference between an oder respirator and a regular N95. Please keep in mind that vehicle emissions include tail pipe emissions AND tire rubber microplastics AND metal dust from brakes.
+    
+    Here's what the internet has to say about it. Once you try a nice mask like this, it might be hard to go back. Once I started getting choosy about masks, I started wearing them _a lot_. 
+
+    > An R95 Odor Respirator 8246 is essentially the same as an N95 respirator in terms of filtering 95% of airborne particles, but the key difference is that the R95 is designed to be somewhat resistant to oil-based particles, while a standard N95 is not, making the R95 a better choice for situations where oil mists or fumes might be present; both are NIOSH-approved respirators.
 
 
 
