@@ -15,7 +15,24 @@ I've read many books over the years. Thousands. Here's a few that I find myself 
 
 _the list you are about to read is heavily reworked, based off this older list: [josh.works/recommended-reading-original-list]({{ site.baseurl  }}{% link _posts/2018-05-17-recommended_reading_original_list.md %})_
 
-These are the books I cannot un-read, which shape me today. 
+These are the books I cannot un-read, which shape me today. I don't think any of my ideas are strange, but I sometimes find myself feeling out of step with others. A big source of that out-of-step-ness is that I cannot find any emotional engagement with the concept of "authority" being a real thing. It's a collective hallucination, a harmful (rather than a helpful) superstition.
+
+[The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
+
+The author almost apologetically picks apart a few pieces of the concept of 'authority', and some implications therein. Oops. If you feel like reading []
+
+[The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/8236315-the-origins-of-proslavery-christianity)
+
+If one loses felt confidence in things like political authority, one might also notice a felt loss of confidence in things like religious structures. I'd not appreciated how much established religions concerned themselves deeply with things like 'political authority', but [once I saw it]({{ site.baseurl }}{% link _pages/whats-up-with-anabaptists.md %}) I reconfigured some things, mentally. For instance, [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.amazon.com/Origins-Proslavery-Christianity-Evangelicals-Antebellum/dp/0807858773) is difficult to unread, I read it first in 2017 as well. [Here's some quotes](https://www.goodreads.com/notes/8236315-the-origins-of-proslavery-christianity/27372191-josh-thompson?ref=abp)
+
+I'm trying to end up with a single page that maybe has _all_ of my currently recommended books on it, with a short blurb about each. We'll see if I get there. 
+
+[The Most Dangerous Superstition](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)
+
+Ivan Illych's _
+
+
+
 
 I'll read any book, for any reason, and if I "like" it is almost a complete afterthought. The real question is - can I glean something of value from it? Can I sift and find something, _anything_ that is helpful to me? That increases my understanding or imagination, or is an engaging-enough story?
 
@@ -35,7 +52,7 @@ This list is categorized in no particular order.
 I lived in Golden 2015-2022. Even ran for city council in 2017, then did another round of prodding at the machine, informed mostly by Robert Moses, in 2021, after buying a house there late in 2020. Stories are fascinating, here's some specific to Denver, Colorado, and Golden:
 
 - [Citizen Coors: A Grand Family Saga of Business, Politics, and Beer](https://www.amazon.com/Citizen-Coors-Family-Business-Politics/dp/0060959460)
-- [Hooded Empire: The Ku Klux Klan in Colorado](https://www.goodreads.com/book/show/3101191-hooded-empire) was hard to get, library didn't have a copy, used prospector + interlibrary loan to get it. 
+- [Hooded Empire: The Ku Klux Klan in Colorado](https://www.goodreads.com/book/show/3101191-hooded-empire) was hard to finally obtain a copy of, library didn't have a copy, used prospector + interlibrary loan to get it. 
 
 Denver (as did every other municipality ) fully implemented the zoning document outlined in [The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %})
 
@@ -49,7 +66,7 @@ The guy that invented r-1 housing originally called it 'r-1: white'. R-2, he des
 
 The system has shifted a little since then, but it's clear as can be that the plan from the 1922 'atlanta zone plan' is what got 'ratified' by the supreme court in [1926, ambler v. euclid](https://supreme.justia.com/cases/federal/us/272/365/), and it's what hums along in America today.  
 
-it's why this whole regime is called 'euclidean zoning'. It isn't a reference to [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry), it's a reference to euclid, ohio. They're saying the quiet part out loud, and drafting on fake science terms for propagandistic value. 
+this whole regime is called 'euclidean zoning'. It isn't a reference to [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry), it's a reference to euclid, ohio. They're saying the quiet part out loud, and drafting on fake science terms for propagandistic value. 
 
 Euclidean zoning sounds so scientific. 🤢 It's implementing a plan with a simple goal:
 
@@ -245,15 +262,17 @@ Here's some things I've watched, enjoyed, would re-watch. This list ~will probab
 
 ### Studio Ghibli
 
+this section has been moved to it's own other section: [https://josh.works/studio-ghibli](https://josh.works/studio-ghibli) and [https://josh.works/great-movies-especially-for-kids](https://josh.works/great-movies-especially-for-kids). 
+
 I didn't even hear of Studio Ghibli until I was quite old, and am now happily working on watching [the entire 25 piece anthology](https://en.wikipedia.org/wiki/Studio_Ghibli#Feature_films). I've seen maybe half. As you might imagine, there's lots a certain sub-three-year-old might love about these productions.
 
 Studio Ghibli is a production studio that made/makes animated movies, starting in 1984, based in Japan. It's refreshingly non-western. Haio Miyazaki was the founder/director. I've *ahem* managed to find a collection of all the works with the original japanese audio and english subtitles, but some of the pieces I've gone 
 
 Noteworthy starting points could be _Kiki's Delivery Service_, _Pom Poko_, _My Neighbor Totoro_, _Tale of Princess Kaguya_. 
 
-I usually prefer them in the original japanese, with english subtitles. Sometimes I'll tell Eden what's being said, when we're watching together, if she wants me to, and we're watching together. I'm exploring finding good english dubs for the best ones, turns out there might be good ones. 
+I, personally, usually prefer them in the original japanese, with english subtitles. But I've now mostly see them with english language tracks, with eden. Amazon Prime has one version of _Totoro_, as my toddler-aged kid calls it, the wayback machine/archive.org has an older english dub for free. I bought the Amazon one, and ended up torrenting the same file, just to save bandwidth on the many times we've seen the movie. 
 
-I had exclusively poor experiences with Ghibli + english dubs, but _My Neighbor Totoro_ in english is excellent, especially with a child, of course. 
+I'm exploring finding good english dubs for the best ones, turns out there are plenty of good-enough ones. Some I've paid for, some I've found for free, sometimes both. There's at least one Studio Ghibli that doesn't have any spoken words, so the audio is available in _every_ language. It is a bit slow, and when Eden and I watched it, we skipped through most of it, and it didn't get slotted for a re-watch like _Kiki's Delivery Service_ or _Howl's Moving Castle_. 
 
 HBO Max has a lot of studio ghibli. I agree with Lawrence Lessig: [Free Culture: The Nature and Future of Creativity](https://www.goodreads.com/book/show/72011.Free_Culture), thus after suffering through HBO max and forced english dubs and UI changes for a while, I 'gave up' and torrented at least some of the entire collection, so I can have fine-grained control over subtitles and audio tracks via [vlc](https://www.videolan.org/vlc/), and didn't have to navigate crappy smart TV menus again. 
 

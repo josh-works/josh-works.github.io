@@ -4,8 +4,8 @@ title: To the people who are not yet 'fully grown adults'
 published: false
 description: "a note to the people who count as not-yet-adults"
 date:  2024-10-10 06:00:00 -0700
-categories: [misc]
-tags: []
+categories: [authority]
+tags: [authority, political_authority]
 permalink: /to-the-young-folks
 issue_id: 89
 ---
@@ -26,15 +26,21 @@ Some folks call this the 'industrial' age, or the 'modern' age, or the 'informat
 
 I've been thinking it's better called the Authority age. It's shocking, how heavily some parts of the world you and I live in (like America) is OBSESSED with authority. 
 
-Your parents likely believe in authority more than anything else in their lives. They think _other_ people "have authority" over them, and thus it's right for them to "have authority" over you. You, of course, don't get authority over anything. (Did you know some people consider children to be the most oppressed class?)
+Your parents likely believe in authority more than anything else in their lives. They think _other_ people "have authority" over them, and thus it's right for them to "have authority" over you. You, of course, don't get authority over anything. (Did you know some people consider children to be the most oppressed class?) (I just finished reading "Spare the Child" by Philip Greven, it's a horrible description of the world many of my peers and their parents grew up in. Over and over again in the book is made clear these people's obsession with "authority".)
 
-It's impossible to grow into a healthy person inside of a confining container, and the authority obsession your parents have will have crushed a portion of your soul, your sense of self, your confidence in your own perceptions and experiences.
+It's impossible to grow into a healthy person inside of a confining container, and the authority obsession your parents have will have crushed a portion of your soul, your sense of self, your confidence in your own perceptions and experiences. 
 
 You won't live in the house of your parents always, and once you establish financial independence, you can hold your parents at arms length, and their structures of authority, if you want.
 
-When someone lies to you, or hurts you and lies to you about why it's happening, they are attacking you with a grievous energy, and if you're not able to defend yourself against them, you'll be injured. Lets minimize injury. 
-
 ## Scrabbling for a little emotional and mental safety
+
+A defining feature of growing up around the kinds of people who move like this is that it's _dangerous_. It's dangerous to exist around someone who thinks hurting you skillfully enough will get what that person wants. It's dangerous to be that kind of person. 
+
+Evangelicalism is harmful because it's full of people who believe in the skillful application of pain to get what they want. This has been long done by many people groups, and to see it clearly is to also solve it, I think. To see it clearly is certainly to be less affected by it, and to maintain agency where it might otherwise be lost. 
+
+Evangelicalism is not the only institution full of this energy, but it's one I still have memories of experiences with, and I like to leave a trail of intellectual breadcrumbs, as I noticed concepts clicking in my brain. [^reframes]
+
+[^reframes]: I have made a few reframes around evangelicalism that cause the world to make more sense to me. It's clicked as I've made other reframes around the overall concept of authority. For instance, evangelicalism is very concerned with the proper application of something like "authority", that became less interesting to me once I noticed I did not actually believe in the concept _of_ authority. [The Problem of Political Authority]() wasn't what I necessarily expected to cause me to waltz out of evangelicalism, but it ended up being the most decisive read. 
 
 I'd encourage you to find these books at libraries. You can ask your library to add books to the library system, or use an 'interlibrary loan system', or torrent/pirate some of these books, or find some books or summaries for these books online. 
 

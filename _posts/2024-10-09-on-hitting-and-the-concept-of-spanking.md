@@ -12,35 +12,58 @@ issue_id: 90
 
 ## A quick map of what I want to cover
 
-it's easy for me to end up on tangents, but also I want to explain things well-enough. Maybe I'll split some of these into multiple pieces. 
+it's easy for me to end up on tangents, but also I want to explain things well-enough. I suspect this particular post will end up turning into several posts.
 
 Here's what I want to make sure I touch on:
 
 - [ ] demonstrate a coherent reframe of "suffering", transforming it from "something maybe good" to "something certainly bad and simply to be avoided"
-2. a reframe of "Jesus significance was in His death" (what evangelicals say is the central tenant of evangelicalism) to "if he mattered at all, it was because of what he did and said, so lets talk about that"
-3. reframing 'christ suffering for the sins of people' to 'self-justifying intellectual dressings for the nobility of feudal europe, which is when it was invented'
+- [ ] a reframe of "Jesus significance was in His death" (what evangelicals say is the central tenant of evangelicalism) to "_if_ he mattered at all, it was because of what he did and said, so lets talk about that"
+- [ ] reframing 'christ suffering for the sins of people' to 'self-justifying intellectual dressings for the nobility of feudal europe, which is when it was invented'. (Anselm of Canterbury "invented" the modern motive/meme of 'substitutionary atonement', which is the pivot around which all of evangelicalism turns)
 
-Lastly, I sometimes manage to [write it now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) (rather than, for instance, never). _and_ I'd like to give a nod to the concept of 'frame control'. _todo, write https://josh.works/frame-control to centralize some links/concepts_. To experience 'frame control', one will be getting pushed into using a specific frame to examine an issue. Usually experienced when at least one of the conversational parties is trying to dominate (emotionally, verbally) someone else. 
+Lastly, I write in the spirit of [write things now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) (rather than, for instance, never). I'll also be giving a nod to the concept of 'frame control'. _todo, write https://josh.works/frame-control, which is what evangelicals/protestants do when they discuss things like 'spanking'_. 
 
-there was a time that jesus' teachings were tightly bound to the literal concept 'do not murder', among other things. This particular injunction, simple enough for a child to plainly understand, got "complicated", eventually. "church" "authorities" needed to help raise armies for their nobles, so they decided they could "pre-forgive" en-mass, the peasents who were being dragged into armies and taken off to fight a war. The pesents once could avoid the draft by saying "jesus says to not kill, and war is obviously killing, so i don't have to participate in the states wars because I am also obligated to the church". 
+Lets talk about 
 
-That was, as I said, inconveneient to those trying to raise an army, so the church did them a solid and said "hey, cannon fodder, i just said magic words that i've decided makes it cool for you to kill on someone elses behalf, have fun in the army, bye!!!!"
+there was perhaps a time that jesus' teachings were tightly bound to the literal concept 'do not murder'. This particular injunction, simple enough for a child to plainly understand, is still bandied about. However, any churchy institution you or I have interacted now declares the issue "complicated". They say:
 
-It's that easy to go from "murder is bad" to "if it's desired by the right person (an _authority_, the pope or the king), it isn't murder, or it isn't bad, or it's not as bad as not-murder". 
+"Jesus still says to not murder, but what he failed to specify was that sometimes killing someone is not murder, thus not bad. play close attention... "
 
-Keep that in mind around this hitting/"spanking" conversation. Hitting is bad, we all agree, but to permit someone to utter or hold the term _spanking_, one accepts (sort of) the statement: "It isn't hitting, if the right person pre-determined that you should be hit. It magically becomes 'discipline', 'punishment', a 'spanking'.
+circa 1100, 600 or 700 years after a man named Constantine made "christianity" the "religion of the state",  in order to keep the support of the state, "church authorities" needed to help raise armies for their nobles. Raising armies was tricky when the peasents they decided they could "pre-forgive" en-mass, the peasants who were being dragged into armies and taken off to fight a war. The peasants once could avoid the draft by saying "jesus says to not kill, and war is obviously killing, so i don't have to participate in the states wars because I am also obligated to the church". 
 
-So, this isn't a diatribe just on the concept of spanking, or hitting. (Yes, I think adults hitting kids is abuse, exploiting a power dynamic) but it's worse. I also contend that to "grant the validity of the idea of" something sometimes called 'discipline' or 'punishment', one is casting your lot in with the kinds of people who physically assault others. not just their own kids, but including their own kids. 
+That was, as I said, inconvenient to those trying to raise an army, so the church did them a solid and said "hey, cannon fodder, i just said magic words that i've decided makes it cool for you to kill on someone elses behalf, have fun in the army, bye!!!!" To "make it permissible", they said they would not issue fines or punishments for murder anymore, and might even incentivize it with first dibs on loot and plunder and such. 
 
-I hold some rage and indignancy that I am going to say some of what I'm saying. Some people come at me with "well if I don't hit my kid, how will I..." and I want to scream in their face "especially since I learned the concept of 'emotional maturity' and 'mutuality', never not once have I felt inclined to hit a child, _especially my own child_, and I'd like to help you find an easier way of being than your current pro-abuse stance.
+It's _this_ easy to go from "murder is bad" to "if it is desired by the right person (an _authority_, the pope or the king or the president), it isn't murder, or if it _is_ murder, it isn't bad, or even if it _is_ murder, and it _is_ bad, it's not as bad as not committing murder". 
 
-I've recently been engaging with people who have built into their sense of self the "rightness" of adults hitting children, while at the same time rejecting the possible rightness of children hitting adults. 
+Keep that in mind around this hitting/"spanking" conversation. 
+
+Hitting is bad, we all agree, but to permit someone to utter or hold the term _spanking_, one accepts (sort of) the statement: "It isn't hitting, if the right person pre-determined that you should be hit. It magically becomes 'discipline', 'punishment', a 'spanking', and therefore, _obviously_ an acceptable or laudable thing. 
+
+So, this isn't a diatribe just on the concept of "spanking", or "adults hitting children and then convincing the child it is an act of love". I also contend that to assume the validity of the idea of spanking is already a disaster, because this perversion already drags behind it further perversions, usually floating around the idea called 'discipline' or 'punishment'. To accept the validity of discipline or punishment, one is casting their lot in with child abusers and (literally) Nazis. It couldn't be me.
+
+I hold rage in me, and feel indignant, that I am going to say some of what I'm about to say. I've spoken on this topic with a number of people, including those who abused me when I was a child. They said "well, nothing else was working, so we _had_ to abuse you". I wanted to scream in their face that perhaps _their obvious needful desire to assault a child ought to have been evidence enough that something was obviously already going very wrong_. 
+
+The framing becomes clear as soon as you reverse some of the players:
+
+> well, if my aged parents do not instantly obey me, how will I extract future obedience from them if I do not physically, emotionally, and sexually assault them to break their will?
+
+> my wife did not give me instant and unflinching obedience, so I hit her hard a few times, until she's I can tell by the change in tone of her crying that she no longer is resisting me, then I tell her I love her. I wouldn't have to hit her if she didn't make me.
+
+Obviously we'd say "you are a domestic abusers and intimates should be kept far away from you. You're not safe to have around vulnerable populations."
+
+never not once have I felt inclined to hit a child, _especially my own child_, and I'd like to help you find an easier way of being than your current pro-abuse stance.
+
+There is obviously a lot to be said about how one can foster a loving and trusting relationship with a small/young person that isn't based in violence and terrorism, but when my brain is in the mode of "writing against child abuse" I do not find it easy or pleasent to drop into a mode of answering the question of "well, if I am not going to abuse a child, how else should I engage with them?". Another blog post will perhaps talk about that. For now, go read https://takingchildrenseriously.com/ for a primer. 
+
+-------------------
+
+In the year of 2024, I've talked with people who have built into their sense of self the "rightness" of adults hitting children, while at the same time rejecting the possible rightness of children hitting adults. 
 
 - part 1: The frame control baked into the language of "spanking", hitting, a few changes of circumstances that show it certainly isn't loving
 - part 2: Why abusers need to coerce you into thinking that their definition of love is more important to you than _your_ definition of love, and why abusers create intellectual justifications for their abuse
 - part 3: so, you were physically assulted repeatedly by people who then claimed it was love. What to do?
 - part 4: So, you physically assaulted small people in your care, and further assaulted them by claiming that it was loving, they should be thankful, and you see this as problemeatic. what to do?
 
+<<<<<<< Updated upstream
 Might tie in themes of supremacy. I use 'supremacy', 'entitlement/obligation', 'abuse', and 'emotional immaturity + exploitable power dynamic' throughout. 
 
 I've recently been engaging with people who have built into their sense of self the "rightness" of adults hitting children, while at the same time (theoretically) rejecting the possible rightness of children hitting adults. 
@@ -146,11 +169,17 @@ I still couldn't place it. I noticed having a confidence that my parents hated m
 For some context setting, my parents read and embodied the ideologies of a man (of course) named James Dobson, who was a eugenicist, and taught that parents, if they suitably controlled the behaviors and thoughts of their children, could 'raise' them to be good members of a civil society, defined as "participating in european american settler colonialism with a certain ideological bent."
 
 Settler colonialists use ethnic cleansing as a primary tool for accomplishing their goals, because it works well ,_obviously_. 
+=======
+For some context setting, my parents read and embodied the ideologies of a man (of course) named James Dobson, who was a eugenicist, and taught that parents, if they suitably controlled the behaviors and thoughts of their children, could 'raise' them to be good members of a civil society. (European-american settler colonialism, slaveholder culture, murdering-indigenous-peoples culture). 
+
+Settler colonialists use ethnic cleansing as a primary tool for accomplishing their goals, because it works pretty well for them.
+>>>>>>> Stashed changes
 
 So, the kinds of people that would support population confinement and displacement and genocide, on the concept of 'race', make for interesting parents. Settler colonialists use violence and coercion to get what they want. Violence is expensive and risky, so sometimes other, 'gentler' forms of coercion can be made effective. Economic coercion, for instance, might seem gentler than knocking someone's house over with a bulldozer, but it's all on the same spectrum.
 
-The bulldozer shows up only if the other methods are deemed to have failed.
+The bulldozer shows up only if the other methods are deemed to have failed. Abusers say they _usually_ don't have to assault their children, but it is still all full of violence because they and their kids know that if certain compliance isn't had, the violence emerges. 
 
+<<<<<<< Updated upstream
 This is the core, fundamental dangerous attitude of all people who concede the correctness of the concept of 'spanking'. It's an extension of the concepts of 'punishment' and 'discipline'. 
 
 _Both_ of my parents, when I've recently pressed them on them openly using physical violence on their children, said "i tried other methods and they were not working, so I did what I had to do."
@@ -159,50 +188,124 @@ I suggested to them:
 
 > If I told you you disobeyed me, and then dragged you somewhere else, forced you into a bent-over position, RIPPED YOUR PANTS DOWN, and then hit you repeatedly, I would be correctly charged with sexual assault. If I didn't rip your pants off first but simply hit your butt repeatedly, that would _simply_ be assault. Can you tell that it certainly wouldn't be _loving_?
 
+=======
+This is the core, fundamental dangerous attitude of all people who concede the correctness of the concept of 'spanking', and it is visible in how they approve of the concept of 'punishment' or 'discipline'. 
 
-His response wasn't "Oh my god I would never physically assault a child", it was "oh, God says it is PARENTS who are supposed to beat children, not grandparents, so rest assured i wont hit her, because that is _your_ job, to hit her."
+_Both_ of my parents, when I've recently pressed them on them openly using physical violence on their children, said "i tried other methods on you when you were young, they didn't work, so we _had_ to keep turning up the pressure, until we got what we wanted after physically, emotionally, and sexually assaulting you".
 
-lol. his lack of self-awareness continues to stun.
+I suggested to them:
+
+> If I told you you disobeyed me, and then dragged you somewhere else, forced you into a bent-over position, RIPPED YOUR PANTS DOWN, and then hit you repeatedly, I would be correctly charged with sexual assault. If I didn't rip your pants off first, and still hit your behind repeatedly, that would _simply_ be sexual assault. Can you tell that it certainly wouldn't be _loving_? Would it feel loving if I used a stick instead of my hands, and tried to use a calm voice instead of displaying anger?"
+
+The man who considers himself my father likes telling stories about beating children. I had to contact him recently to make sure that the next time he found himself my child's presence, he refrained from making those jokes or threats, and I wanted him to know that if he took it upon himself to 'spank' my child, I would view it as him physically, emotionally, and sexually assaulting her, and would respond as such.
+>>>>>>> Stashed changes
+
+His response wasn't "I would never assault a child", it was "oh, God says it is PARENTS who are supposed to beat children, not grandparents, so rest assured i wont hit her, because that is _your_ job, to hit her."
+
+I've written and deleted several sentences, trying to capture the depth of my disgust at everything about him and his way of being. 
 
 --------------------
 
-I have broad notes floating around on why spanking is abuse. I could quote James Dobson's books if I wanted to, but I don't need to. Here's how spanking works in evangelical circles:
+I have many notes (typed, written) floating around on why spanking is abuse. I could quote James Dobson's books if I wanted to, but I don't need to. Here's how spanking works in evangelical circles:
 
-If your kid does something that you decide justifies you beating them, you're not supposed to just reach out and hit them in the moment. 
+> If your kid does something that you decide justifies you beating them, you're not supposed to just reach out and hit them in the moment. You are supposed to ritualize it a bit. Take them somewhere else. Show them you're calm, and doing the hitting from a place of reason and love. Shame them for a bit, then make them disrobe, or walk over to you and bend over. (Do they do this willingly, or do you force it on them? Oh, the nuances of child abuse!) 
+> 
+> Then as you hit them, you're not supposed to use your hand, that might cause them to flinch away from your hand in public, which would be awkward. Maybe use a spoon or a thin stick. It might not leave as many marks as something that would lacerate or bruise. Anyway, hit them until you feel better, or until you feel anything at all, and then (here's the kicker) tell them _you love them_, and that _god loves them_ and that next time if they obey you/god better, you might not beat them. Tell them that you're hitting them because _they made you hit them_ and that you're hitting them _for their own benefit_. 
 
-You are supposed to ritualize it a bit. Take them somewhere else. Show them you're calm, and doing this out of a place of reason and love. 
+I recently read a few stories the woman who considers herself my mother wrote (about me) that revolved around 'spanking' three year old me for the 'sin' of not doing _exactly what she commanded me to do_ in a timely manner. (as her written notes go, on my third birthday, I didn't put a train set away to her liking. So she beat me, and blamed god/me for the beating. The next time I put the train set away, I did it, through tears, in the exact way she wanted. I wonder if this has anything to do with why I dislike to celebrate my own birthday, even 30+ years later.)
 
-Shame them for a bit, then make them disrobe, or walk over to you and bend over. (Do they do this willingly, or do you force it on them? Oh, the nuances of child abuse!) 
-
-Then as you hit them, you're not supposed to use your hand, that might cause them to flinch away from your hand in public, which would be awkward. Maybe use a spoon or a thin stick. It might not leave as many marks as something that would lacerate or bruise. Anyway, hit them until you feel better, or until you feel anything at all, and then (here's the kicker) tell them _you love them_, and that _god loves him_ and that next time if they obey god better, you might not beat them. Tell them that you're hitting them because _they made you hit them_ and that you're hitting them _for their own benefit_. 
-
-I recently read a few stories my om wrote that revolved around 'spanking' three year old me for the 'sin' of not doing _exactly what she commanded me to do_ in a timely manner. (my third birthday, I didn't put a train set away to her liking. So she beat me, and blamed god/me for the beating. I wish I were kidding.)
-
-The issue wasn't even that I didn't put the train set away, the issue was I didn't _comply with her demands_. She viewed her 'authority' over me as an extension of her fantasy of how God controls her, or how God controls a husband who controls her. Regardless, that whole chain of control is diminished if she doesn't get the same level of control over the kids in her charge. 
+The issue for her wasn't that I didn't put the train set away. the issue was I didn't _comply with her demands_. She viewed her 'authority' over me as an extension of her fantasy of how God controls her, or how God controls a husband who controls her. Regardless, that whole chain of control is diminished if she doesn't get the same level of control over the kids in her charge. 
 
 So, because the bible says 'the wages of sin is death', christians think 'as long as I don't kill someone, I can hurt them all I ~want~ deem necessary to ensure compliance'. 
 
 ----------------------
 
-## The concept of punishment & discipline is definitionally abusive
+## The concepts of punishment & discipline is abusive
 
 *deep breath*
 
+When I talk with evangelicals today, they can tell quickly how I feel about adults assaulting children. They backpedal and say:
+
+> yeah, that form of violence is bad, I would not endorse adults assaulting children either. Of course, adults need to _discipline_ children sometimes.
+
+So lets talk about "discipline" and "punishment". These are propagandist terms for something better called "retributive vengeance" or "retributive violence".
+
+Retribution is "punishment inflicted on someone as vengeance for a wrong or criminal act."
+
+It goes like this:
+
+> If I tell my child to do something, or to not do something, and they do not do it, or do it, unless I cause them pain and suffering, they will think it is acceptable to continue to disregard the injunction. 
+
+So 'discipline' and 'punishment' means an adult arbitrarily increases the suffering and pain in a childs life, to try to ensure compliance later on. 
+
 Discipline and punishment are inherently supremacist. Usually when someone says "discipline", they mean "punishment", and "punishment" is shorthand for 'retributive violence'. The theory (as it works in patriarchal/authoritative/supremacist families) is simple:
 
-1. if a bad thing happens, someone or something is offended, completely independent of the simple effects of that bad thing. 
+1. if a "bad" thing happens, someone or something is offended, completely independent of the simple effects of that thing. 
 
-If I ask you to take out the trash, and you say no, the 'bad thing' is that the trash is still in the trash can. To a patriarchal person, that's the least of the concerns. 
+If I ask you to take out the trash, and you say no, the 'bad thing' is that the trash is still in the trash can. 
 
-The real concern is that the honor of the patriarch has been offended, because the property/possession of the patriarch has presumed a state of equality with the patriarch, which is the _real_ offense. So, to fix _the offended honor_ of the patriarch, a further harm needs to be obtained - pain must be extracted from the willful individual, to enforce the concept of supremacy: "There is a hierarchy here, and you damned well better understand where you sit."'[^jokes]
+If I tell you to "stop walking ahead" and you keep walking ahead, an evil act is done, the honor of the noble is offended, and retributive violence must be meted out. To evangelicals, it's never actually about the wrong act, it's that a presumed authority figure (a parent, sky daddy) is displeased because the subservient person has treated the authority as an equal, and like any good noble from the middle ages, it is time to hurt someone. 
 
-[^jokes]: It was said in the family in which I grew up: "I could kill you and make another one just like you." Mmm, thanks for affirming the inherent dignity of a person. I was so desirous of a modicum of affection from him that I'd pretend it was funny.
+The real concern is that the honor of the patriarch has been offended, because the property/possession of the patriarch has presumed a state of equality with the patriarch. To fix the offended honor of the patriarch, a further harm needs to be obtained - pain must be extracted from the willful individual, to enforce the concept of supremacy: "There is a hierarchy here, and you damned well better understand where you sit."'[^jokes]
 
-No bad thing in the world is improved by additional bad things. 'retributive justice' is propaganda justifying all sorts of cruel violence.
+[^jokes]: It was said in the family in which I grew up: "I could kill you and make another one just like you." Mmm, thanks for affirming the inherent dignity of a person. I was so desirous of a modicum of affection from the man considering himself my father that I'd pretend it was funny.
 
-Yes, I am condemning the settler colonialist regime of social control some call 'the american criminal justice system'. For all the money wasted on that system, everyone could be housed and fed and given safety and security _without coercion_. Even the people who find themselves working the system as the oppressor. (Yes, I propose housing, food, dignity, even to the people currently complicit in perpetuating the evils of that system.)
+'retributive justice' (revengeful violence) is propaganda justifying all sorts of the worst parts of human behavior. It underpins war, colonialism, ethnic cleansing, child abuse. 
+
+Yes, I am condemning the settler colonialist regime of social control some call 'the american criminal justice system'. For all the money wasted on that system, everyone could be housed and fed and given safety and security _without coercion_. Even the people who find themselves working the system as the oppressor. (Yes, I propose housing, food, dignity, even to the people currently complicit in perpetuating the evils of that system. even deputized slave patrollers ('police') deserve shelter and food, because they are sentient.)
+
+## Common objections
+
+> But Josh, if I don't keep my children afraid of me with threats of violence, how will I force them to...
+
+Stop. I won't dedignify myself by considering you to be an advocate for your own children if you presume your chief role in their life is to bully and abuse them. I hope your children, for their own good, realize that they might not be under your control their entire life and they might someday be able to save themselves from you.
+
+> But Josh, it would be dangerous for my child to run into the road and get killed by a car, how will I prevent them from doing so without assaulting them?
+
+Great fucking question. Does it matter to you that my own child has _excellent_ road safety awareness, and I've never threatened her with anything?
+
+In America, traffic violence is accepted by many levels of society. I keep my kid safe in the road without ever blaming her for the potential violence she might experience. I tell her "in this country, most people drive very dangerously and would murder you without hesitation.". The greatest source of fear I feel for her is that in this abomination of a country, 40,000 people die every year on roads, and globablly, it's like 1.2 million people die. She is intimidated by roads, as I am also intimidated by roads. 
+
+My dad, when I pressed him on assaulting me as a child, used the classic evasion "if the stove is hot and can hurt a child, who reaches for the stove, to keep them safe, I would have to punish them for reaching for a stove". 
+
+This is the cry of a person who has no imagination. If I want to teach Eden about heat, I give her things to put in the frying pan to see how heat works. I help her hold her hand near it to test for how hot it is. I see if I can touch it for a split second to feel the heat, and let her do the same. I scaffold her skills so she can learn to accomplish whatever it is she wants, with the skills to do so safely.
+
+It's ludicrously easy to navigate the world with a child without violence. It boggles my mind how invested parents are in reigning down violence and terror on their kids. I also happen to remember clearly how it felt to be terrorized by my parents, and the many ways I rejected every aspect of their need for control over me, and continue to reject every authority that meets me with an energy of "I believe I am entitled to coerce you, and you're obligated to obey me". 
+
+If you want to get along with your kids, read and internalize some messages about the fantasy of authority, then share these with your kids:
+
+- [The Most Dangerous Superstition](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)
+- [The Problem of Political Authority: An Examination of the Right to Coerce and the Obligation To Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority?from_search=true&from_srp=true&qid=DrpkRVYchM&rank=1)
+- [The Verbally Abusive Relationship: How to Recognize it and How to Respond](https://www.goodreads.com/book/show/402366.The_Verbally_Abusive_Relationship?ref=nav_sb_ss_1_20)
+
+> gee, josh, I'm not interested or willing to read books that might help me not abuse my child, or help me stand as an advocate for other children who are being abused by adults.
+
+get the fuck off my website then. Close the tab. Never come back.
+
+It's difficult to express the contempt I feel for this kind of thinking. Read the book(s), or at least recognize that your resistance to reading the books is rooted in the same part of your soul that wants to abuse children. You could reject that part of you, even as you extend a gracious acceptence to the rest of the parts of you that do not want to abuse children. 
+
+If you are your own child's first abuser, and habituate them to think it is love, you are crippling them, destroying their ability to navigate the world safely, because abusive people and institutions abound, hungry for more bodies to consume. 
+
+Which kid do you think will be safer around other kids and adults?
+
+1. The child who is occasionally humiliated and assaulted by a parent hitting them, who then tells them it is an act of love?
+2. The child who is told, in complete seriousness and confidence: "It is never acceptable for an adult to hit you, ever, and if anyone tries to do this to you, I hope you can evade, escape, or resist, and if you are able to communicate it to me, I'll expend every resource I have to protect you from that adult."
+
+And an adult who no longer hits the kid, but still controls and coerces them with emotional and verbal assaults, is no better than one who hits children. An adult who coerces and threatens a child is fundamentally unsafe. An adult who coerces and threatens another adult is fundamentally unsafe. An adult 
+
+To the kids of parents who assaulted them: 
+
+Good god, how distressing it is to have been terrorized by someone who then also convinced you that they loved you. It really causes the brain to break, and the psyche to attack itself (in some ways) and to dissociate from reality (in some ways) and to project/displace shame and anger towards oneself or others. 
+
+It's virtually guaranteed you have something like "Complex Post Traumatic Stress Disorder". Please do not waste your time reading _The Body Keeps the Score_, instead read Pete Walker's books [Complex PTSD: From Surviving to Thriving](https://www.goodreads.com/book/show/20556323-complex-ptsd) and [The Tao of Fully Feeling](https://www.goodreads.com/en/book/show/1136530.The_Tao_of_Fully_Feeling)
+
+> 
 
 ## What gets unlocked if punishment and coercion are dropped
+
+Parents who believe children exist to serve their ego and obey them issue admonitions to children nearly continuously. The entire tone of the relationship is dominated by the parental willingness to inflict violence. The parent is unable to "see" the child. 
+
+
 
 The first place one encounters punishment energy is the many admonitions "though shalt not exist <here>"
 
