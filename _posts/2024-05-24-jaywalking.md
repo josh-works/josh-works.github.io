@@ -160,10 +160,14 @@ Yet we live...
 - Jaywalking should really be viewed with the same lense as a [desire path](https://en.wikipedia.org/wiki/Desire_path)
 - [A federal highway administration brochure blaming pedestrians, over and over again, for their own deaths (among other things)](https://safety.fhwa.dot.gov/ped_bike/tools_solve/medians_brochure/medians_brochure.pdf) Would you believe the federal highway administration exerts hilariously little influence or 'control over' municipal streets departments, relative to what all parties might sometimes allow you to mis-apprehend? 
 - [City of Denver's utterly banal guidelines to itself about it's uncarred drivers](https://www.denvergov.org/files/assets/public/v/2/doti/documents/standards/doties-015.2-uncontrolled_pedestrian_crossing_guidelines.pdf) how to 'legalize vehicular manslaughter' for as little as $2000: "Section 42-4-803. Crossing at other than crosswalks: (1)....Every pedestrian crossing a roadway at any point other than within a marked crosswalk or within an unmarked crosswalk at an intersection shall yield the right-of-way to all vehicles upon the roadway."
+- [Why I Break the Law Every Day (the story of 'jaywalking'), by Mr. Beat](https://www.youtube.com/watch?v=3zkk3IfWFis&t=468s)
+- [Killed by a Traffic Engineer: Shattering the Delusion that Science Underlies our Transportation System](https://www.goodreads.com/book/show/201978334-killed-by-a-traffic-engineer)
 
 ------------------ 
 
-It's de-dignifying if I keep adding sources as if to "prove" my case. I'm simply noting that the regime of propaganda around 'jaywalking' is strong. Did you know that the most likely place to die on a road, as a carless driver, is _crossing the road in an intersection_, _while the signal is instructing you to go_?
+It's de-dignifying if I keep adding sources as if to "prove" my case. I'm simply noting that the regime of propaganda around 'jaywalking' is strong. 
+
+Did you know that the most likely place to die on a road, as a carless driver, is _crossing the road in an intersection_, _while the signal is instructing you to go_?
 
 Here's a good-enough explanation of the concept:
 

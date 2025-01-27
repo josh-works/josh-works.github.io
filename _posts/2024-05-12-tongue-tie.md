@@ -152,6 +152,7 @@ I now know in a way that is clearest once the 'strings have been cut' that I car
 
 If my sleep is compromised, I'm getting less restored, and if I'm less restored, things seem incrementally harder and more dim, rinse and repeat. 
 
+
 I could say more but this was written in a single session, _and_ i lost a bunch of what I'd had due to minor computer errors. I'm a [write-it-now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) kind of person.
 
 I've gone all the way around with [depression]({{ site.baseurl  }}{% link _posts/2021-07-28-depression.md %}), need to do an update to that post, but would posit that an emotional state and inner physical tension can have a relationship. I prefer the version of my body post-tongue-tie-release than pre.

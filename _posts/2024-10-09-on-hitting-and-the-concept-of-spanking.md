@@ -1,24 +1,85 @@
 ---
 layout: post
-title: On Hitting Smaller People or "Spanking"
+title: On Hitting Small People or, addressing the thing sometimes called "Spanking"
 published: false
 description: "In which I clearly state a frame on the concept some call 'spanking', as it exists within evangelicalism and elsewhere. All reasonable people are fully opposed to the concept."
 date:  2024-10-09 06:00:00 -0700
 categories: [evangelicalism]
-tags: [parenting, abuse, evangelicalism, jesus_christ]
+tags: [parenting, abuse, evangelicalism, jesus_christ, 'spanking']
 permalink: /hitting
 issue_id: 90
 ---
+
+this has been hard for me to write, has been sitting in one draft form or another for months. It gets ranty, at times, I suggest you skim.
+
+If you have ever hit your children and then told them they deserved it, _i feel contempt for you_ and it's hard for me to contain that, so I'm not gonna try. I feel more an obligation to your kids, the victims of your assaults, than I feel any obligation to be gentle to your ego. As my parents told me, "there were books [written by eugenicists]
+
+I'll get the hard parts out on the table up front. Free-associating through some of the interconnected issues:
+
+1. Within evangelicalism, the concept of "parents spanking children" is held up as one of the core tenants of participation with evangelicalism. Indeed, if a parent does NOT beat their child, or threaten their child with physical and sexual assault, some others in the group will shame that parent. (to those people:🖕)
+2. "spanking" is a dogwhistle term for adults, usually parents, physically assaulting their own children for instances of the child _displaying a will_. If a child says "no" to a parent, that is considered grounds for physical and sexual assault.
+3. Spanking is CHILD SEXUAL ASSAULT. [^strong-language]
+
+[^strong-language]: it's uncomfortable to even say this, because of how strongly some people I'm thinking would receive this. Me saying "Spanking is child sexual assault." is correctly heard as me saying "I asses _you_ as sexually assaulting your own child every time you spank(ed) them". To hear them try to weasle out. "oh, it was just a few swats on the butt", or "we only spanked you sometimes" or "we stopped spanking you once you grew up to a certain age". (Obviusly you stopped physically assaulting me as I aged. If you did it as an adult, when I could have defended myself, you might get got, and that wouldn't work so well, huh?) Evangelicals are brave about physical assault of children, but are less comfortable with the idea of assaulting someone who can defend themselves. I keep saying 'the morality of this situation is crystal clear if anyone else gets switched into these positions". 
+
+
+
+4. I do not even pretend to evaluate as safe the kinds of people that think spanking "their" kids is fine, I view this attitude as deeply problematic. My main hope is that your kids survive you, as a caretaker. 
+5. Not only is physically assaulting a child abuse, but acting like 'punishment' is a valid thing that an adult can appropriately do to a child or another adult is _inherently abusive_. 
+
+this is all hard for me, as it puts me on the wrong side of a lot of people. My immediate family all is full of physically abusive people. The family I was married into, ditto. Same with the extended family I was born into. And because all these people also believe that _punishment_ is valid, the emotional distance grows all the more. 
+
+So, I'm going to take a few turns at shitting on evangelicalism, because it deserves it, and it's mountain of victims deserve it, AND I'm going to shit on american-ness, and "The West", because all of these concepts hinge on the concept of 'obedience', and that if someone doesn't 'obey', they 'should' be 'punished'. [^ethnic-cleansing]
+
+[^ethnic-cleansing]: most society-wide regimes of punishment are 'just' to accomplish regimes of social control and ethnic cleansing. European American supremacists showed up on Turtle Island in the 1600s and used the printing press + mass delusions of 'political authority' to justify their regimes of military violence, economic violence, against literally every people group existing in Turtle Island when they got there. They of course also enslaved populations of people from Africa, and needed a bunch more 'laws' to justify the enslavement regimes. The first american police departments were created by giving badges to the _existing slave patrols_
+
+This language is all minimizing what really happens, which is:
+
+> If you do something I don't like, I or someone acting on my behalf will hurt you, torture you, coerce you into doing whatever it is I wanted you to do. And I'll say it's an expression of love. 
+
+Critically, _there are alternatives to punishment_ and your only hope of existing non-abusively with children in your life is if you _and they_ know that you do not see "punishment" as part of your problem solving toolkit. 
+
+I continue to be unsure how to channel my own anger over this. I am _livid_ at Miriam and Donald Thompson, the people who contributed to my physical and emotional existance, for many reasons, and I have no intent or desire of ever 'forgiving' them. They both physically, sexually, emotionally abused and neglected me, and had abundent opportunities to do better, or differently, at any moment in their lives.
+
+Not only could they have refrained from beating me as, like, a three year old, but they displayed courdice and head-in-the-sand isolation, when I brought these issues up, they alternated between ignoring me, or saying _I_ was the problem, and then we've currently settled on them blocking me in whatsapp. 
+
+I'll possibly still email them a link to this blog post. I told them both, basically, "You deserve the peace that you think an abuser of children deserves." and "I'm honoring both of you by using the abundant experiences you've both provided to me, then and now, to warn others of some things."
+
+It seems worth mentioning that the level of emotional dissociation required to beat someone else into submission is profound, and correlates with an overall inability to ever form an emotional connection. I never-not-once had a good-enough relationship with my parents. my dad left the house when I was 16, and he and I never voluntarily spoke again. My mom was mad at me that the day before I went to college I was spending time with my girlfriend ("pre-marital sex, oh no!!!!") and we basically never again had a close conversation. As I play back the last 35 years of our experience, I can tell clearly that they resented me, had contempt for me, from literally my third birthday, until now. Nothing I said or did ever impacted them, they viewed me as 'a strong willed child' (more on that later) and thus viewed my will as something to be broken, and when I kept my sense of self, despite their abuse, every evidence of my distinctiveness, my willfulness, confirmed in their mind that I was "rebellious". 
+
+🙄. 
+
+I despise them, because there were so many times I wanted a hug, kindness, healthy maternal or paternal energies, and they shat the bed. Over and over and over. But part of the harm is that as a kid, I _knew_ what sort of attitudes were supposed to exist between parents and kids, so I kept trying to pretend we had a real relationship. Once I became an adult, it eventually became screamingly obvious no relationship existed, and I would never be friends with people like them. I wish I could prevent my own child from ever meeting them, but alas, her mother is still part of the family system, so they get to meet eden.
+
+They got _extremely_ offended, when I told them:
+
+> Please confirm to me that you will never hit Eden, or make jokes about hitting children in her presence. 
+
+To make a point about the association between discipline and punishment and rules, I said "if I find that you ever hit her, after having heard this unambiguous statement to the contrary, I will arrange a meeting between us, and I will 'give' you a spanking, for your disobedience."
+
+I think they correctly heard the obvious threat, but rather than saying "hm, I can see why spanking energy is indeed unhealthy" they blocked me on whatsapp. I don't think they'll ever try to hit Eden, and if they did, the psychological damage to her would be much less than it would be to me.
+
+My mom hit me many times, always saying "this is because you disobeyed me, and thus God, and the wages of sin is death, so be thankful i'm only causing you a little death, instead of a big death". 
+
+Eden knows:
+
+> Anyone who loves someone else would never hit them, and if an adult ever hits a child, they certainly do not love that child, probably never did, and are possibly incapable of experiencing real love.
+
+So, she knows I view my father as dangerous, and that he hits kids, and has sexually assaulted children in the past, and then lies to kids about why he does it. She knows it's insanely hurtful to be willingly tortured by someone else, so if for whatever reason one of my parents or anyone else decided to assault her, she could experience it as simple assault, and not as a perverted expression of love. 
+
+All the way up until I was at least 31 or 32, I would have said I thought my parents loved me, even though I also knew hitting children was wildly inappropriate. I was willing to 'give them a pass', just because I wanted to believe I had a family. Oops. 
 
 ## A quick map of what I want to cover
 
 it's easy for me to end up on tangents, but also I want to explain things well-enough. I suspect this particular post will end up turning into several posts.
 
-Here's what I want to make sure I touch on:
-
+Here's what I want to make sure I touch on, unordered
+- [ ] reframing 'christ suffering for sins' to 'self-justifying intellectual dressings for the nobility of feudal europe, which is when it was invented'. (Anselm of Canterbury "invented" the modern motive/meme of 'substitutionary/satisfaction atonement', which is the pivot around which all of evangelicalism turns)
+- [ ] I no longer view the concept of 'sin' as having any validity. No more so than 'spanking'. 
 - [ ] demonstrate a coherent reframe of "suffering", transforming it from "something maybe good" to "something certainly bad and simply to be avoided"
-- [ ] a reframe of "Jesus significance was in His death" (what evangelicals say is the central tenant of evangelicalism) to "_if_ he mattered at all, it was because of what he did and said, so lets talk about that"
-- [ ] reframing 'christ suffering for the sins of people' to 'self-justifying intellectual dressings for the nobility of feudal europe, which is when it was invented'. (Anselm of Canterbury "invented" the modern motive/meme of 'substitutionary atonement', which is the pivot around which all of evangelicalism turns)
+- [ ] demonstrate that the motif of "suffering is good" is how parents dissociate from the painful experiences they are causing, directly, to their children.
+- [ ] a reframe of "Jesus significance was in His death" (what evangelicals say is the central tenant of evangelicalism) to "_if_ he mattered at all, it was because of what he did and said, OBVIOUSLY. (Yes, I am accusing Christians of having absolutely nothing to do with the teachings of Jesus Christ)
+
 
 Lastly, I write in the spirit of [write things now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) (rather than, for instance, never). I'll also be giving a nod to the concept of 'frame control'. _todo, write https://josh.works/frame-control, which is what evangelicals/protestants do when they discuss things like 'spanking'_. 
 
@@ -63,7 +124,6 @@ In the year of 2024, I've talked with people who have built into their sense of 
 - part 3: so, you were physically assulted repeatedly by people who then claimed it was love. What to do?
 - part 4: So, you physically assaulted small people in your care, and further assaulted them by claiming that it was loving, they should be thankful, and you see this as problemeatic. what to do?
 
-<<<<<<< Updated upstream
 Might tie in themes of supremacy. I use 'supremacy', 'entitlement/obligation', 'abuse', and 'emotional immaturity + exploitable power dynamic' throughout. 
 
 I've recently been engaging with people who have built into their sense of self the "rightness" of adults hitting children, while at the same time (theoretically) rejecting the possible rightness of children hitting adults. 
@@ -169,17 +229,11 @@ I still couldn't place it. I noticed having a confidence that my parents hated m
 For some context setting, my parents read and embodied the ideologies of a man (of course) named James Dobson, who was a eugenicist, and taught that parents, if they suitably controlled the behaviors and thoughts of their children, could 'raise' them to be good members of a civil society, defined as "participating in european american settler colonialism with a certain ideological bent."
 
 Settler colonialists use ethnic cleansing as a primary tool for accomplishing their goals, because it works well ,_obviously_. 
-=======
-For some context setting, my parents read and embodied the ideologies of a man (of course) named James Dobson, who was a eugenicist, and taught that parents, if they suitably controlled the behaviors and thoughts of their children, could 'raise' them to be good members of a civil society. (European-american settler colonialism, slaveholder culture, murdering-indigenous-peoples culture). 
-
-Settler colonialists use ethnic cleansing as a primary tool for accomplishing their goals, because it works pretty well for them.
->>>>>>> Stashed changes
 
 So, the kinds of people that would support population confinement and displacement and genocide, on the concept of 'race', make for interesting parents. Settler colonialists use violence and coercion to get what they want. Violence is expensive and risky, so sometimes other, 'gentler' forms of coercion can be made effective. Economic coercion, for instance, might seem gentler than knocking someone's house over with a bulldozer, but it's all on the same spectrum.
 
 The bulldozer shows up only if the other methods are deemed to have failed. Abusers say they _usually_ don't have to assault their children, but it is still all full of violence because they and their kids know that if certain compliance isn't had, the violence emerges. 
 
-<<<<<<< Updated upstream
 This is the core, fundamental dangerous attitude of all people who concede the correctness of the concept of 'spanking'. It's an extension of the concepts of 'punishment' and 'discipline'. 
 
 _Both_ of my parents, when I've recently pressed them on them openly using physical violence on their children, said "i tried other methods and they were not working, so I did what I had to do."
@@ -188,17 +242,6 @@ I suggested to them:
 
 > If I told you you disobeyed me, and then dragged you somewhere else, forced you into a bent-over position, RIPPED YOUR PANTS DOWN, and then hit you repeatedly, I would be correctly charged with sexual assault. If I didn't rip your pants off first but simply hit your butt repeatedly, that would _simply_ be assault. Can you tell that it certainly wouldn't be _loving_?
 
-=======
-This is the core, fundamental dangerous attitude of all people who concede the correctness of the concept of 'spanking', and it is visible in how they approve of the concept of 'punishment' or 'discipline'. 
-
-_Both_ of my parents, when I've recently pressed them on them openly using physical violence on their children, said "i tried other methods on you when you were young, they didn't work, so we _had_ to keep turning up the pressure, until we got what we wanted after physically, emotionally, and sexually assaulting you".
-
-I suggested to them:
-
-> If I told you you disobeyed me, and then dragged you somewhere else, forced you into a bent-over position, RIPPED YOUR PANTS DOWN, and then hit you repeatedly, I would be correctly charged with sexual assault. If I didn't rip your pants off first, and still hit your behind repeatedly, that would _simply_ be sexual assault. Can you tell that it certainly wouldn't be _loving_? Would it feel loving if I used a stick instead of my hands, and tried to use a calm voice instead of displaying anger?"
-
-The man who considers himself my father likes telling stories about beating children. I had to contact him recently to make sure that the next time he found himself my child's presence, he refrained from making those jokes or threats, and I wanted him to know that if he took it upon himself to 'spank' my child, I would view it as him physically, emotionally, and sexually assaulting her, and would respond as such.
->>>>>>> Stashed changes
 
 His response wasn't "I would never assault a child", it was "oh, God says it is PARENTS who are supposed to beat children, not grandparents, so rest assured i wont hit her, because that is _your_ job, to hit her."
 
@@ -399,11 +442,13 @@ So, I fundamentally _vomit from my mouth_ the concept of sin. If you're coming a
 ## Additional Reading/Resources
 
 - [The Politics of Jesus](https://josh.works/the-politics-of-jesus-notes-quotes) If you want to keep the person of Jesus central in your life, _and_ you want to move away from european american supremacy, the ideas in this book are a good place to start. If, along the way, you end up also dropping the person of Jesus from your life as a central organizing principle, this book is _still_ a good place to start.
-- [The Origins of Pro-Slavery Christianity](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity#) This book points to the origins of 'paternalism', which is the underlying intellectual support for the sense of 'duty' some adults feel around hitting children, and the obligation they think their kids have to receive their physical abuse without protest. It started as the 'duty' masters had towards their slaves to be 'good masters', and the obligation they felt their slaves had towards them to be 'good slaves'. [here's some highlights from the book]()
+- [The Origins of Pro-Slavery Christianity](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity#) This book points to the origins of 'paternalism', which is the underlying intellectual support for the sense of 'duty' some adults feel around hitting children, and the obligation they think their kids have to receive their physical abuse without protest. It started as the 'duty' masters had towards their slaves to be 'good masters', and the obligation they felt their slaves had towards them to be 'good slaves'. [here's some of my highlights from the book](https://www.goodreads.com/notes/8236315-the-origins-of-proslavery-christianity/27372191-josh-thompson?ref=abp)
 - [They Were Her Property: White Women as Slave Owners in the American South](https://www.goodreads.com/book/show/43803602-they-were-her-property) This book is relevant to the concept of 'discipline', because it's _full_ of accounts of white female slaveowners 'disciplining' the slaves around them, or showing shocking degrees of entitlement to the very personhood of someone else. That these people _wouldn't_ beat and abuse their own children defies reason. [here's some highlights of mine](https://www.goodreads.com/book/show/43803602-they-were-her-property)
 - [taking children seriously](https://takingchildrenseriously.com/)
-- [legal systems very different than ours]()
-- []()
+- [legal systems very different than ours](https://www.amazon.com/gp/aw/d/1793386722?ie=UTF8&qid=1631421225&sr=8-1), that link is the book, [this link](http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm) is the book online, shared on the author's website. [^pirate-law] 
+
+[^pirate-law]: the "Pirate Law" chapter in particular is exceptional. Go to [the author's website](http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm) to download each chapter at a time as a docx, or the whole book. Often when rule-enforces justify their coercion, they might say "I have no other option but...". In reading this book, one's imagination for problem:solution relationships might be increased, after reading about legal systems far beyond what is normalized within the USA. my stance on violence is that not only is it inherently abusive, it's also unbelievably lacking in imagination, compared to creation
+
 
 
 
