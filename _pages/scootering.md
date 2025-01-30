@@ -6,11 +6,13 @@ description: "Let us discuss a convivial vehicle"
 permalink: /scootering
 ---
 
-_this page is still in a bit of a draft mode_
+_this page is still in a bit of a draft mode._
 
 I pursue ease, joy, and meaningfulness. Sometimes successfully.
 
 some of this ease, joy, for me comes from being able to effortlessly move around the city I live in, parking literally whereever I want, always very close to my destination. I ride something a bit bigger than a bicycle, that is fairly fast, and powered by something other than my own legs, that is not a motorcycle.
+
+![scooters in denver](/images/scooters_at_rino.jpeg)
 
 It's a scooter, and you deserve to be warned that I'm going to low-key try to comvince you that it's reasonable to buy yourself a scooter. 
 
@@ -27,8 +29,6 @@ But this can all be navigated safely, and the bump in mobility one gets by havin
 Alternatively, if you're already scooter-curious, or you already ride a bike around the city, I think you've got the skills and the disposition to go make it happen, and I'll try to help you down that path, too.
 
 One of my favorite things about using a scooter in the USA, especially in cities, is how they can be parked anywhere, and in large numbers. If me and a few friends are meeting up for something, parking is virtually effortless, even in places otherwise full of cars:
-
-![scooters in denver](/images/scooters_at_rino.jpeg)
 
 click the links or previews to see some footage I took of myself while riding my scooter around Denver. 
 
