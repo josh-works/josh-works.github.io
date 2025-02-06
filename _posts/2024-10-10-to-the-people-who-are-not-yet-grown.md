@@ -26,7 +26,9 @@ Some folks call this the 'industrial' age, or the 'modern' age, or the 'informat
 
 I've been thinking it's better called the Authority age. It's shocking, how heavily some parts of the world you and I live in (like America) is OBSESSED with authority. 
 
-Your parents likely believe in authority more than anything else in their lives. They think _other_ people "have authority" over them, and thus it's right for them to "have authority" over you. You, of course, don't get authority over anything. (Did you know some people consider children to be the most oppressed class?) (I just finished reading "Spare the Child" by Philip Greven, it's a horrible description of the world many of my peers and their parents grew up in. Over and over again in the book is made clear these people's obsession with "authority".)
+Your parents likely believe in authority more than anything else in their lives. They think _other_ people "have authority" over them, and thus it's right for them to "have authority" over you. You, of course, don't get authority over anything. (Did you know some people consider children to be the most oppressed class?)
+
+(I just finished reading "Spare the Child" by Philip Greven, it's a horrible description of the world many of my peers and their parents grew up in. Over and over again in the book is made clear these people's obsession with "authority".)
 
 It's impossible to grow into a healthy person inside of a confining container, and the authority obsession your parents have will have crushed a portion of your soul, your sense of self, your confidence in your own perceptions and experiences. 
 
