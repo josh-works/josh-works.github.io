@@ -444,52 +444,91 @@ The real concern is that the honor of the patriarch has been offended, because t
 
 'retributive justice' (revengeful violence) is propaganda justifying all sorts of the worst parts of human behavior. It underpins war, colonialism, ethnic cleansing, child abuse. 
 
-Yes, I am condemning the settler colonialist regime of social control some call 'the american criminal justice system'. For all the money wasted on that system, everyone could be housed and fed and given safety and security _without coercion_. Even the people who find themselves working the system as the oppressor. (Yes, I propose housing, food, dignity, even to the people currently complicit in perpetuating the evils of that system. even deputized slave patrollers ('police') deserve shelter and food, because they are sentient.)
+Yes, I am condemning the violent regime of social control some call 'the criminal justice system of the greater united states'. 
+
+For all the money <strike>wasted</strike> spent by supremacists on that system, everyone could be housed and fed and given safety and security _without coercion_. Even the people who find themselves working the system as the oppressor. Yes, I propose housing, food, dignity, even to the people currently complicit in perpetuating the evils of that system. even deputized slave patrollers/police deserve shelter and food, because they are sentient.
 
 ## Common objections
 
 > But Josh, if I don't keep my children afraid of me with threats of violence, how will I force them to...
 
-Stop. I won't dedignify myself by considering you to be an advocate for your own children if you presume your chief role in their life is to bully and abuse them. I hope your children, for their own good, realize that they might not be under your control their entire life and they might someday be able to save themselves from you.
+🤫 
+
+I won't dedignify myself by considering you to be an advocate for your own children if you presume your chief role in their life is to bully and abuse them. I hope your children, for their own good, realize that they might not be under your control their entire life and they might someday be able to save themselves from you.
 
 > But Josh, it would be dangerous for my child to run into the road and get killed by a car, how will I prevent them from doing so without assaulting them?
 
-Great question. Do you feel a sense of curiosity about how this thing could be accomplished without violence, and without threatened her with anything? 
+Great question. Do you feel a sense of curiosity about how this thing could be accomplished without violence, and without threatening anyone with anything? I'll take it seriously, because roads occupy some special place in my heart, and evangelicals use the threat of vehicular homicide to justify all sorts of control of their kids.
 
-In America, traffic violence is accepted by many levels of society. I keep my kid safe in the road without ever blaming her for the potential violence she might experience. I tell her "in this country, most people drive very dangerously and would murder you without hesitation.". The greatest source of fear I feel for her is that in this abomination of a country, 40,000 people die every year on roads, and globablly, it's like 1.2 million people die. She is intimidated by roads, as I am also intimidated by roads. 
+First, kids deserve far more access to safe roads than they've ever had in the USA. 
+
+![crossing the street](images/crossing_street.jpeg)
+
+In America, traffic violence is accepted by many levels of society, and children experience it from their first moments of life. Everything about the existance of a child is wrapped up in layers and layers of american car-centric supremacy. 
+
+Car seats, being stuck in car seats, at least in america. Lots of constraints around roads are experienced by children in the 96% of the world beyond the boarders of the USA, but the USA has a particularly special level of vehicular oppression. Constantly hearing cars. Seeing the cars with horrible sightlines and visibility, knowing the drivers of the vehicle cannot see the kid. Seeing light glinting and reflecting off cars, the movement of them attracting the eye. The smell of them. So much of the world being 'parking aprons' and parking spaces and parking lots and roads or walking between a parking space and the door of a building. walking in front of or behind a parking space. Being able to see almost nothing from inside a car seat. Motion sickness, even if the driver is good, but especially if the driver is jerky with the steering wheel or rushed/panicked on the gas and brake. 
+
+Being threatened with death every time a car is simply pointed at you, because very little space in America is [properly protected by bollards (josh.works)]({{ site.baseurl  }}{% link _posts/2024-04-30-bollards.md %}).
+
+I've [formally registered my objections with the concept of jaywalking]({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %}), I extend this to kids, obviously. Kids, and the duty of play/playing, ought to have been preserved within American culture. Unfortunately the needs of kids and the needs of houseless people overlap too much, so spaces conducive to kids being kids have been eliminiated. 
+
+Shade in the summer, sun in the winter, comfort, quiet, water, a bathroom, a spot to lie down for a few minutes or a few hours, grass, trees, a place to sit, running water, a structure to climb on. A pile of rocks, a slide, a piece of art, a tree, a swing, some mulch and dirt.
+
+By telling kids _what they deserve_, and sharing in the disappointment of the world they're in with them, completely, makes a solid foundation for working with them to maximize their options in the dangerous world they live in. 
+
+I keep my kid safe in the road without ever blaming her for the potential violence she might experience. I tell her 
+
+> in this country, most people drive very dangerously and would murder you without hesitation, though they would probably feel bad about it.
+
+The greatest source of fear I feel for her is that in this abomination of a country, 40,000 people die every year on roads, and globablly, it's like 1.2 million people that die, per year. This is wild! The USA went to a 20-year war over the death of 3000 people _once_. Since that date, around _one million people in america_ have died on american roads from entirely preventable accidents. 
+
+It's not that 'individual drivers are bad' it's that:
+
+> building a road network entirely around supremacist ideals hurts the people they intended to hurt _and_ people they did not intend to hurt, and literally all hope of progress is constrained by those people who accidentally or intentionally support those supremacists.
+
+So, most of you that want to talk about roads and punishment with kids are, to me, not ready to have a real discussion about it, but I think the kid's intuition is correct, and you could/should use your adult skills to help the roads be safer to them. 
+
+So, she is intimidated by roads, as I am also intimidated by roads. When riding her bike around, she always stops well short of intersections, waits for me to catch up, lets me pass into the intersection slightly ahead of her, once it's deemed safe (we often work together on the timing piece) and then she crosses it quickly, finishing the intersection before I do. At least on most american roads - when the streets are quiet and safe, she'll enjoy using them the same as anyone else does. 
+
+Another thought-stopping cliché you might hear offered about punishment or hitting kids relates to the kid reaching for something that will hurt them. All outlets could/should have covers, so there's no issue with them exploring their favorite past-time, 'putting things in other things', right?
 
 My dad, when I pressed him on assaulting me as a child, used the classic evasion "if the stove is hot and can hurt a child, who reaches for the stove, to keep them safe, I would have to punish them for reaching for a stove". 
 
-This is the cry of a person who has no imagination. If I want to teach Eden about heat, I give her things to put in the frying pan to see how heat works. I help her hold her hand near it to test for how hot it is. I see if I can touch it for a split second to feel the heat, and let her do the same. I scaffold her skills so she can learn to accomplish whatever it is she wants, with the skills to do so safely.
+This is the cry of a person who has no imagination. When there's things Eden might learn regarding heat, I give her things to put in the frying pan to see how heat works. She's watched me cook many times, seems to perfectly understand heat. I might help her hold her hand near a pan to test for how hot it is. 
+
+I might see if I can touch it for a split second to feel if it's hot, and let her do the same. I scaffold her skills so she can learn to accomplish whatever it is she wants, with the skills and awarenesses to do so safely. 
 
 It's ludicrously easy to navigate the world with a child without violence. It boggles my mind how invested parents are in reigning down violence and terror on their kids. I also happen to remember clearly how it felt to be terrorized by my parents, and the many ways I rejected every aspect of their need for control over me, and continue to reject every authority that meets me with an energy of "I believe I am entitled to coerce you, and you're obligated to obey me". 
+
+I've always helped kids defend themselves against this kind of energy, because it's so familiar to me, and I've found in virtually all situations the kids respond reasonably, kindly, and treat _me_ with dignity.
 
 If you want to get along with your kids, read and internalize some messages about the fantasy of authority, then share these with your kids:
 
 - [The Most Dangerous Superstition](https://www.goodreads.com/book/show/10836816-the-most-dangerous-superstition)
 - [The Problem of Political Authority: An Examination of the Right to Coerce and the Obligation To Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority?from_search=true&from_srp=true&qid=DrpkRVYchM&rank=1)
 - [The Verbally Abusive Relationship: How to Recognize it and How to Respond](https://www.goodreads.com/book/show/402366.The_Verbally_Abusive_Relationship?ref=nav_sb_ss_1_20)
+- [Legal Systems Very Different from Ours](https://www.amazon.com/gp/aw/d/1793386722?ie=UTF8&qid=1631421225&sr=8-1)
 
 > gee, josh, I'm not interested or willing to read books that might help me not abuse my child, or help me stand as an advocate for other children who are being abused by adults.
 
-get the fuck off my website then. Close the tab. Never come back.
+Ah. I see that you do not want to read these books. 
 
-It's difficult to express the contempt I feel for this kind of thinking. Read the book(s), or at least recognize that your resistance to reading the books is rooted in the same part of your soul that wants to abuse children. You could reject that part of you, even as you extend a gracious acceptence to the rest of the parts of you that do not want to abuse children. 
+I'm not a fan of this kind of thinking. I propose that you embrace the resistance, and then read the book(s) anyway, or at least recognize that your resistance might be rooted in _something_. It is possible that as you free your children from the shackles of your condemnation and control, you will do a little of the same for yourself. It _might_ be worth it.  
 
-If you are your own child's first abuser, and habituate them to think it is love, you are crippling them, destroying their ability to navigate the world safely, because abusive people and institutions abound, hungry for more bodies to consume. 
+If you are your own child's first abuser, and habituate them to think it is love, you are crippling them, destroying their ability to navigate the world and themselves safely, because abusive people and institutions abound, hungry for more bodies to consume. 
 
 Which kid do you think will be safer around other kids and adults?
 
-1. The child who is occasionally humiliated and assaulted by a parent hitting them, who then tells them it is an act of love?
-2. The child who is told, in complete seriousness and confidence: "It is never acceptable for an adult to hit you, ever, and if anyone tries to do this to you, I hope you can evade, escape, or resist, and if you are able to communicate it to me, I'll expend substantial resources to protect you from that person."
+1. The child who is occasionally humiliated and assaulted by a parent hitting them, who then tells them it is an act of love
+2. The child who is told, with complete seriousness: "It is never acceptable for an adult to hit you, ever, and if anyone tries to do this to you, I hope you can evade, escape, or resist, and if you are able to communicate it to me, I'll expend substantial resources to protect you from that person."
 
 And an adult who no longer hits the kid, but still controls and coerces them with emotional and verbal assaults, is only slightly better, maybe, than one who hits children. An adult who coerces and threatens a child is fundamentally unsafe. An adult who coerces and threatens another adult is fundamentally unsafe. 
 
 To the kids of parents who assaulted them: 
 
-Good god, how distressing it is to have been terrorized by someone who then also convinced you that they loved you. It really causes the brain to break, and the psyche to attack itself (in some ways) and to dissociate from reality (in some ways) and to project/displace shame and anger towards oneself or others. 
+How distressing it is to be terrorized by someone who then also convinces you that they loved you. It really causes the brain to break, and the psyche to attack itself (in some ways) and to dissociate from reality (in some ways) and to project/displace shame and anger towards oneself or others. 
 
-It's virtually guaranteed you have something like "Complex Post Traumatic Stress Disorder". Please do not waste your time reading _The Body Keeps the Score_, instead read Pete Walker's books [Complex PTSD: From Surviving to Thriving](https://www.goodreads.com/book/show/20556323-complex-ptsd) and [The Tao of Fully Feeling](https://www.goodreads.com/en/book/show/1136530.The_Tao_of_Fully_Feeling)
+It's virtually guaranteed you have something like "Complex Post Traumatic Stress Disorder". Please do not waste your time reading _The Body Keeps the Score_, instead read Pete Walker's books [Complex PTSD: From Surviving to Thriving](https://www.goodreads.com/book/show/20556323-complex-ptsd) and [The Tao of Fully Feeling](https://www.goodreads.com/en/book/show/1136530.The_Tao_of_Fully_Feeling).
 
 
 
@@ -497,25 +536,31 @@ It's virtually guaranteed you have something like "Complex Post Traumatic Stress
 
 Parents who believe children exist to serve their ego and obey them issue admonitions to children nearly continuously. The entire tone of the relationship is dominated by the parental willingness to inflict violence. The parent is unable to "see" the child. 
 
-I will never beat eden, because I don't view our relationship as one where I am entitled to control her behavior. I seek her wellness, and thriving, eagerly, and view myself as someone who can help her accomplish and do whatever she wants to accomplish and do, because I have different skills and capacities than she does. 
+So, one thing that gets unlocked:
 
-She communicates with me in a straightforward, reasonable way, because she hasn't had to learn the art of manipulating adults to try to get love and kindness from them. 
+_silence_. Sometimes there is profound and extensive silence. If something is needed or noteworthy, parent or child will mention it. Otherwise, harmony, everyone is involved in their own thing. 
 
-When things _have_ to happen, that she doesn't like, it's justifiably upsetting, and I ride through the grief with her. Tons of things happen all the time that are bad, that negatively affect us. 
+_interesting conversation_. We have interesting conversations, regularly enough. Very reciprocal, back-and-forth. 
 
-There's genocide happening in the world, there are dangerous streets and loud engines and a coercive school system's demands to comply and limitations and lack of resources. All of these things are worth railing against. 
+_curiosity_. I express curiosity towards her, as a default, and especially when there is upset or pain. there's never rejection of an emotion or sentiment. For instance, coercion cannot abide "no" or "don't do that". So, coercion cannot abide the anger that arises after that initial boundary violation. Since we have no coercion, there's no need to suppress any emotions, it's easy to greet all feelings warmly, and because there is no coercion, there's a high baseline of peace and easy, confident expectation of problem-solving anything that arises.
+
+one of the reasons I will never beat eden is I don't view our relationship as one where I am entitled to control her behavior. 
+
+I seek her wellness, and thriving, easily, and view myself as someone who can help her accomplish and do whatever she wants to accomplish and do, because I have different skills and capacities than she does, but at no point am I entitled to simply control her simply because.
+
+There's genocide happening in the world, there are dangerous streets and loud engines and a coercive school system's demands to comply, and there are limitations on schedules and people's availability and it certainly seems like money is not infinite. All of these things are worth railing against. 
+
+When she says "I want {x}" I usually respond, truthfully, with something like "I think you have great taste. That sounds like it could be excellent." and if it's something we can do, we do it. Otherwise, it goes into a 'that sounds nice and maybe we can do that/you can have that some day' bucket. 
+
+Why punish kids for having good taste and liking to configure the world to their liking? 
 
 I will never see intentionally terrorizing her as a 'useful tool' to coercively extract compliance from her. 
 
-Would you believe that we have an extremely peaceful way of being, and interactwith mutuality, consideration? 
+Would you believe that we have an extremely peaceful way of being, and interact with mutuality, consideration? 
 
-I am considerate towards her, and she is very considerate to me. In ways that my parents would never be able to witness or appreciate, because they so willingly polute the intimate space of a relationship with coercion and violence. 
+I am considerate towards her, and she is considerate to me. There's obvious regard for each other in ways that people like my parents would never be able to appreciate, and I don't think they would be able to even see it, really, even if they witnessed it, because they so willingly polute the intimate space of a relationship with coercion and violence. 
 
 no problem solving is achievable if one of the parties knows the other one will hurt them if they become suitably displeased. 
-
-This is abuse. 
-
---------------------------
 
 ## Oops, I've "spanked" (abused) a child of mine in the past
 
@@ -606,10 +651,12 @@ All of these count as parenting books, loosely. I find most parenting-specific b
 
 - [taking children seriously](https://takingchildrenseriously.com/)
 - [legal systems very different than ours](https://www.amazon.com/gp/aw/d/1793386722?ie=UTF8&qid=1631421225&sr=8-1), that link is the book, [this link](http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm) is the book online, shared on the author's website. [^pirate-law] 
-- [The Politics of Jesus](https://josh.works/the-politics-of-jesus-notes-quotes) If you want to keep the person of Jesus central in your life, _and_ you want to move away from european american supremacy, the ideas in this book are a good place to start. If, along the way, you end up also dropping the person of Jesus from your life as a central organizing principle, this book is _still_ a good place to start.
-- [The Origins of Pro-Slavery Christianity](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity#) This book points to the origins of 'paternalism', which is the underlying intellectual support for the sense of 'duty' some adults feel around hitting children, and the obligation they think their kids have to receive their physical abuse without protest. It started as the 'duty' masters had towards their slaves to be 'good masters', and the obligation they felt their slaves had towards them to be 'good slaves'. [here's some of my highlights from the book](https://www.goodreads.com/notes/8236315-the-origins-of-proslavery-christianity/27372191-josh-thompson?ref=abp)
-- [They Were Her Property: White Women as Slave Owners in the American South](https://www.goodreads.com/book/show/43803602-they-were-her-property) This book is relevant to the concept of 'discipline', because it's _full_ of accounts of white female slaveowners 'disciplining' the slaves around them, or showing shocking degrees of entitlement to the very personhood of someone else. That these people _wouldn't_ beat and abuse their own children defies reason. [here's some highlights of mine](https://www.goodreads.com/book/show/43803602-they-were-her-property)
-- [The Secret Of Our Success, Joseph Henrich](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success). An amazing book. Here's [a really nice book review](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/). Not technically a 'parenting book', but tons of useful mental models for the transmission of skills, 'skills/knowledge toolkits' and more.
+- [The Politics of Jesus (josh.works)](https://josh.works/the-politics-of-jesus-notes-quotes) If you want to keep the person of Jesus central in your life, _and_ you want to move away from european american supremacy, the ideas in this book are a good place to start. If, along the way, you end up also dropping the person of Jesus from your life as a central organizing principle, this book is _still_ a good place to start. Here's something else I wrote about this book: [Was Jesus' ethic normative? (josh.works)]({{ site.baseurl  }}{% link _pages/was-jesus-ethics-normative.md %})
+- [The Origins of Pro-Slavery Christianity (goodreads.com)](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity#) This book points to the origins of 'paternalism', which is the underlying intellectual support for the sense of 'duty' some adults feel around hitting children, and the obligation they think their kids have to receive their physical abuse without protest. It started as the 'duty' masters had towards their slaves to be 'good masters', and the obligation they felt their slaves had towards them to be 'good slaves'. [here's some of my highlights from the book (goodreads.com)](https://www.goodreads.com/notes/8236315-the-origins-of-proslavery-christianity/27372191-josh-thompson?ref=abp)
+- [They Were Her Property: White Women as Slave Owners in the American South (goodreads)](https://www.goodreads.com/book/show/43803602-they-were-her-property) This book is relevant to the concept of 'discipline', because it's _full_ of accounts of white female slaveowners 'disciplining' the slaves around them, or showing shocking degrees of entitlement to the very personhood of someone else. That these people _wouldn't_ beat and abuse their own children defies reason. [here's some highlights of mine (goodreads)](https://www.goodreads.com/book/show/43803602-they-were-her-property)
+- [The Secret Of Our Success, Joseph Henrich (still goodreads)](https://www.goodreads.com/book/show/25761655-the-secret-of-our-success). An amazing book. Here's [a really nice book review (slatestarcodex.com)](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/). Not technically a 'parenting book', but tons of useful mental models for the transmission of skills, 'skills/knowledge toolkits' and more.
+- [On Leaving Evangelicalism and Opposing it (josh.works)]({{ site.baseurl  }}{% link _posts/2023-05-08-on-leaving-evangelicalism-and-opposing-it.md %})
+- [Quotes from 'Spare the Child: The Religeous Roots of Punishment and the Psychological Impact of Physical Abuse' (josh.works)]({{ site.baseurl  }}/quotes-from-spare-the-child)
 
 
 [^pirate-law]: the "Pirate Law" chapter in particular is exceptional. Go to [the author's website](http://www.daviddfriedman.com/Legal%20Systems/LegalSystemsContents.htm) to download each chapter at a time as a docx, or the whole book. Often when rule-enforces justify their coercion, they might say "I have no other option but...". In reading this book, one's imagination for `problem:remediation` ideas might be increased, after reading about legal systems beyond what is normalized within the the greater united states. my stance on violence is that not only is it inherently abusive, it's also unbelievably lacking in imagination, compared to co-creation and mutuality. Unfortunately, if one cannot regard their own/other's humanity appropriately, one might not be able to get this bit right.
