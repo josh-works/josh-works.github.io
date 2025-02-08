@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quotes from 'Spare the Child'
+title: "Quotes from 'Spare the Child: The Religeous Roots of Punishment and the Psychological Impact of Physical Abuse'"
 published: true
 description: "Quotes from a book"
 date:  2025-02-01 06:00:00 -0700
@@ -16,6 +16,8 @@ Here's quotes from [Spare the Child: The Religeous Roots of Punishment and the P
 It's sometimes nice to be able to share quotes with people. Photos of pages from books work only so well. Some books, many books, I'm able to read via my kindle paperwhite + the library. So it's free to get on my kindle, and I can simply highlight text with my finger, save it as a highlight, and when I next sync books to it from the library, those quotes end up in my goodreads account, attached to the book. Sharabale, if I so choose. It's how I get [quotes like this](https://www.goodreads.com/notes/8236315-the-origins-of-proslavery-christianity/27372191-josh-thompson?ref=abp). So paper books take a bit more work, but sometimes only a little extra effort. Until recently I didn't know the above Goodreads/Amazon/Library book workflow and thought I had no way to get quotes off the kindle en-mass. 
 
 I invite you to skim, see what lands with interestingness. 
+
+
 
 ## From a section titled "Rationales":
 
@@ -49,6 +51,16 @@ surely there is in all children, though not alike, a stubbornness, and stoutness
 Robinson's language of breaking, beating, and destroying is no accident, as his advice concerning children's willfulness makes clear:
 
 \* ⁠In _For Your Own Good_, Alice Miller extensively quotes German and other European sources from the eighteenth century to the present concerning the breaking and controlling of children's wills. The texts' interchangeability with those from English and American sources is indicative of the omnipresence of such views throughout both Europe and America for many centuries. They are so much alike that any reader who compares the quotations in this book with those in Miller's surely will be conscious, as never before, of the pervasiveness of what Miller labels "poisonous pedagogy."
+
+> For the beating, and keeping down of this stubbornness parents must provide carefully for two things: first that children's wills and wilfulness be restrained and repressed, and that, in time; lest sooner than they imagine, the tender sprigs grow to that stiffness, that they will rather break than bow. Children should not know, if it could be kept from them, that they have a will of their own, but in their parents' keeping: neither should these words be heard from them, save by way of consent, "I will" or "I will not."
+
+A century later, Susanna Wesley used the same harsh language while recommending a similar course of action to Christian parents in her famous letter to her son John: "To inform the understanding is a work of time, and must with children proceed by slow degrees, as they are able to bear it; but the subjecting the will is a thing that must be done at once, and the sooner the better," she insisted. Her advice still resonates:
+
+> When a child is corrected it must be conquered, and this will be no hard matter to do, if it be not grown headstrong by too much indulgence. And when the will of a child is totally subdued, and it is brought to revere and stand in awe of the parents, then a great many childish follies and inadvertencies may be passed by. I insist on the conquering of the will of children betimes, because this is the only strong and rational foundation of a religious education, without which both precept and example will be ineffectual. But when this is thoroughly done, then a child is capable of being governed by the reason and piety of its parents till its own understanding comes to maturity, and the principles of religion have taken root in the mind.
+
+Subduing and conquering wills in the Wesley family required repeated infliction of painful beatings, beginning in the cradle and continuing throughout childhood, a process Susanna Wesley also recounts in considerable detail in this letter. Physical punishment clearly seemed to her indispensable to her aim of conquest.
+
+--------------
 
 [...]
 

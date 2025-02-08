@@ -12,7 +12,7 @@ issue_id: 90
 
 this has been hard for me to write, has been sitting in one draft form or another for months. Finally getting it off the 'drafts' list, but only reluctantly. This is far too long for even me to try to read in a single sitting, especially on my phone, so it might be too long for you to try to read on a phone, or at once, too.
 
-I sometimes imagine that if I phrase something gently enough or the right qualifiers, I'll somehow 'farm' goodwill from the imagined reader. It _feels_ adjacent to a willingness to manipulate, though, and I don't like that, either. I don't wanna be manipulative. I think some of you have done bad things to others.
+I sometimes imagine that if I phrase something gently enough or the right qualifiers, I'll somehow 'farm' goodwill from the imagined reader. It _feels_ adjacent to a willingness to manipulate, though, and I don't like that, either. I don't wanna be manipulative. I think some of you have done bad things to others. To the degree you wish it were not that way, we can be friends! Otherwise, eh. 
 
 Some readers have perhaps never existed inside of the USA, others never outside of it. Some have had a lot of exposure to religeous influences in the USA. I speak with first-hand knowledge of being 'raised evangelical', and this particular blob of writing addresses themes common within that group of people. Specifically, the concept of "spanking".
 
@@ -24,7 +24,15 @@ First, book-keeping:
 
 If you have ever hit your children and then told them they deserved it, and are today, right now, willing to defend that, _i feel contempt for you_ and it's hard for me to contain that, so I'm not gonna try. 
 
-I don't technically feel any obligation to "you", a particular reader, but if I tried hard to find any obligation i might feel towards 'you', it's more an obligation to your kids, the victims of your assaults, than any obligation i might have to be gentle to your ego. Maybe they'll read this and it'll help some things click the way it did for me.
+If you hit kids, but then said:
+
+> I hit you because I wanted to, I was angry over something, and I hurt and scared you to regain a sense of control for myself. Bummer. I bet that was terrible for you. Was it? I'd like to do differently, I wish I hadn't done that, and I'm doing {thing 1} and {thing 2} to make it less likely that I'll every do that again. Just to reiterate and confirm, it's not okay for me to hit you, shouldn't have happened, shouldn't ever happen again. It did, and it might, it is reasonable to me for you to be angry at me now and get angry at me if it happens again.
+
+this post isn't to you or about you. It's about the people that say:
+
+> I hit you, child, and it's because you deserved it, you called my violence down upon you, and my hitting you is evidence that I love you, and as long as you do not make a mistake again in the future, I won't be forced to hit you again. 
+
+I feel contempt for the latter sentiment. I can work just fine with the former. 
 
 
 I'll get the hard parts out on the table up front. Free-associating through some of the interconnected issues:
@@ -42,15 +50,15 @@ But wait there's more: **Not only is physically assaulting a child abuse, but ac
 
     Obviusly one might cease physically assaulting someone else as they age, and become more capable of resistance. a parent might 'get got' somehow. Evangelicals are brave about assaulting children, but are less comfortable with when the power dynamic is less imbalanced. I keep saying 'the morality of this situation seems revealing by switching out some of the players, and seeing how it sounds.". If i overheard someone saying about their partner "I dont hit them as long as they do not misbehave", or "I only hit them when they do something that makes them really deserve it, I'd clock that as deeply concerning. 
 
-this is all hard for me, as it puts me on the wrong side of a lot of people. My immediate family all is full of physically abusive people. The family I married into, ditto. Same with the extended family I was born into. And plenty of people around me in various social relationships. 
+this is all hard for me, as it puts me on the wrong side of a lot of people. My immediate family all is full of physically abusive people. The family I was married into, ditto. Same with the extended family I was born into. And plenty of people around me in various social relationships. 
 
-All these people believe that adults hitting kids and blaming the kids for it is laudable and evidence of good-enough parenting. The emotional distance between us grows all the more. 
+All these people believe that adults hitting kids and blaming the kids for it is laudable and evidence of good-enough parenting. The emotional distance between us grows all the more. I wish it didn't; i no longer try to pretend to feel warmly towards people who condone adults assaulting and sexually assaulting children. 
 
 So, I'm going to take a few turns at <strike>shitting on</strike> explaining themes of evangelicalism, because we all deserve it.
 
 The mountain of victims deserve it. I am also taking issue with something that isn't strictly evagelicalism - it's more describable as americanism, or american-ness, or "The West", and to show participation in these systems, among other things, one most tout/affirm the concept of 'obedience', and that if someone doesn't 'obey', they 'should be punished'. [^ethnic-cleansing]
 
-[^ethnic-cleansing]: most society-wide regimes of punishment are simple social tools to accomplish regimes of social control and ethnic cleansing, supporting the oppressor, reducing the power of the oppressed. Imagine having a bunch of people who speak a different language hop off a boat, kill a bunch of people, say they are instituting 'rule of law' and then you and your friends magically keep getting got by the police. European American supremacists showed up on Turtle Island in the 1600s and used the printing press + mass delusions of 'political authority' to justify their regimes of military violence, economic violence, against literally every people group existing in Turtle Island when they got there. They of course also enslaved populations of people from Africa, and needed a bunch more 'laws' to justify the enslavement regimes. The first american police departments were created by giving badges to the _existing slave patrols_. See more at [/jaywalking]({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %})
+[^ethnic-cleansing]: most society-wide regimes of punishment are simple social tools to accomplish social control and ethnic cleansing, supporting the oppressor, reducing the power of the oppressed. Imagine having a bunch of people who speak a different language hop off a boat, kill a bunch of people, say they are instituting 'rule of law' and then you and your friends magically keep getting got by the police. European American supremacists showed up on Turtle Island in the 1600s and used the printing press + delusions of 'political authority' to justify their regimes of physical and economic violence, against literally every other people group existing in Turtle Island. Those particular european american supremacists of course also enslaved populations of people from Africa, and needed a bunch more 'laws' to justify and maintain the enslavement regimes. The first police departments in the greater united states were created in the slaveholding south by giving badges to ('deputizing') the existing slave patrols. read more at [https://josh.works/jaywalking]({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %}). 
 
 This language is all minimizing what really happens
 
@@ -58,7 +66,9 @@ This language is all minimizing what really happens
 
 What's a concise re-expression of punishment/spanking energy?
 
-> If you do something I don't like, I or someone acting on my behalf will hurt you, torture you, coerce you into doing whatever it is I wanted you to do. And I'll say it's an expression of love, and i'll expect you to act like you believe me.
+> If you do something I don't like, I or someone acting on my behalf will hurt you, torture you, coerce you into doing whatever it is I wanted you to do. And I'll say it's an expression of love, and i'll hurt you even more unless you act like you believe me.
+
+So, fuck that energy.
 
 Critically, _there are alternatives to punishment_.
 
@@ -66,13 +76,17 @@ your only hope of existing non-abusively with the kid(s) in your life is if you 
 
 I have lots more on alternatives to punishment below.
 
-I continue to be unsure how to channel my own anger over this. I am _livid_ at Miriam and Donald Thompson, the people who contributed to my physical and emotional existance, for many reasons, and I have no intent or desire of ever 'forgiving' them. They both physically, sexually, emotionally abused and neglected me, and had abundent opportunities to do better, or differently, at any moment in their lives.
+I continue to be unsure how to channel my own anger over this. I am _livid_ at Miriam and Donald Thompson, the people who contributed to my physical and emotional existance, for many reasons, and I have no intent of or desire to change that, especially while they are alive and _actively claiming the rightness of adults assaulting children_. The first thing my power-obsessed father bullied out of me was the right to protest his unfair treatment, the right to say 'no' to him. The last time he physically yanked me around (as an adult) I almost hit him, before stopping myself, and I realized how truly helpless my little child frame felt before his 6 foot 1 inch military officer bullying self. I'm not helpless before him anymore, and critically, _I never have to speak to him_, so physical conflict is less likely, but if he treated me today in a fraction of the way he treated me as a child, I would absolutely, without hestation or guilt, hit him, repeatedly, until he stopped aggressing against me. 
 
-Not only could they have refrained from beating me as, like, a three year old, but they displayed courdice and head-in-the-sand isolation, when I brought these issues up, they alternated between ignoring me, or saying _I_ was the problem, and then we've currently settled on them blocking me in whatsapp. 
+They both physically, sexually, emotionally abused and neglected me, and had abundent opportunities to do better, or differently, at any moment in their lives, including within the last few months. The book _Spare the Child: The Religeous Roots of Punishment and the Psychological Impact of Physical Abuse_ was published the year before I was born. I could try to extend graciousness for them not knowing better, _perhaps_, if that claim was plausible or used non-defensively, but they both said to me "we were doing to you what other people told us to do". Meh. My father is also _deeply_ misogynistic, patriarchal, but claims God told him to be that way thus it's the way of the universe. 
 
-I'll possibly still email them a link to this blog post. I told them both, basically, "You deserve the peace that you think an abuser of children deserves." and "I'm honoring both of you by using the abundant experiences you've both provided to me, then and now, to warn others of some things."
+Not only could they have refrained from beating me as, like, a three year old, but they displayed poor decision making and head-in-the-sand isolation, when I brought these issues up as an adult. they alternated between ignoring me, or saying _I_ was the problem, or "nothing they could say wouldn't make me more angry" and then settled on them blocking me in whatsapp. [^angry]
 
-It seems worth mentioning that the level of emotional dissociation required to beat someone else into submission is profound, and correlates with an overall inability to ever form an emotional connection. 
+[^angry]: Indeed, nothing my dad could say was eliciting from me the response he wanted. He was being defensive, all the way, on the rightness of beating children, and I was prolonging the discomfort he was experiencing as a result, and he feels entitled to psychological comfort. I think he experienced me as threatening, because I was forcing into his mind a very uncomfortable thing. Him as an abuser of children. So, rather than confronting himself as an abuser, he simply transformed the discomfort to 'josh is making me uncomfortable and I _deserve_ for him to make me comfortable, so I'll simply ban him from my conciousness.'
+
+I'll possibly still email them a link to this blog post. I told them both, basically, "You deserve whatever peace you think a child abuser deserves." and "I'm honoring both of you by using the experiences you've both provided to me, then and now, to warn others of these exact things." 
+
+It seems worth mentioning that the level of emotional dissociation required to beat someone else into submission is profound, and correlates with an overall inability to ever form an emotional connection. In 2024, I saw Miriam for the first time in several years, and kept being stunned by 1) the level of emotional disconnect and 2) how familiar it felt, as something I'd experienced consistently my entire life. 
 
 I never-not-once had a good-enough relationship with my parents.[^resent]
 
@@ -86,21 +100,27 @@ They both seemed _extremely_ offended, when, individually, I contacted them to s
 
 I ran into an astonishing level of evasion around this. 
 
-To make a point about the association between discipline and punishment and rules, and how punishment is really just physical assault, I said "if I find that you hit, after having heard this unambiguous statement to the contrary, I will arrange a meeting between us, and I will 'give' you a spanking, for your disobedience."
+To make a point about the association between discipline and punishment and rules, and how punishment is really just physical assault, I said:
 
-I don't think they'll ever try to hit Eden, and if they did, the psychological damage to her would be much less than it would be to me, so i'm not worried either way. So much of the real harm of 'spanking' is that it's one's caretaker who is saying 'i love you' and hitting and humiliating you is evidence of that love.
+> if I find that you have hit eden, after having heard this unambiguous statement assessing the wrongness of that act, shall I arrange a meeting between us, where I will 'give' you a spanking, for your "disobedience"? 
+
+For the note, this is why violence begets more violence. I despise violence, force, coercion, and yet, when dealing with someone who interacts with the world nearly exclusively through coercion and violence, one finds coercion and violence emrging from the woodwork around them. I recognize that I could perhaps act more 'healed' towards them and treat them as simply the confused, wayward, supremacist, aged, violence-using colonizing european-americans that they are, rather than holding onto a specific vindictiveness towards them. Alas. 
+
+I don't think they'll ever try to hit Eden, and if they did, the psychological damage to her would be much less than it was for me, to be hit (repeatedly, by them), so i'm not overly concerned. So much of the real harm of 'spanking' is that it's one's caretaker who is saying 'i love you' and hitting and humiliating you is evidence of that love.
 
 My mom hit me many times, always saying "this is because you disobeyed me, and thus God, and the wages of sin is death, so be thankful i'm only causing you a little death, instead of a big death, to teach you to be obedient.". 
 
 Eden knows:
 
-> Anyone who loves someone else wouldn't want to coerce and overwhelm them. They couldn't hit them, and if an adult ever hits a child, they certainly do not love that child, probably never did, _and_ are likely incapable of experiencing love.
+> Anyone who loves someone else wouldn't want to coerce and overwhelm them. They wouldn't hit them, and if an adult ever hits a child, that adult certainly does not love that child, probably never did, _and_ are likely incapable of experiencing love.
 
-So, she knows I view my father as dangerous, and that he hits kids, and has sexually assaulted children in the past, and then lies to kids about why he does it. She knows it's insanely hurtful to be willingly tortured by someone else, so if for whatever reason one of my parents or anyone else decided to assault her, she could experience it as simple assault, and not as a perverted expression of love. She also is _extremely_ quick to say when she doesn't like something, and this instinct alone will accomplish a lot of providing for her own safety. 
+So, she knows I view my father/her grandfather as dangerous, that he hits kids, and has sexually assaulted children in the past, and then lies to kids about why he does it. 
 
-The repeated, hopeless, helplessness of adults hitting kids at home over and over for any certain expression does a lot of damage, too. Eden gets to know what it's like to exist in an environment where 'punishment' is a strange concept that emotionally immature people rely upon to coerce the people in their life they construe themselves as deserving to coerce. 
+She knows it's insanely hurtful to be willingly tortured by someone else, so if for whatever reason one of my parents or anyone else decided to assault her ('spank' her), she would hopefully experience it as "simple" assault, and not as a perverted expression of love. She also is _extremely_ quick to say and move and clock when she doesn't like something, and this instinct will accomplish a lot of providing for her own safety. 
 
-All the way up until I was at least 31 or 32, I would have said I thought my parents loved me, even though I also knew hitting children was wildly inappropriate. I was willing to 'give them a pass', because I wanted to believe I had a family. 
+The repeated, hopeless, helplessness of adults hitting kids at home over and over for any certain expression does a lot of damage, too. Eden gets to know what it's like to exist in an environment where 'punishment' is a strange concept that some emotionally immature people use to coerce the people in their life they construe themselves as deserving to coerce. 
+
+All the way up until I was at least 31 or 32, I would have said I thought my parents loved me, even though I also knew hitting children was wildly inappropriate. I 'gave them a pass', because I wanted to believe I had a family, and it was more useful to pretend that things were good than to fully appreciate how disruptive it is to trust and intimacy to inject physical and emotional assaults, mixed with an overwhelming power dynamic. They freely withdrew warmth and affection to extinguish unwanted or unfamiliar behaviors, and would use emotional warmth/acceptance as a reward when they saw things they liked. 
 
 ## A quick map of what we are covering
 
