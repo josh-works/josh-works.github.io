@@ -65,17 +65,19 @@ Again, here's the full blog post:
 
 Also in 2024, I had already realized that I felt fully satisified with Eden as my kid, and do not want to have another kid. I'd always figured I'd get a vasectomy whenever I was 'done having kids', and I think that is an easily arrived-upon spot with even one kid. 
 
-I was thrilled to discover [Chris Tonozzi](https://govasectomy.com/), who does no scalpel vasectomy with no needle anesthesia. $800, 30 minute appointment in Boulder, zero discomfort during or after the procedure. No intake call. He's exceptionally competant, as you'll see if you click around. If you want a vasectomy and don't live in colorado, Chris' setup is still worth checking out, because if someone else doesn't seem to be at the same level of quality as him, _keep looking_.
+I was thrilled to discover [Chris Tonozzi](https://govasectomy.com/), who does "no-scalpel vasectomy with no-needle anesthesia." $800, 30 minute appointment in Boulder, basically zero discomfort during or after the procedure. No intake call. He's exceptionally competant, as you'll see if you click around. If you want a vasectomy and don't live in colorado, Chris' methodology is still worth checking out, because if someone else doesn't seem to be at the same level of quality as him, _keep looking_.
 
-Having a kid is a big deal, and so is _not_ having a kid. For a bunch of crappy reasons it seems like the responsibility of not getting pregnant is carried almost exclusively by people who can _become_ pregnant, people with vulvas. 
+Having a kid is a big deal, and so is _not_ having a kid. For a bunch of crappy reasons it seems like the responsibility of not getting pregnant is carried mostly by people who can _become_ pregnant, the people with vulvas. 
 
-I got a vasectomy as a step in the direction of carrying more of the responsibility than I was before of not getting anyone pregnant.
+Options for male birth control have been popping up, like [RISUG](https://en.wikipedia.org/wiki/Reversible_inhibition_of_sperm_under_guidance) in india, relabeled as [Vaselgel in the USA](https://www.wired.com/2011/04/ff-vasectomy/). (inject an ionized polymer into the vans deferans, it causes cell walls/tails of sperm to be damaged, they still exit the body like normal but are 'non-functional', and is permanent, reliable, *and* reversable) but the various authorities in the USA related to health advances are trash and absent, so people with penises and people with vulvas continue to suffer without abundant, reliable, non-hormonal birth control. 
 
-If everyone has a clean and recent STI panel, the remaining reason for a condom is the REALLY CRITICAL ISSUE of not getting pregnant. 
+I got a vasectomy as a step in the direction of carrying more of the responsibility than I was before of not getting anyone pregnant. It's a big deal to decide to 'not have more kids', perhaps, but it's a big deal to 'have another kid'. In 2025, having _any_ children feels enormously delicate, risky. 
 
-I have a friend of a friend whose then-partner lied to him about taking birth control, and intentionally, without his permission, became pregnant by him. Horrifying. There's lots of good ways of not getting pregnant, and most of them seem fully, unfairly, on the shoulders of the person who has the uterus. 
+If everyone has a clean and recent STI panel, the remaining reason for condoms is the REALLY CRITICAL ISSUE of not getting pregnant. Huzzah for improved margins of safety. 
 
-Virtually all forms of birth control available to the people who can get pregant are heavy duty. IUD or the pill, both are a hassle, and IUD placements are often-enough very bad experiences.
+I have a friend of a friend whose then-partner lied to him about taking birth control, and intentionally, without his permission, became pregnant by him. Horrifying. There's lots of good ways of not getting pregnant, and most of them seem fully, unfairly, on the shoulders of the person who has the uterus. Also, if one _gets_ pregnant and wants to be not pregnant, all options are stressful. Having Plan B on hand seems reasonable, and of course I'm an all-the-way supporter of access to easy, skilled, ideally _free_ abortions, too. It is noteworthy to me that the catholic church made a HUGE deal of making sure birth control/pregnancy management was as unavailable to it's people as possible.
+
+Virtually all forms of birth control available to the people who can get pregant are heavy duty. IUD or the pill, both are a hassle, and IUD placements are often-enough very bad experiences. 
 
 I have a lot of thoughts about the obligation of not getting anyone pregnant. Things went poorly with my kid's mom, I wouldn't have tried to do parenthood in the exact way I'm doing it now, and EVEN IF things had gone great with Eden and her mom, _I still would want a vasectomy for myself_. I still don't want more than 1 kid. 
 

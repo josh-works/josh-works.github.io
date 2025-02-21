@@ -5,7 +5,7 @@ published: true
 description: "There's much more to life than books and movies and such, but if you're going to read some, here's a spot to start"
 date:  2024-06-04 06:00:00 -0700
 categories: [books]
-tags: [books]
+tags: [books, studio_ghibli, recommendations]
 permalink: /recommended-reading
 image: /images/shoup-and-bertaud.jpg
 ---

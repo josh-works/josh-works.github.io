@@ -275,7 +275,7 @@ In the white residence districts no house not occupied by a colored family at th
 
 Servants quarters located on the same lot as the residence they serve will nevertheless be allowed in either districts without distinction to race[^blanket-exclusion-for-slaveholding-white-people].
 
-Certain limited limited residence areas are placed in neither the white district nor the colored district but are left undetermined as to the race zoning. The above race zoning is essential in the in interest of the public peace, order and security and will promote the welfare and prosperity of both the white and colored race. Care has been taken to prevent discrimination and to provide adequate space for the expansion of the housing areas of cach race without encroaching on the areas now occupied by the other.
+Certain limited limited residence areas are placed in neither the white district nor the colored district but are left undetermined as to the race zoning. The above race zoning is essential in the in interest of the public peace, order and security and will promote the welfare and prosperity of both the white and colored race. Care has been taken to prevent discrimination and to provide adequate space for the expansion of the housing areas of each race without encroaching on the areas now occupied by the other.
 
 [^black-people-cannot-buy]: Translation: In an R1 district, it will become illegal for a black person to buy or rent property from a white property owner.
 [^black-people-cannot-sell]: Translation: In an R2 district, it will become illegal for a black property owner to sell or rent their property to a white person.

@@ -16,7 +16,7 @@ But I'm also thinking specifically of some people who were raised in 'church gro
 
 I'm thinking of _myself_ when I was 14-18 years old. 
 
-I'm writing to the children of european american evangelicals, in 2024.
+I'm writing to the children of decendents of european americans who participate in anything that could be called 'evangelicalism' in 2024.
 
 This is tricky to get out, I'm not quite sure all the needles I'm trying to thread here. 
 

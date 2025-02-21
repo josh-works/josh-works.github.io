@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Notes on the movie Frozen, which I despise, and Suzume, which I love
-published: false
+published: true
 description: "Partially unburdening myself of the rage I feel over the confluence of factors that led to the creation of this movie and others like it"
 date:  2024-10-06 06:00:00 -0700
 categories: [movies_and_shows]
-tags: [america, propaganda, unfortunate]
+tags: [movies, studio_ghibli, unfortunate, recommendations, kid, authority]
 permalink: /notes-on-frozen-and-suzume
 issue_id: 87
 ---
@@ -18,13 +18,13 @@ I am happy to watch movies/shows with my kid. Because of that, and that I follow
 
 > Why did you draft a blog post by hand, in this particular format?
 
-Often-enough I watch a movie _with eden_, if it's a painful-to-me movie, the way I process my feelings/disappointment/anger is by creating something out of it. I also don't begrudge Eden her taste for the interestingness of things. I get why Frozen is so appealing to kids, that is precisely why, or part of why, I am so frustrated by it. Some of the reasons it's appealing is perfectly valid, too. Interesting music, interesting visuals, crunchy-enough story line. 
+Often-enough I watch a movie _with eden_, if it's a painful-to-me movie, a way I process my feelings/disappointment/anger is by creating something out of it. I also don't begrudge Eden her taste for the interestingness of things. I get why Frozen is so appealing to kids, that is precisely why, or part of why, I am so frustrated by it. Some of the reasons it's appealing is perfectly valid, of course. Interesting music, interesting visuals, crunchy-enough story line. Eden has normal-for-young-person taste, _and_ I think sophisticated taste. 
 
-I love to watch movies with Eden. We've watched and enjoyed the movies of [Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli), over and over. 
+I love to watch movies with Eden. We've watched and enjoyed the movies of [Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli), over and over. There's also been a whole bunch of days where the temperature has been _extremely cold_. On most of the days we've gone out side at least a little, but my gosh we've been inside a lot lately. I'll probably find more to say about it at some point. 
 
-For instance, we've seen _Ponyo (2009)_ many times [^the-files], and enjoyed it's dignifying view of the ocean, people who are young, people who are old, the world, the ocean, water, hills, trees, sky, weather, food, independence, and more. We've seen many more Ghibli films than _just_ Ponyo, but _Ponyo_ is a good example of a movie that perfectly attracts the interest of a child, _and_ is not demeaning to an adult, and is full of beautiful themes, beautiful depictions of the world, and interesting and exciting movement of the plot through the movie. You might be able to watch it on Amazon Prime right now: [_Ponyo_ with English dubs on Amazon Prime](https://www.amazon.com/Ponyo-English-Language-Noah-Cyrus/dp/B08195R36Q)
+For instance, we've seen _Ponyo (2009)_ many times [^the-files], and enjoyed it's beautiful depictions of all sorts of sea life, dignifying view of the ocean, people who are young, people who are old, the world, the ocean, water, hills, trees, sky, weather, food, independence, and more. We've seen many more Ghibli films than _just_ Ponyo, but _Ponyo_ is a good example of a movie that perfectly attracts the interest of a child, _and_ is not demeaning to an adult, and is full of beautiful themes, beautiful depictions of the world, and interesting and exciting movement of the plot through the movie. You might be able to watch it on Amazon Prime right now: [_Ponyo_ with English dubs on Amazon Prime](https://www.amazon.com/Ponyo-English-Language-Noah-Cyrus/dp/B08195R36Q)
 
-[^the-files]: In line with Lawrence Lessig's [Free Culture](https://www.goodreads.com/book/show/72011.Free_Culture), I generally look for shows first on the pirate bay [https://thepiratebay.org/](https://thepiratebay.org/), to download the raw files in a piecemeal way called torrenting. It's second nature to some, virtually unheard of by others. Obviously now there's conversation about the legality of it, but I've always been vastly more impressed by the simple mechanics of torrenting. The piecemeal receiving/sending files, peer-to-peer, instead of server/client. How refreshing.
+[^the-files]: In line with Lawrence Lessig's [Free Culture](https://www.goodreads.com/book/show/72011.Free_Culture), I generally look for shows first on the pirate bay [https://thepiratebay.org/](https://thepiratebay.org/), to download the raw files in a piecemeal way called torrenting. It's second nature to some, virtually unheard of by others. Obviously now there's conversation about the legality of it, but I've always been vastly more impressed by the simple mechanics of torrenting. The piecemeal receiving/sending files, peer-to-peer, instead of server/client. How refreshing. Then save it somewhere easy to find, and use VLC to play it on a laptop, my perfectly functional but mostly retired, genuinely aged apple laptop. Would be harder to do all this quite as easily on a smart TV, for instance.
 
 Studio Ghibli films are so dignifying and beautiful that to watch them is, to me, like taking a vitamin or going on a walk. It's so dignifying in so many ways, I'm pleased for anyone to soak in any aspects of those movies. 
 
@@ -190,21 +190,8 @@ the entire troll meme is offensive, based on a bunch of supremacist stereotypes 
 
 Olof, about cristof: "He is crazy", jokes about taking off clothes, then being written to push agricultural marriage norms. to anna: "why are you holding back from such a man" (!!!???!!!)
 
-## A few thoughts about a delightful, wonderful, beautiful movie called _Suzume_
 
-_THIS_ movie is the one that I'm thrilled for Eden to have in her mind. It's not a little kids movie, so while we've seen most of it, together, we had to skip lots of it and some parts of it are (understandbly) not interesting to her, so it's not in the rotation with the same level of 'play it again' as some other movies currently are._
-
-It wouldn't surprise me if someday this movie gets seen many, many times around here.
-
-Here's the synopsis: 17-year-old Suzume's journey begins in a quiet town in Kyushu when she encounters a young man who tells her, "I'm looking for a door." What Suzume finds is a single weathered door standing upright in the midst of ruins as though it was shielded from whatever catastrophe struck. Seemingly drawn by its power, Suzume reaches for the knob.... Doors begin to open one after another all across Japan, unleashing destruction upon any who are near. Suzume must close these portals to prevent further disaster. The stars. The sunset. The morning sky. Within that realm, it was as though all time had melted together in the sky--guided by these mysterious doors, Suzume's journey to close doors is about to begin.
-
-Suzume, made in 2023. [here's a trailer](https://www.youtube.com/watch?v=5pTcio2hTSw)
-
-I've now seen it a few times, and found it deeply moving. I remember weeping through the end of it the first time, and again the second time. I've only seen portions of it with Eden since then and have _not_ been moved to tears subsequently, but I doubt that I've shed all the tears I'll ever shed watching it. 
-
-In _Suzume_, a young female protagonist travels around japan in an attempt to achieve certain goals (just like elsa/anna) and has _normal_ interactions with the people she encounters along the way. There are so many parallels between _suzume_ and _frozen_, and in every single point of comparison, _suzume_ shows itself to be able to be serious, dignified, and _frozen_ shows lack of seriousness. 
-
-## More on _Frozen_
+### More on _Frozen_, from a subsequent re-watch
 
 _i've got a few pages of notes from multiple re-watches of Frozen_
 
@@ -231,7 +218,23 @@ I take children seriously. Sometimes people witness it, and are _obviously stunn
 
 During a movie (like _Frozen_) I'll sometimes say something like 'hmm, I don't like how that person is speaking to that person. seems mean.' or something like that. She also will clock, sometimes, when one person is speaking meanly to another. I really, really approve of her being sensitive in these ways. I don't want her to think she needs to endure someone speaking meanly to her, or if she cannot escape the situation (common, when an adult is speaking meanly to one or many children) she at least will clock it as the adult's misbehavior, rather than something brought on by her fundamental wrongness, for instance.
 
-## more _Suzume_ notes
+
+## A few thoughts about a delightful, wonderful, beautiful movie called _Suzume_
+
+_THIS_ movie is the one that I'm thrilled for Eden to have in her mind. It's not a little kids movie, so while we've seen most of it, together, we had to skip lots of it and some parts of it are (understandbly) not interesting to her, so it's not in the rotation with the same level of 'play it again' as some other movies currently are._
+
+It wouldn't surprise me if someday this movie gets seen many, many times around here.
+
+Here's the synopsis: 17-year-old Suzume's journey begins in a quiet town in Kyushu when she encounters a young man who tells her, "I'm looking for a door." What Suzume finds is a single weathered door standing upright in the midst of ruins as though it was shielded from whatever catastrophe struck. Seemingly drawn by its power, Suzume reaches for the knob.... Doors begin to open one after another all across Japan, unleashing destruction upon any who are near. Suzume must close these portals to prevent further disaster. The stars. The sunset. The morning sky. Within that realm, it was as though all time had melted together in the sky--guided by these mysterious doors, Suzume's journey to close doors is about to begin.
+
+Suzume, made in 2023. [here's a trailer](https://www.youtube.com/watch?v=5pTcio2hTSw)
+
+I've now seen it a few times, and found it deeply moving. I remember weeping through the end of it the first time, and again the second time. I've only seen portions of it with Eden since then and have _not_ been moved to tears subsequently, but I doubt that I've shed all the tears I'll ever shed watching it. 
+
+In _Suzume_, a young female protagonist travels around japan in an attempt to achieve certain goals (just like elsa/anna) and has _normal_ interactions with the people she encounters along the way. There are so many parallels between _suzume_ and _frozen_, and in every single point of comparison, _suzume_ shows itself to be able to be serious, dignified, and _frozen_ shows lack of seriousness. 
+
+
+### more _Suzume_ notes
 
 _OK, these are all written out on yellow legal pad, I'm gonna draft the suzume stuff here, it might get its own post later, I wrote all these notes over the last.... at least a few weeks, I really want to get it written and done_
 
@@ -270,25 +273,44 @@ She will confidently and enjoyably watch something, then, when done, herself clo
 
 She enjoys naming when some part is coming. it's a form of readying herself for scary parts, sometimes. I see it through a lense of helping her build inner resources to deal with the _tricks_ that adults will sometimes play in moves to get a certain response from you, with or without your permission. (jump scares, certain bits of dialogue). 
 
-## Paw Patrol
+## Complaints about other hard-to-avoid-here/now shows
+
+I don't begrudge Eden for anything that she finds interesting. She knows I'm down for everything that's interesting to her, and will help maximize her enjoyment of it. (Skipping the scary parts, if any, starting/re-starting the desired bits of media)
+
+I'll pus
+
+
+### Paw Patrol 
 
 _eden happens to really like paw patrol. Again, understandable, from a toddler's point of view. I feel nothing but contempt and derision for every adult involved in the production of this show. It's canadian, paid for by the canadian state, and ruthlessly reinforces authority, authoritarianism, political control, single family housing, and a very machanistic/industrialized view of nature. Extremely car-centric, celebrates all things involving engines, and vastly supportive of police, policing. (slave patrollers, slave patrolling)_
+
+[deep breath] I've written a little/lot about zoning, and how I perceive zoning to be precicely enough how america did/does things that round to ethnic cleansing. 
+
+Here's [a thing I wrote]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}) upon discovering a certain document that is what got enshrined/encoded in Ambler vs. Euclid, in 2926. Virtually every zoning ordinance that exists in America is rooted in some way in that document, in a way that seems pretty obvious to me.
+
+So, it's not _exclusively_ american, but it's some distillation of something representing the ideas of european-american-passing decendents of immigrants. 
 
 It's unfair how disney/ppl like this grab the attention in an unfair, gross way, then fills the story with colonialism, authoritarianism, pro-deputized slave patrol propaganda!. 
 
 Eden likes it, and knows that I really don't like it, so often we'll reach great compromises. She'll simply choose a different show she wants to watch. (E, to me: "put on {other show}. I choose it for you, because it doesn't have police or cars". me: "wow, gladly, i appreciate your thoughtfulness about what is easy or not so easy for me to watch.")
 
-And we still watch paw patrol. So here we go:
+And paw patrol still sometimes is played. No sweat either way.
 
-[...]
+#### specific complaints
 
-- First, the 'patrol' obviously references police, policing, the concept of 'going on patrol', and _always_ a 'patrol' is virtually synonymous with a supremacist occupying force controlling with violence and intimidation the 'native' peoples. 
+- the 'patrol' obviously references police, policing, the concept of 'going on patrol', and _always_ a 'patrol' is virtually synonymous with a supremacist occupying force controlling with violence and intimidation the 'native' peoples. In america, many police interactions are the slave-patrolling action of [policing jaywalking]({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %}). In [killed by a traffic engineer](https://www.goodreads.com/book/show/201978334-killed-by-a-traffic-engineer), the author mentioned that at one point in time, something like 20,000 people were being arrested for 'jaywalking' in chicago????? my jaw dropped. I still hope I am wrong. phew, I checked myself, I am wrong. It was Detroit, not chicago, and it was 20,000 people, not 40,000. [Here's a link to _all_ my highlights for this book](https://www.goodreads.com/notes/211426719-killed-by-a-traffic-engineer/27372191-josh-thompson?ref=abp). 
 
-More specifically, in the USA, where this show is being consumed (even though it's created by a canadian group), the origins of 'police departments' was to _deputize the existing slave patrols_. The very concept of deputization is _hilarious_ ("here, random person, have a stamped piece of metal. Affix to your shirt, you now have magical powers"). 
+Thanks to goodreads, amazon, kindle versions, and the delusion of 'american police', we have the proper quote from the book: 
+
+> In the same 1958 report, AAA says that “it is time that we become concerned with pedestrian violations and unwise walking practices” and then highlights all the progress on this issue in cities like Detroit, which arrested 19,765 pedestrians for crossing against the signal but only 8,662 drivers for violating the pedestrian’s right-of-way. The report noted that San Francisco arrested 165 pedestrians for crossing between intersections as compared to 7,304 drivers arrested for violating the pedestrian’s right-of-way. But don’t let the numbers fool you; San Francisco also arrested 32,968 pedestrians for public intoxication.
+
+Thus, i leave it as an exercise to the reader to infer my opinions for what is sometimes called 'police', in the greater united states.
+
+Therefore, because in the USA, where this show is being consumed (even though it's created by a canadian group, and because of the internet, and colonialism, undoubtedly this show is being requested/demanded beyond the united states, so i bet people in countries victimized by american armies get to watch their kids want to watch this show), the origins of 'police departments' was to _deputize the existing slave patrols_. The very concept of deputization is sorta religeous ("here, random person, have a stamped piece of metal. Affix to your shirt, you now have magical powers"), and simply conceeds so much that doesn't justify that concession. ("the state", "authority", "retributive justice", AND THE LIVED EXPERIENCE of people on both sides of that police power, like the story told in [Killers of the Flower Moon](https://www.goodreads.com/notes/201736852-killers-of-the-flower-moon/27372191-josh-thompson?ref=abp))
 
 But to see policing as an extension of slave patrolling, which filled a _desperately needed position in society_ of maintaining the suppression of 'slave rebellions', or 'people of the global majority taking minimum steps slightly reduce the daily oppression of themselves and their loved ones'. 
 
-So, 'slave patrol' energy is strong in American policing. BUT! In addition to slave patrolling, what other energies got rolled into American policing? Slave patrolling dealt with only one of the two primary fears of european americans. Displacing native populations was also critical to the formation/survival of the american state consciousness. 
+So, 'slave patrol' energy is strong in American policing. BUT! In addition to slave patrolling, what other energies got rolled into American policing? Slave patrolling dealt with only one of the two primary fears of european americans. Displacing native populations was also critical to the formation/survival of that group of european-american white-passing immigrants! _Killers of the Flower Moon_, mentioned above, is a good-enough sample of the experience of the people who lived in the greater united states before the immigrants arrived with political authority. For someone else's experience of the same people group, I invite a read of [I Saw Death Coming: A History of Terror and Survival in the War Against Reconstruction](). [here's my kindle highlights](https://www.goodreads.com/notes/61676927-i-saw-death-coming/27372191-josh-thompson?ref=abp)
 
 One of the roles a slave patrol would fill is simply _reminding_ people that violence could happen at any time, and no tactic (rebellion, passive resistance, fawning) could make any individual safe from harassment. This is why I don't like to see or hear police (or sirens in general). Every time, it's a proclamation, piercing the air and walls and consciousnesses of everyone around, that the local 'slave patrol' is on the move, getting ready to rough someone up. 
 
