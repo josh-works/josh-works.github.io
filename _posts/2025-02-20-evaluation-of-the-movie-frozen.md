@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Notes on the movie Frozen, which I despise, and Suzume, which I love
+title: Notes on the movie Frozen, which I dislike, and Suzume, which is excellent
 published: true
 description: "Partially unburdening myself of the rage I feel over the confluence of factors that led to the creation of this movie and others like it"
-date:  2024-10-06 06:00:00 -0700
+date:  2025-02-20 06:00:00 -0700
 categories: [movies_and_shows]
 tags: [movies, studio_ghibli, unfortunate, recommendations, kid, authority]
 permalink: /notes-on-frozen-and-suzume
-issue_id: 87
+issue_id: 89
 ---
+
+## Introduction 
 
 _part of a longer series of drafts about the novel experience of being a parent, to someone currently best defined as 'a young child'. I once wrote a lot about my experiences of things, then took a break, and drafted this blog post on a few pages of yellow legal pad, by hand, brought/edited/extended for the internet here. [Write It Now]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}) and such._
 
-_This will end up maybe being a series of recommendations and anti-recommendations_.
+_This will end up maybe being a series of recommendations and anti-recommendations_ Please skim, or make judicious use of the anchor links to skip around.
 
 I am happy to watch movies/shows with my kid. Because of that, and that I follow their interests, generally, I've watched a few movies/shows lately that I wouldn't normally watch. This blog post started as a single page of handwritten notes about the movie _Frozen_.
 
@@ -20,11 +22,11 @@ I am happy to watch movies/shows with my kid. Because of that, and that I follow
 
 Often-enough I watch a movie _with eden_, if it's a painful-to-me movie, a way I process my feelings/disappointment/anger is by creating something out of it. I also don't begrudge Eden her taste for the interestingness of things. I get why Frozen is so appealing to kids, that is precisely why, or part of why, I am so frustrated by it. Some of the reasons it's appealing is perfectly valid, of course. Interesting music, interesting visuals, crunchy-enough story line. Eden has normal-for-young-person taste, _and_ I think sophisticated taste. 
 
-I love to watch movies with Eden. We've watched and enjoyed the movies of [Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli), over and over. There's also been a whole bunch of days where the temperature has been _extremely cold_. On most of the days we've gone out side at least a little, but my gosh we've been inside a lot lately. I'll probably find more to say about it at some point. 
+I love to watch movies with Eden. We've watched and enjoyed the movies of [Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli), over and over. There's also been a whole bunch of days where the temperature has been _extremely cold_, like a weekend of a high of four degrees farenheight. On most of the days we've gone out side at least a little, but my gosh we've been inside a lot lately. I'll probably find more to say about it at some point. 
 
 For instance, we've seen _Ponyo (2009)_ many times [^the-files], and enjoyed it's beautiful depictions of all sorts of sea life, dignifying view of the ocean, people who are young, people who are old, the world, the ocean, water, hills, trees, sky, weather, food, independence, and more. We've seen many more Ghibli films than _just_ Ponyo, but _Ponyo_ is a good example of a movie that perfectly attracts the interest of a child, _and_ is not demeaning to an adult, and is full of beautiful themes, beautiful depictions of the world, and interesting and exciting movement of the plot through the movie. You might be able to watch it on Amazon Prime right now: [_Ponyo_ with English dubs on Amazon Prime](https://www.amazon.com/Ponyo-English-Language-Noah-Cyrus/dp/B08195R36Q)
 
-[^the-files]: In line with Lawrence Lessig's [Free Culture](https://www.goodreads.com/book/show/72011.Free_Culture), I generally look for shows first on the pirate bay [https://thepiratebay.org/](https://thepiratebay.org/), to download the raw files in a piecemeal way called torrenting. It's second nature to some, virtually unheard of by others. Obviously now there's conversation about the legality of it, but I've always been vastly more impressed by the simple mechanics of torrenting. The piecemeal receiving/sending files, peer-to-peer, instead of server/client. How refreshing. Then save it somewhere easy to find, and use VLC to play it on a laptop, my perfectly functional but mostly retired, genuinely aged apple laptop. Would be harder to do all this quite as easily on a smart TV, for instance.
+[^the-files]: some of the movies I've purchased online or found on youtube, like [Sagwa the chinese siamese cat, here's the 20 episode youtube playlist](https://www.youtube.com/watch?v=0skmm0FBl-Q&list=PL3FYWyLTi1sKGbGpK2ZcDHaYyE27ZceXH) line with Lawrence Lessig's [Free Culture](https://www.goodreads.com/book/show/72011.Free_Culture), I generally look for shows first on the pirate bay [https://thepiratebay.org/](https://thepiratebay.org/), to download the raw files in a piecemeal way called torrenting. Obviously now there's conversation about the legality of it, but I've always been vastly more impressed by the simple mechanics of torrenting. The piecemeal receiving/sending files, peer-to-peer, instead of server/client. How refreshing. Then save it somewhere easy to find, and use VLC to play it on a laptop, my perfectly functional but mostly retired, genuinely aged apple laptop. Would be harder to do all this quite as easily on a smart TV, for instance. It feels wasteful to stream a full-length movie many times, and on many normal internet connections in the world today, it still is. 
 
 Studio Ghibli films are so dignifying and beautiful that to watch them is, to me, like taking a vitamin or going on a walk. It's so dignifying in so many ways, I'm pleased for anyone to soak in any aspects of those movies. 
 
@@ -44,41 +46,42 @@ I'll sometimes quote dialogue or a song, and add my reactions to it. I don't thi
 
 When we watch a movie, if it's the first time we've seen it or especially later times, I sometimes (SOMETIMES! NOT OFTEN) ask a question like: - what do you think of that person's tone? can you tell they have anger? can you hear that tension? are they being kind? do you think they are happy? sad? what do you think they are feeling? did that seem safe? what do you think of that music?
 
-## My notes upon watching _Frozen_
+## notes upon watching _Frozen_
 
-I don't dislike _only_ patriarchal themes, I also believe that political authority is a myth, and dislike mononormativity, and moto-normativity. 
+Oof, re-reading the notes as I transcribe them here is a trip. Skim, treat the formatting loosely. 
 
-I don't like jokes in a kids movie that are callbacks to american car culture. 
-
-Anna, at the beginning, showing that her entire existence revolves around getting _chosen_ by a person to become that persons... property?
+- I don't dislike _only_ patriarchal themes, I also believe that political authority is a myth, and dislike mononormativity, and moto-normativity. 
+- I don't like jokes in a kids movie that are callbacks to american car culture. 
+- Anna, at the beginning, showing that her entire existence revolves around getting _chosen_ by a person to become that persons... property?
 
 > 🎶 Maybe I'll be noticed, maybe I'll find romance? 🎶
 
-Both children (they are _children_ after all) experienced first emotional abuse and neglect at the hands of their parents, then the parents died, and the kids were raised by... no one? for a few years? Then Anna and Elsa just reunite in advance of a coronation ball? Is a nation really choosing a traumatized child to become their symbolic head? 
+- Both the children in this show, elsa and anna, experienced a few gnarly things in sequence. emotional abuse and neglect at the hands of their parents, then the parents died, and the kids were raised by... no one? for a few years? Then Anna and Elsa just reunite in advance of a coronation ball? Is a nation really choosing a traumatized child to become their symbolic head? 
 
-[...]
+The beauty norms, so painful. sexualizes children, explicitely, as the movie starts with the depiction of these two female protagonists as children, maybe 5, and ends with them supposedly 'adult', where someone at disney finds it appropriate to see these people as sexualizable objects. Many parts of the the look is the same, and there is little distinction between how a _five year old_ is being depicted, and an adult. And certainly something appreciable about that distinction might be lost to the viewer of this piece, who is often-enough a child.
 
-The beauty norms, so painful. sexualizes children, explicitely, as the movie starts with the depiction of these two female protagonists as children, maybe 5, and ends with them supposedly 'adult', where it becomes appropriate to see these people as sexualizable objects, but the look is the same, and there is little distinction between how a _five year old_ is being depicted, and an adult. 
+the 'big, innocent doe eyes' gives helpless, shows matching the idealized male gaze of femininity. The skinny arms, impossible waists, over-exaggerated breasts, the belt that profiles hips, butt, and pubic region. Please read [Fearing The Black Body](https://www.goodreads.com/notes/43459593-fearing-the-black-body/27372191-josh-thompson?ref=abp). It's all gross, and has been said by a thousand other people. 
 
-the 'big, innocent doe eyes' gives helpless, shows matching the idealized male gaze of femininity. The skinny arms, impossible waists, over-exaggerated breasts, the belt that profiles hips, butt, and pubic region. Please read [Fearing The Black Body: The Racial Origins of Fat Phobia](https://www.goodreads.com/notes/43459593-fearing-the-black-body/27372191-josh-thompson?ref=abp)
 
-[...]
+_Frozen_ normalizes emotional neglect and abuse. 
 
-> This movie normalizes emotional neglect and abuse. 
+The dad (before his death) repeats over and over "suppress your emotions, conceal yourself, don't show things" to Elsa, and then _coercively destroys her and anna's memories to hide their own past from themselves". 
 
-The dad (before his death) repeats over and over "suppress your emotions, conceal yourself, don't show things" to Elsa, and then _coercively destroys her and anna's memories to hide their own past from themselves". Identical to how supremacists 'cleanse' the history of their victims, to hide from the victims the extent of their own abuse. 
+Identical to how supremacists 'cleanse' the history of their victims, to hide from the victims the extent of their own abuse. 
 
-In _literally_ every single interaction between Elsa and Anna, for much of the movie, Elsa ends a conversation with violence. Anna keeps saying "She wont' hurt me, we're family", normalizing the idea that not only is it acceptable to overlook clear harms and mistreatment from someone because they are family, that it's in fact _good_ to end up dying as a result of their misdeeds. (Elsa attempts to murder Anna via proxy by creating a vicious snow monster that, among other things, throws Anna off of a cliff. As soon as the snow monster lept into frame, Eden's whole body stiffened up and she said "i don't like that", and we skipped the scene. In all the watchings and re-watchings of this movie, we've skipped that scene every time. 
+In _literally_ every single interaction between Elsa and Anna, for much of the movie, Elsa ends a conversation with violence. Anna keeps saying "She wont' hurt me, we're family", normalizing the idea that not only is it acceptable to overlook clear harms and mistreatment from someone because they are family, that it's in fact _good_ to end up dying as a result of their misdeeds. 
+
+later, Elsa attempts to murder Anna via proxy by creating a vicious snow monster that, among other things, throws Anna off of a cliff. As soon as the snow monster lept into frame, the first time we saw it, Eden's whole body stiffened up and she said "i don't like that", and we skipped the scene. In all the watchings and re-watchings of this movie, we've skipped that scene every time. 
 
 The "we are family" admonishment is particularly painful to see, because much of the harm that people experience _is at the hands of their family members_. Parents abusing children, spouses abusing spouses, neglect all around. [^family]
 
-[^family]: My own father, who proudly celebrates the notion of adults assaulting children, continues to think that the concept of family makes it not just appropriate, but _necessary_ for adults to sexually assault their own children. I am still working on my blog post around 'spanking', but spanking is the ritualized hitting and sexual humiliation of children, served up with a big dose of emotional abuse because the victim is told not just that _they are causing their own victimization_, but that the assault is an act of love between the adult and the child. 
+[^family]: my own father, who proudly celebrates the notion of adults assaulting children, in his own words, continues to think that the concept of family makes it not just appropriate, but _necessary_ for adults to assault and sexually assault their own children. I <strike>am still working on</strike> finished [this collection of ideas](({{ site.baseurl  }}{% link _posts/2025-02-06-on-hitting-and-the-concept-of-spanking.md %})) around 'spanking'. TL;DR spanking is the ritualized hitting and sexual humiliation of children, served up with a big dose of emotional abuse when the victim is coerced into believing not soley that _they are causing their own victimization_, but that the assault is an act of love between the adult and the child. 
 
-    I tell Eden _regularly_ that anyone who hits children _does not love that child_ and is in fact not capable of love. I tell her that adults hit children only if the adult _wants_ to hit the child, and they sometimes tell the strangest stories to explain that away. 
+    I tell Eden _regularly_ that anyone who hits children _does not love that child/children_ and in fact might not be capable of love. I tell her that adults hit children only if the adult _wants_ to hit the child, and they sometimes tell the strangest stories to explain that away, in a way that would certainly not be acceptible in other dynamics.
 
-    An adult who hurts a child and doesn't recoil in horror at what happened and take extensive efforts to prevent it from happening again _is not well_. I've another blog post about how the concept of 'punishment' or 'discipline'  and even 'obedience' are in themselves abusive. Stay tuned. 
+    An adult who hurts a child and doesn't recoil in horror at what happened and take extensive efforts to prevent it from happening again _needs a different imagination_. I've another blog post about how the concept of 'punishment' or 'discipline'  and even 'obedience' are in themselves abusive. Stay tuned. 
 
-Jesus, I'm three entries into this, and I'm so angry at supremacists, evangelicals, the family system in which I was raised, in which my child's mother was raised, and the long, long legacy of chattel slavery + the ethnic cleansing of the natives/nations, all by european americans. 
+Jesus, I'm three entries into this, and I'm so angry at supremacists, evangelicals, the family system in which I and others was raised, and the long, long legacy of chattel slavery + the ethnic cleansing of the natives/nations, all by european americans. 
 
 _Frozen_ normalizes centering the lives of aristocracy, for no reason. It's dedignifying to children and young adults. 
 
@@ -284,11 +287,13 @@ I'll pus
 
 _eden happens to really like paw patrol. Again, understandable, from a toddler's point of view. I feel nothing but contempt and derision for every adult involved in the production of this show. It's canadian, paid for by the canadian state, and ruthlessly reinforces authority, authoritarianism, political control, single family housing, and a very machanistic/industrialized view of nature. Extremely car-centric, celebrates all things involving engines, and vastly supportive of police, policing. (slave patrollers, slave patrolling)_
 
-[deep breath] I've written a little/lot about zoning, and how I perceive zoning to be precicely enough how america did/does things that round to ethnic cleansing. 
+[deep breath] 
 
-Here's [a thing I wrote]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}) upon discovering a certain document that is what got enshrined/encoded in Ambler vs. Euclid, in 2926. Virtually every zoning ordinance that exists in America is rooted in some way in that document, in a way that seems pretty obvious to me.
+[I've written a little/lot about zoning, and how I perceive zoning to be precicely enough how america did/does things that round to ethnic cleansing.]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}) 
 
-So, it's not _exclusively_ american, but it's some distillation of something representing the ideas of european-american-passing decendents of immigrants. 
+I wrote the above upon discovering a certain document that is what got enshrined/encoded in Ambler vs. Euclid, in 2926. Virtually every zoning ordinance that exists in America is rooted in some way in that document, in a way that seems clear to me from a few different frames. 
+
+So, it's not _exclusively_ american, but it's some distillation of something representing the ideas of european-american-passing decendents of immigrants, and their idealized sense of social control, or whatever.
 
 It's unfair how disney/ppl like this grab the attention in an unfair, gross way, then fills the story with colonialism, authoritarianism, pro-deputized slave patrol propaganda!. 
 
@@ -298,34 +303,43 @@ And paw patrol still sometimes is played. No sweat either way.
 
 #### specific complaints
 
-- the 'patrol' obviously references police, policing, the concept of 'going on patrol', and _always_ a 'patrol' is virtually synonymous with a supremacist occupying force controlling with violence and intimidation the 'native' peoples. In america, many police interactions are the slave-patrolling action of [policing jaywalking]({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %}). In [killed by a traffic engineer](https://www.goodreads.com/book/show/201978334-killed-by-a-traffic-engineer), the author mentioned that at one point in time, something like 20,000 people were being arrested for 'jaywalking' in chicago????? my jaw dropped. I still hope I am wrong. phew, I checked myself, I am wrong. It was Detroit, not chicago, and it was 20,000 people, not 40,000. [Here's a link to _all_ my highlights for this book](https://www.goodreads.com/notes/211426719-killed-by-a-traffic-engineer/27372191-josh-thompson?ref=abp). 
+- the 'patrol' obviously references police, policing, the concept of 'going on patrol', and _always_ a 'patrol' is virtually synonymous with a supremacist occupying force controlling with violence and intimidation the 'native' peoples. In america, many police interactions are the slave-patrolling action of [policing jaywalking]({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %}). In [killed by a traffic engineer](https://www.goodreads.com/book/show/201978334-killed-by-a-traffic-engineer), the author mentioned that at one point in time, something like 40,000 people were _arrested_ for 'jaywalking' in chicago????? my jaw dropped. I still hope I am wrong. phew, I checked myself, I am wrong. It was Detroit, not chicago, and it was 20,000 people, not 40,000. [Here's a link to _all_ my highlights for this book](https://www.goodreads.com/notes/211426719-killed-by-a-traffic-engineer/27372191-josh-thompson?ref=abp). 
 
 Thanks to goodreads, amazon, kindle versions, and the delusion of 'american police', we have the proper quote from the book: 
 
 > In the same 1958 report, AAA says that “it is time that we become concerned with pedestrian violations and unwise walking practices” and then highlights all the progress on this issue in cities like Detroit, which arrested 19,765 pedestrians for crossing against the signal but only 8,662 drivers for violating the pedestrian’s right-of-way. The report noted that San Francisco arrested 165 pedestrians for crossing between intersections as compared to 7,304 drivers arrested for violating the pedestrian’s right-of-way. But don’t let the numbers fool you; San Francisco also arrested 32,968 pedestrians for public intoxication.
 
-Thus, i leave it as an exercise to the reader to infer my opinions for what is sometimes called 'police', in the greater united states.
+Thus, i leave it as an exercise to the reader to infer my opinions for what is sometimes called 'police', in the greater united states. [Here's my thoughts on 'jaywalking']({{ site.baseurl  }}{% link _posts/2024-05-24-jaywalking.md %})
 
 Therefore, because in the USA, where this show is being consumed (even though it's created by a canadian group, and because of the internet, and colonialism, undoubtedly this show is being requested/demanded beyond the united states, so i bet people in countries victimized by american armies get to watch their kids want to watch this show), the origins of 'police departments' was to _deputize the existing slave patrols_. The very concept of deputization is sorta religeous ("here, random person, have a stamped piece of metal. Affix to your shirt, you now have magical powers"), and simply conceeds so much that doesn't justify that concession. ("the state", "authority", "retributive justice", AND THE LIVED EXPERIENCE of people on both sides of that police power, like the story told in [Killers of the Flower Moon](https://www.goodreads.com/notes/201736852-killers-of-the-flower-moon/27372191-josh-thompson?ref=abp))
 
-But to see policing as an extension of slave patrolling, which filled a _desperately needed position in society_ of maintaining the suppression of 'slave rebellions', or 'people of the global majority taking minimum steps slightly reduce the daily oppression of themselves and their loved ones'. 
+not only ought one to appreciate police as slave patrolling, but that this role of slave patroller/deputized slave patroller filled a _desperately needed position in society_. what was that position, that role? maintaining the suppression of 'slave rebellions', also known as 'people of the global majority taking minimum steps to slightly reduce the daily oppression of themselves and their loved ones'. 
 
-So, 'slave patrol' energy is strong in American policing. BUT! In addition to slave patrolling, what other energies got rolled into American policing? Slave patrolling dealt with only one of the two primary fears of european americans. Displacing native populations was also critical to the formation/survival of that group of european-american white-passing immigrants! _Killers of the Flower Moon_, mentioned above, is a good-enough sample of the experience of the people who lived in the greater united states before the immigrants arrived with political authority. For someone else's experience of the same people group, I invite a read of [I Saw Death Coming: A History of Terror and Survival in the War Against Reconstruction](). [here's my kindle highlights](https://www.goodreads.com/notes/61676927-i-saw-death-coming/27372191-josh-thompson?ref=abp)
+So, 'slave patrol' energy is strong in American policing. 
 
-One of the roles a slave patrol would fill is simply _reminding_ people that violence could happen at any time, and no tactic (rebellion, passive resistance, fawning) could make any individual safe from harassment. This is why I don't like to see or hear police (or sirens in general). Every time, it's a proclamation, piercing the air and walls and consciousnesses of everyone around, that the local 'slave patrol' is on the move, getting ready to rough someone up. 
+not only are police slave patrollers. not only were they needed/wanted by american society.
 
-I have identical contempt for fire departments. Their sirens are literally damaging to hear, disruptive, pierce the city for hundreds and hundreds of meters in all directions from their vehicle, they [drive in dangerous and entitled ways](https://www.google.com/search?q=pedestrian+hit+by+fire+truck), and RAM their way through a city with their vehicles, and like children hold to strange tropes about their own profession, and continue to resist efforts at narrower, safer streets, because they're afraid they cannot fit their giant, girthy vehicles into a small space. God forbid they demonstrate skilled driving or drive around with the kinds of vehicles used _in any other place. 
+other energies got rolled into American policing, too. Slave patrolling dealt with only one of the two primary fears of european americans. 
 
-So, this show, "Paw Patrol", constantly venerating the institutions of _slave patrollers_ and _people who do not actually contribute good things to society_ (defund fire departments, fund ambulance riders & libraries/librarians. The vast majority of trips fire departments make in their huge ladder trucks are adequately served by an ambulance) annoys me. 
+Displacing native populations was also critical to the formation/survival of that group of european-american white-passing immigrants! 
+
+_Killers of the Flower Moon_, mentioned above, is a good-enough sample of the experience of the people who lived in the greater united states before the immigrants arrived with political authority. For someone else's experience of the same people group, I invite a read of [I Saw Death Coming: A History of Terror and Survival in the War Against Reconstruction](https://www.goodreads.com/book/show/61676927-i-saw-death-coming). [here's my kindle highlights](https://www.goodreads.com/notes/61676927-i-saw-death-coming/27372191-josh-thompson?ref=abp)
+
+One of the roles a slave patrol would fill is simply _reminding_ people that violence could happen at any time, and no tactic (rebellion, passive resistance, fawning) could make any individual safe from harassment. This is why I don't like to see or hear police (or sirens in general). Every time, it's a proclamation, piercing the air and walls and consciousnesses of everyone around, that the local 'slave patrol' is on the move, willing to mete some coercion, if it feels right.
+
+I have a related contempt for fire departments, by the way. Their sirens are ear-splittingly loud, actually damaging to hear from any proximity, disruptive, pierce the city for hundreds and hundreds of meters in all directions from their vehicle, they [drive in dangerous and entitled ways](https://www.google.com/search?q=pedestrian+hit+by+fire+truck), and RAM their way through a city with their vehicles, and like children hold to strange tropes about their own profession, and continue to resist efforts at narrower, safer streets, because some part of the system acts afraid it might not be able to fit their giant vehicles into a small space. 
+
+God forbid they demonstrate skilled driving or drive around with the kinds of vehicles used _in any other place. 
+
+So, this show, "Paw Patrol", constantly venerating the institutions of _slave patrollers_ and _people who do not actually contribute good things to society_. I say defund fire departments, fund ambulance riders & libraries/librarians. The vast majority of trips fire departments make in their huge ladder trucks are adequately served by an ambulance, *and* are inspired by american highway supremacy, so like three orders of magnitude of improvement would be trivially gleaned.
 
 Not only does paw patrol hold on a giant, childish pedestal the vaunted role of 'first responder', it paints a unbelievable depiction of how the world works. Because kids like animals, and kids shows that depicted (for example) the police brutalizing and assaulting an ethnic group might not do so well. So instead, the police, in Paw Patrol, are involved in things like "rescuing a narwhale that got its horn stuck" or "helping guide a sleepy/hibernating bear back to its den". 
 
 Paw Patrol features a bumbling mayor and some other sinister wanna-be mayor who plays a trope throughout the show that sparks conflict, when the show needs conflict. Eden is generally unable to appreciate that adults would pour their entire lives into hurting others and controlling them, so some of the tropes in the show goes over her head, or lands with confusion. She has no idea what a mayor is, or why someone with that title would behave in the ways depicted in this show.
 
--------------------------
+### Another page of notes
 
-_below are my notes as taken by hand, across various episodes, and days_
-
+_more nnotes as taken by hand, across various episodes, and days_
 
 statist, arrogant, high-modernist drivel. "police are helpful". the world _and nature_ desperately need A WHITE MAN TO TELL EVERYONE WHAT TO DO!!!!! It's an honor to be given a command and to do it joyfully, and if you do it well enough, a white man might tell you 'good job' and scratch you behind the ear _as your payment_. 
 
@@ -348,6 +362,8 @@ the entire mayor motif i think goes over eden's head right now, because she is n
 childlike love of military vehicles portrayed throughout, by the shows creators. Vehicles modeled on v22 osprey, some ocean lander/transport thing, tanks. TANKS!!!!
 
 eden and I talk a lot throughout the show, often enough. Talk about things happening in the show. 
+
+### about the first of TWO MOVIES 
 
 _about Paw Patrol: The Movie_ which is AAAAAAAUUUUUUGGGGGGHHHHHHHHH_
 
@@ -415,8 +431,15 @@ the mom/kids get pulled over by cops, treated as a friend. the cop is _wrong abo
 
 Zero evidence of ppl of the global majority. The normalization of european-american/nobility/suburbanization-of-everything. Cars take us from our house to everywhere else, all activity is at grocery stories, restaurants, arcades, bowling alleys, back yards. 
 
+## In conclusion
 
+Mmm, this thing has been months in the making, perhaps that is clear. Based on when I first started editing this file, it was five months ago that I first started copying down notes, but I think that was after more than one page of notes had been created. 
 
+I really like all things by Studio Ghibli, the movie Suzume, all episodes of Sagwa (available for free on Youtube [here](https://www.youtube.com/watch?v=0skmm0FBl-Q&list=PL3FYWyLTi1sKGbGpK2ZcDHaYyE27ZceXH)). 
 
+For Studio Ghiblie, start with _Ponyo_, _My Neighbor Totoro_, _Howl's Moving Castle_. I hadn't seen or heard of these movies until very recently in my life, I'm so pleased to have encountered them, and the other films made by Studio Ghibli. You're probably not gonna feel the same about _Grave of the Fireflies_ as you do _Totoro_. Be careful, and be warned. 
 
+I dislike Paw Patrol, Bluey, Frozen, in particular, and all Disney in general. _Luca_ is less-bad than most. _Finding Nemo_ is atrotious. 
+
+Settler colonial culture is hurtful to exist inside of, and _more_ hurtful if it exists inside oneself unrecognized. These disliked shows push a message of normalization of the supremacy culture inside of which the shows were made. 
 
