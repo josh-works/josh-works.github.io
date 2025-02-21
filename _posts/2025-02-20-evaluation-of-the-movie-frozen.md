@@ -291,7 +291,9 @@ _eden happens to really like paw patrol. Again, understandable, from a toddler's
 
 [I've written a little/lot about zoning, and how I perceive zoning to be precicely enough how america did/does things that round to ethnic cleansing.]({{ site.baseurl  }}{% link _posts/2020-08-17-1922-atlanta-zoning-plan-with-comments.md %}) 
 
-I wrote the above upon discovering a certain document that is what got enshrined/encoded in Ambler vs. Euclid, in 2926. Virtually every zoning ordinance that exists in America is rooted in some way in that document, in a way that seems clear to me from a few different frames. 
+I wrote the above upon discovering a certain document that is what got enshrined/encoded in Ambler vs. Euclid, in 2926. Virtually every zoning ordinance that exists in America is rooted in some way in that document, in a way that seems clear to me from a few different frames.[^dropping-hashes]
+
+[^dropping-hashes]: In the world of software, one encounters fancy identification labels called 'guids' or Globally Unique ID. It might look like `19e38c497fa028936823325fb6a57f25142f25152f5b086882c0fa38ab885538d364ffd8941cde001033b4d99d4fc5f35ea66d08d060fb6dd959b3d36f518e04` or in more likelihood, it'll look like `9542e1b6-a78b-4b11-8a01-16d1a8adf642`. If you google the first of those 'magic strings' you'll find a really specific blog post by Patio11 titled ['dropping hashes: an idiom used to demonstrate provenance of documents'](https://www.kalzumeus.com/essays/dropping-hashes/). If you google the second one, you'll find nothing. Also common in software are 'magic strings'. Some strange little string that keeps showing up in different places. Maybe it's the logs, maybe the codebase. Maybe it's '35ft' or `5000sq` or `16 dwelling units per acre` but when you see it first show up in one place, then another, they might be linked. The person who invented zoning _desperately wanted to live in a supremacist enclave and wanted to keep people of the global majority in ghettos, and was pretty damned successful._
 
 So, it's not _exclusively_ american, but it's some distillation of something representing the ideas of european-american-passing decendents of immigrants, and their idealized sense of social control, or whatever.
 
@@ -435,11 +437,23 @@ Zero evidence of ppl of the global majority. The normalization of european-ameri
 
 Mmm, this thing has been months in the making, perhaps that is clear. Based on when I first started editing this file, it was five months ago that I first started copying down notes, but I think that was after more than one page of notes had been created. 
 
-I really like all things by Studio Ghibli, the movie Suzume, all episodes of Sagwa (available for free on Youtube [here](https://www.youtube.com/watch?v=0skmm0FBl-Q&list=PL3FYWyLTi1sKGbGpK2ZcDHaYyE27ZceXH)). 
+[I really like all things by Studio Ghibli](https://josh.works/recommended-reading#studio-ghibli), the movie Suzume, all episodes of Sagwa (available for free on Youtube [here](https://www.youtube.com/watch?v=0skmm0FBl-Q&list=PL3FYWyLTi1sKGbGpK2ZcDHaYyE27ZceXH)). 
 
-For Studio Ghiblie, start with _Ponyo_, _My Neighbor Totoro_, _Howl's Moving Castle_. I hadn't seen or heard of these movies until very recently in my life, I'm so pleased to have encountered them, and the other films made by Studio Ghibli. You're probably not gonna feel the same about _Grave of the Fireflies_ as you do _Totoro_. Be careful, and be warned. 
+For Studio Ghibli, start with _Ponyo_, _My Neighbor Totoro_, _Howl's Moving Castle_. I hadn't seen or heard of these movies until very recently in my life, I'm so pleased to have encountered them, and the other films made by Studio Ghibli. You're probably not gonna feel the same about _Grave of the Fireflies_ as you do _Totoro_. Be careful, and be warned. 
 
 I dislike Paw Patrol, Bluey, Frozen, in particular, and all Disney in general. _Luca_ is less-bad than most. _Finding Nemo_ is atrotious. 
 
 Settler colonial culture is hurtful to exist inside of, and _more_ hurtful if it exists inside oneself unrecognized. These disliked shows push a message of normalization of the supremacy culture inside of which the shows were made. 
+
+## Recommended Reading
+
+- [Killers of the Flower Moon](https://www.goodreads.com/book/show/201736852-killers-of-the-flower-moon) [my highlights](https://www.goodreads.com/notes/201736852-killers-of-the-flower-moon/27372191-josh-thompson?ref=abp)
+- [I Saw Death Coming](https://www.goodreads.com/book/show/61676927-i-saw-death-coming) [my highlights](https://www.goodreads.com/notes/61676927-i-saw-death-coming/27372191-josh-thompson?ref=abp)
+- [fearing the black body](https://www.goodreads.com/book/show/42129163-fearing-the-black-body)
+- [how to hide an empire](https://www.goodreads.com/book/show/41725763-how-to-hide-an-empire)
+- [spare the child](https://www.goodreads.com/book/show/1335495.Spare_the_Child)
+
+my gosh there's more but that'll do for now.
+
+## Footnotes
 
