@@ -124,19 +124,17 @@ Here's a recap of my journey into scooting:
 8. I'd forgotten that I'd ridden a 50cc scooter in Greece once, as a rental to get around the island of Kalymnos for climbing, and hated how loud it was, and it didn't feel safe, especially with a passenger and a hill and their bucket style helmets. Hated the noise and how slow it was, especially on steep hills. Greece has plenty of steep hills, but so does Golden. 
 9. so, I drove myself to [sportique scooters](https://maps.app.goo.gl/v7ZyNbfzCBSrukMp9) and rode a few scooters around. A few days later, I purchased a brand new Genunie Buddy 125. It looked identical to the Turquoise scooter in the picture earlier in this article.
 10. I rocked that scooter for a year or so and many miles, eventually started riding it to and from Denver once or twice a week, when I got a job at a company that had the option of using an office. 
-11. Eventually it got stolen (sorta my fault) and recovered but not ridable. I replaced it with a larger scooter, and it was all over for me. This was the best vehicle I'd ever encountered, it unlocked an unbelievable amount of enjoyable experiences..
+11. Eventually it got stolen, I replaced it with a larger scooter, my current scooter, $3200 brand new, and my life was changed. This was the best vehicle I'd ever encountered, it unlocked an unbelievable amount of enjoyable experiences. (I won't make the mistakes again that led to the theft. I'd not locked the steering column, and I'd left it in a low-visibility corner of a parking lot at a climbing gym. Eventually I got footage from a security camera, someone walked it away from where I parked it and rolled it up a ramp into a box van, and it was gone. I now lock the steering column all the time, and park it next to big windows where it's visible from inside the building)
 
-Lets talk about them.
-
-That was summer of 2020, and began a huge shift for my life. 
+It was the summer of 2021, that I got my first scooter, after biking around town exclusively and finding some things about it lacking, and so began a huge shift for my life. 
 
 Originally, I rode this 125cc scooter around Golden, exclusively. Mostly where I rode my bike. I figured out how to ride safely with traffic, and had a TON of fun finding all the places I could go with the scooter. 
 
 I subsequently got a job in Denver, and at least some times would ride my scooter from Golden, to Denver, and back.
 
-That commute was where I really squared away a lot of details, a lot of beta, for getting a lot of usage out of this sort of vehicle. 
+That commute was where I really squared away a lot of details, a lot of beta, for getting a lot of usage out of this sort of vehicle. The 125cc scooter was not quite up to the task, in ways I didn't fully appreciate until being forced to get a different scooter (theft!) and I got a 170cc scooter with slightly larger tires. It made all the difference.
 
-Eventually, the scooter got stolen. Like a fool, I'd not locked the steering column when I left it outside a climbing gym, and someone had been driving by in a box truck, spotted it, parked, and simply rolled the scooter into the back of the van and drove off. I eventually recovered the vehicle, but it had been hotwired, the seat was broken open, and then the main problem was it was crashed, so the front forks were damaged.
+I'd not locked the steering column when I left it outside a climbing gym, and someone had been driving by in a box truck, spotted it, parked, and simply rolled the scooter into the back of the van and drove off. I eventually recovered the vehicle, but it had been hotwired, the seat was broken open, and then the main problem was it was crashed, so the front forks were damaged. It ended up at the denver police vehicle impound lot, supposedly someone was arrested while riding it, but it was heavily damaged and unridable when I got it at the police impound lot, so who knows what happened. 
 
 I replaced it with a 170cc scooter with larger tires and a little more weight and suspension. This instantly made my commute from Golden to Denver _much_ more comfortable and safe. 
 
@@ -199,23 +197,28 @@ Free use of parking garages. You can ride around the gate or through a pedestria
 
 ## Scooters are vastly safer than bicycles
 
-I'll also mention motorcycle comparisons sometimes too, as 
+I'll also mention motorcycle comparisons sometimes too, after comparing scooters and bicycles. I have so many friends in Denver that ride bicycles, and then will say they're not 'brave enough' to ride a scooter. 
 
-- all forms of signaling to other road users on a bicycle is challenging. sometimes it's nice to have a brake light and turn signals. on a bicycle, if I'm slowing and making a right-hand turn, I cannot signal to anyone else that I am slowing down, *and* I have to remove a hand from the handlebar *and* the brake lever, to wave about what direction I'm turning, and then I have to do the turn.
-- on a scooter, I can toggle the turn signal with my thumb, which stays on until I turn off the turn signal. I have automatically activated brake lights, like a car. I can signal braking and turning to everyone around without taking a hand off the handlebar, or even thinking about it, and it's extremely visible, during the entire turn, to people ahead of me and behind me, what I am doing. 
-- Scooters have a low center of gravity and more mass than a bycycle, so adding another person to a scooter feels much less challenging than a person on a bicycle. 
+I'm always shocked - riding a bike around an american city, and thus having to share car infrastructure, or use the bike infrastructure if it's available, seems terrifying to me. 
+
+- all forms of signaling to other road users on a bicycle is challenging. sometimes it's nice to have a brake light and turn signals. on a bicycle, if I'm slowing and making a right-hand turn, I cannot signal to anyone else that I am slowing down, *and* I have to remove a hand from the handlebar *and* the brake lever, to wave about what direction I'm turning, and then I have to do the turn. 
+- on a scooter, I can toggle the turn signal with my thumb, and the turn signal that faces forward and backwards stays on until I turn it off. I have automatically activated brake lights, like a car. I can signal braking and turning to everyone around without taking a hand off the handlebar, or even thinking about it, and it's extremely visible, during the entire turn, to people ahead of me and behind me, what I am doing. 
+- Scooters have a low center of gravity and more mass than a bycycle, so adding another person to a scooter feels much less challenging than a person on a bicycle. It was intimidating, but I once carried a 180lb friend AND 50 lbs of his stuff, plus me, on my scooter. 
 - Scooters have built in headlights and high beams, and built in power systems for those lights, and they are not removable, so there's no theft risk of leaving the lights on your scooter when not at the scooter, and there's never a time when you might want to use the vehicle but won't have lights with you. 
 - Scooters can get up to speed and take space in a lane that mimics a motorcycle, and cars don't even consider trying to overtake a scooter, like is common on a bicycle.
-- Scooters have incredible stability, really hard to appreciate until riding one around and then a bicycle in short order
-- Scooters have no shifting, it's simpler than riding a bike with gears. No peddling, either. All of your attention can go to _easily_ navigating the environment, vs the complication of dealing with shifting. Motorcycle shifting is notoriously challenging (there's memes around trying to know what gear you're in, and getting it wrong), and involves three mechanisms (clutch, shifter, throttle) that need to be used in careful coordination, and getting it wrong can negatively affect your safety and comfort. 
-- Scooters carry most added weight low (backpack on floor boards, for instance), next to 12" tires, instead of high, like above the seat on 26" tires. 
+- Scooters have incredible stability, really hard to appreciate until riding one around and then a bicycle in short order.
+- Scooters have no shifting, it's simpler than riding a bike with gears. No peddling, either. All of your attention can go to navigating the environment, vs the complication of dealing with shifting, peddling. 
+- Scooters carry most added weight low (backpack on floor boards, for instance), next to 12" tires, instead of high, like above the seat on 26" tires. I remember how the bicycle balance would change if I put 20 lbs of gear on the front basket. I can put 60 lbs on the floorboards of my scooter and nothing about the handling changes.
 - Scooters allow for both feet to easily be placed on the ground when stationary, and you can begin applying throttle while feet are still on the ground (again, unlike a bicycle)
-- 
+
+
 
 
 ## Scooters are vastly safer than motorcycles
 
-Scooters have a continuous variable transmission, that is operated exclusively by a twist throttle on the right hand. There's no clutch, there's no shifting mechanism, there's no shifting up or down.
+I am quite comfortable and happy with scooters, and often enough notice when people think that I must also feel positively about riding motorcycles. Nothing could be further from the truth. I am afraid of them, I don't like them (either to ride on them or, in the USA, to have them ride near me) and I don't anticipate ever riding one again. I rode a motorcycle when taking a Motorcycle Rider's Safety Course, to get my motorcyclist endorsement on my license.
+
+To operate a motorcycle, one needs to use a throttle in conjunction with a shifter, in conjunction with a clutch. Scooters have a continuous variable transmission, that is operated exclusively by a twist throttle on the right hand. There's no clutch, there's no shifting mechanism, there's no shifting up or down. Motorcycles will consume ten times the congnitive resources to move smoothly, which leaves vastly less time and attention to attend to other things, like other car drivers and road conditions. 
 
 Scooters have a very low center of gravity compared to a motorcycle. This is particularly relevant when pushing around on the scooter on legs, while getting in and out of parking spots and such. 
 
