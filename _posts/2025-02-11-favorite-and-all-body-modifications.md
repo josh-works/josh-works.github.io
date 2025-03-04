@@ -73,7 +73,7 @@ Options for male birth control have been popping up, like [RISUG](https://en.wik
 
 I got a vasectomy as a step in the direction of carrying more of the responsibility than I was before of not getting anyone pregnant. It's a big deal to decide to 'not have more kids', perhaps, but it's a big deal to 'have another kid'. In 2025, having _any_ children feels enormously delicate, risky. 
 
-If everyone has a clean and recent STI panel, the remaining reason for condoms is the REALLY CRITICAL ISSUE of not getting pregnant. Huzzah for improved margins of safety. 
+If everyone has a recent-enough STI panel and discussed it, the remaining reason for condoms is the REALLY CRITICAL ISSUE of not getting pregnant. Huzzah for improved margins of safety. 
 
 I have a friend of a friend whose then-partner lied to him about taking birth control, and intentionally, without his permission, became pregnant by him. Horrifying. There's lots of good ways of not getting pregnant, and most of them seem fully, unfairly, on the shoulders of the person who has the uterus. Also, if one _gets_ pregnant and wants to be not pregnant, all options are stressful. Having Plan B on hand seems reasonable, and of course I'm an all-the-way supporter of access to easy, skilled, ideally _free_ abortions, too. It is noteworthy to me that the catholic church made a HUGE deal of making sure birth control/pregnancy management was as unavailable to it's people as possible.
 
