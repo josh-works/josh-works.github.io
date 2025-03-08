@@ -19,7 +19,7 @@ _These pages serve as a brief overview of a paper, and I'll be able to link to t
 
 ## Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes
 
-[Paper on arxiv.org, PDF available for free therein](https://arxiv.org/abs/0812.4360), or [here](/_data/papers/Driven_by_compression_progress.pdf).
+[Paper on arxiv.org, PDF available for free therein](https://arxiv.org/abs/0812.4360), or [here](/assets/Driven_by_compression_progress.pdf)
 
 Here's the paper abstract, lightly reformatted for readability:
 

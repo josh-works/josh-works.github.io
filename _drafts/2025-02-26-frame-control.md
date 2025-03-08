@@ -14,7 +14,10 @@ issue_id: 98
 
 I've long wanted to have a definitive place where I can explain why I keep thinking of/referencing this thing I call, others call, 'frame control'. 
 
-It's tricky. When it's being experienced unpleasently, it often-enough mimics tactics of verbal abuse and emotional neglect. 
+It's tricky. When it's being experienced unpleasently, it often-enough mimics tactics of verbal abuse, and/or emotional neglect. It's worth adding the lense of dynamic of 'existing power dynamic' as well.
+
+A parent saying:
+
 
 Some people unintentionally 'use' frame control to try to achieve a certain outcome on a certain topic. It's 'just' slightly coercive conversation, at it's lightest, maybe.
 
@@ -53,6 +56,11 @@ Of course, at this point it's obvious that a collaborative outcome isn't in the 
 Once one is willing to look at the shape of a conversation to see if it feels like the other person is being collaborative, or aiming to evade and dominate, it becomes _very tiring_ to be in the latter kind of conversation. 
 
 The frame controller is trying to prevent new information from impacting their way of viewing things
+
+## examples of frame control
+
+
+
 
 ## On Verbal Abuse vs. Emotional Abuse
 

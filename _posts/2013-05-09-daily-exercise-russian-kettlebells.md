@@ -15,7 +15,11 @@ meta: {}
 permalink: daily-exercise-russian-kettlebells
 ---
 
-Exercise. It makes most people either cringe or salivate.
+"Exercise". 
+
+It makes most people either cringe or salivate.
+
+_note: 12 years after writing this post, [I wrote another big update about kettlebells]({{ site.baseurl  }}{% link _drafts/2025-02-27-kettlebell-swings-and-sprints.md %})_
 
 Those of you who love exercising for the sake of exercising - you can stop reading now. This information is probably not relevant to you.
 
@@ -30,6 +34,8 @@ For most of the last six years any time I exercised, it was to get better at cli
 I hated being miserable, even though the feeling that comes after running (and sometimes during) is not so bad. Besides, I climbed. I did not need any more life-consuming sports.
 
 ![my kettlebell setup](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_5586fe4fe4b0278244ce9f71_1434910432064_pic-05062013-005.jpg_)
+
+This is 55 lbs, though it might look a lot heavier.
 
 Well, I still climb, but now my training is broken down between occasional weekends spent climbing, and the rest of the time training about ten minutes every other day for either climbing or "general exercise".
 
@@ -47,7 +53,7 @@ I swung by Home Depot, and bought the necessary pipe fittings.
 
 There are plenty of [good tutorials](http://www.youtube.com/watch?v=Zq9Yxn5a9D8) on how to build your own kettlebell, so I won't go through it here. One note, however, is this: I originally used 4" pipe nipples, but the handle was so large I was hitting my legs when I was doing the swings, so as you can see, I used 3" pipe nipples. (Stop giggling)
 
-![pipe nipples](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_5586fe4fe4b0278244ce9f74_1434910432154_pic-05062013-010.jpg_)]
+![pipe nipples](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_5586fe4fe4b0278244ce9f74_1434910432154_pic-05062013-010.jpg_)
 
 I had weight plates from high school, so I didn't have to try to scrounge those up, but I'm sure that with a little checking around Facebook or Craigslist, you could find someone willing to give you (or sell you for very cheap) the weight plates. I have 55lb on mine, and I don't have any desire to make it any heavier, yet.
 

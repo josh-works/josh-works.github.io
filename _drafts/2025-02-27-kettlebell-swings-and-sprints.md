@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "Kettlebell Swings and Sprints"
+title: "Barefoot Sprinting Up a Grassy Hill, & Kettlebell Swings"
 published: false
 description: "I've gotten a lot more than I expected from these activities, here is the story"
 date:  2025-02-27 06:00:00 -0700
 categories: [movement]
-tags: [climbing, running, kettlebell_swings]
+tags: [climbing, running, kettlebells, exercise]
 permalink: /kettlebell-swings-and-sprints
-issue_id: 99
+issue_id: 98
 ---
 
 ## Introduction 
 
-I've been dual-tracking the two topics in this piece, kettlebell swings and sprints, but because of how text works, I must discuss one of them first, and one of them second. I've been hustling the kettlebell swings hard lately, as an extremely specific and helpful climbing training action, lately. As usual, I've got a page or three of paper notes that I've put together across time, and am now bringing it to here and organizing it.
+A few months ago, maybe in November, certainly by December, I began this 'barefoot sprinting up grassy hills' thing I'm going to talk about. Shortly after I started, I began making use of the kettlebells I'd usually ignored at the gym(s) I have access to. 
+
+I've been dual-tracking in time the two topics in this piece, kettlebell swings and sprints, but because of how text works, I must discuss one of them first, and one of them second. 
+
+I've been hustling the kettlebell swings hard lately, as an extremely specific and helpful climbing training action, lately. As usual, I've got a page or three of paper notes that I've put together across time, and am now bringing it to here and organizing it.
 
 Many years ago, I [wrote my first piece about kettlebell swings]({{ site.baseurl  }}{% link _posts/2013-05-09-daily-exercise-russian-kettlebells.md %}). 
 
@@ -23,6 +27,10 @@ I still stand by that piece, and regularly since then have made kettlebell swing
 In case this information makes it incrementally more likely that any reader harvests any of the same nice things, here's all of my beta. I try to [write things when it's first coalecing in my mind]({{ site.baseurl  }}{% link _posts/2021-10-05-write-it-now.md %}), and this current piece is no exception. 
 
 ## Kettlebell Swings
+
+TODO: Add video of 2-handed swings.
+
+[here's a link to an album containing two videos - two-handed swings, reps 80-100, with a 75 lb kettlebell, and one-handed at 55 lbs](https://photos.app.goo.gl/WDmZQuUpPWGmMRPh6)
 
 The blog post [about kettlebell swings I wrote now 12 years ago]({{ site.baseurl  }}{% link _posts/2013-05-09-daily-exercise-russian-kettlebells.md %}) is still a good-enough starting point. 
 
@@ -66,93 +74,121 @@ I weigh 140lbs and started with a 55lb kb, then 65, then 75, then 88. Spent a fe
 
 I do between 60 and 130 reps of two-arm swings, and started with like ten reps of one-arm swings, then 20, 30, and have not done more than 40 in a session so far. 
 
-### One-handed kettlebell swings
+### an unexpected variation: One-handed kettlebell swings
 
-I started one-handed swings because when I went to the gym, the 60, 65, and 75 lb kettlebells were in use. So I grabbed the 55, and thought "i bet I can still get a version of the exercise I want". Oh, wow, was I correct.
+I've got a video of me doing one-handed kb swings [here](https://photos.app.goo.gl/WDmZQuUpPWGmMRPh6)
 
-It feels so stability-encouraging, because of it's assymetric nature. I could feel my spine and the mucles along it, and the entire "box" of my upper body (sides, front, back, bottom of my core). My forearms and hands were quite nicely stressed by the effort - I could feel the familiar sense of fatigue in the muscles/connective tissue inside of my hands, the fleshy part of my thumb, I could feel fatigue and stress in the middle bone of my fingers (not the bone in the tip, not the bone connecting to the palms. The one inbetween.)
+I started one-handed swings the very first time on accident, because when I went to the gym, the 60 and 75 lb kettlebells were in use. So I grabbed the 55, and thought "i bet I can still get a version of the exercise I want". 
+
+Oh, wow, I was correct.
+
+It feels so stability-encouraging of my toros, back, spine, 'the box' of the upper body, because of it's assymetric nature. 
+
+I could feel my spine and the mucles along it, and the entire "box" of my upper body (sides, front, back, bottom of my core). 
+
+My forearms and hands were quite nicely stressed by the effort - I could feel the familiar sense of fatigue in the muscles/connective tissue inside of my hands, the fleshy part of my thumb, I could feel fatigue and stress in the middle bone of my fingers, too. not the bone in the tip, not the bone connecting to the palms. The one in between. How nice.
+
+I could feel sensation from the muscles along my spine all that night and the next day - nothing felt painful or damaged, AND I could tell the entire system had been thoroughly stressed. It felt so good.
 
 I could feel my rib intercostals and so many stabilizing muscles that night, feeling so sore and happy as I crawled into bed and went to sleep. I've had that feeling in my body now _every time_ I've done KB swings, and usually carry perceivable fatigue into the next day, but it's partially because I'm increasing the 'work' that I do every session. 
 
 Once I started one-arm swings, I'd do five reps at a time, per side. I started at 55lbs, then went to 60 a few times, tried 45 lb swings once, liked it, and will probably keep upping the reps and weight as it feels good. 
 
-### Kettlebell Swings and Climbing
+I'll slowly ease the rep count up, and sets. I started with 5 reps per side, then did 8, then reduced the weight and went to ten reps per side, and maybe 40 swings total. 
+
+### an unexpected crossover: Kettlebell Swings and Climbing
 
 I noticed lots of kb-swing-related soreness while climbing. Some climbing move would feel very sensory-rich because of how it was interacting with soreness recepters. 
 
 The soreness in my hands after the KB swings is similar to the soreness in my hands after squeezing fruit in my palm while pulling 
 
-### upgrades/modifications of the kb swing
+## upgrades/modifications of the kb swing
 
-Once doing a little with a two-armed kb swing, I found myself doing a bit more
+Once doing a little with a two-armed kb swing, I found myself doing a bit more. 
 
-- 'suitcase carry'. Hold a kb that's like 1/3rd your body weight while standing around, or stretching, or shifting weight and doing bodyweight squats and stretches and stuff. Switch it back and forth between your hands often. I started with like 4 minutes of holding it, while moving around. The one-arm weight/motion is very interesting. 
-- after a 45 lb suitcase carry, a 55lb one-arm kb swing isn't such a leap. 
-- try to move slowly under/around the kb. Think doing light yoga while holding a kettlebell. mega challenging, interesting.
+- Hold a kb that's like 1/3rd your body weight while standing around, or stretching, or shifting weight and doing bodyweight squats and stretches and stuff. Bounce on the toes. Switch it back and forth between your hands often. I started with like a small number of minutes of holding it, while moving around. The one-arm weight/motion is very interesting, both while moving around or perhaps while remaining very still.
+- after a 45 lb suitcase carry, a 55lb one-arm kb swing isn't such a leap, even though at first I surprised even myself with how much I could move with the single-armed swing.
+- try to move slowly under/around the kb. Think doing light yoga while holding a kettlebell. mega challenging, interesting. 
 
-### kettlebell swings and sprints
+So much for kettlebells. These have been something I've been doing regularly now for a few months. The same length of time that I've been doing this sprinting thing...
 
-I noticed lots of overlap between the kettlebell swings and sprints, of course. 
+## Barefoot Grassy Hill Sprints In The Park
 
-I didn't expect the fatige in my shoulders/arms from the kettlebell swings to be felt so strongly while sprinting. 
+I started these sprints I am about to describe before I restarted the KB swings. 
 
-## Sprints
-
-I actually started SPRINTS before I started the KB swings. The sprints had been going great for maybe two weeks, and then one of the times I walked past the kettlebells, I was like 'my back and legs are already feeling great, maybe i'll be able to do kettlebell swings without feeling terrible the next day.' 
+The sprints had been going great for maybe two weeks, and then one of the times I walked past the kettlebells at the gym, I was like 'my back and legs are already feeling great/tired, maybe i'll be able to do kettlebell swings without my back feeling terrible the next day.' 
 
 I was right. 
 
 Anyway, here's free-associating through sprints, as recorded in a paper notebook across a few days:
 
-it started with 'grounding'. A friend told me about it years ago, I've heard about it before. Another friend that I'd meet at Cheesman to throw a frisbee talked about it as he was taking his shoes off on a warm day. 
+- The idea originally had nothing to do with "running". it started with 'grounding'. A few friends have spoken in some length about grounding, over the years, the idea always seemed plausible, and I never did any particular action in response to it. years later, another friend that I'd meet at Cheesman Park, throwing frisbee, talked about it as he was taking his shoes off on a warm day in the fall, a few months ago.
 
-I thought 'what a reasonable idea' and started going barefoot often-enough when the weather was nice and we were throwing a frisbee, but usually never took more than a few lazy steps at a time to catch a disk, while barefoot.
+I thought 'what a reasonable idea', as I took my own shoes/socks off and went barefoot for the rest of the frisbee throwing session. Eventually, I started going barefoot often-enough when the weather was nice and we were throwing a frisbee, but usually never took more than a few lazy steps at a time to catch a disk, while barefoot.
 
-So, like I mentioned, years ago I took a gnarly back injury and basically have not run since then, and for a long time could barely walk. Then even short walks would wreck me. 
+relevant: years ago (2020) I took a gnarly back injury and basically have not run since then, and for a long time could barely walk. Then even short walks would wreck me. Shortly before the injury, I'd run the Leadville Trail Marathon, and was climbing, so I was pretty abled, and the difference was profound. Deserves it's own blog post or two, some time. As I think on it, it really changed me, the time of that injury, the things I experienced immediately afterwards. 
 
-I remembered that once I ran barefoot after reading [born to run]() maybe in 2009. That was the one and only time I'd run barefoot. But I remembered my calves being absolutely wrecked, after maybe a one or two mile barefoot run in a park.
+also relevant, years before that injury, after reading the [Born to Run](https://www.goodreads.com/book/show/6289283-born-to-run) book that made the rounds, maybe in 2009 or 2012 or whenever. That was the one and only other time in my 35 years I'd done a specific 'barefoot run', for like 12 minutes, on a patch of grass at a park. My calves were DESTROYED, even though it was a short run, and I was used to long runs in normal shoes. I never ran barefoot again, but the memory stuck with me.
+
+So, back to 2024...
 
 I don't have running shoes, and didn't want to have to obtain another pair. 
 
 I also know that walking up a hill is lower-impact on the body than a level surface or down a hill.
 
-I also know that walking on grass is lower-impact than walking on asphalt, concrete, or dirt.
+I also know that walking on grass is lower-impact than walking on asphalt, concrete, or dirt. It's gentle on the skin.
 
-So, I figured if I ran, or even _sprinted_, with a strong body position, _up a hill_, _on grass_, _while barefoot and on the balls of my feet_, and went only short distances, while doing _lots_ of walking or standing around, I might not injure my back. 
+So, I figured if I ran, and even _sprinted_, with a strong body position, _up a hill_, _on grass_, _while barefoot and on the balls of my feet_, and went only short distances, while doing _lots_ of walking or standing around, I might not injure my back, and might find it [interesting enough](({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %})). 
 
-I was right. 
+I was right. It was all sorts of interesting, enjoyable, peaceful. I'm calling this 'sprinting', but it also involved plenty of 'meandering back from whence I sprinted at a very, very leisurely pace'.
 
-So, I started with a short distance, usually only the distance I could run while holding a single breath, or maybe two. 
+I started with a short distance and a gentle but fast run. More than ten paces, probably less than 20, usually only the distance I could run while holding a single breath, or maybe two, because breathholding and nasal breathing. It's a hold-over, always-running script in my brain. Ensuring I'm breathing through my nose, and sometimes holding my breath, or breathing in a very controlled way. 
 
-Sprint sprint sprint, then walk, lazily, back to where I began, then walk around a little more, then sprint sprint sprint, repeat. 
+Sprint sprint sprint, then walk, lazily, back to where I began, then walk around a little more, then sprint sprint sprint, repeat. It is vanishingly rare that I begin a sprint while still breathing hard, at all, from the prior sprint, and I usually let plenty of time elapse _after_ my breath has all the way slowed down again. 
 
 That was the routine, and it's been extremely rewarding.
 
-### These sprints up a hill vs. distance running
+TODO: create photo album, link to convey the gist of the vibe of the sprint/walk things
 
-So much about the experience compares/contrasts with running. I like easy things, and tend to do more of something if it's easy than if it's difficult. Here's ways this sprinting thing is easy:
+### These "sprints" vs. distance running
 
-It's barefoot, and I'm always close to where I start, so I can show up wearing 'regular' shoes, normal clothing, with a backpack, coffee, and more. Drop the bag, take off the outer layer of cloathing (i'll have shorts or leggings under my pants, pretty much all the time, in the winter), take off shoes and socks, and I'm ready to run.
+I'm appreciating how uneasy I am naming things sometimes, and 'sprints' is making me uneasy. It's emphasizing the wrong thing. Alas.
 
-I started this in the winter in colorado, so there's plenty of sunny days, and as long as there's not snow on the ground, I'll run. I've run barefoot in as cold as like 21 degrees farenheight. Only because the sun was out. 
+So much about the experience compares/contrasts with running. I like easy things, and tend to do more of something if it's easy than if it's difficult. 
 
-Again, some of the 'value' of the sprints to me isn't even the sprinting, it's the walking around on the ground barefoot, so cold, wet ground still counts as 'nice'. It's like a tiny little ice bath. 
+Here's ways this sprinting thing is easy:
+
+It's barefoot, and I'm always close to where I start, so I can show up wearing 'regular' shoes, normal clothing, with a backpack, coffee, and more. Drop the bag, take off the outer layer of cloathing (i'll have shorts or leggings under my pants, pretty much all the time, in the winter), take off shoes and socks, fold it all neatly in the grass/under a tree and I'm ready to run.
+
+TODO photo of pile
+
+I started this in the winter in colorado, so there's plenty of sunny days, and as long as there's not snow on the ground, I'll run. I've run barefoot in as cold as like 21 degrees farenheight. Only because the sun was out, and there was no snow.
+
+Again, much of the 'value' of the sprints to me isn't even the sprinting, it's the walking around on the ground barefoot. Sometimes it's cold, or the ground is wet in different ways. wet ground still counts as 'nice'. It's like a tiny little ice bath, when it's snow melt or recently frozen. Like I said, I prefer comfort, and I usually run in dry, warm grass, but there's a blob of trees where I run, and I sometimes interact with the shadow, which keeps ice/swow longer than the spot in the sun. 
 
 The hill I run up is south-facing, and because it's sloped, water flows off it, so it dries out really quickly after snow, and becomes very usable very quickly, even when lots of the rest of the ground is covered with snow.
 
-Having my backpack with water in it, coffee, coats, extra layers, makes it convenient even in the winter. 
+Having my backpack with water in it, coffee, coats, extra layers, makes it convenient even in the winter. Since I ride my scooter even in the cold, I'm accustomed to having a pair of leggings (that I can run in) under whatever pants I'm wearing that day anyway. 
 
-I warm up by sometimes moving at a walking speed, but doing 'high knees' or doing a slow, 'in place' jump on each leg. 
+I warm up by sometimes moving at a walking speed, but doing 'high knees' or doing a slow, 'in place' jump on each leg. It can look sorta like skipping. It can 'build' towards you doing something that looks like running through thigh-deep water. 
 
-My goal was always to simply stress enough that I'd feel it the next day, the bottoms of my feet. If I'm feeling 'strong and fresh', I would increase the intensity of the exercise. 
+My goal was always to simply stress enough that I'd feel it the next day, _on the bottoms of my feet_. It wasn't an aerobic workout, it wasn't a leg workout. I'll never forget how much a 2-mile barefoot run did me in, when I let myself run barefoot with my normal distance running form, in high school.
 
-Eventually I started jogging slowly back to the start, sometimes, and immediately would sprint again. Or I'd walk back, walk some more, walk even more, stand stationary for a bit, and then sprint again. 
+The first session I did a low number of trips up the hill and back, I stopped while I felt fine and fresh, and I reflected 'this small amount of movement is still more than I've had for a while'. It felt great, and as importantly, felt great the next day. Since I was at the park again anyway, throwing frisbee with a friend, I did some more 'sprints' up the hill. 
 
-I might hop on the balls of my feet, bouncing with two feet and then landing on one foot, to try to catch as much force as I could on each side. I could feel the gentle soreness the next day, always. 
+I'm a curiosity-driven person, I don't know if that comes across as why these sprint things are so interesting to me. 
+
+Eventually, I started jogging slowly back to the start, sometimes, and immediately would sprint again. Or I'd walk back, walk some more, walk even more, stand stationary for a bit, and then sprint again. 
+
+After my sprints, to continue with the theme of applying impulse to the balls of my feet, I would/will hop on the balls of my feet, bouncing with two feet a few times and then landing firmly on one foot, to try to catch as much force as I could on each side. I could feel the gentle soreness the next day, always. 
 
 I'd always evaluate how I felt _the next day_, and never pushed anything 'hard' or 'got worked' or anything, still have not, in any particular session.
 
-Some people would mention running barefoot where there are dogs. Usually dogs pee and poop (and it gets cleaned up) along the main walking paths, not the middle of nowhere. Since I'd run/re-run the same spot of ground, I get a sense for how clean it was. Sometimes I see dog piles and avoid them. If I wanted I might bring bags and clean them, but it's not been an issue. The whole surface gets cleaned regularly by the dew cycle every day, then by baking in the sun, or getting snow and then melting. 
+
+
+Some people would mention running barefoot where there are dogs. 
+
+Usually dogs pee and poop (and it gets cleaned up) along the main walking paths, not the middle of nowhere. Since I'd run/re-run the same spot of ground, I get a sense for how clean it was. The vast majority of the sessions, I see zero shits. Sometimes I see one/more dog piles and avoid them. If I wanted I might bring bags and clean them, but it's not been an issue. The whole surface gets cleaned regularly by the dew cycle every day, then by baking in the sun, or getting snow and then melting. 
 
 It feels so good in the balls of my feet, the arches, calves, supporting structures. I have found tons of interestingness in the simple observation and sensation of the soreness. 
 
@@ -188,11 +224,35 @@ I feel light on the wall.
 
 the one-arm swings + sprints helped me feel the intense usage of arms/shoulder girdle/the sides/front/back/bottom of the 'box' of my core. (Do not neglect the bottom of the box of the core! Kegles!)
 
+
+
+## Update from 2 weeks after drafting the above
+
+I'm still quite pleased. I did some large walks on concrete, amidst some of the prior exercise, and I felt much stronger, most of the time, than usual. I think it would have been too many miles if I hadn't been getting stronger.
+
+I did two seven-mile days and a five mile day, all back to back.
+
+I got a slight over-use tendon sensitivity on one of my feet. There was, and to a much lesser degree still is, pain around the movement of lifting my right toe, entirely coherent with a regular walking motion. I modified my gait a little, when it was really bad, and didn't use it until it felt mostly better, and I've been easing back into using it. It was hurting quite appreciably for a few days, and now five days later it's still delicate and I retain some of my accommodations. Sooo I wish I hadn't done that to myself. There was a day after the big huge days of walking where I thought "hmm, this feels like it is damaged" and I went on a bit more of a barefoot walk in Cheesman than I wish I had. That night is when I realized it was pretty sensitive. The toe looks/feels like a bruise along the top of it, close to what it would feel like if the nail had been beaten into the nail bed (like after a long run, something I experienced often enough marathon training).
+
+Truly, this is the only pain of substance I've experienced. All the rest of the pain has been pain of _interest_, where I note slight sensitivities and sorenesses as I move around, in certain ways, body positions, motions, and it's all, still, interesting. I appreciate how I've felt pleasent stress inside of my knee, the tops of the shin bones. Feels like I'm building stronger knees and ankles.
+
+The sprints _still feel worthwhile_, and the time walking/bounding barefoot continues to be time very well spent.
+
+The kettlebells, a few notes:
+
+- some gyms have kettlebells that have sorta rough, textured handles. The high-to-me weights are rough on the skin of my hands, even with smooth handles, and some kettlebell handles are too rough for me to feel comfortable with the swings. I could feel myself trying to accommodate it somehow and it was hurting, so I did a lot less reps. The skin at the base the fourth finger always gets pulled by the kettlebell, picks up callouses that have never torn but have sometimes felt close. Ideal kettelbell handles look like brushed metal, polished smooth. Don't forget the chalk.
+- I'm still getting lots out of the one-armed swings. I've now done both lower-weight higher rep one-arm swings, and higher-weight lower-rep schemes. It's all been [interesting]({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %}) to me, which is good enough. It continues to feel deeply supportive of strong climbing.
+- I'm sorta annoyingly _still_ telling lots of people about this strange magic that helps my back feel great, and everything else too. If you've read 1/3rd of this article, you've probably spent as long reading as the total kettlebell workout would take you. 
+
+My fingers and hands feel nice. I'm not surprised, as often-enough I've felt profoundly sore in the small muscles inside my hands themselves, and all over the upper body. Shoulders and 'shrugging' motions, feeling strong, and my back. 
+
+I am really curious for someone else to replicate this, doing lots of heavy two handed kettle bell swings, and eventually trying one-handed (heavy) kettlebell swings. I did one arm swings recently with 65 lbs, which is like 48% of my bodyweight. Heaviest I've done yet, and felt 'lighter' than the first time I tried 55 lb one-armed swings. My form and posture keeps getting better, and have I mentioned I feel a bit stronger?
+
 ## Related Reading
 
 - [Breath: The New Science of a Lost Art](https://www.goodreads.com/book/show/48890486-breath)
 - [Drop the load a little and increase the muscle activity. Your fingers will thank you for it (tyler nelson instagram)](https://www.instagram.com/c4hp/reel/DFsnMsWSbtY/?api=1&hl=zh-cn)
-
+- [Driven by Compression Progress]({{ site.baseurl  }}{% link _posts/2021-02-18-driven-by-compression-progress.md %}) 
 
 ## Footnotes
 
