@@ -19,12 +19,12 @@ permalink: daily-exercise-russian-kettlebells
 
 It makes most people either cringe or salivate.
 
-_note: 12 years after writing this post, [I wrote another big update about kettlebells]({{ site.baseurl  }}{% link _drafts/2025-02-27-kettlebell-swings-and-sprints.md %})_
+_note: 12 years after writing this post, [I wrote another big update about kettlebells]({{ site.baseurl  }}{% link _posts/2025-03-12-kettlebell-swings-and-sprints.md %})_
 
 Those of you who love exercising for the sake of exercising - you can stop reading now. This information is probably not relevant to you.
 
 Those of you who don't like to exercise, but know you really should exercise regularly - keep reading!
-
+  
 ----------------------
 
 In general, I don't like exercise for the sake of exercise.
