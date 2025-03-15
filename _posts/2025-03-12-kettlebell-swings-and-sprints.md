@@ -227,13 +227,21 @@ I'm so aware of how some of my skeleton and muscles function together often-enou
 
 I feel light on my feet when walking around. 
 
-I still do not like to train, io don't think it'll change. I am thrilled that with almost zero time I get so much. The sprinting is also 'walk barefoot in the grass in a park in the sun' which obviously we should all be so lucky as to get a little bit of that every day. It's nice for my 🧠.
+I still do not like to train, or 'work out', generally, and I don't think this will change for me. 
 
-usually I have earplugs in and can only hear my own breath, when I do the sprints. And kettlebells. I wear ear plugs most of the time I'm not at home, and even some of the time I am. 😬 Ear plug wearing while exercising seems to make it effortless for me to perceive my own breath. 
+I am thrilled that with almost zero time I get so much. The sprinting is also 'walk barefoot in the grass in a park in the sun' which obviously we should all be so lucky as to get a little bit of that every day. It's nice for my 🧠. 
 
-I feel light on the wall. 
+It's also peaceful in my own head, as I always have found various activities to be supportive of. (climbing, distance running)
+
+usually I have earplugs in and can only hear my own breath, I do both the sprints and the kettlebell swings. I wear ear plugs most of the time I'm not at home, and even some of the time I am. 😬 Ear plug wearing while exercising seems to make it effortless for me to perceive my own breath. Again, the book [breath](https://www.goodreads.com/book/show/48890486-breath) is worth mentioning. I care about air quality, running the air through my nose makes it gentler/cleaner on my lungs. Even if I'm exercicing for such a long time that I need to take breaths through my mouth, I'll be aware of when the aerobic demand exceeds what I can meet through my nose, I'll switch to mouth breathing only as much and as long as I must, and then as soon as possible back to nasal breathing. 
+
+Sidebar: After [i got my tongue tie fixed, and it rocked my world]({{ site.baseurl  }}{% link _posts/2024-05-12-tongue-tie.md%}), per the recommendation of my myofunctional therapist I got 'bodywork' from a Dr. Lopez, and it was such an experience. I did a bunch of reading of his stuff before the appointment, read a short pamphlet about using one's own thumb to apply a little pressure to the inside of one's nose for about ten seconds. It suggested that if one does it right, one would experience an increased capacity to fit air through the nose, making what feels to me like a big-enough difference in some leters-per-minute measure. So, usually when I do the sprints, if I find myself breathing hard through my nose, I'll do ten seconds of nostril stretching, on each nostril. I also now note some pictures or slow motion video of elite sprinters, some of them, at times, _moving quickly_ with a closed mouth and relaxed-looking face. Thought provoking, eh?
+
+Next, I feel light on the wall. 
 
 the one-arm swings + sprints helped me feel the intense usage of arms/shoulder girdle/the sides/front/back/bottom of the 'box' of my core. (Do not neglect the bottom of the box of the core! Kegles & pelvic floor strength is for everyone with a pelvis!)
+
+Has resulted in me feeling unexpectedly stronger. Been pretty fun.
 
 
 ## Updates on sprints after two more weeks
