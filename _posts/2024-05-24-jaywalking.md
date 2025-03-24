@@ -6,34 +6,40 @@ date:  2024-05-24 06:00:00 -0700
 crosspost_to_medium: false
 published: true
 categories: [cities]
-tags: [ethnic_cleansing, authority, ethnic_cleansing, people, groups]
+tags: [political_authority, ethnic_cleansing, people, groups]
 permalink: jaywalking
 issue_id: 68
 ---
 
 ## What Is "Jaywalking"
 
-_authors note: This feels very draft-y. There's two distinct perspectives I note in my mind, as I write this. Some people might "believe in jaywalking" and view non-car-users as an underclass, **and act in such a way that makes this belief manifestly obvious**. Other people maybe know something feels off about walking across streets, and might 'simply' be wondering why American streets 'feel so dangerous'. I feel friction in my mind as I hold both of those._
+_authors note: This feels very draft-y. There's two distinct perspectives I note in my mind, as I write this. Some people might "believe in jaywalking" and view non-car-users as an underclass, **and act in such a way that makes this belief manifestly obvious**. Other people maybe know something feels off about it 'being illegal' to walk across a street, and might 'simply' be wondering why American streets 'feel so dangerous'. I feel friction in my mind as I hold both of those._
 
-There's two components to jaywalking. 
+There's two definitions of jaywalking 
 
-First, a "legal definition" might be: 
+a "legal" definition might be: 
 
-> To 'jaywalk' is be to cross into or across a street, outside of a 'signalized intersection'[^scarequote], outside of an 'appropriate time', especially in a way that impedes the existing passage of a vehicle.
+> To 'jaywalk' is be to cross into or across a street, outside of a 'signalized intersection'[^scarequote], outside of an 'appropriate time', especially in a way that might 'impede' a passing vehicle.
 
-The second component:
+The truthful definition of jaywalking:
 
-> "Jaywalking" is a legal fiction invented by supremacists in america, who wanted to prevent cars from getting banned in cities in the 1920s as cars/car drivers were causing chaos and death. "the pedestrian should not have been jaywalking" has been used reliably to as a figleaf for road engineers (and others) allowing dangerously-designed roads to keep killing people. 
+> "Jaywalking" is a legal fiction invented by supremacists in america, who wanted to prevent cars from getting banned in cities in the 1920s as cars/car drivers were causing chaos and death. "the pedestrian should not have been jaywalking" has been used reliably to as a figleaf for road engineers (and others) allowing dangerously-designed roads and dangerous vehicle operators to keep killing people. 
 >
-> As a bonus, 'jaywalking' is super convenient for deputized slave patrols to hassle non-white people, who often-enough would cross roads, thus 'police encounters' could be coerced.
+> As a bonus, 'jaywalking' is super convenient for deputized slave patrols ('american police') [^deputized-slave-patrols] to hassle non-white people, who often-enough would cross roads, thus 'police encounters' could be coerced.
+
+[^deputized-slave-patrols]: Some people think I'm making a hostile statement when explaining that for many police departments in the greater united states, the 'origin story' was when the local municipalities fabricated metal stars, and 'deputized' the _existing_ slave patrols, and little-enough has changed since then. In the words of the National Law Enforcement Officer's Fund themselves: [Slave Patrols: An Early Form of American Policing](https://nleomf.org/slave-patrols-an-early-form-of-american-policing/). 
+
+    Compare the slave patroller's oath with NYC's stop-and-frisk policy: 
+
+    > I [patroller’s name], do swear, that I will as searcher for guns, swords, and other weapons among the slaves in my district, faithfully, and as privately as I can, discharge the trust reposed in me as the law directs, to the best of my power
 
 If you 'jaywalk' in the presence of a police officer, you might get got.[^unlikely]
 
-[^unlikely]: If you're white-passing, and perceivably not of the lowest economic class, you're vanishingly unlikely to ever hear from a 'law enforcement officer' a breath about 'jaywalking enforcement'.
+[^unlikely]: If you're white-passing, or perceivably not of the lowest economic class, you're less likely to ever hear from a 'law enforcement officer' a breath about 'jaywalking enforcement', and even less so to end up assaulted, kidnapped, or murdered. Still possible though! 
 
-If you 'jaywalk' in the presence of a car, you might be killed.
+If you 'jaywalk' in the presence of a car, you might be killed by the driver of that car. Who would be given a full pardon for killing you, because you were 'jaywalking'.
 
-Of course, in the vast majority of time and space, including today, 'jaywalking' is also called 'crossing(using) the street'. If you can get out of your mind the idea of jaywalking and can instead see streets in their historic function, the below diagram will ring intuitively true:
+Of course, in the vast majority of time and space, including today, 'jaywalking' is also called 'using the street on foot'. If you can get out of your mind the idea of jaywalking and can instead see streets in their historic function, the below diagram will ring intuitively true:
 
 ![crossing the street](images/crossing_street.jpeg)
 
@@ -46,6 +52,8 @@ It could be noted that lots of the individualized supremacist driving is a resul
 
 
 [^scarequote]: Apologies for the scare-quotes. It's my small noting the unwilling use of these words. This is how you might hear a traffic engineer talk about jaywalking, or a police officer, or how you yourself might think about it, because _the concept of jaywalking is a convenient-for-some social fiction that has perhaps been coerced upon many from a young age_, same as [geocentrism](https://en.wikipedia.org/wiki/Geocentric_model).
+
+## Tupac Shakur beaten unconcious by deputized slave patrols/police over 'jaywalking'
 
 If you're a person of the global majority, or perceivably poor, you're vastly more likely to have an encounter with violence-dealing, coercive people. 
 
@@ -66,6 +74,8 @@ Because American Police got their start as "deputizing the slave patrols"[^behin
 _from the This is Criminal podcast [Episode 267: Right of way](https://thisiscriminal.com/episode-267-right-of-way-5-3-2024/)_
 
 ## What Wikipedia Says 'Jaywalking' Is
+
+Another spin through the legal/actual definitions of jaywalking:
 
 Here's how Wikipedia explains the concept:
 
@@ -94,7 +104,7 @@ Maybe I'll do a follow-up post on how to recognize in the environment that a wal
 
 This is a hot take, perhaps. 
 
-'law and order' is the rallying cry of the oppressor class. There's a quote that went big, created during a streamed dnd campaign:
+'law and order' is the rallying cry of the oppressor class. There's a quote that went big, created during live recording while some folks were playing a game:
 
 > Laws are threats made by the dominant socioeconomic-ethnic group in a given nation. It's just the promise of violence that's enacted and the police are basically an occupying army. (source: dnd/dimension20, [reddit meme](https://www.reddit.com/r/Dimension20/comments/gnehku/laws_are_threats_made_by_the_dominant/))
 

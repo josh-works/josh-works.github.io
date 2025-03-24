@@ -13,7 +13,13 @@ image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 
 ## A Warning and a Request
 
-In a moment, you will read the full text of a 1922 marketing pamphlet. This document is an important thread to understanding some very large political problems facing the world today, specifically housing, affordability, the growing wealth gap, and more.
+In a moment, you will read the full text of a 1922 marketing pamphlet. This document is an important thread to understanding some very large political problems facing the world today, specifically <strike>housing, affordability, the growing wealth gap, and more</strike>. 
+
+_update from a few years after I first wrote this post_:
+
+_When i first wrote this, I downplayed what this document connects to. It was written by a supremacist, who wanted to maintain the supremacy he was clinging to, the violent oppression and exploitation of people deemed slaves._
+
+_this 1922 marketing pamphlet became "law" in the greater united states in 1926, in a supreme court case between the municipality of Euclid, ohio, and a real estate company. American-style zoning is known as 'euclidean' zoning, for this reason. That supreme court case obviously references this 1922 document. That style of zoning is presumed god in the USA today. The people who know enough about the space to know what 'euclidean zoning' is generally do not know that the person who invented it, in first penning the section about residence districts, wrote `r1-white` and `r2-colored` in it. Definitionally, american-style zoning expects all housing to be segregated by that european-american style of supremacy, hallucinations of the concept of 'race'. 'single-family housing' was the supremacist fantasy of whiteness, and multi-family housing was where they poured their rejected shadow-side. It was all, of course, heavily wrapped with layers of coercive control. Womp womp. the concept of political authority is, definitionally, credible threats of violence from one group against another. yaaaaaaay!_
 
 This document tells a story. This story is about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
 
