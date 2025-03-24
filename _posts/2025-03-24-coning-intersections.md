@@ -3,7 +3,7 @@ layout: post
 title: "Cones, Coning, and Fixing Junctions, And How And Why"
 published: true
 description: "a report on creating interestingness and improvement via orange traffic cones"
-date:  2025-02-27 06:00:00 -0700
+date:  2025-03-24 06:00:00 -0700
 categories: [mobility_network]
 tags: [cars, traffic, road_networks]
 permalink: /on-coning
