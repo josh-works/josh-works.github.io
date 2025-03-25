@@ -22,29 +22,14 @@ Here's a new word, I am introducing to the lexicon:
 
 > to place traffic cones at specific points in a road or junction to shape how people travel through the intersection. Simplifies and smooths complexity, increases safety for everyone. Dramatically reduces the four types of vehicle emissions: engine exhaust, brake dust, tire rubber microplastics, and noise.
 
-Any vehicle that is accelerating from a stop to, say, 15 miles per hour, is generating all of those emissions except brake dust, and when that vehicle has to stop again, it'll generate the brake dust as well.
 
-The noise of a vehicle is not just it's engine - lots of noise comes from the rolling of tires over a surface, and the sound of displaced air is quite loud. Brakes also often-enough generate noise. [^noise]
-
-Another unique form of engine noise pollution is that based on how the driver uses the engine, the driver can signal to everyone something about the driver's internal emotional state. _I resent this_.
-
-Compare accelerating and stopping behavior to travelling smoothly through a 50 meter section of road, without using the brake or gas pedal. The engine would be operating at an idle, instead of under accelleration. no brake dust, and the tire rubber microplastic generation would be at a much lower level than those same microplastics would be generated if the car was being stopped by the brakes or accellerated by the engine. 
-
-> This seems audacious/unreasonable, josh, because...
-
-Consider a junction in Poynton, UK. 
-
-Here's a link to the 8 minute mark of a youtube video about this ['shared space' road junction](https://youtu.be/-vzDDMzq7d0?si=cgjINhEinykfajPD&t=483).
-
-I wrote a bit more about Poynton on substack: [Interlude: A Pattern of Repair](https://zoningverydifferentthanours.substack.com/p/interlude-a-pattern-of-repair-episode), and then again, applying the concept to an intersection that I (unfortunately) must interact with regularly: [A Pattern of Repair: The 'traffic bean'](https://zoningverydifferentthanours.substack.com/p/a-pattern-of-repair-the-traffic-bean)
-
-'coning' an intersection would be less intensive a treatment than a traffic bean, yet both obviously move with the same sorts of energies.
+I wrote recently about this [seperate-but-related-ish 'traffic bean' concept](https://zoningverydifferentthanours.substack.com/p/a-pattern-of-repair-the-traffic-bean). Consider the following information about coning to be coherent with, perhaps would be used in conjunction with, the traffic bean idea.
 
 A few times I've had the priviledge of stumbling into an idea, act, or articulation that, while firmly rooted in banal phenomena in one domain, feels quite novel when applied to a new domain. This thing I'm discussing in this post is one of those novel things.
 
-'coning' a road, street, or junction is one of those banal-and-novel acts. 
+'coning' a road, street, or junction.
 
-I'll explain below, and I hope you might try something similar some day for yourself.
+I'll explain below, and I hope you might try something similar some day for yourself, the next time you see a junction that isn't as safe as you'd like, and there's a pile of otherwise unused traffic cones nearby.
 
 ## Examples of my own coning adventures
 
@@ -53,7 +38,9 @@ Here's one of the very first traffic cones I set out, in my whole life, with the
 ### 1. South Denver, a pedestrian crossing of a residential road
 
 
-One rainy day, I observed from my bedroom these traffic cones floating down the street. The video tells the rest of the story:
+One rainy day, I observed from my bedroom these traffic cones floating down the street. The rain _literally_ delivered them to almost exactly where I ended up placing them. I'd not had this idea, but I'd been chafing at the problem for a time.
+
+this video tells the rest of the story:
 
 [https://www.tiktok.com/@josh_exists/video/7240202349451595054](https://www.tiktok.com/@josh_exists/video/7240202349451595054)
 
@@ -61,11 +48,11 @@ I started with what most traffic planners in America would start with: Bulb-outs
 
 As you can see in the end of the video, nothing really seemed to change. I ended up with a small change in placement (instead of bulb-outs, I placed the cones where the lane divider would be), and a HUGE change in behavior:
 
-[https://www.tiktok.com/@josh_exists/video/7240611295966268718](https://www.tiktok.com/@josh_exists/video/7240611295966268718)
+here's the first of many videos showing the the CONES IN THE MIDDLE OF THE ROAD! 
+
+👉 [https://www.tiktok.com/@josh_exists/video/7240611295966268718](https://www.tiktok.com/@josh_exists/video/7240611295966268718)
 
 please notice in all these timelapses that people are walking down the street, the length of it. See how they scurry out of the road when a car is present, and how confidently they walk when there is no car.
-
-Anyway, ^^ that video above was my first foray into this coning thing. 
 
 Here's a reminder of what the street looks like without any cones: [https://www.tiktok.com/@josh_exists/video/7250134620694482218](https://www.tiktok.com/@josh_exists/video/7250134620694482218)
 
@@ -73,7 +60,7 @@ As I say in that video, the mom who walked by was wise to warn her kid about the
 
 [^streets-free-of-cars]: some people might say 'well the danger from cars is a fact of life' and I'd retort that just as cars have streets that connect them to places, a sane mobility network would have a similar level of 'street ennervation' via _car free_ streets, as well. If even one out of five of every north/south and east/west streets was shut down to cars passing through via modal filters, and slight [traffic bean](https://zoningverydifferentthanours.substack.com/p/a-pattern-of-repair-the-traffic-bean) type treatment at the junctions where cars pass, the network would be transformed. It's not 'complete streets' it's 'connected car-free streets'. Linear park type vibes would be the obvious upgrade to car-free streets.
 
-The following 
+here's another view of the cones, from the POV of cars, looking down the street:
 
 [https://www.tiktok.com/@josh_exists/video/7250134620694482218](https://www.tiktok.com/@josh_exists/video/7250134620694482218)
 
@@ -85,7 +72,9 @@ another view of the same treatment:
 
 These cones remained in place _for weeks_. No one moved them for such a long time. 
 
-Now, the above videos all highlighted the placement of the cones. Here's a different view, I think the drone perspective is very interesting. From most points of view, the cones are almost invisible. what an elegant intervention:
+Now, the above videos all highlighted the placement of the cones. Here's views from a drone, in which the cones are _nearly invisible_.
+
+I think the drone perspective is very interesting. From most points of view, the cones are almost invisible. I wish cars could be rendered so invisible. I resent how much of the visual landscape is filled with cars and asphalt for cars, in the world today. 
 
 [https://www.tiktok.com/@josh_exists/video/7240668293420322091](https://www.tiktok.com/@josh_exists/video/7240668293420322091)
 
